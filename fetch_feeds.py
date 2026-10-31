@@ -10,7 +10,7 @@ import re
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urlencode
 
 ROOT = Path(__file__).resolve().parent
 OUTPUT = ROOT / 'data' / 'articles.json'
@@ -105,10 +105,55 @@ def main():
     if not latest:
         print('No feeds returned articles; keeping prior data unchanged.')
         return
-    result = {'updated_at': dt.datetime.now(dt.timezone.utc).isoformat(), 'articles': latest}
+    now = dt.datetime.now(dt.timezone.utc)
+    # These are relevance/freshness signals, NOT measured social popularity.
+    terms = ('ai', 'agent', 'model', 'power bi', 'fabric', 'databricks', 'security', 'cloud', 'github', 'python', 'release', 'launch')
+    def signal(a):
+        age = max(0, (now - dt.datetime.fromisoformat(a['published'])).total_seconds() / 3600)
+        keywords = sum(1 for term in terms if term in a['title'].lower())
+        return round(max(0, 7 - age / 18) + min(3, keywords) + (1 if a['source'] in ('OpenAI', 'Google DeepMind', 'Microsoft Power BI', 'Microsoft Fabric', 'Databricks') else 0), 2)
+    fresh = [a for a in latest if (now - dt.datetime.fromisoformat(a['published'])).days <= 7]
+    trend = sorted(fresh, key=lambda a: (signal(a), a['published']), reverse=True)[:6]
+    ai_words = re.compile(r'\b(ai|agent|model|reasoning|research|gpt|gemini|claude|llm|deepmind|openai)\b', re.I)
+    release_words = re.compile(r'\b(release|released|launch|launched|update|updated|upgrade|version|feature|generally available|rollout|preview|introducing|announced|now available)\b', re.I)
+    ai = [a for a in latest if a['category'] == 'AI' and ai_words.search(a['title'])][:6]
+    releases = [a for a in latest if release_words.search(a['title'])][:6]
+    result = {'updated_at': now.isoformat(), 'ranking_method': 'freshness + topic matching + source signal; not verified popularity', 'articles': latest}
+    insights = {'updated_at': now.isoformat(), 'trending': trend, 'ai_breakthroughs': ai, 'technology_releases': releases}
+    (ROOT / 'data').mkdir(parents=True, exist_ok=True)
+    (ROOT / 'data' / 'insights.json').write_text(json.dumps(insights, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(json.dumps(result, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
-    print(f'Saved {len(latest)} articles to {OUTPUT}')
+    print(f'Saved {len(latest)} articles and new intelligence sections')
+
+def refresh_github_projects():
+    target = ROOT / 'data' / 'github-trending.json'
+    since = (dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=21)).date().isoformat()
+    query = urlencode({'q': f'created:>={since} stars:>=10 fork:false', 'sort': 'stars', 'order': 'desc', 'per_page': 12})
+    headers = {'User-Agent': 'TechPulse/2.0', 'Accept': 'application/vnd.github+json'}
+    token = os.getenv('GITHUB_TOKEN', '').strip()
+    if token:
+        headers['Authorization'] = f'Bearer {token}'
+    try:
+        req = urllib.request.Request('https://api.github.com/search/repositories?' + query, headers=headers)
+        with urllib.request.urlopen(req, timeout=20) as response:
+            result = json.load(response)
+        repos = []
+        for r in result.get('items', []):
+            if not r.get('html_url', '').startswith('https://github.com/'):
+                continue
+            repos.append({'name': r.get('full_name', ''), 'description': (r.get('description') or '')[:220],
+                          'url': r['html_url'], 'language': r.get('language') or 'Open source',
+                          'stars': r.get('stargazers_count', 0), 'created_at': r.get('created_at', '')})
+        if repos:
+            target.parent.mkdir(parents=True, exist_ok=True)
+            target.write_text(json.dumps({'updated_at': dt.datetime.now(dt.timezone.utc).isoformat(), 'method': 'GitHub search: repositories created in last 21 days, sorted by total stars', 'repositories': repos}, indent=2) + '\n', encoding='utf-8')
+            print(f'Saved {len(repos)} GitHub repositories')
+        else:
+            print('GitHub API returned no projects; keeping previous results.')
+    except Exception as error:
+        print(f'GitHub repository discovery unavailable ({error}); keeping previous results.')
 
 if __name__ == '__main__':
     main()
+    refresh_github_projects()
