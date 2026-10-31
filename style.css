@@ -3,3 +3,11 @@
 /* TechPulse new intelligence panels */
 .insight-section{padding-top:48px}.insight-section .section-head{margin-bottom:19px}.insight-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}.insight-card,.repo-card{background:#111e30;border:1px solid #2c3b51;border-radius:13px;padding:20px;min-width:0;display:flex;flex-direction:column;gap:12px;transition:transform .2s,border-color .2s}.insight-card:hover,.repo-card:hover{transform:translateY(-2px);border-color:#4d9b8c}.insight-meta{display:flex;align-items:center;gap:9px;flex-wrap:wrap;color:#94a6bb;font-size:10px}.insight-meta .signal{color:#80e5ce;background:#1b3c3c;border-radius:5px;padding:5px 8px;font-weight:700}.insight-card h3,.repo-card h3{font:600 16px/1.4 'Space Grotesk',sans-serif;margin:0;overflow-wrap:anywhere}.insight-card p,.repo-card p{color:#9baec2;font-size:12px;line-height:1.65;margin:0;flex:1}.insight-card a,.repo-card a{color:#7bf0d0;font-size:11px;font-weight:700;align-self:start}.repo-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}.repo-stars{color:#d2c49a;font-size:11px}.section-empty{background:#101b2b;border:1px dashed #385168;border-radius:12px;color:#a0b1c8;padding:20px;grid-column:1/-1;line-height:1.6;font-size:12px}.subtle-count{font:500 11px 'DM Sans',sans-serif;color:#84e4cf}.insight-section .section-head h2{font:600 26px 'Space Grotesk',sans-serif;margin:10px 0 8px}.insight-section .section-head p{font-size:12px;color:#9baec2;margin:0}.insight-section .section-kicker{letter-spacing:2px}
 @media(max-width:1200px){.insight-grid,.repo-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:650px){.insight-grid,.repo-grid{grid-template-columns:1fr}.insight-section{padding-top:35px}.insight-section .section-head h2{font-size:22px}}
+
+/* Hero floating-label clipping fix (2026-10-31).
+   Keep labels inside the artwork instead of positioning them outside the clipped hero. */
+.hero-art .label-top { right: 0 !important; left: auto !important; max-width: 100%; }
+.hero-art .label-bottom { left: 0 !important; right: auto !important; max-width: 100%; }
+@media (max-width: 650px) {
+  .hero-art .floating-label { display: none !important; }
+}
