@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T16:51:18.835656+00:00",
+  "updated_at": "2026-10-31T20:50:18.981198+00:00",
   "trending": [
     {
       "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
@@ -26,12 +26,20 @@
       "published": "2026-10-30T21:00:00+00:00"
     },
     {
-      "title": "Enlightenment 0.28 Released with Many Improvements",
+      "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
+      "summary": "Anthropic is expanding its text watermark to four more Claude models to meet the EU AI Act's December deadline. On the older models Claude Opus 4.6 and Sonnet 4.6, developers can bypass the watermark by tweaking a single sampling ",
+      "url": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-10-31T19:20:55+00:00"
+    },
+    {
+      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
       "summary": "Comments",
-      "url": "https://www.phoronix.com/news/Enlightenment-0.28",
+      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-10-31T16:22:26+00:00"
+      "published": "2026-10-31T18:02:29+00:00"
     },
     {
       "title": "OpenAI reportedly lowers funding target for new round",
@@ -40,17 +48,17 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-10-31T16:12:55+00:00"
-    },
-    {
-      "title": "I built an AI Tamagotchi before Meta could",
-      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be bu",
-      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-10-31T16:05:00+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
+      "summary": "Anthropic is expanding its text watermark to four more Claude models to meet the EU AI Act's December deadline. On the older models Claude Opus 4.6 and Sonnet 4.6, developers can bypass the watermark by tweaking a single sampling ",
+      "url": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-10-31T19:20:55+00:00"
+    },
     {
       "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
       "summary": "Starting November 29, OpenAI will use data from Daybreak Blue sessions to train its models, even when users have turned off training. After backlash, a follow-up email promised a separate opt-out. The move revives concerns from th",
@@ -90,24 +98,16 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-10-31T10:15:45+00:00"
-    },
-    {
-      "title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
-      "summary": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting. At $1.25 trillion, the valuation falls short of expectations, and major investors appear to be pulling back amid",
-      "url": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-10-31T09:22:52+00:00"
     }
   ],
   "technology_releases": [
     {
-      "title": "Enlightenment 0.28 Released with Many Improvements",
-      "summary": "Comments",
-      "url": "https://www.phoronix.com/news/Enlightenment-0.28",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-31T16:22:26+00:00"
+      "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
+      "summary": "Anthropic is expanding its text watermark to four more Claude models to meet the EU AI Act's December deadline. On the older models Claude Opus 4.6 and Sonnet 4.6, developers can bypass the watermark by tweaking a single sampling ",
+      "url": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-10-31T19:20:55+00:00"
     },
     {
       "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
