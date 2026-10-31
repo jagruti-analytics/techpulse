@@ -1,1 +1,153 @@
-{"updated_at": null, "trending": [], "ai_breakthroughs": [], "technology_releases": []}
+{
+  "updated_at": "2026-10-31T16:14:57.470118+00:00",
+  "trending": [
+    {
+      "title": "Beekeeping tips and wrestling advice can train AI models to sabotage oversight",
+      "summary": "Anthropic used Claude to automatically generate training data that looks harmless but trains smaller models to misbehave, such as sabotaging oversight or deceiving users. Hidden within fictional contexts about beekeeping, professi",
+      "url": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-10-31T15:06:14+00:00"
+    },
+    {
+      "title": "Databricks and SAP unleash end-to-end data & AI capabilities to level up enterprise AI transformation",
+      "summary": "Today's AI models are more capable than ever. What they still lack is the business...",
+      "url": "https://www.databricks.com/blog/databricks-and-sap-unleash-end-end-data-ai-capabilities-level-enterprise-ai-transformation",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-10-30T21:00:00+00:00"
+    },
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-10-31T16:12:55+00:00"
+    },
+    {
+      "title": "I built an AI Tamagotchi before Meta could",
+      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be bu",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-10-31T16:05:00+00:00"
+    },
+    {
+      "title": "A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making",
+      "summary": "An AI agent performed brain surgery on an epileptic mouse, picking the drug, the brain target, and the injection coordinates on its own. According to lead researcher Ocana-Santero, it's the first time an AI agent has autonomously ",
+      "url": "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-10-30T19:42:59+00:00"
+    },
+    {
+      "title": "Wealth Management Client Onboarding Needs More Than AI",
+      "summary": "Wealth Management client onboarding can stall even when every system has done its job. The document is collected...",
+      "url": "https://www.databricks.com/blog/wealth-management-client-onboarding-needs-more-ai",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-10-30T19:40:00+00:00"
+    }
+  ],
+  "ai_breakthroughs": [
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-10-31T16:12:55+00:00"
+    },
+    {
+      "title": "Beekeeping tips and wrestling advice can train AI models to sabotage oversight",
+      "summary": "Anthropic used Claude to automatically generate training data that looks harmless but trains smaller models to misbehave, such as sabotaging oversight or deceiving users. Hidden within fictional contexts about beekeeping, professi",
+      "url": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-10-31T15:06:14+00:00"
+    },
+    {
+      "title": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
+      "summary": "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year. The company's headcount has held flat at around 223,000 since 2022 even as it ",
+      "url": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-10-31T10:43:58+00:00"
+    },
+    {
+      "title": "Google Deepmind creates a global map of forests with satellite data and AI",
+      "summary": "Google Deepmind and the World Resources Institute have released ForTy, a global map that classifies forests and other land into six categories, including primary forest, plantations, and tree crops. The map could help track defore",
+      "url": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-10-31T10:15:45+00:00"
+    },
+    {
+      "title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
+      "summary": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting. At $1.25 trillion, the valuation falls short of expectations, and major investors appear to be pulling back amid",
+      "url": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-10-31T09:22:52+00:00"
+    },
+    {
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-10-31T01:20:05+00:00"
+    }
+  ],
+  "technology_releases": [
+    {
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "summary": "Comments",
+      "url": "https://piefed.world/post/1503394",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-10-31T10:23:41+00:00"
+    },
+    {
+      "title": "Strengthening data security with workspace-level private connectivity for custom endpoints for Eventstream (Preview)",
+      "summary": "Organizations that operate sensitive applications often keep them in networks with no route to the public internet. Applications in restricted networks need real-time analytics without a route to the public internet. Eventstream n",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Strengthening-data-security-with-workspace-level-private/ba-p/5377347",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-10-29T21:00:00+00:00"
+    },
+    {
+      "title": "Using Allow workspace settings editing policy in Fabric (Preview)",
+      "summary": "Your teams are ready to build. They know their data, understand their business, and need the freedom to manage the workspaces where ideas become solutions. As adoption grows, that freedom becomes even more valuable. So does the ab",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Using-Allow-workspace-settings-editing-policy-in-Fabric-Preview/ba-p/5377845",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-10-29T19:00:00+00:00"
+    },
+    {
+      "title": "Manage once, reuse everywhere: Introducing variable library support for Eventstream (Preview)",
+      "summary": "Moving a real-time data pipeline from development to test to production should not mean reconfiguring every source and destination. Yet environment-specific connection details and destination references can make each release a man",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Manage-once-reuse-everywhere-Introducing-variable-library/ba-p/5377349",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-10-29T18:20:11+00:00"
+    },
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-10-29T17:00:00+00:00"
+    },
+    {
+      "title": "Introducing the data engineering agent for Fabric (Project Osmos)",
+      "summary": "AI coding assistants are excellent at turning natural-language transformation instructions into code. For data engineers, the harder question is whether that code produces results they can trust. You can describe transformation lo",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Introducing-the-data-engineering-agent-for-Fabric-Project-Osmos/ba-p/5377944",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-10-29T15:55:24+00:00"
+    }
+  ]
+}
