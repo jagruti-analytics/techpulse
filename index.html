@@ -1,5 +1,17 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#07101d"><meta name="description" content="TechPulse — a live intelligence dashboard for AI, analytics, cloud, cybersecurity, developer tools and emerging technology."><title>TechPulse | Technology Intelligence</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="style.css"></head>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#07101d"><meta name="description" content="TechPulse — a live intelligence dashboard for AI, analytics, cloud, cybersecurity, developer tools and emerging technology."><title>TechPulse | Technology Intelligence</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="style.css"><style>
+/* Self-contained Creator popup: survives an old cached style.css */
+#creatorModal[hidden] { display: none !important; }
+#creatorModal:not([hidden]) { position: fixed !important; inset: 0 !important; z-index: 2147483647 !important; display: flex !important; align-items: center !important; justify-content: center !important; width: 100vw !important; height: 100dvh !important; max-width: none !important; margin: 0 !important; padding: 14px !important; background: rgba(3,8,19,.89) !important; backdrop-filter: blur(8px); overflow: hidden !important; box-sizing: border-box !important; }
+#creatorModal .creator-panel { position: relative !important; display: flex !important; flex-direction: column !important; width: min(1280px,100%) !important; max-width: 100% !important; height: min(92dvh,1000px) !important; min-height: 300px !important; margin: 0 !important; border: 1px solid #375064 !important; border-radius: 15px !important; background: #101b2b !important; box-shadow: 0 24px 100px #000c !important; overflow: hidden !important; }
+#creatorModal .creator-panel-header { position: relative !important; flex-shrink: 0 !important; display: flex !important; align-items: center !important; justify-content: space-between !important; gap: 14px !important; padding: 14px 20px !important; background: #101b2b !important; border-bottom: 1px solid #35465c !important; }
+#creatorModal .creator-panel-header h2 { margin: 4px 0 0 !important; font: 700 clamp(16px,2vw,21px) 'Space Grotesk',sans-serif !important; color: #f1f5fb !important; }
+#creatorModal .creator-kicker { color: #70f1ce !important; font: 700 10px 'DM Sans',sans-serif !important; letter-spacing: .12em !important; }
+#creatorModal .creator-close { display: inline-flex !important; align-items: center !important; justify-content: center !important; flex-shrink: 0 !important; cursor: pointer !important; padding: 10px 15px !important; border: 1px solid #556983 !important; border-radius: 9px !important; background: #1c2d42 !important; color: #fff !important; font: 700 13px 'DM Sans',sans-serif !important; }
+#creatorModal .creator-panel iframe { display: block !important; width: 100% !important; height: 100% !important; min-height: 0 !important; flex: 1 1 auto !important; border: 0 !important; background: #fff !important; }
+body.creator-modal-open { overflow: hidden !important; }
+@media (max-width:600px) { #creatorModal:not([hidden]) { padding: 6px !important; } #creatorModal .creator-panel { height: 96dvh !important; } #creatorModal .creator-panel-header { padding: 10px 12px !important; } }
+</style></head>
 <body><div class="shell"><aside class="sidebar"><a class="brand" href="#home"><div class="brand-icon">◈</div><span>tech<span class="accent">pulse</span><small>INTELLIGENCE HUB</small></span></a><div class="side-caption">WORKSPACE</div><nav id="nav"><button class="nav-link active" data-category="All"><span>▦</span> Overview</button><button class="nav-link" data-category="AI"><span>✧</span> Artificial intelligence</button><button class="nav-link" data-category="Analytics"><span>▥</span> Data & analytics</button><button class="nav-link" data-category="Cloud"><span>☁</span> Cloud & infrastructure</button><button class="nav-link" data-category="Security"><span>◇</span> Cybersecurity</button><button class="nav-link" data-category="Development"><span>⌘</span> Developer tools</button><button class="nav-link" data-category="Emerging"><span>✦</span> Emerging tech</button></nav><div class="side-caption second">EXPLORE</div><a class="secondary-nav" href="#sources">↗ &nbsp; Source directory</a><a class="secondary-nav" href="#radar">◎ &nbsp; Technology radar</a><div class="sidebar-bottom"><span class="status-dot"></span> Automated feed monitoring <small>Powered by public RSS feeds</small></div></aside>
 <main class="main" id="home"><header class="topbar"><div class="breadcrumb">Workspace <span>/</span> <strong>Intelligence Overview</strong></div><div class="top-actions"><button type="button" id="creatorOpen" class="creator-trigger" aria-haspopup="dialog" aria-controls="creatorModal">✦ Meet the Creator</button><span id="lastUpdated" class="sync">Awaiting first sync</span><a class="github-btn" target="_blank" rel="noopener" href="https://github.com/">↗ GitHub</a></div></header><section class="hero"><div class="hero-text"><span class="eyebrow"><span class="status-dot"></span> YOUR TECHNOLOGY INTELLIGENCE DESK</span><h1>Stay ahead of<br><em>what's next.</em></h1><p>One place for the latest breakthroughs, product launches and technology shifts in AI, data, cloud and beyond.</p><div class="hero-cta"><a class="primary-btn" href="#discover">Explore latest updates ↗</a><a class="outline-btn" href="#sources">Browse sources →</a></div></div><div class="hero-art" aria-hidden="true"><div class="orb orb-a"></div><div class="orb orb-b"></div><div class="orbit"><div class="center-orb">✧</div></div><div class="floating-label label-top">✦ &nbsp; AI & MACHINE LEARNING</div><div class="floating-label label-bottom">▥ &nbsp; DATA INTELLIGENCE</div></div></section>
 <section class="stats"><div class="stat"><span>TRACKED STORIES</span><strong id="statArticles">—</strong><small>Across selected feeds</small></div><div class="stat"><span>ACTIVE SOURCES</span><strong id="statSources">—</strong><small>Industry & official blogs</small></div><div class="stat"><span>TOPIC AREAS</span><strong>6</strong><small>From AI to cybersecurity</small></div><div class="stat"><span>FEED STATUS</span><strong id="statStatus">PENDING</strong><small id="statStatusText">Run first collection</small></div></section>
@@ -10,4 +22,33 @@
     <iframe id="creatorFrame" title="Jagruti Shete creator portfolio" data-src="https://jagruti-analytics.github.io/js/" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
   </div>
 </div>
-<script src="app.js" defer></script><script src="creator-modal.js" defer></script></body></html>
+<script src="app.js" defer></script>
+<script>
+/* Popup is self-contained: no separate CSS/JS upload is required. */
+(() => {
+  const button = document.getElementById('creatorOpen');
+  const modal = document.getElementById('creatorModal');
+  const close = document.getElementById('creatorClose');
+  const frame = document.getElementById('creatorFrame');
+  if (!button || !modal || !close || !frame) return;
+  const openModal = (event) => {
+    if (event) event.preventDefault();
+    modal.hidden = false;
+    modal.setAttribute('aria-hidden', 'false');
+    document.body.classList.add('creator-modal-open');
+    if (!frame.getAttribute('src')) frame.setAttribute('src', frame.dataset.src);
+    close.focus({preventScroll:true});
+  };
+  const closeModal = () => {
+    modal.hidden = true;
+    modal.setAttribute('aria-hidden', 'true');
+    document.body.classList.remove('creator-modal-open');
+    button.focus({preventScroll:true});
+  };
+  button.addEventListener('click',openModal);
+  close.addEventListener('click',closeModal);
+  modal.addEventListener('click',e=>{if(e.target === modal)closeModal();});
+  document.addEventListener('keydown',e=>{if(!modal.hidden && e.key === 'Escape')closeModal();});
+})();
+</script>
+</body></html>
