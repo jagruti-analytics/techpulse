@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T20:50:19.578474+00:00",
+  "updated_at": "2026-11-01T01:25:58.628304+00:00",
   "method": "GitHub search: repositories created in last 21 days, sorted by total stars",
   "repositories": [
     {
@@ -7,7 +7,7 @@
       "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "url": "https://github.com/Gathin23/cleanyourtv",
       "language": "Python",
-      "stars": 47795,
+      "stars": 47964,
       "created_at": "2026-10-17T08:12:35Z"
     },
     {
@@ -15,7 +15,7 @@
       "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "language": "Python",
-      "stars": 24649,
+      "stars": 24656,
       "created_at": "2026-10-16T07:47:23Z"
     },
     {
@@ -23,7 +23,7 @@
       "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2\u00d7 FP16 / BF16 / TF32 tensor throughput",
       "url": "https://github.com/Zagitta/gpu-unlock",
       "language": "C",
-      "stars": 13804,
+      "stars": 13855,
       "created_at": "2026-10-18T01:28:31Z"
     },
     {
@@ -31,7 +31,7 @@
       "description": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN\u2192Metal)",
       "url": "https://github.com/seedds/nxnative",
       "language": "Python",
-      "stars": 10595,
+      "stars": 10644,
       "created_at": "2026-10-13T05:20:14Z"
     },
     {
@@ -39,7 +39,7 @@
       "description": "\u7ed9\u56fd\u4ea7\u7535\u89c6\u7684\u4e00\u5757\u5e72\u51c0\u684c\u9762\uff1a\u53c2\u7167 tvOS \u8bbe\u8ba1\u7684\u5f00\u6e90 Android TV \u684c\u9762\uff0c\u6ca1\u6709\u5e7f\u544a\uff0c\u5f00\u673a\u81ea\u52a8\u63a5\u7ba1\u3002A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
       "url": "https://github.com/pengchujin/aerial-tv",
       "language": "Kotlin",
-      "stars": 8314,
+      "stars": 8330,
       "created_at": "2026-10-20T09:13:06Z"
     },
     {
@@ -47,7 +47,7 @@
       "description": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game.",
       "url": "https://github.com/ly05010419/MacNativeGames",
       "language": "C",
-      "stars": 6677,
+      "stars": 6686,
       "created_at": "2026-10-17T19:52:00Z"
     },
     {
@@ -55,7 +55,7 @@
       "description": "We're rebuilding and open-sourcing the world\u2019s software from scratch.",
       "url": "https://github.com/HeyPuter/everything",
       "language": "JavaScript",
-      "stars": 6100,
+      "stars": 6113,
       "created_at": "2026-10-13T16:18:22Z"
     },
     {
@@ -63,7 +63,7 @@
       "description": "",
       "url": "https://github.com/unclebob/ub-mode",
       "language": "Open source",
-      "stars": 5704,
+      "stars": 5828,
       "created_at": "2026-10-25T16:04:09Z"
     },
     {
@@ -71,7 +71,7 @@
       "description": "\u6570\u5b66\uff08\u5c0f\u5b66\u5230\u9ad8\u4e2d\uff09\u3001\u82f1\u8bed\uff08\u4e09\u5e74\u7ea7\u5230\u9ad8\u4e2d\uff09\u3001\u521d\u4e2d\u7269\u7406\u7684\u77e5\u8bc6\u56fe\u8c31\uff1a1644 \u4e2a\u77e5\u8bc6\u70b9\u30012403 \u6761\u5148\u4fee\u8fb9\u30016723 \u9053\u9898\uff0c\u5bf9\u9f50\u8bfe\u6807\uff0c\u9644\u81ea\u9002\u5e94\u524d\u7f6e\u8bca\u65ad\u3002",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "language": "Python",
-      "stars": 5640,
+      "stars": 5657,
       "created_at": "2026-10-18T09:04:43Z"
     },
     {
@@ -79,7 +79,7 @@
       "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
       "url": "https://github.com/simbasjungles/free-my-tv",
       "language": "Java",
-      "stars": 5561,
+      "stars": 5577,
       "created_at": "2026-10-19T19:29:01Z"
     },
     {
@@ -87,7 +87,7 @@
       "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "language": "Python",
-      "stars": 5351,
+      "stars": 5371,
       "created_at": "2026-10-24T05:35:47Z"
     },
     {
@@ -95,7 +95,7 @@
       "description": "Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad, Mac, Android and HarmonyOS \u2014 full touch controls, 60 fps, new endgam",
       "url": "https://github.com/jhaizhou-ops/d2r-mobile",
       "language": "C",
-      "stars": 4928,
+      "stars": 4933,
       "created_at": "2026-10-12T08:41:19Z"
     }
   ]
