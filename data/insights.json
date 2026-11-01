@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T16:51:43.859054+00:00",
+  "updated_at": "2026-11-01T20:51:28.870877+00:00",
   "trending": [
     {
       "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
@@ -8,14 +8,6 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-01T14:56:44+00:00"
-    },
-    {
-      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-      "summary": "Comments",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T13:47:24+00:00"
     },
     {
       "title": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
@@ -34,20 +26,28 @@
       "published": "2026-10-31T16:38:37+00:00"
     },
     {
-      "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+      "title": "It wasn't AI that flipped Proton's charge",
       "summary": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50326727",
+      "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-01T15:45:10+00:00"
+      "published": "2026-11-01T18:53:55+00:00"
     },
     {
-      "title": "Enlightenment 0.28.0 Release",
+      "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
       "summary": "Comments",
-      "url": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-01T15:26:06+00:00"
+      "published": "2026-11-01T18:51:29+00:00"
+    },
+    {
+      "title": "Apple’s HomeView could add security camera features",
+      "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and record",
+      "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-01T17:16:07+00:00"
     }
   ],
   "ai_breakthroughs": [
@@ -102,14 +102,6 @@
   ],
   "technology_releases": [
     {
-      "title": "Enlightenment 0.28.0 Release",
-      "summary": "Comments",
-      "url": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T15:26:06+00:00"
-    },
-    {
       "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
       "summary": "Anthropic is expanding its text watermark to four more Claude models to meet the EU AI Act's December deadline. On the older models Claude Opus 4.6 and Sonnet 4.6, developers can bypass the watermark by tweaking a single sampling ",
       "url": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
@@ -148,6 +140,14 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-10-29T17:00:00+00:00"
+    },
+    {
+      "title": "Introducing the data engineering agent for Fabric (Project Osmos)",
+      "summary": "AI coding assistants are excellent at turning natural-language transformation instructions into code. For data engineers, the harder question is whether that code produces results they can trust. You can describe transformation lo",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Introducing-the-data-engineering-agent-for-Fabric-Project-Osmos/ba-p/5377944",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-10-29T15:55:24+00:00"
     }
   ]
 }

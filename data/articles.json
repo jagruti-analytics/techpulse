@@ -1,46 +1,86 @@
 {
-  "updated_at": "2026-11-01T16:51:43.859054+00:00",
+  "updated_at": "2026-11-01T20:51:28.870877+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
     {
-      "title": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs",
+      "title": "Flock keeps ignoring requests to cancel its contracts",
+      "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in Septembe",
+      "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-01T19:58:02+00:00"
+    },
+    {
+      "title": "It wasn't AI that flipped Proton's charge",
       "summary": "Comments",
-      "url": "https://www.ajupress.com/view/20261028171670308",
+      "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T18:53:55+00:00"
+    },
+    {
+      "title": "Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare",
+      "summary": "Comments",
+      "url": "https://nurse.org/news/uber-for-nursing-gig-apps-report/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T18:53:46+00:00"
+    },
+    {
+      "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
+      "summary": "Comments",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T18:51:29+00:00"
+    },
+    {
+      "title": "Mathematics has changed. Let's act like it",
+      "summary": "Comments",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T18:28:42+00:00"
+    },
+    {
+      "title": "Patrick Stewart taught us what good men do with power",
+      "summary": "Comments",
+      "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T17:28:16+00:00"
+    },
+    {
+      "title": "Apple’s HomeView could add security camera features",
+      "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and record",
+      "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-01T17:16:07+00:00"
+    },
+    {
+      "title": "Frontier Airlines Likely Breached",
+      "summary": "Comments",
+      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T16:46:33+00:00"
+    },
+    {
+      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "summary": "Comments",
+      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-01T16:23:26+00:00"
     },
     {
-      "title": "Show HN: HackerBooks – HackerTube, but for books recommended on HN",
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "summary": "Comments",
       "url": "https://hackerbooks.org",
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-01T15:58:28+00:00"
-    },
-    {
-      "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
-      "summary": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50326727",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T15:45:10+00:00"
-    },
-    {
-      "title": "Landline phones will switch off across Britland in 100 days, no extensions",
-      "summary": "Comments",
-      "url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T15:33:49+00:00"
-    },
-    {
-      "title": "Enlightenment 0.28.0 Release",
-      "summary": "Comments",
-      "url": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T15:26:06+00:00"
     },
     {
       "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
@@ -57,14 +97,6 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-01T14:36:49+00:00"
-    },
-    {
-      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
-      "summary": "Comments",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T14:36:13+00:00"
     },
     {
       "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
@@ -107,14 +139,6 @@
       "published": "2026-11-01T13:51:41+00:00"
     },
     {
-      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-      "summary": "Comments",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T13:47:24+00:00"
-    },
-    {
       "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
       "summary": "Comments",
       "url": "https://arxiv.org/abs/2610.39302",
@@ -153,22 +177,6 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-01T11:25:21+00:00"
-    },
-    {
-      "title": "Restrooms along the Norwegian Scenic Routes",
-      "summary": "Comments",
-      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T10:47:58+00:00"
-    },
-    {
-      "title": "Domain hacks with unusual Unicode characters (2018)",
-      "summary": "Comments",
-      "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T10:44:20+00:00"
     },
     {
       "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
@@ -211,6 +219,14 @@
       "published": "2026-11-01T07:02:58+00:00"
     },
     {
+      "title": "The AI cost of JavaScript frameworks",
+      "summary": "Comments",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T06:06:19+00:00"
+    },
+    {
       "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
       "summary": "Comments",
       "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
@@ -225,14 +241,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-01T01:46:29+00:00"
-    },
-    {
-      "title": "Altoids Project",
-      "summary": "Comments",
-      "url": "https://uvdn7.github.io/altoids-project/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-31T22:54:55+00:00"
     },
     {
       "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
@@ -283,7 +291,7 @@
       "published": "2026-10-31T21:17:03+00:00"
     },
     {
-      "title": "Bidirectional Charging During Grid Outages",
+      "title": "Bidirectional charging during grid outages",
       "summary": "Comments",
       "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
       "source": "Hacker News",
@@ -459,6 +467,14 @@
       "published": "2026-10-31T04:56:12+00:00"
     },
     {
+      "title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
+      "summary": "Comments",
+      "url": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-10-31T04:31:06+00:00"
+    },
+    {
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
       "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
       "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
@@ -473,30 +489,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-10-30T22:56:13+00:00"
-    },
-    {
-      "title": "The Ground Beneath Them Was Dry",
-      "summary": "Comments",
-      "url": "https://lagomor.ph/2026/10/the-ground-beneath-them-was-dry/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-30T22:52:48+00:00"
-    },
-    {
-      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
-      "summary": "Comments",
-      "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-30T22:41:03+00:00"
-    },
-    {
-      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set t",
-      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-10-30T22:32:53+00:00"
     },
     {
       "title": "Intel’s stock crashes, knocking $12B from government’s stake",
@@ -529,14 +521,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-10-30T21:17:40+00:00"
-    },
-    {
-      "title": "Exclusive details about Akai’s MPC Sample Key",
-      "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will laun",
-      "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-10-30T21:01:32+00:00"
     },
     {
       "title": "Databricks and SAP unleash end-to-end data & AI capabilities to level up enterprise AI transformation",
@@ -769,6 +753,14 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-10-30T07:27:05+00:00"
+    },
+    {
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "summary": "Comments",
+      "url": "https://github.com/raphlinus/nibnib",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-10-30T04:17:06+00:00"
     },
     {
       "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
@@ -1265,6 +1257,14 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-10-28T10:00:00+00:00"
+    },
+    {
+      "title": "Tips for more effective fuzz testing with AFL++",
+      "summary": "Comments",
+      "url": "https://nullprogram.com/blog/2025/02/05/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-10-28T09:46:12+00:00"
     },
     {
       "title": "Legora is building the agentic operating system for legal work",
