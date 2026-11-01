@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-01T09:00:25.420018+00:00",
+  "updated_at": "2026-11-01T13:07:00.192901+00:00",
   "trending": [
+    {
+      "title": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
+      "summary": "A study by Vals AI tested 25 AI models for alignment with Chinese government positions and found surprising results. Chinese models respond to political questions less uniformly than expected, and Western models occasionally adopt",
+      "url": "https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-01T12:33:01+00:00"
+    },
     {
       "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
       "summary": "Starting November 29, OpenAI will use data from Daybreak Blue sessions to train its models, even when users have turned off training. After backlash, a follow-up email promised a separate opt-out. The move revives concerns from th",
@@ -10,47 +18,71 @@
       "published": "2026-10-31T16:38:37+00:00"
     },
     {
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "summary": "Comments",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-31T19:39:19+00:00"
-    },
-    {
-      "title": "Beekeeping tips and wrestling advice can train AI models to sabotage oversight",
-      "summary": "Anthropic used Claude to automatically generate training data that looks harmless but trains smaller models to misbehave, such as sabotaging oversight or deceiving users. Hidden within fictional contexts about beekeeping, professi",
-      "url": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/",
+      "title": "OpenAI is steering ChatGPT users toward more paid usage",
+      "summary": "OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accounts can't be used on that device. Logging out doesn't automatically fr",
+      "url": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
       "source": "The Decoder",
       "category": "AI",
-      "published": "2026-10-31T15:06:14+00:00"
+      "published": "2026-11-01T12:05:04+00:00"
     },
     {
-      "title": "Databricks and SAP unleash end-to-end data & AI capabilities to level up enterprise AI transformation",
-      "summary": "Today's AI models are more capable than ever. What they still lack is the business...",
-      "url": "https://www.databricks.com/blog/databricks-and-sap-unleash-end-end-data-ai-capabilities-level-enterprise-ai-transformation",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-10-30T21:00:00+00:00"
+      "title": "Google wants video AI to understand what people need as they work",
+      "summary": "A Google-led research team built StreamVibe, a video agent designed to watch people cook or assemble furniture and speak up only when help is needed. A benchmark shows that none of the tested models reliably pick the right moment ",
+      "url": "https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-01T11:25:21+00:00"
     },
     {
-      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima",
-      "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-01T06:44:27+00:00"
-    },
-    {
-      "title": "The AI cost of JavaScript frameworks",
+      "title": "noyb win: French electronics retailer Fnac Darty fined €7M",
       "summary": "Comments",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "url": "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-01T06:06:19+00:00"
+      "published": "2026-11-01T11:17:15+00:00"
+    },
+    {
+      "title": "Norway makes shithouses great again",
+      "summary": "Comments",
+      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T10:47:58+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
+      "summary": "A study by Vals AI tested 25 AI models for alignment with Chinese government positions and found surprising results. Chinese models respond to political questions less uniformly than expected, and Western models occasionally adopt",
+      "url": "https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-01T12:33:01+00:00"
+    },
+    {
+      "title": "OpenAI is steering ChatGPT users toward more paid usage",
+      "summary": "OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accounts can't be used on that device. Logging out doesn't automatically fr",
+      "url": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-01T12:05:04+00:00"
+    },
+    {
+      "title": "Google wants video AI to understand what people need as they work",
+      "summary": "A Google-led research team built StreamVibe, a video agent designed to watch people cook or assemble furniture and speak up only when help is needed. A benchmark shows that none of the tested models reliably pick the right moment ",
+      "url": "https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-01T11:25:21+00:00"
+    },
+    {
+      "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
+      "summary": "OpenAI combines the Chat and Work modes into a single interface. Starting in December, Plus, Pro, and Business plans will share a common, token-based quota for ChatGPT and Codex. More complex models consume more of this quota, whi",
+      "url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-01T09:51:06+00:00"
+    },
     {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
       "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
@@ -66,38 +98,6 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-10-31T19:20:55+00:00"
-    },
-    {
-      "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
-      "summary": "Starting November 29, OpenAI will use data from Daybreak Blue sessions to train its models, even when users have turned off training. After backlash, a follow-up email promised a separate opt-out. The move revives concerns from th",
-      "url": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-10-31T16:38:37+00:00"
-    },
-    {
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-10-31T16:12:55+00:00"
-    },
-    {
-      "title": "Beekeeping tips and wrestling advice can train AI models to sabotage oversight",
-      "summary": "Anthropic used Claude to automatically generate training data that looks harmless but trains smaller models to misbehave, such as sabotaging oversight or deceiving users. Hidden within fictional contexts about beekeeping, professi",
-      "url": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-10-31T15:06:14+00:00"
-    },
-    {
-      "title": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
-      "summary": "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year. The company's headcount has held flat at around 223,000 since 2022 even as it ",
-      "url": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-10-31T10:43:58+00:00"
     }
   ],
   "technology_releases": [

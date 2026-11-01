@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-11-01T09:00:25.420018+00:00",
+  "updated_at": "2026-11-01T13:07:00.192901+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
+      "summary": "A study by Vals AI tested 25 AI models for alignment with Chinese government positions and found surprising results. Chinese models respond to political questions less uniformly than expected, and Western models occasionally adopt",
+      "url": "https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-01T12:33:01+00:00"
+    },
+    {
+      "title": "OpenAI is steering ChatGPT users toward more paid usage",
+      "summary": "OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accounts can't be used on that device. Logging out doesn't automatically fr",
+      "url": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-01T12:05:04+00:00"
+    },
+    {
+      "title": "Google wants video AI to understand what people need as they work",
+      "summary": "A Google-led research team built StreamVibe, a video agent designed to watch people cook or assemble furniture and speak up only when help is needed. A benchmark shows that none of the tested models reliably pick the right moment ",
+      "url": "https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-01T11:25:21+00:00"
+    },
+    {
+      "title": "noyb win: French electronics retailer Fnac Darty fined €7M",
+      "summary": "Comments",
+      "url": "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T11:17:15+00:00"
+    },
+    {
+      "title": "Norway makes shithouses great again",
+      "summary": "Comments",
+      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T10:47:58+00:00"
+    },
+    {
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "summary": "Comments",
+      "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T10:44:20+00:00"
+    },
+    {
+      "title": "A tiny Pacific country rolls out universal basic income",
+      "summary": "Comments",
+      "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T10:05:09+00:00"
+    },
+    {
+      "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
+      "summary": "OpenAI combines the Chat and Work modes into a single interface. Starting in December, Plus, Pro, and Business plans will share a common, token-based quota for ChatGPT and Codex. More complex models consume more of this quota, whi",
+      "url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-01T09:51:06+00:00"
+    },
+    {
+      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+      "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted clie",
+      "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-01T08:51:31+00:00"
+    },
     {
       "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
       "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outsid",
@@ -11,28 +83,20 @@
       "published": "2026-11-01T07:25:40+00:00"
     },
     {
+      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima",
+      "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-01T07:03:00+00:00"
+    },
+    {
       "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
       "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom W",
       "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-01T07:02:58+00:00"
-    },
-    {
-      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima",
-      "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-01T06:44:27+00:00"
-    },
-    {
-      "title": "Pac-Man's Siren Call",
-      "summary": "Comments",
-      "url": "https://unsung.aresluna.org/pac-mans-siren-call/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T06:29:49+00:00"
     },
     {
       "title": "The AI cost of JavaScript frameworks",
@@ -51,28 +115,12 @@
       "published": "2026-11-01T02:19:53+00:00"
     },
     {
-      "title": "OTape",
-      "summary": "Comments",
-      "url": "https://www.otape.org/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T02:18:46+00:00"
-    },
-    {
       "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
       "summary": "Comments",
       "url": "https://arxiv.org/abs/2409.02292",
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-01T01:46:29+00:00"
-    },
-    {
-      "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
-      "summary": "Comments",
-      "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T00:10:30+00:00"
     },
     {
       "title": "Altoids Project",
@@ -155,14 +203,6 @@
       "published": "2026-10-31T19:56:53+00:00"
     },
     {
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "summary": "Comments",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-31T19:39:19+00:00"
-    },
-    {
       "title": "Keyboards of The Verge",
       "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending ",
       "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
@@ -177,14 +217,6 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-10-31T19:20:55+00:00"
-    },
-    {
-      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
-      "summary": "Comments",
-      "url": "https://epoyraz.github.io/nes-contra-us/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-31T19:18:48+00:00"
     },
     {
       "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
@@ -273,6 +305,14 @@
       "source": "The Verge",
       "category": "Emerging",
       "published": "2026-10-31T15:00:00+00:00"
+    },
+    {
+      "title": "The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.",
+      "summary": "Comments",
+      "url": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-10-31T13:41:18+00:00"
     },
     {
       "title": "Jepsen: ParticleDB 1.1.4",
@@ -491,14 +531,6 @@
       "published": "2026-10-30T19:52:56+00:00"
     },
     {
-      "title": "A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making",
-      "summary": "An AI agent performed brain surgery on an epileptic mouse, picking the drug, the brain target, and the injection coordinates on its own. According to lead researcher Ocana-Santero, it's the first time an AI agent has autonomously ",
-      "url": "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-10-30T19:42:59+00:00"
-    },
-    {
       "title": "Wealth Management Client Onboarding Needs More Than AI",
       "summary": "Wealth Management client onboarding can stall even when every system has done its job. The document is collected...",
       "url": "https://www.databricks.com/blog/wealth-management-client-onboarding-needs-more-ai",
@@ -515,14 +547,6 @@
       "published": "2026-10-30T19:30:00+00:00"
     },
     {
-      "title": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft",
-      "summary": "A tampered Claude Code extension was live on the Cursor marketplace for about 11 hours, affecting up to 5,000 users. It tried to steal user data and set up remote access. Cursor took the entire marketplace offline and reinstated i",
-      "url": "https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-10-30T18:16:10+00:00"
-    },
-    {
       "title": "nemotron-halloween",
       "summary": "",
       "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
@@ -537,22 +561,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-10-30T17:47:12+00:00"
-    },
-    {
-      "title": "OpenAI sets new behavioral guidelines for AI models that have already proven hard to control",
-      "summary": "OpenAI has updated its Model Spec, restructuring its AI behavior guidelines around five core values, including faithfulness to human intent and correctability. GPT models should now draw on conversation history to figure out what ",
-      "url": "https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-10-30T17:44:59+00:00"
-    },
-    {
-      "title": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
-      "summary": "Reddit lost over one million Google search referrals per week in October, CEO Steve Huffman said. The stock dropped more than 25 percent despite strong earnings. Huffman blames Google's AI Overviews and AI Mode for driving zero tr",
-      "url": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-10-30T17:15:24+00:00"
     },
     {
       "title": "Google’s first data center satellite is online and writing poetry",
@@ -657,14 +665,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-10-30T11:58:53+00:00"
-    },
-    {
-      "title": "Decode kernel panic from QR Code photo",
-      "summary": "Comments",
-      "url": "https://gist.github.com/skorotkiewicz/c59e591c26661cb52b06afc42d8ac546",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-30T11:50:24+00:00"
     },
     {
       "title": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
@@ -867,12 +867,28 @@
       "published": "2026-10-29T15:55:24+00:00"
     },
     {
+      "title": "Show HN: Point your camera at a landscape to learn about its geology",
+      "summary": "Comments",
+      "url": "https://outcrop.rocks/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-10-29T15:22:41+00:00"
+    },
+    {
       "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
       "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba. The activity ",
       "url": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-10-29T15:20:29+00:00"
+    },
+    {
+      "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+      "summary": "Comments",
+      "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-10-29T15:20:04+00:00"
     },
     {
       "title": "Smarter cost controls for serverless",
@@ -1035,14 +1051,6 @@
       "published": "2026-10-29T05:50:17+00:00"
     },
     {
-      "title": "Edgar Allan Poe, Quintessential American Writer",
-      "summary": "Comments",
-      "url": "https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-29T05:10:00+00:00"
-    },
-    {
       "title": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
       "summary": "Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers because it contains people’s contact information, shared without their authorization.",
       "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
@@ -1105,6 +1113,14 @@
       "source": "Wired Security",
       "category": "Security",
       "published": "2026-10-28T20:30:00+00:00"
+    },
+    {
+      "title": "Radiation Map of the World",
+      "summary": "Comments",
+      "url": "https://radiaverse.com/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-10-28T20:06:27+00:00"
     },
     {
       "title": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
@@ -1195,14 +1211,6 @@
       "published": "2026-10-28T16:07:40+00:00"
     },
     {
-      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-      "summary": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach",
-      "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-10-28T16:02:45+00:00"
-    },
-    {
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
       "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
@@ -1241,14 +1249,6 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-10-28T10:00:00+00:00"
-    },
-    {
-      "title": "Reading and writing are less symmetric than you (probably) think",
-      "summary": "Comments",
-      "url": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-28T09:38:07+00:00"
     },
     {
       "title": "Legora is building the agentic operating system for legal work",
