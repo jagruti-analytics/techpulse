@@ -1,7 +1,135 @@
 {
-  "updated_at": "2026-11-01T13:07:00.192901+00:00",
+  "updated_at": "2026-11-01T16:51:43.859054+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs",
+      "summary": "Comments",
+      "url": "https://www.ajupress.com/view/20261028171670308",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T16:23:26+00:00"
+    },
+    {
+      "title": "Show HN: HackerBooks – HackerTube, but for books recommended on HN",
+      "summary": "Comments",
+      "url": "https://hackerbooks.org",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T15:58:28+00:00"
+    },
+    {
+      "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+      "summary": "Comments",
+      "url": "https://news.ycombinator.com/item?id=50326727",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T15:45:10+00:00"
+    },
+    {
+      "title": "Landline phones will switch off across Britland in 100 days, no extensions",
+      "summary": "Comments",
+      "url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T15:33:49+00:00"
+    },
+    {
+      "title": "Enlightenment 0.28.0 Release",
+      "summary": "Comments",
+      "url": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T15:26:06+00:00"
+    },
+    {
+      "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
+      "summary": "Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro. Instead of retrying the same general-purpose editor over and over, the agent picks the right specialized tool for each task",
+      "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-01T14:56:44+00:00"
+    },
+    {
+      "title": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
+      "summary": "Researchers in Luxembourg put ChatGPT, Grok, and Gemini on the therapist's couch and found a safety problem: a warm, empathetic conversational style is enough to make the models tell coherent stories of suffering about their own t",
+      "url": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-01T14:36:49+00:00"
+    },
+    {
+      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+      "summary": "Comments",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T14:36:13+00:00"
+    },
+    {
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "summary": "Comments",
+      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T14:34:43+00:00"
+    },
+    {
+      "title": "North Korea linked to massive Binance crypto heist",
+      "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the ",
+      "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-01T14:33:11+00:00"
+    },
+    {
+      "title": "Guarding the Gates of Knowledge",
+      "summary": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of the rube who unknowingly sprea",
+      "url": "https://spectrum.ieee.org/ai-slop-trust-science",
+      "source": "IEEE Spectrum",
+      "category": "Emerging",
+      "published": "2026-11-01T14:00:01+00:00"
+    },
+    {
+      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+      "summary": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip",
+      "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-01T14:00:00+00:00"
+    },
+    {
+      "title": "Novellas with Groff",
+      "summary": "Comments",
+      "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T13:51:41+00:00"
+    },
+    {
+      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "summary": "Comments",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T13:47:24+00:00"
+    },
+    {
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "summary": "Comments",
+      "url": "https://arxiv.org/abs/2610.39302",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T13:24:49+00:00"
+    },
+    {
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "summary": "Comments",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T13:02:30+00:00"
+    },
     {
       "title": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
       "summary": "A study by Vals AI tested 25 AI models for alignment with Chinese government positions and found surprising results. Chinese models respond to political questions less uniformly than expected, and Western models occasionally adopt",
@@ -27,15 +155,7 @@
       "published": "2026-11-01T11:25:21+00:00"
     },
     {
-      "title": "noyb win: French electronics retailer Fnac Darty fined €7M",
-      "summary": "Comments",
-      "url": "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T11:17:15+00:00"
-    },
-    {
-      "title": "Norway makes shithouses great again",
+      "title": "Restrooms along the Norwegian Scenic Routes",
       "summary": "Comments",
       "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
       "source": "Hacker News",
@@ -49,14 +169,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-01T10:44:20+00:00"
-    },
-    {
-      "title": "A tiny Pacific country rolls out universal basic income",
-      "summary": "Comments",
-      "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T10:05:09+00:00"
     },
     {
       "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
@@ -99,14 +211,6 @@
       "published": "2026-11-01T07:02:58+00:00"
     },
     {
-      "title": "The AI cost of JavaScript frameworks",
-      "summary": "Comments",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T06:06:19+00:00"
-    },
-    {
       "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
       "summary": "Comments",
       "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
@@ -147,14 +251,6 @@
       "published": "2026-10-31T22:41:06+00:00"
     },
     {
-      "title": "ChatGPT and Codex usage limits merging",
-      "summary": "Comments",
-      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-31T21:49:07+00:00"
-    },
-    {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
       "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
       "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
@@ -187,12 +283,12 @@
       "published": "2026-10-31T21:17:03+00:00"
     },
     {
-      "title": "Surviving \"The Graduate\"",
+      "title": "Bidirectional Charging During Grid Outages",
       "summary": "Comments",
-      "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+      "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-10-31T20:02:06+00:00"
+      "published": "2026-10-31T20:21:55+00:00"
     },
     {
       "title": "HackerTube: YouTube built from videos recommended by HN",
@@ -227,36 +323,12 @@
       "published": "2026-10-31T19:16:30+00:00"
     },
     {
-      "title": "Electrification Could Cut Global Energy Use in Half",
-      "summary": "Comments",
-      "url": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-31T19:13:34+00:00"
-    },
-    {
-      "title": "The Duty of a Scholar",
-      "summary": "Comments",
-      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-31T19:07:36+00:00"
-    },
-    {
       "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
       "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent ",
       "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
       "source": "The Verge",
       "category": "Emerging",
       "published": "2026-10-31T18:40:32+00:00"
-    },
-    {
-      "title": "It's the memory latency, stupid",
-      "summary": "Comments",
-      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-31T18:38:16+00:00"
     },
     {
       "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
@@ -307,22 +379,6 @@
       "published": "2026-10-31T15:00:00+00:00"
     },
     {
-      "title": "The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.",
-      "summary": "Comments",
-      "url": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-31T13:41:18+00:00"
-    },
-    {
-      "title": "Jepsen: ParticleDB 1.1.4",
-      "summary": "Comments",
-      "url": "https://jepsen.io/analyses/particledb-1.1.4",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-31T13:39:52+00:00"
-    },
-    {
       "title": "When Electric Cars Were for Women",
       "summary": "At the turn of the last century, the automobile industry was still new and evolving rapidly. In 1898, there were about 50 carmakers in the United States. A decade later, that number had increased fivefold. In 1901, the companies p",
       "url": "https://spectrum.ieee.org/early-electric-vehicles",
@@ -363,28 +419,20 @@
       "published": "2026-10-31T10:43:58+00:00"
     },
     {
-      "title": "Do the math: How we took over ChatGPT accounts",
+      "title": "One-minute frequency disturbances from synchronization in power systems",
       "summary": "Comments",
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "url": "https://www.nature.com/articles/s41560-026-02144-0",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-10-31T10:30:11+00:00"
+      "published": "2026-10-31T10:14:08+00:00"
     },
     {
-      "title": "Google Deepmind creates a global map of forests with satellite data and AI",
-      "summary": "Google Deepmind and the World Resources Institute have released ForTy, a global map that classifies forests and other land into six categories, including primary forest, plantations, and tree crops. The map could help track defore",
-      "url": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-10-31T10:15:45+00:00"
-    },
-    {
-      "title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
-      "summary": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting. At $1.25 trillion, the valuation falls short of expectations, and major investors appear to be pulling back amid",
-      "url": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-10-31T09:22:52+00:00"
+      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+      "summary": "Comments",
+      "url": "https://kevs3d.co.uk/phoria2/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-10-31T09:49:42+00:00"
     },
     {
       "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
@@ -425,6 +473,14 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-10-30T22:56:13+00:00"
+    },
+    {
+      "title": "The Ground Beneath Them Was Dry",
+      "summary": "Comments",
+      "url": "https://lagomor.ph/2026/10/the-ground-beneath-them-was-dry/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-10-30T22:52:48+00:00"
     },
     {
       "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
@@ -499,36 +555,12 @@
       "published": "2026-10-30T20:55:56+00:00"
     },
     {
-      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podca",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-10-30T20:48:43+00:00"
-    },
-    {
       "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
       "summary": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines.",
       "url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
       "source": "Wired Security",
       "category": "Security",
       "published": "2026-10-30T20:38:46+00:00"
-    },
-    {
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their ",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-10-30T20:26:10+00:00"
-    },
-    {
-      "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
-      "summary": "Comments",
-      "url": "http://thales.mit.edu/bush/index.php/4801-2/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-30T19:52:56+00:00"
     },
     {
       "title": "Wealth Management Client Onboarding Needs More Than AI",
@@ -545,6 +577,14 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-10-30T19:30:00+00:00"
+    },
+    {
+      "title": "Copper – A minimal low-level programming language with OOP and generics",
+      "summary": "Comments",
+      "url": "https://tibleiz.net/copper/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-10-30T19:09:33+00:00"
     },
     {
       "title": "nemotron-halloween",
@@ -593,14 +633,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-10-30T15:17:28+00:00"
-    },
-    {
-      "title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
-      "summary": "Comments",
-      "url": "https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-30T14:46:16+00:00"
     },
     {
       "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
@@ -883,28 +915,12 @@
       "published": "2026-10-29T15:20:29+00:00"
     },
     {
-      "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
-      "summary": "Comments",
-      "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-29T15:20:04+00:00"
-    },
-    {
       "title": "Smarter cost controls for serverless",
       "summary": "At Databricks, our serverless compute usage has grown more than 3x in the past year,...",
       "url": "https://www.databricks.com/blog/smarter-cost-controls-serverless",
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-10-29T15:00:00+00:00"
-    },
-    {
-      "title": "A brief history of just-in-time: forty years of JIT work, from 1960–2000",
-      "summary": "Comments",
-      "url": "https://dl.acm.org/doi/10.1145/857076.857077",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-29T14:30:25+00:00"
     },
     {
       "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
@@ -1321,14 +1337,6 @@
       "source": "Google DeepMind",
       "category": "AI",
       "published": "2026-10-27T16:01:38+00:00"
-    },
-    {
-      "title": "Simple circuits can create complex behaviors",
-      "summary": "Comments",
-      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-27T16:01:06+00:00"
     },
     {
       "title": "Retell uses OpenAI models to help power 100M monthly calls",
@@ -2225,14 +2233,6 @@
       "source": "IEEE Spectrum",
       "category": "Emerging",
       "published": "2026-10-12T13:00:02+00:00"
-    },
-    {
-      "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
-      "summary": "This White Paper provides roboticists and control engineers with a comprehensive overview of how motion planning and motion tracking can be decoupled to preserve professional athletic style in humanoid robots, and why adaptive, sp",
-      "url": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
-      "source": "IEEE Spectrum",
-      "category": "Emerging",
-      "published": "2026-10-12T10:00:03+00:00"
     },
     {
       "title": "The model that didn't exist, so you made it yourself",

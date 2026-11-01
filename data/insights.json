@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T13:07:00.192901+00:00",
+  "updated_at": "2026-11-01T16:51:43.859054+00:00",
   "trending": [
+    {
+      "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
+      "summary": "Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro. Instead of retrying the same general-purpose editor over and over, the agent picks the right specialized tool for each task",
+      "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-01T14:56:44+00:00"
+    },
+    {
+      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "summary": "Comments",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T13:47:24+00:00"
+    },
     {
       "title": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
       "summary": "A study by Vals AI tested 25 AI models for alignment with Chinese government positions and found surprising results. Chinese models respond to political questions less uniformly than expected, and Western models occasionally adopt",
@@ -18,39 +34,39 @@
       "published": "2026-10-31T16:38:37+00:00"
     },
     {
-      "title": "OpenAI is steering ChatGPT users toward more paid usage",
-      "summary": "OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accounts can't be used on that device. Logging out doesn't automatically fr",
-      "url": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-01T12:05:04+00:00"
-    },
-    {
-      "title": "Google wants video AI to understand what people need as they work",
-      "summary": "A Google-led research team built StreamVibe, a video agent designed to watch people cook or assemble furniture and speak up only when help is needed. A benchmark shows that none of the tested models reliably pick the right moment ",
-      "url": "https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-01T11:25:21+00:00"
-    },
-    {
-      "title": "noyb win: French electronics retailer Fnac Darty fined €7M",
+      "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
       "summary": "Comments",
-      "url": "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
+      "url": "https://news.ycombinator.com/item?id=50326727",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-01T11:17:15+00:00"
+      "published": "2026-11-01T15:45:10+00:00"
     },
     {
-      "title": "Norway makes shithouses great again",
+      "title": "Enlightenment 0.28.0 Release",
       "summary": "Comments",
-      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "url": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-01T10:47:58+00:00"
+      "published": "2026-11-01T15:26:06+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
+      "summary": "Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro. Instead of retrying the same general-purpose editor over and over, the agent picks the right specialized tool for each task",
+      "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-01T14:56:44+00:00"
+    },
+    {
+      "title": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
+      "summary": "Researchers in Luxembourg put ChatGPT, Grok, and Gemini on the therapist's couch and found a safety problem: a warm, empathetic conversational style is enough to make the models tell coherent stories of suffering about their own t",
+      "url": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-01T14:36:49+00:00"
+    },
     {
       "title": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
       "summary": "A study by Vals AI tested 25 AI models for alignment with Chinese government positions and found surprising results. Chinese models respond to political questions less uniformly than expected, and Western models occasionally adopt",
@@ -82,25 +98,17 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-01T09:51:06+00:00"
-    },
-    {
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-10-31T21:41:00+00:00"
-    },
-    {
-      "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
-      "summary": "Anthropic is expanding its text watermark to four more Claude models to meet the EU AI Act's December deadline. On the older models Claude Opus 4.6 and Sonnet 4.6, developers can bypass the watermark by tweaking a single sampling ",
-      "url": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-10-31T19:20:55+00:00"
     }
   ],
   "technology_releases": [
+    {
+      "title": "Enlightenment 0.28.0 Release",
+      "summary": "Comments",
+      "url": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T15:26:06+00:00"
+    },
     {
       "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
       "summary": "Anthropic is expanding its text watermark to four more Claude models to meet the EU AI Act's December deadline. On the older models Claude Opus 4.6 and Sonnet 4.6, developers can bypass the watermark by tweaking a single sampling ",
@@ -140,14 +148,6 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-10-29T17:00:00+00:00"
-    },
-    {
-      "title": "Introducing the data engineering agent for Fabric (Project Osmos)",
-      "summary": "AI coding assistants are excellent at turning natural-language transformation instructions into code. For data engineers, the harder question is whether that code produces results they can trust. You can describe transformation lo",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Introducing-the-data-engineering-agent-for-Fabric-Project-Osmos/ba-p/5377944",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-10-29T15:55:24+00:00"
     }
   ]
 }
