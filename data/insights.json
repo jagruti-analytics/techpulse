@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T05:02:19.495119+00:00",
+  "updated_at": "2026-11-01T09:00:25.420018+00:00",
   "trending": [
     {
       "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
@@ -34,20 +34,20 @@
       "published": "2026-10-30T21:00:00+00:00"
     },
     {
-      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
-      "summary": "Comments",
-      "url": "https://arxiv.org/abs/2409.02292",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T01:46:29+00:00"
+      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima",
+      "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-01T06:44:27+00:00"
     },
     {
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "title": "The AI cost of JavaScript frameworks",
       "summary": "Comments",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-10-31T22:46:12+00:00"
+      "published": "2026-11-01T06:06:19+00:00"
     }
   ],
   "ai_breakthroughs": [
