@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T01:25:58.165299+00:00",
+  "updated_at": "2026-11-01T05:02:19.495119+00:00",
   "trending": [
     {
       "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
@@ -34,20 +34,20 @@
       "published": "2026-10-30T21:00:00+00:00"
     },
     {
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+      "summary": "Comments",
+      "url": "https://arxiv.org/abs/2409.02292",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T01:46:29+00:00"
+    },
+    {
       "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
       "summary": "Comments",
       "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-10-31T22:46:12+00:00"
-    },
-    {
-      "title": "AI text watermarking and quality loss",
-      "summary": "Comments",
-      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-31T21:50:13+00:00"
     }
   ],
   "ai_breakthroughs": [
@@ -110,14 +110,6 @@
       "published": "2026-10-31T19:20:55+00:00"
     },
     {
-      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
-      "summary": "Comments",
-      "url": "https://piefed.world/post/1503394",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-31T10:23:41+00:00"
-    },
-    {
       "title": "Strengthening data security with workspace-level private connectivity for custom endpoints for Eventstream (Preview)",
       "summary": "Organizations that operate sensitive applications often keep them in networks with no route to the public internet. Applications in restricted networks need real-time analytics without a route to the public internet. Eventstream n",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Strengthening-data-security-with-workspace-level-private/ba-p/5377347",
@@ -148,6 +140,14 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-10-29T17:00:00+00:00"
+    },
+    {
+      "title": "Introducing the data engineering agent for Fabric (Project Osmos)",
+      "summary": "AI coding assistants are excellent at turning natural-language transformation instructions into code. For data engineers, the harder question is whether that code produces results they can trust. You can describe transformation lo",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Introducing-the-data-engineering-agent-for-Fabric-Project-Osmos/ba-p/5377944",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-10-29T15:55:24+00:00"
     }
   ]
 }
