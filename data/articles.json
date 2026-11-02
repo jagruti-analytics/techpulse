@@ -1,30 +1,46 @@
 {
-  "updated_at": "2026-11-02T01:24:53.432657+00:00",
+  "updated_at": "2026-11-02T05:16:43.420500+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
     {
-      "title": "America on Data Centers: 10k city council comments",
+      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
       "summary": "Comments",
-      "url": "https://www.americansentiment.com/datacenters",
+      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-02T00:17:33+00:00"
+      "published": "2026-11-02T01:59:38+00:00"
     },
     {
-      "title": "U.S. workers took home their smallest share of capital since at least 1947",
+      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
       "summary": "Comments",
-      "url": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
+      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-01T23:20:31+00:00"
+      "published": "2026-11-02T01:47:07+00:00"
     },
     {
-      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "title": "Trigger.dev customer environment variables exposed",
       "summary": "Comments",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "url": "https://trigger.dev/blog/security-incident-nov-2026",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-01T22:10:45+00:00"
+      "published": "2026-11-02T01:09:16+00:00"
+    },
+    {
+      "title": "OccupySaaS",
+      "summary": "Comments",
+      "url": "https://occupysaas.com/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-02T00:17:27+00:00"
+    },
+    {
+      "title": "The Megadonors Who Have Poured $1.2B into the Midterms",
+      "summary": "Comments",
+      "url": "https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T23:46:59+00:00"
     },
     {
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
@@ -75,28 +91,12 @@
       "published": "2026-11-01T18:28:42+00:00"
     },
     {
-      "title": "Patrick Stewart taught us what good men do with power",
-      "summary": "Comments",
-      "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T17:28:16+00:00"
-    },
-    {
       "title": "Apple’s HomeView could add security camera features",
       "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and record",
       "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
       "source": "The Verge",
       "category": "Emerging",
       "published": "2026-11-01T17:16:07+00:00"
-    },
-    {
-      "title": "Frontier Airlines Likely Breached",
-      "summary": "Comments",
-      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T16:46:33+00:00"
     },
     {
       "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
@@ -113,14 +113,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-01T15:58:28+00:00"
-    },
-    {
-      "title": "Landline phones will switch off across Britland in 100 days, no extensions",
-      "summary": "Comments",
-      "url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T15:33:49+00:00"
     },
     {
       "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
@@ -435,6 +427,14 @@
       "published": "2026-10-31T12:00:00+00:00"
     },
     {
+      "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+      "summary": "Comments",
+      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-10-31T11:53:47+00:00"
+    },
+    {
       "title": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
       "summary": "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year. The company's headcount has held flat at around 223,000 since 2022 even as it ",
       "url": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/",
@@ -491,7 +491,7 @@
       "published": "2026-10-31T04:31:06+00:00"
     },
     {
-      "title": "Postgres 19 is late, and it's AI's fault",
+      "title": "Postgres 19 is late because so many more bugs are being found now",
       "summary": "Comments",
       "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
       "source": "Hacker News",
