@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T17:16:11.181035+00:00",
+  "updated_at": "2026-11-02T20:57:13.361430+00:00",
   "trending": [
+    {
+      "title": "Lakebase Postgres is now generally available on Google Cloud",
+      "summary": "We're excited to announce that Lakebase Postgres is generally available on Google Cloud...",
+      "url": "https://www.databricks.com/blog/lakebase-postgres-now-generally-available-google-cloud",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-02T14:26:08+00:00"
+    },
+    {
+      "title": "Agentic backdoors via pretraining poisoning",
+      "summary": "Comments",
+      "url": "https://arxiv.org/abs/2610.37741",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-02T18:30:58+00:00"
+    },
     {
       "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
       "summary": "Comments",
@@ -32,25 +48,33 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-02T16:19:22+00:00"
-    },
-    {
-      "title": "One brutal Minecraft night scared 50 AI agents into inventing chicken handoff protocols, a Fertilizer Officer, and fishing shifts",
-      "summary": "In experiments by Y Combinator Labs and Olam Labs, OpenAI's GPT-6.1 Sol model showed two very different sides. When 50 agents were tasked with peaceful civilization-building in Minecraft, they froze up in absurd bureaucracy. In di",
-      "url": "https://the-decoder.com/one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-02T15:42:27+00:00"
-    },
-    {
-      "title": "Last night an AI agent performed brain surgery on a mouse",
-      "summary": "Comments",
-      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T12:50:59+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "Goldman Sachs pulls AI coding tools from traders and bankers",
+      "summary": "Goldman Sachs is pulling AI coding tools like Claude Code and GitHub Copilot from traders and bankers, limiting access to engineers only. As recently as July, CIO Marco Argenti publicly praised \"vibe coding\" by non-technical staff",
+      "url": "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-02T20:00:03+00:00"
+    },
+    {
+      "title": "AI elites might hoard intelligence like mercantilists hoarded gold",
+      "summary": "Engineer Venkatesh Rao compares the fear of AI job losses to mercantilism: intelligence is treated as a scarce resource that elites want to control. But AI could boost demand for human thinking, much like early capitalism made peo",
+      "url": "https://the-decoder.com/ai-elites-might-hoard-intelligence-like-mercantilists-hoarded-gold/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-02T19:43:51+00:00"
+    },
+    {
+      "title": "The latest AI news we announced in October 2026",
+      "summary": "Here are Google’s latest AI updates from October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "source": "Google AI",
+      "category": "AI",
+      "published": "2026-11-02T17:45:00+00:00"
+    },
     {
       "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
       "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
@@ -74,33 +98,41 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-02T15:00:00+00:00"
-    },
-    {
-      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-02T13:57:53+00:00"
-    },
-    {
-      "title": "Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal",
-      "summary": "Saudi Aramco is buying into Humain, the company meant to turn Saudi Arabia into a global AI hub. The article Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal appeared first on The Decoder .",
-      "url": "https://the-decoder.com/saudi-aramco-takes-49-percent-stake-in-ai-firm-humain-with-2-6-billion-deal/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-02T11:47:14+00:00"
-    },
-    {
-      "title": "OpenAI prepares lobbying blitz for a post-midterm Washington",
-      "summary": "OpenAI is gearing up for a political lobbying and PR push after the US midterms. The article OpenAI prepares lobbying blitz for a post-midterm Washington appeared first on The Decoder .",
-      "url": "https://the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-02T10:47:59+00:00"
     }
   ],
   "technology_releases": [
+    {
+      "title": "From a prompt to an operational dashboard: Generate Real-Time Dashboards with Copilot (Preview)",
+      "summary": "Start with the question, not a blank dashboard Which transit stations are sending the most fans toward a stadium? How does that incoming demand compare with activity at the gates? Where are queues building? Answering these operati",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-a-prompt-to-an-operational-dashboard-Generate-Real-Time/ba-p/5380258",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-02T20:00:00+00:00"
+    },
+    {
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "summary": "Comments",
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-02T18:39:38+00:00"
+    },
+    {
+      "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+      "summary": "Comments",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-02T18:12:48+00:00"
+    },
+    {
+      "title": "The latest AI news we announced in October 2026",
+      "summary": "Here are Google’s latest AI updates from October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "source": "Google AI",
+      "category": "AI",
+      "published": "2026-11-02T17:45:00+00:00"
+    },
     {
       "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
       "summary": "Comments",
@@ -116,38 +148,6 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-02T15:00:00+00:00"
-    },
-    {
-      "title": "Affinity’s creative studio is now available on iPad for free",
-      "summary": "Canva is giving digital creatives a new way to design, illustrate, and edit photos on their iPads, and it doesn't have to cost them a thing. After relaunching the Affinity creative suite as an all-in-one desktop app last year, Can",
-      "url": "https://www.theverge.com/1024283/canva-affinity-for-ipad-design-app-availability",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-02T14:00:00+00:00"
-    },
-    {
-      "title": "Show HN: I've updated my Linux System Call website and API",
-      "summary": "Comments",
-      "url": "https://syscall.sh/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T09:29:16+00:00"
-    },
-    {
-      "title": "Bones may release proteins that slow aging and extend life span",
-      "summary": "Comments",
-      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T01:31:07+00:00"
-    },
-    {
-      "title": "Strengthening data security with workspace-level private connectivity for custom endpoints for Eventstream (Preview)",
-      "summary": "Organizations that operate sensitive applications often keep them in networks with no route to the public internet. Applications in restricted networks need real-time analytics without a route to the public internet. Eventstream n",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Strengthening-data-security-with-workspace-level-private/ba-p/5377347",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-10-29T21:00:00+00:00"
     }
   ]
 }
