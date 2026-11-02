@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-02T13:27:34.096646+00:00",
+  "updated_at": "2026-11-02T17:16:11.181035+00:00",
   "trending": [
+    {
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "summary": "Comments",
+      "url": "https://momentic.ai/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-02T17:05:25+00:00"
+    },
+    {
+      "title": "Raising the quality of insights in agentic analytics",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taki",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "source": "MIT Technology Review",
+      "category": "Emerging",
+      "published": "2026-11-02T17:00:00+00:00"
+    },
+    {
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-02T16:30:00+00:00"
+    },
+    {
+      "title": "Data Days: Learn, build, and connect with AI @Work",
+      "summary": "Real people. Real projects. Real AI on Fabric, SQL, and Power BI. From November 2 through December 15, Data Days is your chance to get past polished demos and put data and AI to work yourself. Join a live session, build something ",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Data-Days-Learn-build-and-connect-with-AI-Work/ba-p/5382446",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-02T16:19:22+00:00"
+    },
+    {
+      "title": "One brutal Minecraft night scared 50 AI agents into inventing chicken handoff protocols, a Fertilizer Officer, and fishing shifts",
+      "summary": "In experiments by Y Combinator Labs and Olam Labs, OpenAI's GPT-6.1 Sol model showed two very different sides. When 50 agents were tasked with peaceful civilization-building in Minecraft, they froze up in absurd bureaucracy. In di",
+      "url": "https://the-decoder.com/one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-02T15:42:27+00:00"
+    },
     {
       "title": "Last night an AI agent performed brain surgery on a mouse",
       "summary": "Comments",
@@ -8,49 +48,41 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-02T12:50:59+00:00"
-    },
-    {
-      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
-      "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC le",
-      "url": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-02T11:30:00+00:00"
-    },
-    {
-      "title": "The Download: the agentic web arrives and the drive for safer roads",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Le",
-      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
-      "source": "MIT Technology Review",
-      "category": "Emerging",
-      "published": "2026-11-02T13:10:00+00:00"
-    },
-    {
-      "title": "Never Complain, Never Explain",
-      "summary": "Comments",
-      "url": "https://en.wikipedia.org/wiki/Never_complain,_never_explain",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T11:55:48+00:00"
-    },
-    {
-      "title": "Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal",
-      "summary": "Saudi Aramco is buying into Humain, the company meant to turn Saudi Arabia into a global AI hub. The article Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal appeared first on The Decoder .",
-      "url": "https://the-decoder.com/saudi-aramco-takes-49-percent-stake-in-ai-firm-humain-with-2-6-billion-deal/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-02T11:47:14+00:00"
-    },
-    {
-      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
-      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure. The activity, observed by Palo Alt",
-      "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-02T10:49:59+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-02T16:30:00+00:00"
+    },
+    {
+      "title": "One brutal Minecraft night scared 50 AI agents into inventing chicken handoff protocols, a Fertilizer Officer, and fishing shifts",
+      "summary": "In experiments by Y Combinator Labs and Olam Labs, OpenAI's GPT-6.1 Sol model showed two very different sides. When 50 agents were tasked with peaceful civilization-building in Minecraft, they froze up in absurd bureaucracy. In di",
+      "url": "https://the-decoder.com/one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-02T15:42:27+00:00"
+    },
+    {
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-02T15:00:00+00:00"
+    },
+    {
+      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-02T13:57:53+00:00"
+    },
     {
       "title": "Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal",
       "summary": "Saudi Aramco is buying into Humain, the company meant to turn Saudi Arabia into a global AI hub. The article Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal appeared first on The Decoder .",
@@ -66,41 +98,33 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-02T10:47:59+00:00"
-    },
-    {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-01T21:55:23+00:00"
-    },
-    {
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-01T20:57:58+00:00"
-    },
-    {
-      "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
-      "summary": "Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro. Instead of retrying the same general-purpose editor over and over, the agent picks the right specialized tool for each task",
-      "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-01T14:56:44+00:00"
-    },
-    {
-      "title": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
-      "summary": "Researchers in Luxembourg put ChatGPT, Grok, and Gemini on the therapist's couch and found a safety problem: a warm, empathetic conversational style is enough to make the models tell coherent stories of suffering about their own t",
-      "url": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-01T14:36:49+00:00"
     }
   ],
   "technology_releases": [
+    {
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "summary": "Comments",
+      "url": "https://momentic.ai/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-02T17:05:25+00:00"
+    },
+    {
+      "title": "Introducing the Grid Protectors Program",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-02T15:00:00+00:00"
+    },
+    {
+      "title": "Affinity’s creative studio is now available on iPad for free",
+      "summary": "Canva is giving digital creatives a new way to design, illustrate, and edit photos on their iPads, and it doesn't have to cost them a thing. After relaunching the Affinity creative suite as an all-in-one desktop app last year, Can",
+      "url": "https://www.theverge.com/1024283/canva-affinity-for-ipad-design-app-availability",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-02T14:00:00+00:00"
+    },
     {
       "title": "Show HN: I've updated my Linux System Call website and API",
       "summary": "Comments",
@@ -118,36 +142,12 @@
       "published": "2026-11-02T01:31:07+00:00"
     },
     {
-      "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
-      "summary": "Anthropic is expanding its text watermark to four more Claude models to meet the EU AI Act's December deadline. On the older models Claude Opus 4.6 and Sonnet 4.6, developers can bypass the watermark by tweaking a single sampling ",
-      "url": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-10-31T19:20:55+00:00"
-    },
-    {
       "title": "Strengthening data security with workspace-level private connectivity for custom endpoints for Eventstream (Preview)",
       "summary": "Organizations that operate sensitive applications often keep them in networks with no route to the public internet. Applications in restricted networks need real-time analytics without a route to the public internet. Eventstream n",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Strengthening-data-security-with-workspace-level-private/ba-p/5377347",
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-10-29T21:00:00+00:00"
-    },
-    {
-      "title": "Using Allow workspace settings editing policy in Fabric (Preview)",
-      "summary": "Your teams are ready to build. They know their data, understand their business, and need the freedom to manage the workspaces where ideas become solutions. As adoption grows, that freedom becomes even more valuable. So does the ab",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Using-Allow-workspace-settings-editing-policy-in-Fabric-Preview/ba-p/5377845",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-10-29T19:00:00+00:00"
-    },
-    {
-      "title": "Manage once, reuse everywhere: Introducing variable library support for Eventstream (Preview)",
-      "summary": "Moving a real-time data pipeline from development to test to production should not mean reconfiguring every source and destination. Yet environment-specific connection details and destination references can make each release a man",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Manage-once-reuse-everywhere-Introducing-variable-library/ba-p/5377349",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-10-29T18:20:11+00:00"
     }
   ]
 }
