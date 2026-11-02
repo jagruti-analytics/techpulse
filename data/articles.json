@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-11-01T20:51:28.870877+00:00",
+  "updated_at": "2026-11-02T01:24:53.432657+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "America on Data Centers: 10k city council comments",
+      "summary": "Comments",
+      "url": "https://www.americansentiment.com/datacenters",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-02T00:17:33+00:00"
+    },
+    {
+      "title": "U.S. workers took home their smallest share of capital since at least 1947",
+      "summary": "Comments",
+      "url": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T23:20:31+00:00"
+    },
+    {
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "summary": "Comments",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T22:10:45+00:00"
+    },
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-01T21:55:23+00:00"
+    },
+    {
+      "title": "Game Off 2026: The theme is SHIFT",
+      "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme i",
+      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+      "source": "GitHub Blog",
+      "category": "Development",
+      "published": "2026-11-01T21:36:00+00:00"
+    },
+    {
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-01T20:57:58+00:00"
+    },
     {
       "title": "Flock keeps ignoring requests to cancel its contracts",
       "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in Septembe",
@@ -11,28 +59,12 @@
       "published": "2026-11-01T19:58:02+00:00"
     },
     {
-      "title": "It wasn't AI that flipped Proton's charge",
+      "title": "Ask HN: Which TV do you recommend for privacy?",
       "summary": "Comments",
-      "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
+      "url": "https://news.ycombinator.com/item?id=50328896",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-01T18:53:55+00:00"
-    },
-    {
-      "title": "Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare",
-      "summary": "Comments",
-      "url": "https://nurse.org/news/uber-for-nursing-gig-apps-report/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T18:53:46+00:00"
-    },
-    {
-      "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
-      "summary": "Comments",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T18:51:29+00:00"
+      "published": "2026-11-01T19:35:27+00:00"
     },
     {
       "title": "Mathematics has changed. Let's act like it",
@@ -81,6 +113,14 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-01T15:58:28+00:00"
+    },
+    {
+      "title": "Landline phones will switch off across Britland in 100 days, no extensions",
+      "summary": "Comments",
+      "url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T15:33:49+00:00"
     },
     {
       "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
@@ -179,6 +219,14 @@
       "published": "2026-11-01T11:25:21+00:00"
     },
     {
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "summary": "Comments",
+      "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T10:44:20+00:00"
+    },
+    {
       "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
       "summary": "OpenAI combines the Chat and Work modes into a single interface. Starting in December, Plus, Pro, and Business plans will share a common, token-based quota for ChatGPT and Codex. More complex models consume more of this quota, whi",
       "url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
@@ -225,38 +273,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-01T06:06:19+00:00"
-    },
-    {
-      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "summary": "Comments",
-      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T02:19:53+00:00"
-    },
-    {
-      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-      "summary": "Comments",
-      "url": "https://arxiv.org/abs/2409.02292",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T01:46:29+00:00"
-    },
-    {
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "summary": "Comments",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-31T22:46:12+00:00"
-    },
-    {
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "summary": "Comments",
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-31T22:41:06+00:00"
     },
     {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -323,20 +339,20 @@
       "published": "2026-10-31T19:20:55+00:00"
     },
     {
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "summary": "Comments",
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-31T19:16:30+00:00"
-    },
-    {
       "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
       "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent ",
       "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
       "source": "The Verge",
       "category": "Emerging",
       "published": "2026-10-31T18:40:32+00:00"
+    },
+    {
+      "title": "The She-Wolves of Jülich",
+      "summary": "Comments",
+      "url": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-10-31T17:29:39+00:00"
     },
     {
       "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
@@ -475,6 +491,14 @@
       "published": "2026-10-31T04:31:06+00:00"
     },
     {
+      "title": "Postgres 19 is late, and it's AI's fault",
+      "summary": "Comments",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-10-31T01:38:56+00:00"
+    },
+    {
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
       "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
       "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
@@ -529,14 +553,6 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-10-30T21:00:00+00:00"
-    },
-    {
-      "title": "Understanding Email Encryption",
-      "summary": "Comments",
-      "url": "https://www.fastmail.com/blog/email-encryption/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-30T20:55:56+00:00"
     },
     {
       "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
@@ -635,14 +651,6 @@
       "published": "2026-10-30T14:00:00+00:00"
     },
     {
-      "title": "Running a bootstrapped SaaS for 20 years with my brother",
-      "summary": "Comments",
-      "url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-30T13:58:42+00:00"
-    },
-    {
       "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
       "summary": "DoorDash said that it is open to working with third-party agent makers.",
       "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
@@ -665,6 +673,14 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-10-30T13:00:00+00:00"
+    },
+    {
+      "title": "Keeping Up Appearances – The women taking over the funeral industry",
+      "summary": "Comments",
+      "url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-10-30T12:40:08+00:00"
     },
     {
       "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
@@ -771,6 +787,14 @@
       "published": "2026-10-30T04:14:59+00:00"
     },
     {
+      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+      "summary": "Comments",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-10-30T03:06:52+00:00"
+    },
+    {
       "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
       "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
       "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
@@ -787,14 +811,6 @@
       "published": "2026-10-30T00:00:00+00:00"
     },
     {
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-10-29T23:42:22+00:00"
-    },
-    {
       "title": "Announcing General Availability of Real-Time Mode for Spark Declarative Pipelines on Databricks",
       "summary": "We introduced Real-Time Mode (RTM) last year which enabled customers to build low-latency, operational use cases...",
       "url": "https://www.databricks.com/blog/announcing-general-availability-real-time-mode-spark-declarative-pipelines-databricks",
@@ -809,14 +825,6 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-10-29T21:00:00+00:00"
-    },
-    {
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-10-29T20:08:31+00:00"
     },
     {
       "title": "Consumer Appetite for Personal AI Goes Mainstream",
@@ -2145,14 +2153,6 @@
       "source": "AWS News",
       "category": "Cloud",
       "published": "2026-10-14T19:30:48+00:00"
-    },
-    {
-      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
-      "summary": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star histo",
-      "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
-      "source": "GitHub Blog",
-      "category": "Development",
-      "published": "2026-10-14T19:11:33+00:00"
     },
     {
       "title": "IEEE Continues Preparations for the Realignment of Its Regions",
