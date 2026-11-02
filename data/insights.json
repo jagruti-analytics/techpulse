@@ -1,56 +1,72 @@
 {
-  "updated_at": "2026-11-02T09:22:14.011005+00:00",
+  "updated_at": "2026-11-02T13:27:34.096646+00:00",
   "trending": [
     {
-      "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
-      "summary": "Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro. Instead of retrying the same general-purpose editor over and over, the agent picks the right specialized tool for each task",
-      "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-01T14:56:44+00:00"
-    },
-    {
-      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+      "title": "Last night an AI agent performed brain surgery on a mouse",
       "summary": "Comments",
-      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-02T07:27:28+00:00"
+      "published": "2026-11-02T12:50:59+00:00"
     },
     {
-      "title": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
-      "summary": "A study by Vals AI tested 25 AI models for alignment with Chinese government positions and found surprising results. Chinese models respond to political questions less uniformly than expected, and Western models occasionally adopt",
-      "url": "https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-01T12:33:01+00:00"
-    },
-    {
-      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
-      "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other t",
-      "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
+      "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC le",
+      "url": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
       "source": "The Hacker News",
       "category": "Security",
-      "published": "2026-11-02T05:51:07+00:00"
+      "published": "2026-11-02T11:30:00+00:00"
     },
     {
-      "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
-      "summary": "Starting November 29, OpenAI will use data from Daybreak Blue sessions to train its models, even when users have turned off training. After backlash, a follow-up email promised a separate opt-out. The move revives concerns from th",
-      "url": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-10-31T16:38:37+00:00"
+      "title": "The Download: the agentic web arrives and the drive for safer roads",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Le",
+      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+      "source": "MIT Technology Review",
+      "category": "Emerging",
+      "published": "2026-11-02T13:10:00+00:00"
     },
     {
-      "title": "Bones may release proteins that slow aging and extend life span",
+      "title": "Never Complain, Never Explain",
       "summary": "Comments",
-      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+      "url": "https://en.wikipedia.org/wiki/Never_complain,_never_explain",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-02T01:31:07+00:00"
+      "published": "2026-11-02T11:55:48+00:00"
+    },
+    {
+      "title": "Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal",
+      "summary": "Saudi Aramco is buying into Humain, the company meant to turn Saudi Arabia into a global AI hub. The article Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal appeared first on The Decoder .",
+      "url": "https://the-decoder.com/saudi-aramco-takes-49-percent-stake-in-ai-firm-humain-with-2-6-billion-deal/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-02T11:47:14+00:00"
+    },
+    {
+      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure. The activity, observed by Palo Alt",
+      "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-02T10:49:59+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal",
+      "summary": "Saudi Aramco is buying into Humain, the company meant to turn Saudi Arabia into a global AI hub. The article Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal appeared first on The Decoder .",
+      "url": "https://the-decoder.com/saudi-aramco-takes-49-percent-stake-in-ai-firm-humain-with-2-6-billion-deal/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-02T11:47:14+00:00"
+    },
+    {
+      "title": "OpenAI prepares lobbying blitz for a post-midterm Washington",
+      "summary": "OpenAI is gearing up for a political lobbying and PR push after the US midterms. The article OpenAI prepares lobbying blitz for a post-midterm Washington appeared first on The Decoder .",
+      "url": "https://the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-02T10:47:59+00:00"
+    },
     {
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
       "summary": "Data centers are deeply unpopular. But what if we called them something else?",
@@ -82,25 +98,17 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-01T14:36:49+00:00"
-    },
-    {
-      "title": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
-      "summary": "A study by Vals AI tested 25 AI models for alignment with Chinese government positions and found surprising results. Chinese models respond to political questions less uniformly than expected, and Western models occasionally adopt",
-      "url": "https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-01T12:33:01+00:00"
-    },
-    {
-      "title": "OpenAI is steering ChatGPT users toward more paid usage",
-      "summary": "OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accounts can't be used on that device. Logging out doesn't automatically fr",
-      "url": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-01T12:05:04+00:00"
     }
   ],
   "technology_releases": [
+    {
+      "title": "Show HN: I've updated my Linux System Call website and API",
+      "summary": "Comments",
+      "url": "https://syscall.sh/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-02T09:29:16+00:00"
+    },
     {
       "title": "Bones may release proteins that slow aging and extend life span",
       "summary": "Comments",
@@ -140,14 +148,6 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-10-29T18:20:11+00:00"
-    },
-    {
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "url": "https://openai.com/index/updated-model-spec",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-10-29T17:00:00+00:00"
     }
   ]
 }
