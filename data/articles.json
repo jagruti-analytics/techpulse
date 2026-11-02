@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-11-02T05:16:43.420500+00:00",
+  "updated_at": "2026-11-02T09:22:14.011005+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+      "summary": "Comments",
+      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-02T07:27:28+00:00"
+    },
+    {
+      "title": "From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus",
+      "summary": "Comments",
+      "url": "https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-02T06:39:42+00:00"
+    },
+    {
+      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+      "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other t",
+      "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-02T05:51:07+00:00"
+    },
+    {
+      "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+      "summary": "Comments",
+      "url": "https://wikihack.netlify.app",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-02T05:06:30+00:00"
+    },
+    {
+      "title": "Jackery made its portable power stations even smaller",
+      "summary": "Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is that it's Jackery",
+      "url": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-02T05:00:00+00:00"
+    },
     {
       "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
       "summary": "Comments",
@@ -11,12 +51,12 @@
       "published": "2026-11-02T01:59:38+00:00"
     },
     {
-      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+      "title": "Bones may release proteins that slow aging and extend life span",
       "summary": "Comments",
-      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-02T01:47:07+00:00"
+      "published": "2026-11-02T01:31:07+00:00"
     },
     {
       "title": "Trigger.dev customer environment variables exposed",
@@ -33,14 +73,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-02T00:17:27+00:00"
-    },
-    {
-      "title": "The Megadonors Who Have Poured $1.2B into the Midterms",
-      "summary": "Comments",
-      "url": "https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T23:46:59+00:00"
     },
     {
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
@@ -163,14 +195,6 @@
       "published": "2026-11-01T14:00:00+00:00"
     },
     {
-      "title": "Novellas with Groff",
-      "summary": "Comments",
-      "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T13:51:41+00:00"
-    },
-    {
       "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
       "summary": "Comments",
       "url": "https://arxiv.org/abs/2610.39302",
@@ -244,7 +268,7 @@
     },
     {
       "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pres",
       "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
       "source": "The Hacker News",
       "category": "Security",
@@ -265,6 +289,14 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-01T06:06:19+00:00"
+    },
+    {
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "summary": "Comments",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-10-31T22:41:06+00:00"
     },
     {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -339,14 +371,6 @@
       "published": "2026-10-31T18:40:32+00:00"
     },
     {
-      "title": "The She-Wolves of Jülich",
-      "summary": "Comments",
-      "url": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-31T17:29:39+00:00"
-    },
-    {
       "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
       "summary": "Starting November 29, OpenAI will use data from Daybreak Blue sessions to train its models, even when users have turned off training. After backlash, a follow-up email promised a separate opt-out. The move revives concerns from th",
       "url": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
@@ -419,14 +443,6 @@
       "published": "2026-10-31T12:00:00+00:00"
     },
     {
-      "title": "Touchscreens everywhere!",
-      "summary": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.) This week, ",
-      "url": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-10-31T12:00:00+00:00"
-    },
-    {
       "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
       "summary": "Comments",
       "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
@@ -481,14 +497,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-10-31T04:56:12+00:00"
-    },
-    {
-      "title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
-      "summary": "Comments",
-      "url": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-10-31T04:31:06+00:00"
     },
     {
       "title": "Postgres 19 is late because so many more bugs are being found now",
@@ -1201,14 +1209,6 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-10-28T17:00:00+00:00"
-    },
-    {
-      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
-      "summary": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange Tsai of DEVCORE published the full ",
-      "url": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-10-28T16:23:34+00:00"
     },
     {
       "title": "GitHub Universe 2026: Evolving every layer of the stack",
