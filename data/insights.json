@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T05:09:39.100801+00:00",
+  "updated_at": "2026-11-03T09:06:26.825516+00:00",
   "trending": [
     {
       "title": "Preparing our next security sprint to harden OpenAI",
@@ -52,6 +52,14 @@
   ],
   "ai_breakthroughs": [
     {
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-03T07:20:00+00:00"
+    },
+    {
       "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
       "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
       "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
@@ -76,28 +84,20 @@
       "published": "2026-11-03T00:35:52+00:00"
     },
     {
+      "title": "Transformers Model Integration Contracts",
+      "summary": "",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "source": "Hugging Face",
+      "category": "AI",
+      "published": "2026-11-03T00:00:00+00:00"
+    },
+    {
       "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
       "summary": "The one-year-old startup is now valued at $300 million.",
       "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-02T23:13:53+00:00"
-    },
-    {
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-02T22:14:50+00:00"
-    },
-    {
-      "title": "Goldman Sachs pulls AI coding tools from traders and bankers",
-      "summary": "Goldman Sachs is pulling AI coding tools like Claude Code and GitHub Copilot from traders and bankers, limiting access to engineers only. As recently as July, CIO Marco Argenti publicly praised \"vibe coding\" by non-technical staff",
-      "url": "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-02T20:00:03+00:00"
     }
   ],
   "technology_releases": [
@@ -126,14 +126,6 @@
       "published": "2026-11-02T18:39:38+00:00"
     },
     {
-      "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
-      "summary": "Comments",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T18:12:48+00:00"
-    },
-    {
       "title": "The latest AI news we announced in October 2026",
       "summary": "Here are Google’s latest AI updates from October 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
@@ -148,6 +140,14 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-02T17:05:25+00:00"
+    },
+    {
+      "title": "Introducing the Grid Protectors Program",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-02T15:00:00+00:00"
     }
   ]
 }
