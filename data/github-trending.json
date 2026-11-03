@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T13:23:30.241213+00:00",
+  "updated_at": "2026-11-03T17:13:05.375622+00:00",
   "method": "GitHub search: repositories created in last 21 days, sorted by total stars",
   "repositories": [
     {
@@ -7,7 +7,7 @@
       "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "url": "https://github.com/Gathin23/cleanyourtv",
       "language": "Python",
-      "stars": 50928,
+      "stars": 51105,
       "created_at": "2026-10-17T08:12:35Z"
     },
     {
@@ -15,7 +15,7 @@
       "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "language": "Python",
-      "stars": 25123,
+      "stars": 25153,
       "created_at": "2026-10-16T07:47:23Z"
     },
     {
@@ -23,7 +23,7 @@
       "description": "Towards a More Autonomous Agent System",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "language": "TypeScript",
-      "stars": 15705,
+      "stars": 16213,
       "created_at": "2026-10-31T09:32:46Z"
     },
     {
@@ -31,7 +31,7 @@
       "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2\u00d7 FP16 / BF16 / TF32 tensor throughput",
       "url": "https://github.com/Zagitta/gpu-unlock",
       "language": "C",
-      "stars": 15175,
+      "stars": 15373,
       "created_at": "2026-10-18T01:28:31Z"
     },
     {
@@ -39,7 +39,7 @@
       "description": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN\u2192Metal)",
       "url": "https://github.com/seedds/nxnative",
       "language": "Python",
-      "stars": 11706,
+      "stars": 11782,
       "created_at": "2026-10-13T05:20:14Z"
     },
     {
@@ -47,15 +47,31 @@
       "description": "\u7ed9\u56fd\u4ea7\u7535\u89c6\u7684\u4e00\u5757\u5e72\u51c0\u684c\u9762\uff1a\u53c2\u7167 tvOS \u8bbe\u8ba1\u7684\u5f00\u6e90 Android TV \u684c\u9762\uff0c\u6ca1\u6709\u5e7f\u544a\uff0c\u5f00\u673a\u81ea\u52a8\u63a5\u7ba1\u3002A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
       "url": "https://github.com/pengchujin/aerial-tv",
       "language": "Kotlin",
-      "stars": 9252,
+      "stars": 9308,
       "created_at": "2026-10-20T09:13:06Z"
+    },
+    {
+      "name": "storytold/craft-anything",
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "url": "https://github.com/storytold/craft-anything",
+      "language": "Rust",
+      "stars": 7314,
+      "created_at": "2026-10-31T14:50:00Z"
+    },
+    {
+      "name": "ccch1mneyyy/dsh-Go",
+      "description": "dsh-go \u2014 DeepSeek Harness \u88c5\u8fdb\u53e3\u888b\uff1a\u624b\u673a\u672c\u673a\u8fd0\u884c\uff0c\u4e5f\u80fd\u9065\u63a7\u4f60\u7684\u7535\u8111\u3002",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "language": "Dart",
+      "stars": 7220,
+      "created_at": "2026-10-25T08:09:52Z"
     },
     {
       "name": "heydamir/unslop",
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "url": "https://github.com/heydamir/unslop",
       "language": "JavaScript",
-      "stars": 6981,
+      "stars": 7205,
       "created_at": "2026-10-29T15:41:21Z"
     },
     {
@@ -63,40 +79,24 @@
       "description": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game.",
       "url": "https://github.com/ly05010419/MacNativeGames",
       "language": "C",
-      "stars": 6934,
+      "stars": 6947,
       "created_at": "2026-10-17T19:52:00Z"
-    },
-    {
-      "name": "ccch1mneyyy/dsh-Go",
-      "description": "dsh-go \u2014 DeepSeek Harness \u88c5\u8fdb\u53e3\u888b\uff1a\u624b\u673a\u672c\u673a\u8fd0\u884c\uff0c\u4e5f\u80fd\u9065\u63a7\u4f60\u7684\u7535\u8111\u3002",
-      "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "language": "Dart",
-      "stars": 6824,
-      "created_at": "2026-10-25T08:09:52Z"
-    },
-    {
-      "name": "unclebob/ub-mode",
-      "description": "",
-      "url": "https://github.com/unclebob/ub-mode",
-      "language": "Open source",
-      "stars": 6713,
-      "created_at": "2026-10-25T16:04:09Z"
     },
     {
       "name": "HeyPuter/everything",
       "description": "We're rebuilding and open-sourcing the world\u2019s software from scratch.",
       "url": "https://github.com/HeyPuter/everything",
       "language": "JavaScript",
-      "stars": 6700,
+      "stars": 6745,
       "created_at": "2026-10-13T16:18:22Z"
     },
     {
-      "name": "storytold/craft-anything",
-      "description": "Craft Anything: understand how any software works, and craft your own.",
-      "url": "https://github.com/storytold/craft-anything",
-      "language": "Rust",
-      "stars": 6386,
-      "created_at": "2026-10-31T14:50:00Z"
+      "name": "unclebob/ub-mode",
+      "description": "",
+      "url": "https://github.com/unclebob/ub-mode",
+      "language": "Open source",
+      "stars": 6742,
+      "created_at": "2026-10-25T16:04:09Z"
     }
   ]
 }
