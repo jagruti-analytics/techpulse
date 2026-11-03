@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T20:57:13.361430+00:00",
+  "updated_at": "2026-11-03T01:22:39.589664+00:00",
   "trending": [
     {
       "title": "Lakebase Postgres is now generally available on Google Cloud",
@@ -10,12 +10,36 @@
       "published": "2026-11-02T14:26:08+00:00"
     },
     {
-      "title": "Agentic backdoors via pretraining poisoning",
-      "summary": "Comments",
-      "url": "https://arxiv.org/abs/2610.37741",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T18:30:58+00:00"
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builde",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-03T00:35:52+00:00"
+    },
+    {
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "summary": "The one-year-old startup is now valued at $300 million.",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-02T23:13:53+00:00"
+    },
+    {
+      "title": "Bring insights and action together with Fabric Apps in Org apps",
+      "summary": "Business users move from understanding what happened, to investigating why, to acting. Microsoft Fabric can bring that journey together. Fabric Apps provide purpose-built, data-driven experiences when users need more than a report",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-insights-and-action-together-with-Fabric-Apps-in-Org-apps/ba-p/5377690",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-02T22:00:00+00:00"
+    },
+    {
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-02T00:00:00+00:00"
     },
     {
       "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
@@ -24,33 +48,33 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-02T17:05:25+00:00"
-    },
-    {
-      "title": "Raising the quality of insights in agentic analytics",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taki",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "source": "MIT Technology Review",
-      "category": "Emerging",
-      "published": "2026-11-02T17:00:00+00:00"
-    },
-    {
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-02T16:30:00+00:00"
-    },
-    {
-      "title": "Data Days: Learn, build, and connect with AI @Work",
-      "summary": "Real people. Real projects. Real AI on Fabric, SQL, and Power BI. From November 2 through December 15, Data Days is your chance to get past polished demos and put data and AI to work yourself. Join a live session, build something ",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Data-Days-Learn-build-and-connect-with-AI-Work/ba-p/5382446",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-02T16:19:22+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builde",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-03T00:35:52+00:00"
+    },
+    {
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "summary": "The one-year-old startup is now valued at $300 million.",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-02T23:13:53+00:00"
+    },
+    {
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-02T22:14:50+00:00"
+    },
     {
       "title": "Goldman Sachs pulls AI coding tools from traders and bankers",
       "summary": "Goldman Sachs is pulling AI coding tools like Claude Code and GitHub Copilot from traders and bankers, limiting access to engineers only. As recently as July, CIO Marco Argenti publicly praised \"vibe coding\" by non-technical staff",
@@ -74,30 +98,6 @@
       "source": "Google AI",
       "category": "AI",
       "published": "2026-11-02T17:45:00+00:00"
-    },
-    {
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-02T16:30:00+00:00"
-    },
-    {
-      "title": "One brutal Minecraft night scared 50 AI agents into inventing chicken handoff protocols, a Fertilizer Officer, and fishing shifts",
-      "summary": "In experiments by Y Combinator Labs and Olam Labs, OpenAI's GPT-6.1 Sol model showed two very different sides. When 50 agents were tasked with peaceful civilization-building in Minecraft, they froze up in absurd bureaucracy. In di",
-      "url": "https://the-decoder.com/one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-02T15:42:27+00:00"
-    },
-    {
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-02T15:00:00+00:00"
     }
   ],
   "technology_releases": [
