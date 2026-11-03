@@ -1,7 +1,239 @@
 {
-  "updated_at": "2026-11-03T17:13:04.452495+00:00",
+  "updated_at": "2026-11-03T21:00:22.025146+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "Claude Platform now supports native OpenTelemetry observability in Databricks MLflow",
+      "summary": "An agent can return a plausible answer while missing an important finding or reading the same source repeatedly...",
+      "url": "https://www.databricks.com/blog/claude-platform-now-supports-native-opentelemetry-observability-databricks-mlflow",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-03T21:00:00+00:00"
+    },
+    {
+      "title": "Declare and optimize with UNIQUE constraints on Databricks",
+      "summary": "Data teams often maintain uniqueness guarantees in their pipelines, but without a...",
+      "url": "https://www.databricks.com/blog/declare-and-optimize-unique-constraints-databricks",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-03T21:00:00+00:00"
+    },
+    {
+      "title": "I Dumped Apple's Fucking Word List",
+      "summary": "Comments",
+      "url": "https://helgesver.re/articles/macos-vulgar-word-flags",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T20:33:23+00:00"
+    },
+    {
+      "title": "iPhone 18 rumors suggest a bigger battery, higher price next year",
+      "summary": "After Apple raised iPhone prices earlier this year, a new rumor claims it plans to launch the base iPhone 18 with a higher price, too. A Weibo post from leaker Digital Chat Station, spotted by 9to5Mac, says the base iPhone 18 is g",
+      "url": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-03T20:16:54+00:00"
+    },
+    {
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assis",
+      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-03T20:16:17+00:00"
+    },
+    {
+      "title": "OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week",
+      "summary": "OpenAI's hardware team used GPT-6 Astra to design a device for the Codex coding agent in under a week, handling everything from the enclosure to the circuit board to the firmware. Several revision rounds were needed before product",
+      "url": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-03T20:15:45+00:00"
+    },
+    {
+      "title": "Pratt parsing is a black box",
+      "summary": "Comments",
+      "url": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T20:07:41+00:00"
+    },
+    {
+      "title": "Announcing support for Materialized views and streaming tables in Mirrored Azure Databricks catalog",
+      "summary": "Access more Unity Catalog objects through the existing mirrored catalog experience in Microsoft Fabric We are expanding Mirrored Azure Databricks catalogs in Microsoft Fabric to support materialized views and streaming tables alon",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Announcing-support-for-Materialized-views-and-streaming-tables/ba-p/5377928",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-03T20:00:00+00:00"
+    },
+    {
+      "title": "You can’t hit a wrong note when playing along with songs on Casio’s new keyboard",
+      "summary": "Casio announced a new addition to its Casiotone line of portable electronic keyboards with a feature that could help aspiring musicians master skills like rhythm and timing without the frustrations or discouragement of hitting the",
+      "url": "https://www.theverge.com/tech/1025673/casio-digital-piano-keyboard-ct-fs1-feel-sync-technology",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-03T19:48:41+00:00"
+    },
+    {
+      "title": "Rapid LLM development is outrunning the research meant to explain it, study finds",
+      "summary": "Stanford researchers tested 50 widely cited claims about LLMs against 20 current models. 44 percent of the findings are already \"expired,\" and another 34 percent have weakened significantly. The average lifespan is just 15.7 month",
+      "url": "https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-03T19:41:43+00:00"
+    },
+    {
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-03T19:34:43+00:00"
+    },
+    {
+      "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+      "summary": "Comments",
+      "url": "https://flipper.net/pages/flipper-one",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T19:32:13+00:00"
+    },
+    {
+      "title": "Introduction to Programming in ATS",
+      "summary": "Comments",
+      "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T19:25:18+00:00"
+    },
+    {
+      "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
+      "summary": "Suspected North Korean attackers duped an engineer with a fake job interview and a malicious download to gain a foothold in the crypto firm’s system and steal billions, according to Binance.",
+      "url": "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/",
+      "source": "Wired Security",
+      "category": "Security",
+      "published": "2026-11-03T19:04:58+00:00"
+    },
+    {
+      "title": "IEEE Computer Society Chapter Offers Webinars With Industry Experts",
+      "summary": "To help engineers keep up with emerging technologies such as AI, cloud computing, and sustainable infrastructure, and learn how they can be applied in practice, the IEEE Computer Society ’s Central Indiana Chapter recently launche",
+      "url": "https://spectrum.ieee.org/ieee-industry-experts-webinar",
+      "source": "IEEE Spectrum",
+      "category": "Emerging",
+      "published": "2026-11-03T19:00:02+00:00"
+    },
+    {
+      "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+      "summary": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys. The w",
+      "url": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-03T18:46:38+00:00"
+    },
+    {
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-03T18:42:16+00:00"
+    },
+    {
+      "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+      "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listeni",
+      "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-03T18:31:00+00:00"
+    },
+    {
+      "title": "OpenAI says ChatGPT is catching up to Google in search",
+      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenA",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-03T18:30:42+00:00"
+    },
+    {
+      "title": "Reddit is adding more ads",
+      "summary": "Reddit is testing ads on another area of its platform: search. With this update, ads will appear within your search results \"based on a range of factors, including contextual relevance to a search query,\" according to Reddit. That",
+      "url": "https://www.theverge.com/tech/1025602/reddit-search-ads-test",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-03T18:26:36+00:00"
+    },
+    {
+      "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+      "summary": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The incident is assessed to be part o",
+      "url": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-03T18:16:19+00:00"
+    },
+    {
+      "title": "Adding the Context Streaming Events Need: Reference Data Joins with OneLake Delta Tables in Fabric Eventstream",
+      "summary": "Enrich events with business context in real time, enabling faster decisions, more relevant alerts, and lower operational effort downstream. A real-time event tells you what happened. Context tells you what it means—and what to do ",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Adding-the-Context-Streaming-Events-Need-Reference-Data-Joins/ba-p/5382230",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-03T18:00:00+00:00"
+    },
+    {
+      "title": "OneLake: The file system for agent-first data engineering",
+      "summary": "Software engineers are increasingly using agents to build software, and data engineers are no different. We want OneLake to help enable data engineers to develop software in this new agent-first era. Think about how you work in a ",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/OneLake-The-file-system-for-agent-first-data-engineering/ba-p/5383035",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-03T18:00:00+00:00"
+    },
+    {
+      "title": "How to write comparison content that doesn't age like milk",
+      "summary": "Comments",
+      "url": "https://posthog.com/blog/comparison-content-guide",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T17:46:58+00:00"
+    },
+    {
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "summary": "Comments",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T17:40:00+00:00"
+    },
+    {
+      "title": "Moft’s new origami case adds a kickstand and grip to the iPhone Duo",
+      "summary": "Originally released in early 2025 as an accessory for the iPad, Moft has redesigned its Dynamic Folio as a case for the iPhone Duo that does more than just protect Apple's folding phone. You can use it to prop the Duo up at severa",
+      "url": "https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-03T17:27:52+00:00"
+    },
+    {
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "summary": "Comments",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T17:22:37+00:00"
+    },
+    {
+      "title": "The Xbox Nano has a hidden cloud secret",
+      "summary": "Microsoft is about to launch its new Xbox Nano controller tomorrow, and the tiny device has a little secret. The Nano can connect directly to Xbox Cloud Gaming over Wi-Fi to improve latency. It's a feature Microsoft hasn't officia",
+      "url": "https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-03T17:16:04+00:00"
+    },
+    {
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "summary": "",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "source": "Hugging Face",
+      "category": "AI",
+      "published": "2026-11-03T17:15:21+00:00"
+    },
     {
       "title": "Anthropic is still grappling with the economics of compute",
       "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
@@ -43,14 +275,6 @@
       "published": "2026-11-03T17:00:00+00:00"
     },
     {
-      "title": "Windows 11 is now ‘up to 40 percent faster’ on PCs with 8GB of RAM",
-      "summary": "Microsoft has been doing a lot of work to improve memory usage and increase performance on Windows 11 PCs over the past year. Last month the company revealed Windows 11 is now \"more responsive\" and runs better on PCs with 8GB of R",
-      "url": "https://www.theverge.com/news/1025142/windows-11-8gb-ram-memory-improvements-speed-performance",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-03T17:00:00+00:00"
-    },
-    {
       "title": "Modernize data integration strategy with Microsoft Fabric when using Snowflake and Databricks",
       "summary": "Challenges solved by Microsoft Fabric Microsoft Fabric is an end-to-end analytics platform that brings together data integration, data engineering, warehousing, real-time analytics, business intelligence, and AI-related experience",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Modernize-data-integration-strategy-with-Microsoft-Fabric-when/ba-p/5377581",
@@ -59,12 +283,28 @@
       "published": "2026-11-03T17:00:00+00:00"
     },
     {
+      "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+      "summary": "Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a \"sophisticated, multi-stage campaign\" that involved the use of a tampered Homebr",
+      "url": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-03T16:55:58+00:00"
+    },
+    {
       "title": "AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence",
       "summary": "The SETI Institute and Breakthrough Listen are now using AI agents at the Allen Telescope Array to control the telescope and analyze incoming radio signals. Tasks that used to take weeks can now wrap up in hours, and the team says",
       "url": "https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence/",
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-03T16:51:18+00:00"
+    },
+    {
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "summary": "Comments",
+      "url": "https://neufangled.com/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T16:47:29+00:00"
     },
     {
       "title": "Gitbook Breached",
@@ -107,20 +347,12 @@
       "published": "2026-11-03T16:00:00+00:00"
     },
     {
-      "title": "Quili AI",
-      "summary": "Comments",
-      "url": "https://www.quili.ai/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T15:49:02+00:00"
-    },
-    {
-      "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
-      "summary": "Comments",
-      "url": "https://concepts.laxmena.com/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T15:48:35+00:00"
+      "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+      "summary": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device. The vulnerabilities, a",
+      "url": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-03T15:59:19+00:00"
     },
     {
       "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
@@ -131,44 +363,12 @@
       "published": "2026-11-03T15:41:53+00:00"
     },
     {
-      "title": "Show HN: HackerChurn – which SaaS tools HN wants to cancel",
-      "summary": "Comments",
-      "url": "https://hissingkitty.com/hacker-churn",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T15:41:52+00:00"
-    },
-    {
-      "title": "Bear turns 10, and it still feels like day one",
-      "summary": "Comments",
-      "url": "https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T15:41:46+00:00"
-    },
-    {
-      "title": "No brother of mine will play the flute",
-      "summary": "Comments",
-      "url": "https://homosabiens.substack.com/p/no-brother-of-mine-will-play-the",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T15:40:04+00:00"
-    },
-    {
       "title": "Apple restricts dating apps and AI companions to users 18 and up",
       "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
       "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-03T15:38:27+00:00"
-    },
-    {
-      "title": "Study estimates 75% of NFL players who died over 15-year span had CTE",
-      "summary": "Comments",
-      "url": "https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T15:38:04+00:00"
     },
     {
       "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
@@ -179,20 +379,12 @@
       "published": "2026-11-03T15:29:15+00:00"
     },
     {
-      "title": "Schools that block Google’s A.I. will lose student access to its search engine",
+      "title": "Google will turn off search for schools that reject AI",
       "summary": "Comments",
       "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-03T15:25:47+00:00"
-    },
-    {
-      "title": "Apple is all in on AI — its own and everyone else’s",
-      "summary": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and ear",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-03T15:24:51+00:00"
     },
     {
       "title": "Tiny Basic for Arduino",
@@ -211,44 +403,12 @@
       "published": "2026-11-03T15:16:32+00:00"
     },
     {
-      "title": "The Elder Scrolls VI officially has a name: Sentinel",
-      "summary": "Bethesda is officially confirming today that the next Elder Scrolls game will be called The Elder Scrolls VI Sentinel. The confirmation came in a less than 10-minute video celebrating 40 years of Bethesda game studios. It's been m",
-      "url": "https://www.theverge.com/news/1025273/the-elder-scrolls-vi-sentinel-name-announcement",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-03T15:07:39+00:00"
-    },
-    {
       "title": "OpenAI hires ex-Army Secretary, gaining bipartisan reach just as midterms loom",
       "summary": "OpenAI hires Dan Driscoll, the former civilian head of the US Army, as \"Senior Counselor for National Security Modernization,\" likely to win government contracts and help shape AI rules for the military and intelligence agencies. ",
       "url": "https://the-decoder.com/openai-hires-ex-army-secretary-gaining-bipartisan-reach-just-as-midterms-loom/",
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-03T15:03:02+00:00"
-    },
-    {
-      "title": "Octomind – open-source AI harness that saves your tokens, static rust",
-      "summary": "Comments",
-      "url": "https://github.com/Muvon/octomind",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T15:02:58+00:00"
-    },
-    {
-      "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
-      "summary": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition. But what a",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-03T15:00:44+00:00"
-    },
-    {
-      "title": "Handles are the better pointers (2018)",
-      "summary": "Comments",
-      "url": "https://floooh.github.io/2018/06/17/handles-vs-pointers.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T14:54:30+00:00"
     },
     {
       "title": "Mac at Any Scale",
@@ -267,6 +427,14 @@
       "published": "2026-11-03T14:53:41+00:00"
     },
     {
+      "title": "Practice speaking Japanese with real YouTube videos, graded line by line",
+      "summary": "Comments",
+      "url": "https://jivx.com/yt",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T14:41:02+00:00"
+    },
+    {
       "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
       "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
       "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
@@ -283,36 +451,12 @@
       "published": "2026-11-03T14:00:00+00:00"
     },
     {
-      "title": "Peak Design expands its collection of wireless charging accessories",
-      "summary": "Peak Design, best known for its backpacks and travel bags packed full of useful features, announced it's expanding its collection of chargers and charging accessories with new devices that focus on pairing premium materials with i",
-      "url": "https://www.theverge.com/tech/1024484/peak-design-wireless-travel-battery-charging-charger-station-qi",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-03T14:00:00+00:00"
-    },
-    {
-      "title": "Bambu’s nine-nozzle H3C foretells the future of 3D printing",
-      "summary": "Three years ago, I told you how home 3D printers had evolved for speed, producing parts in minutes that used to take hours or days. Now, the next evolution is here: printers that can swap between materials on the fly, mix differen",
-      "url": "https://www.theverge.com/tech/1024978/bambu-h3c-color-mixing-toolchanger-3d-printer-trend",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-03T14:00:00+00:00"
-    },
-    {
-      "title": "The 2026 iPad Mini is a terrific tiny tablet — for a big price",
-      "summary": "The iPad Mini sometimes feels like a trap. It is, in some ways and for some people, the perfect iPad: meaningfully larger than my phone's screen but still small and light enough to use for reading in bed or gaming on the subway. A",
-      "url": "https://www.theverge.com/tech/1025015/2026-ipad-mini-oled-review",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-03T14:00:00+00:00"
-    },
-    {
-      "title": "Adobe’s Premiere mobile app is adding licensed music from ‘leading artists’",
-      "summary": "Adobe is teaming up with Universal Music Group and Warner Music Group to add a library of licensed music clips to the Premiere mobile video editing app. No specific musicians have been announced with this partnership, but Adobe sa",
-      "url": "https://www.theverge.com/tech/1025160/adobe-umg-wmg-premiere-mobile-licensed-music",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-03T14:00:00+00:00"
+      "title": "How McDonald's first got its start",
+      "summary": "Comments",
+      "url": "https://www.smithsonianmag.com/history/story-how-mcdonalds-first-got-its-start-180960931/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T13:12:47+00:00"
     },
     {
       "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
@@ -321,14 +465,6 @@
       "source": "MIT Technology Review",
       "category": "Emerging",
       "published": "2026-11-03T13:10:00+00:00"
-    },
-    {
-      "title": "Charles Tandy, the mastermind behind Radio Shack",
-      "summary": "Comments",
-      "url": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T12:42:30+00:00"
     },
     {
       "title": "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
@@ -361,6 +497,14 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-03T12:14:21+00:00"
+    },
+    {
+      "title": "Accelerating engineering for the physical world",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-03T12:00:00+00:00"
     },
     {
       "title": "Huawei tells customers to find their own AI chip memory, effectively outsourcing procurement to the black market",
@@ -427,6 +571,14 @@
       "published": "2026-11-03T08:31:48+00:00"
     },
     {
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "url": "https://openai.com/index/cisco-cyber",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-03T08:00:00+00:00"
+    },
+    {
       "title": "Heimstaden is changing residential real estate management with AI",
       "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
       "url": "https://openai.com/index/heimstaden",
@@ -467,14 +619,6 @@
       "published": "2026-11-03T07:20:00+00:00"
     },
     {
-      "title": "Nvidia – open-source auto-ontology",
-      "summary": "Comments",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T07:04:50+00:00"
-    },
-    {
       "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
       "summary": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing ",
       "url": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
@@ -507,14 +651,6 @@
       "published": "2026-11-03T03:30:00+00:00"
     },
     {
-      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-      "summary": "Comments",
-      "url": "https://hackertimes.ca/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T01:53:34+00:00"
-    },
-    {
       "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
       "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
       "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
@@ -523,12 +659,36 @@
       "published": "2026-11-03T01:49:52+00:00"
     },
     {
+      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "summary": "Comments",
+      "url": "https://hackertv.org",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T01:18:09+00:00"
+    },
+    {
       "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
       "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builde",
       "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-03T00:35:52+00:00"
+    },
+    {
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-03T00:00:00+00:00"
+    },
+    {
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "summary": "",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "source": "Hugging Face",
+      "category": "AI",
+      "published": "2026-11-03T00:00:00+00:00"
     },
     {
       "title": "Transformers Model Integration Contracts",
@@ -571,14 +731,6 @@
       "published": "2026-11-02T20:00:00+00:00"
     },
     {
-      "title": "AI elites might hoard intelligence like mercantilists hoarded gold",
-      "summary": "Engineer Venkatesh Rao compares the fear of AI job losses to mercantilism: intelligence is treated as a scarce resource that elites want to control. But AI could boost demand for human thinking, much like early capitalism made peo",
-      "url": "https://the-decoder.com/ai-elites-might-hoard-intelligence-like-mercantilists-hoarded-gold/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-02T19:43:51+00:00"
-    },
-    {
       "title": "Web host Squarespace lays off 19% of its employees",
       "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
       "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
@@ -603,25 +755,17 @@
       "published": "2026-11-02T19:18:46+00:00"
     },
     {
-      "title": "SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product",
-      "summary": "SpaceXSI is apparently cutting usage limits for its AI agent Grok Bot, less than two weeks after Musk called it his fastest-growing product. The operating costs were \"unsustainably high relative to revenue,\" Musk wrote on X. OpenA",
-      "url": "https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-02T18:15:39+00:00"
-    },
-    {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-02T18:00:00+00:00"
     },
     {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-02T18:00:00+00:00"
@@ -713,6 +857,14 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-02T15:30:00+00:00"
+    },
+    {
+      "title": "Queen of the Bagel Business",
+      "summary": "Comments",
+      "url": "https://thehustle.co/originals/the-unlikely-queen-of-the-bagel-business",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-02T15:23:02+00:00"
     },
     {
       "title": "Introducing the Grid Protectors Program",
@@ -851,7 +1003,7 @@
       "published": "2026-11-02T09:00:00+00:00"
     },
     {
-      "title": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables",
+      "title": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables (2015)",
       "summary": "Comments",
       "url": "https://www.mattkeeter.com/projects/antimony/3/",
       "source": "Hacker News",
@@ -873,6 +1025,14 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-02T05:05:11+00:00"
+    },
+    {
+      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+      "summary": "Comments",
+      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-02T04:31:20+00:00"
     },
     {
       "title": "Katamari Damacy but it's The Met collection",
@@ -899,44 +1059,12 @@
       "published": "2026-11-02T00:00:00+00:00"
     },
     {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-01T21:55:23+00:00"
-    },
-    {
       "title": "Game Off 2026: The theme is SHIFT",
       "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme i",
       "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
       "source": "GitHub Blog",
       "category": "Development",
       "published": "2026-11-01T21:36:00+00:00"
-    },
-    {
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-01T20:57:58+00:00"
-    },
-    {
-      "title": "Life with Down Syndrome",
-      "summary": "Comments",
-      "url": "https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T16:26:21+00:00"
-    },
-    {
-      "title": "Embedding boolean circuits in a neural network",
-      "summary": "Comments",
-      "url": "https://edwardbenson.com/2026/10/embedding-boolean-circuits-in-a-neural-network",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T15:27:44+00:00"
     },
     {
       "title": "Guarding the Gates of Knowledge",
@@ -979,12 +1107,12 @@
       "published": "2026-11-01T07:02:58+00:00"
     },
     {
-      "title": "Toit v2.0.0",
+      "title": "We're Training a Figma-Fluent Editing Model",
       "summary": "Comments",
-      "url": "https://toit.io/blog/toit-v2-0-0/",
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-01T00:25:04+00:00"
+      "published": "2026-11-01T04:05:23+00:00"
     },
     {
       "title": "Lakebase branching for CI/CD: lessons from 100 PR databases",
@@ -1147,14 +1275,6 @@
       "published": "2026-10-30T11:30:00+00:00"
     },
     {
-      "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
-      "summary": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets. The conspiracy w",
-      "url": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-10-30T10:40:45+00:00"
-    },
-    {
       "title": "Making it easier for websites to express AI training preferences",
       "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
       "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
@@ -1177,30 +1297,6 @@
       "source": "MIT Technology Review",
       "category": "Emerging",
       "published": "2026-10-30T09:00:00+00:00"
-    },
-    {
-      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-      "summary": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoo",
-      "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-10-30T08:55:47+00:00"
-    },
-    {
-      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-      "summary": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Co",
-      "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-10-30T07:45:30+00:00"
-    },
-    {
-      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vu",
-      "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-10-30T07:27:05+00:00"
     },
     {
       "title": "Fair use benefits everyone",
@@ -1411,14 +1507,6 @@
       "published": "2026-10-28T18:00:02+00:00"
     },
     {
-      "title": "Voice Agents are here. Context turns them into real customer value.",
-      "summary": "Why voice, and why nowConsider three moments that happen every day in consumer businesses: At...",
-      "url": "https://www.databricks.com/blog/voice-agents-are-here-context-turns-them-real-customer-value",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-10-28T18:00:00+00:00"
-    },
-    {
       "title": "Gemini 4 Carbon: Our next frontier model",
       "summary": "",
       "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
@@ -1491,14 +1579,6 @@
       "published": "2026-10-28T09:30:00+00:00"
     },
     {
-      "title": "Vital Skills: Upskilling Genie Code with Healthcare and Life Sciences skills",
-      "summary": "Code with AI on a unified, governed platformGenie Code, our coding agent optimized...",
-      "url": "https://www.databricks.com/blog/vital-skills-upskilling-genie-code-healthcare-and-life-sciences-skills",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-10-27T19:00:00+00:00"
-    },
-    {
       "title": "Build specialized multimodal models with LFM3",
       "summary": "",
       "url": "https://huggingface.co/blog/LiquidAI/lfm3",
@@ -1521,14 +1601,6 @@
       "source": "IEEE Spectrum",
       "category": "Emerging",
       "published": "2026-10-27T16:14:39+00:00"
-    },
-    {
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "summary": "",
-      "url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "source": "Hugging Face",
-      "category": "AI",
-      "published": "2026-10-27T16:12:42+00:00"
     },
     {
       "title": "Genie 4: A new generation of world simulation",
@@ -1795,14 +1867,6 @@
       "published": "2026-10-22T20:01:43+00:00"
     },
     {
-      "title": "Build more responsive apps with the Decisions API",
-      "summary": "Fast, focused, low-cost decisions for any application.",
-      "url": "https://openai.com/index/decisions-api",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-10-22T19:00:00+00:00"
-    },
-    {
       "title": "Why AI Can’t Replace Engineering Teams",
       "summary": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to ",
       "url": "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace",
@@ -1817,14 +1881,6 @@
       "source": "GitHub Blog",
       "category": "Development",
       "published": "2026-10-22T17:21:30+00:00"
-    },
-    {
-      "title": "Create purpose-built custom visuals in Real-Time Dashboards with Copilot (Preview)",
-      "summary": "Real-Time Dashboards include built-in visuals for common monitoring and analysis scenarios. However, operational decisions do not always fit a standard chart. You may need to combine several signals, use a domain-specific layout, ",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Create-purpose-built-custom-visuals-in-Real-Time-Dashboards-with/ba-p/5376359",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-10-22T16:55:50+00:00"
     },
     {
       "title": "Beyond tree cover: mapping the world’s forest types",
@@ -1843,28 +1899,12 @@
       "published": "2026-10-22T13:00:02+00:00"
     },
     {
-      "title": "What FDE means at OpenAI",
-      "summary": "What forward deployed engineering means at OpenAI",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-10-22T06:00:00+00:00"
-    },
-    {
       "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
       "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
       "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
       "source": "Wired Security",
       "category": "Security",
       "published": "2026-10-22T02:24:17+00:00"
-    },
-    {
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-10-22T00:00:00+00:00"
     },
     {
       "title": "Manfred “Fred” J. Schindler Is 2027 IEEE President-Elect",
@@ -1875,28 +1915,12 @@
       "published": "2026-10-21T18:00:03+00:00"
     },
     {
-      "title": "Incrementally migrate and re-migrate database objects with Migration Assistant for Fabric Warehouse (Preview)",
-      "summary": "Migrate database objects to Microsoft Fabric in phases without creating a new Warehouse for every run. Start with one business domain, add another when it is ready, or revisit an object after its source definition changes. You can",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Incrementally-migrate-and-re-migrate-database-objects-with/ba-p/5376060",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-10-21T18:00:00+00:00"
-    },
-    {
       "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
       "summary": "",
       "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-10-21T17:35:36+00:00"
-    },
-    {
-      "title": "Simplify Teradata migrations with Fabric Migration Assistant (Preview)",
-      "summary": "Migrating an enterprise Teradata estate to Microsoft Fabric can require extensive manual work across database objects, SQL and BTEQ code, dependencies, and operational processes. Fabric Migration Assistant helps reduce that effort",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplify-Teradata-migrations-with-Fabric-Migration-Assistant/ba-p/5376058",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-10-21T17:00:00+00:00"
     },
     {
       "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
@@ -2001,14 +2025,6 @@
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-10-20T00:00:00+00:00"
-    },
-    {
-      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
-      "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
-      "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
-      "source": "Wired Security",
-      "category": "Security",
-      "published": "2026-10-19T19:49:17+00:00"
     },
     {
       "title": "How to continue a GitHub Copilot app session in VS Code",
@@ -2265,14 +2281,6 @@
       "source": "IEEE Spectrum",
       "category": "Emerging",
       "published": "2026-10-12T18:00:02+00:00"
-    },
-    {
-      "title": "First Utility-Scale Enhanced Geothermal Plant Goes Live",
-      "summary": "This article was originally published by Canary Media . The geothermal startup Fervo Energy is now selling power to the grid from its Cape Station project in Utah—marking the first time a utility-scale, next-generation geothermal ",
-      "url": "https://spectrum.ieee.org/fervo-cape-station-geothermal",
-      "source": "IEEE Spectrum",
-      "category": "Emerging",
-      "published": "2026-10-12T13:00:02+00:00"
     },
     {
       "title": "The model that didn't exist, so you made it yourself",
@@ -2593,14 +2601,6 @@
       "source": "Google DeepMind",
       "category": "AI",
       "published": "2026-09-15T17:05:57+00:00"
-    },
-    {
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "source": "Hugging Face",
-      "category": "AI",
-      "published": "2026-09-15T16:00:44+00:00"
     },
     {
       "title": "AI for Societal Impact",
