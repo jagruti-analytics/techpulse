@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-03T01:22:39.589664+00:00",
+  "updated_at": "2026-11-03T05:09:39.100801+00:00",
   "trending": [
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-02T18:00:00+00:00"
+    },
     {
       "title": "Lakebase Postgres is now generally available on Google Cloud",
       "summary": "We're excited to announce that Lakebase Postgres is generally available on Google Cloud...",
@@ -40,17 +48,25 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-02T00:00:00+00:00"
-    },
-    {
-      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-      "summary": "Comments",
-      "url": "https://momentic.ai/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T17:05:25+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-03T03:30:00+00:00"
+    },
+    {
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-03T01:49:52+00:00"
+    },
     {
       "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
       "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builde",
@@ -82,25 +98,17 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-02T20:00:03+00:00"
-    },
-    {
-      "title": "AI elites might hoard intelligence like mercantilists hoarded gold",
-      "summary": "Engineer Venkatesh Rao compares the fear of AI job losses to mercantilism: intelligence is treated as a scarce resource that elites want to control. But AI could boost demand for human thinking, much like early capitalism made peo",
-      "url": "https://the-decoder.com/ai-elites-might-hoard-intelligence-like-mercantilists-hoarded-gold/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-02T19:43:51+00:00"
-    },
-    {
-      "title": "The latest AI news we announced in October 2026",
-      "summary": "Here are Google’s latest AI updates from October 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "2026-11-02T17:45:00+00:00"
     }
   ],
   "technology_releases": [
+    {
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "summary": "Comments",
+      "url": "https://hackertimes.ca/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T01:53:34+00:00"
+    },
     {
       "title": "From a prompt to an operational dashboard: Generate Real-Time Dashboards with Copilot (Preview)",
       "summary": "Start with the question, not a blank dashboard Which transit stations are sending the most fans toward a stadium? How does that incoming demand compare with activity at the gates? Where are queues building? Answering these operati",
@@ -140,14 +148,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-02T17:05:25+00:00"
-    },
-    {
-      "title": "Introducing the Grid Protectors Program",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-02T15:00:00+00:00"
     }
   ]
 }

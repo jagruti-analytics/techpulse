@@ -1,7 +1,71 @@
 {
-  "updated_at": "2026-11-03T01:22:39.589664+00:00",
+  "updated_at": "2026-11-03T05:09:39.100801+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one d",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "source": "MIT Technology Review",
+      "category": "Emerging",
+      "published": "2026-11-03T04:18:47+00:00"
+    },
+    {
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-03T03:30:00+00:00"
+    },
+    {
+      "title": "Show HN: I built a little browser game to practice Vim commands",
+      "summary": "Comments",
+      "url": "https://hjkl.duy.run",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T03:10:04+00:00"
+    },
+    {
+      "title": "Show HN: Rustable is an open source database client built in Rust",
+      "summary": "Comments",
+      "url": "https://rustable.app",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T03:06:53+00:00"
+    },
+    {
+      "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+      "summary": "Comments",
+      "url": "https://arxiv.org/abs/2608.25820",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T02:58:44+00:00"
+    },
+    {
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "summary": "Comments",
+      "url": "https://hackertimes.ca/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T01:53:34+00:00"
+    },
+    {
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-03T01:49:52+00:00"
+    },
+    {
+      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "summary": "Comments",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T01:33:43+00:00"
+    },
     {
       "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
       "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builde",
@@ -27,22 +91,6 @@
       "published": "2026-11-03T00:08:53+00:00"
     },
     {
-      "title": "GUI64 – GUI for the Commodore 64 running on top of the built-in ROM",
-      "summary": "Comments",
-      "url": "https://www.c64-wiki.com/wiki/GUI64",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T23:32:22+00:00"
-    },
-    {
-      "title": "WorkOS reports security breach",
-      "summary": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50345712",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T23:30:59+00:00"
-    },
-    {
       "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
       "summary": "The one-year-old startup is now valued at $300 million.",
       "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
@@ -59,20 +107,20 @@
       "published": "2026-11-02T22:56:11+00:00"
     },
     {
-      "title": "Anthropic's growth just flattened",
-      "summary": "Comments",
-      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T22:33:20+00:00"
-    },
-    {
       "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
       "summary": "Comments",
       "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-02T22:30:47+00:00"
+    },
+    {
+      "title": "V100 SXM2 pinout and NVLink reference",
+      "summary": "Comments",
+      "url": "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-02T22:30:13+00:00"
     },
     {
       "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
@@ -147,14 +195,6 @@
       "published": "2026-11-02T19:43:51+00:00"
     },
     {
-      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-      "summary": "Comments",
-      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T19:27:37+00:00"
-    },
-    {
       "title": "Web host Squarespace lays off 19% of its employees",
       "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
       "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
@@ -227,20 +267,28 @@
       "published": "2026-11-02T18:10:39+00:00"
     },
     {
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-02T18:00:00+00:00"
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-02T18:00:00+00:00"
+    },
+    {
       "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
       "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by ",
       "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
       "source": "The Verge",
       "category": "Emerging",
       "published": "2026-11-02T17:51:19+00:00"
-    },
-    {
-      "title": "Making Peace with the Projective Plane",
-      "summary": "Comments",
-      "url": "https://www.johndcook.com/blog/2026/11/02/projective-plane/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T17:47:59+00:00"
     },
     {
       "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
@@ -387,14 +435,6 @@
       "published": "2026-11-02T16:19:22+00:00"
     },
     {
-      "title": "Moving our warehouse off DuckDB",
-      "summary": "Comments",
-      "url": "https://posthog.com/blog/moving-off-duckdb",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T16:02:26+00:00"
-    },
-    {
       "title": "Ask HN: Who is hiring? (November 2026)",
       "summary": "Comments",
       "url": "https://news.ycombinator.com/item?id=50338728",
@@ -457,14 +497,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-02T15:00:00+00:00"
-    },
-    {
-      "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
-      "summary": "Comments",
-      "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T14:56:21+00:00"
     },
     {
       "title": "WTF Ubuntu?",
@@ -611,20 +643,20 @@
       "published": "2026-11-02T09:35:19+00:00"
     },
     {
-      "title": "Show HN: I've updated my Linux System Call website and API",
-      "summary": "Comments",
-      "url": "https://syscall.sh/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T09:29:16+00:00"
-    },
-    {
       "title": "LifeVal",
       "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
       "url": "https://openai.com/index/lifeval",
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-02T09:00:00+00:00"
+    },
+    {
+      "title": "European RISC-V Industrial Computing Initiative",
+      "summary": "Comments",
+      "url": "https://erici.eu",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-02T08:58:33+00:00"
     },
     {
       "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
@@ -649,14 +681,6 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-02T00:00:00+00:00"
-    },
-    {
-      "title": "Why are car keys so expensive to replace?",
-      "summary": "Comments",
-      "url": "https://thehustle.co/originals/why-are-car-keys-so-expensive-to-replace",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-01T23:05:59+00:00"
     },
     {
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
@@ -747,6 +771,14 @@
       "published": "2026-11-01T07:02:58+00:00"
     },
     {
+      "title": "Resisting Cognitive Surrender",
+      "summary": "Comments",
+      "url": "https://knlb.dev/essays/surrender",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-01T06:13:30+00:00"
+    },
+    {
       "title": "Data centers are now a midterm issue, even in Brooklyn",
       "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
       "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
@@ -787,12 +819,12 @@
       "published": "2026-10-31T21:17:03+00:00"
     },
     {
-      "title": "A Conversation with Paul Masurel, Creator of Tantivy",
+      "title": "Trademarks and Symbols, Volume 2: Symbolical Designs (1973)",
       "summary": "Comments",
-      "url": "https://www.paradedb.com/blog/tantivy-interview",
+      "url": "https://www.symbools.com/kuwayama-trademarks-symbols-vol-2/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-10-31T18:26:43+00:00"
+      "published": "2026-10-31T18:50:43+00:00"
     },
     {
       "title": "OpenAI reportedly lowers funding target for new round",
@@ -857,22 +889,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-10-31T01:20:05+00:00"
-    },
-    {
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-10-30T22:56:13+00:00"
-    },
-    {
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-10-30T21:54:34+00:00"
     },
     {
       "title": "Databricks and SAP unleash end-to-end data & AI capabilities to level up enterprise AI transformation",
@@ -1305,14 +1321,6 @@
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-10-29T00:00:00+00:00"
-    },
-    {
-      "title": "Creating AI value with enterprise context",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisti",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "source": "MIT Technology Review",
-      "category": "Emerging",
-      "published": "2026-10-28T20:32:02+00:00"
     },
     {
       "title": "Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw",
@@ -1819,14 +1827,6 @@
       "published": "2026-10-22T00:00:00+00:00"
     },
     {
-      "title": "Broad access through consistent standards",
-      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-10-21T21:00:00+00:00"
-    },
-    {
       "title": "Manfred “Fred” J. Schindler Is 2027 IEEE President-Elect",
       "summary": "IEEE Life Fellow Manfred “Fred” J. Schindler has been elected as the 2027 IEEE president-elect . He will begin serving as president on 1 January 2028. Schindler, who was nominated by the IEEE Board of Directors , received 16,421 v",
       "url": "https://spectrum.ieee.org/schindler-2027-ieee-president-elect",
@@ -1913,14 +1913,6 @@
       "source": "Wired Security",
       "category": "Security",
       "published": "2026-10-21T12:35:00+00:00"
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud",
-      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-10-21T12:00:00+00:00"
     },
     {
       "title": "She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family",
