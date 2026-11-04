@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-04T17:10:46.199073+00:00",
+  "updated_at": "2026-11-04T21:05:45.954189+00:00",
   "trending": [
+    {
+      "title": "The Enterprise Case for Open-Weight Models on Databricks",
+      "summary": "As field engineers at Databricks, we spend our days inside enterprise AI deployments,...",
+      "url": "https://www.databricks.com/blog/enterprise-case-open-weight-models-databricks",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-04T20:00:00+00:00"
+    },
     {
       "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
       "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agen",
@@ -18,136 +26,128 @@
       "published": "2026-11-04T07:00:00+00:00"
     },
     {
-      "title": "New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations",
-      "summary": "CloudOpsBench is a new open-source benchmark that measures how well AI agents handle typical DevOps tasks in the cloud, from fixing services and removing resources to restricting access rights, rolling out updates, and decommissio",
-      "url": "https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-04T16:42:52+00:00"
-    },
-    {
-      "title": "GPT-6 Astra sees the matrix and reprograms other AI models directly through their weights",
-      "summary": "MIT researchers show that OpenAI's GPT-6 Astra can read and deliberately rewrite the weights of other AI models without traditional training. In one experiment, Astra boosted a Qwen model's math accuracy from 7.9 to 48.1 percent b",
-      "url": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-04T15:44:44+00:00"
-    },
-    {
-      "title": "Anthropic's new prototype proves which model wrote an AI response without exposing its weights",
-      "summary": "Anthropic has released FlashProve, a research prototype that uses cryptography to verify whether an AI response actually came from the claimed model. The system still has significant limitations. The article Anthropic's new protot",
-      "url": "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-04T15:23:49+00:00"
-    },
-    {
-      "title": "Declare and optimize with UNIQUE constraints on Databricks",
-      "summary": "Data teams often maintain uniqueness guarantees in their pipelines, but without a...",
-      "url": "https://www.databricks.com/blog/declare-and-optimize-unique-constraints-databricks",
-      "source": "Databricks",
+      "title": "Find expensive queries from Capacity Metrics (Generally Available)",
+      "summary": "When warehouse capacity usage spikes, you need to quickly understand what ran, which warehouse drove the usage, and which queries require investigation. The Monitor in warehouse action in the Microsoft Fabric Capacity Metrics app ",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Find-expensive-queries-from-Capacity-Metrics-Generally-Available/ba-p/5393588",
+      "source": "Microsoft Fabric",
       "category": "Analytics",
-      "published": "2026-11-03T21:00:00+00:00"
+      "published": "2026-11-04T20:03:23+00:00"
+    },
+    {
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "summary": "Comments",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T19:55:14+00:00"
+    },
+    {
+      "title": "ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model",
+      "summary": "OpenAI is adding a GIF feature to ChatGPT. With the new Images 2.6 model, users can create animated GIFs from text prompts or photos and then adjust speed and individual frames. The model's image consistency is strong enough to ke",
+      "url": "https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-04T19:44:20+00:00"
     }
   ],
   "ai_breakthroughs": [
     {
-      "title": "New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations",
-      "summary": "CloudOpsBench is a new open-source benchmark that measures how well AI agents handle typical DevOps tasks in the cloud, from fixing services and removing resources to restricting access rights, rolling out updates, and decommissio",
-      "url": "https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/",
+      "title": "ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model",
+      "summary": "OpenAI is adding a GIF feature to ChatGPT. With the new Images 2.6 model, users can create animated GIFs from text prompts or photos and then adjust speed and individual frames. The model's image consistency is strong enough to ke",
+      "url": "https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/",
       "source": "The Decoder",
       "category": "AI",
-      "published": "2026-11-04T16:42:52+00:00"
+      "published": "2026-11-04T19:44:20+00:00"
     },
     {
-      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-      "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
-      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
       "source": "TechCrunch AI",
       "category": "AI",
-      "published": "2026-11-04T16:17:22+00:00"
+      "published": "2026-11-04T19:30:04+00:00"
     },
     {
-      "title": "GPT-6 Astra sees the matrix and reprograms other AI models directly through their weights",
-      "summary": "MIT researchers show that OpenAI's GPT-6 Astra can read and deliberately rewrite the weights of other AI models without traditional training. In one experiment, Astra boosted a Qwen model's math accuracy from 7.9 to 48.1 percent b",
-      "url": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/",
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-04T19:29:52+00:00"
+    },
+    {
+      "title": "Anthropic's text watermark is easy to bypass on several older Claude models",
+      "summary": "Anthropic is rolling out text watermarks to four more Claude models ahead of the EU AI Act's December deadline. But on older models like Claude Opus 4.6 and Sonnet 4.6, API users can disable the watermark by changing a single samp",
+      "url": "https://the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models/",
       "source": "The Decoder",
       "category": "AI",
-      "published": "2026-11-04T15:44:44+00:00"
+      "published": "2026-11-04T19:03:55+00:00"
     },
     {
-      "title": "Anthropic's new prototype proves which model wrote an AI response without exposing its weights",
-      "summary": "Anthropic has released FlashProve, a research prototype that uses cryptography to verify whether an AI response actually came from the claimed model. The system still has significant limitations. The article Anthropic's new protot",
-      "url": "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/",
+      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available",
+      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-04T18:44:57+00:00"
+    },
+    {
+      "title": "OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents",
+      "summary": "OpenAI is buying Pierre Computer Company, the startup whose libraries already power the coding agent Codex. Combined with OpenAI's recently launched Git backend Pando, the deal shows the company is building out its infrastructure ",
+      "url": "https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/",
       "source": "The Decoder",
       "category": "AI",
-      "published": "2026-11-04T15:23:49+00:00"
-    },
-    {
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-04T14:30:00+00:00"
-    },
-    {
-      "title": "Exit polls show AI ranked last among voter priorities in the 2026 U.S. midterms",
-      "summary": "In the 2026 U.S. midterm elections, AI ranked last among campaign issues: only 56 percent of respondents cited AI and data centers as an important factor. According to NBC exit polls, corruption (90 percent) and the cost of living",
-      "url": "https://the-decoder.com/exit-polls-show-ai-ranked-last-among-voter-priorities-in-the-2026-u-s-midterms/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-04T10:45:54+00:00"
+      "published": "2026-11-04T18:41:03+00:00"
     }
   ],
   "technology_releases": [
     {
-      "title": "Salesforce Data 360 integration with OneLake (Preview)",
-      "summary": "A customer reports a missing delivery. The service case is in Salesforce, while the shipping and returns records are in Microsoft Fabric. Before a team can decide what to do next, it needs to connect those two views of the same cu",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Salesforce-Data-360-integration-with-OneLake-Preview/ba-p/5384626",
+      "title": "Find expensive queries from Capacity Metrics (Generally Available)",
+      "summary": "When warehouse capacity usage spikes, you need to quickly understand what ran, which warehouse drove the usage, and which queries require investigation. The Monitor in warehouse action in the Microsoft Fabric Capacity Metrics app ",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Find-expensive-queries-from-Capacity-Metrics-Generally-Available/ba-p/5393588",
       "source": "Microsoft Fabric",
       "category": "Analytics",
-      "published": "2026-11-04T16:10:26+00:00"
+      "published": "2026-11-04T20:03:23+00:00"
     },
     {
-      "title": "Debian apt security update (man-in-the-middle)",
+      "title": "OneLake table APIs: Now with Iceberg writes, plus richer table metadata (Preview)",
+      "summary": "OneLake table APIs already let Iceberg-compatible engines discover and read tables in Microsoft Fabric. Today we're taking the next step with two additions: Iceberg REST Catalog (IRC) writes through the OneLake table endpoint, now",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/OneLake-table-APIs-Now-with-Iceberg-writes-plus-richer-table/ba-p/5391262",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-04T20:00:00+00:00"
+    },
+    {
+      "title": "Govern Fabric connections with admin APIs and data connection policies (Preview)",
+      "summary": "Co-author: Abhishek Narain Protect continuity, understand connection risk, and set tenant-wide guardrails Imagine that the person who built a business-critical pipeline has left your organization. The connection still exists, but ",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Govern-Fabric-connections-with-admin-APIs-and-data-connection/ba-p/5383656",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-04T19:00:00+00:00"
+    },
+    {
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
       "summary": "Comments",
-      "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
+      "url": "https://www.ricursive.com/ripple",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-04T15:04:14+00:00"
+      "published": "2026-11-04T18:53:29+00:00"
     },
     {
-      "title": "More ways to use scalar UDFs in Microsoft Fabric Data Warehouse (Preview)",
-      "summary": "Scalar user-defined functions (UDFs) let data teams define a business rule once and reuse it across workloads in both Warehouse and the SQL analytics endpoint in Microsoft Fabric. This helps teams maintain consistent logic without",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/More-ways-to-use-scalar-UDFs-in-Microsoft-Fabric-Data-Warehouse/ba-p/5376708",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-04T11:56:02+00:00"
+      "title": "Nothing teases a screen-free AI device ahead of launch next month",
+      "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give a",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-04T18:26:07+00:00"
     },
     {
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-04T07:00:00+00:00"
-    },
-    {
-      "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
-      "summary": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensit",
-      "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-03T15:16:32+00:00"
-    },
-    {
-      "title": "From a prompt to an operational dashboard: Generate Real-Time Dashboards with Copilot (Preview)",
-      "summary": "Start with the question, not a blank dashboard Which transit stations are sending the most fans toward a stadium? How does that incoming demand compare with activity at the gates? Where are queues building? Answering these operati",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-a-prompt-to-an-operational-dashboard-Generate-Real-Time/ba-p/5380258",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-02T20:00:00+00:00"
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "summary": "Comments",
+      "url": "https://news.ycombinator.com/item?id=50368804",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T17:31:53+00:00"
     }
   ]
 }
