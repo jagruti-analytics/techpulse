@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-11-04T05:12:59.694803+00:00",
+  "updated_at": "2026-11-04T09:13:02.489454+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "Kitty 0.50",
+      "summary": "Comments",
+      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T08:57:10+00:00"
+    },
+    {
+      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
+      "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and internati",
+      "url": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-04T08:17:11+00:00"
+    },
+    {
+      "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+      "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix wi",
+      "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-04T07:46:15+00:00"
+    },
+    {
+      "title": "The lost malloc()",
+      "summary": "Comments",
+      "url": "https://napcakes.nekoweb.org/posts/malloc/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T07:37:30+00:00"
+    },
+    {
+      "title": "AI stocks slide as Texas governor result raises data center risks",
+      "summary": "Comments",
+      "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T07:00:20+00:00"
+    },
+    {
+      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerabi",
+      "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-04T05:43:11+00:00"
+    },
     {
       "title": "Jelly Sheet",
       "summary": "Comments",
@@ -185,14 +233,6 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-03T21:00:00+00:00"
-    },
-    {
-      "title": "The Pnyx and the Agora (2016)",
-      "summary": "Comments",
-      "url": "https://www.readingdesign.org/the-pnyx-and-the-agora",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T20:49:11+00:00"
     },
     {
       "title": "iPhone 18 rumors suggest a bigger battery, higher price next year",
@@ -787,25 +827,17 @@
       "published": "2026-11-02T19:19:17+00:00"
     },
     {
-      "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
-      "summary": "Comments",
-      "url": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T19:18:46+00:00"
-    },
-    {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-02T18:00:00+00:00"
     },
     {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-02T18:00:00+00:00"
@@ -1011,14 +1043,6 @@
       "published": "2026-11-02T09:00:00+00:00"
     },
     {
-      "title": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables (2015)",
-      "summary": "Comments",
-      "url": "https://www.mattkeeter.com/projects/antimony/3/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T08:29:40+00:00"
-    },
-    {
       "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
       "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other t",
       "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
@@ -1035,17 +1059,17 @@
       "published": "2026-11-02T04:31:20+00:00"
     },
     {
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "title": "Qodo builds context into AI code review with Codex",
+      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "url": "https://openai.com/index/qodo-codex-plugin",
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-02T00:00:00+00:00"
     },
     {
-      "title": "Qodo builds context into AI code review with Codex",
-      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "url": "https://openai.com/index/qodo-codex-plugin",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-02T00:00:00+00:00"
@@ -1217,30 +1241,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-10-30T15:17:28+00:00"
-    },
-    {
-      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-      "summary": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier, relates to a case of remote code ",
-      "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-10-30T14:08:14+00:00"
-    },
-    {
-      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
-      "summary": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. It is telli",
-      "url": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-10-30T12:21:56+00:00"
-    },
-    {
-      "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
-      "summary": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break anything. Their concerns a",
-      "url": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-10-30T11:58:53+00:00"
     },
     {
       "title": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
