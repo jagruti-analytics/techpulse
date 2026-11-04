@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T13:24:57.265758+00:00",
+  "updated_at": "2026-11-04T17:10:46.199073+00:00",
   "trending": [
     {
       "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
@@ -10,47 +10,87 @@
       "published": "2026-11-04T11:34:20+00:00"
     },
     {
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-04T07:00:00+00:00"
+    },
+    {
+      "title": "New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations",
+      "summary": "CloudOpsBench is a new open-source benchmark that measures how well AI agents handle typical DevOps tasks in the cloud, from fixing services and removing resources to restricting access rights, rolling out updates, and decommissio",
+      "url": "https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-04T16:42:52+00:00"
+    },
+    {
+      "title": "GPT-6 Astra sees the matrix and reprograms other AI models directly through their weights",
+      "summary": "MIT researchers show that OpenAI's GPT-6 Astra can read and deliberately rewrite the weights of other AI models without traditional training. In one experiment, Astra boosted a Qwen model's math accuracy from 7.9 to 48.1 percent b",
+      "url": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-04T15:44:44+00:00"
+    },
+    {
+      "title": "Anthropic's new prototype proves which model wrote an AI response without exposing its weights",
+      "summary": "Anthropic has released FlashProve, a research prototype that uses cryptography to verify whether an AI response actually came from the claimed model. The system still has significant limitations. The article Anthropic's new protot",
+      "url": "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-04T15:23:49+00:00"
+    },
+    {
       "title": "Declare and optimize with UNIQUE constraints on Databricks",
       "summary": "Data teams often maintain uniqueness guarantees in their pipelines, but without a...",
       "url": "https://www.databricks.com/blog/declare-and-optimize-unique-constraints-databricks",
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-03T21:00:00+00:00"
-    },
-    {
-      "title": "More ways to use scalar UDFs in Microsoft Fabric Data Warehouse (Preview)",
-      "summary": "Scalar user-defined functions (UDFs) let data teams define a business rule once and reuse it across workloads in both Warehouse and the SQL analytics endpoint in Microsoft Fabric. This helps teams maintain consistent logic without",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/More-ways-to-use-scalar-UDFs-in-Microsoft-Fabric-Data-Warehouse/ba-p/5376708",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-04T11:56:02+00:00"
-    },
-    {
-      "title": "Modernize data integration strategy with Microsoft Fabric when using Snowflake and Databricks",
-      "summary": "Challenges solved by Microsoft Fabric Microsoft Fabric is an end-to-end analytics platform that brings together data integration, data engineering, warehousing, real-time analytics, business intelligence, and AI-related experience",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Modernize-data-integration-strategy-with-Microsoft-Fabric-when/ba-p/5377581",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-03T17:00:00+00:00"
-    },
-    {
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-03T22:41:03+00:00"
-    },
-    {
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-03T21:43:08+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations",
+      "summary": "CloudOpsBench is a new open-source benchmark that measures how well AI agents handle typical DevOps tasks in the cloud, from fixing services and removing resources to restricting access rights, rolling out updates, and decommissio",
+      "url": "https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-04T16:42:52+00:00"
+    },
+    {
+      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-04T16:17:22+00:00"
+    },
+    {
+      "title": "GPT-6 Astra sees the matrix and reprograms other AI models directly through their weights",
+      "summary": "MIT researchers show that OpenAI's GPT-6 Astra can read and deliberately rewrite the weights of other AI models without traditional training. In one experiment, Astra boosted a Qwen model's math accuracy from 7.9 to 48.1 percent b",
+      "url": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-04T15:44:44+00:00"
+    },
+    {
+      "title": "Anthropic's new prototype proves which model wrote an AI response without exposing its weights",
+      "summary": "Anthropic has released FlashProve, a research prototype that uses cryptography to verify whether an AI response actually came from the claimed model. The system still has significant limitations. The article Anthropic's new protot",
+      "url": "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-04T15:23:49+00:00"
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-04T14:30:00+00:00"
+    },
     {
       "title": "Exit polls show AI ranked last among voter priorities in the 2026 U.S. midterms",
       "summary": "In the 2026 U.S. midterm elections, AI ranked last among campaign issues: only 56 percent of respondents cited AI and data centers as an important factor. According to NBC exit polls, corruption (90 percent) and the cost of living",
@@ -58,56 +98,24 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-04T10:45:54+00:00"
-    },
-    {
-      "title": "Schools that turn off Google's AI will lose search too starting in 2027",
-      "summary": "Starting in 2027, Google plans to turn off AI features in its school products by default, letting schools decide what to enable. The catch: schools that block AI entirely on their devices will also lose access to Google Search, si",
-      "url": "https://the-decoder.com/schools-that-turn-off-googles-ai-will-lose-search-too-starting-in-2027/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-04T10:06:23+00:00"
-    },
-    {
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-03T22:41:03+00:00"
-    },
-    {
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-03T21:43:08+00:00"
-    },
-    {
-      "title": "OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week",
-      "summary": "OpenAI's hardware team used GPT-6 Astra to design a device for the Codex coding agent in under a week, handling everything from the enclosure to the circuit board to the firmware. Several revision rounds were needed before product",
-      "url": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-03T20:15:45+00:00"
-    },
-    {
-      "title": "Rapid LLM development is outrunning the research meant to explain it, study finds",
-      "summary": "Stanford researchers tested 50 widely cited claims about LLMs against 20 current models. 44 percent of the findings are already \"expired,\" and another 34 percent have weakened significantly. The average lifespan is just 15.7 month",
-      "url": "https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-03T19:41:43+00:00"
     }
   ],
   "technology_releases": [
     {
-      "title": "Debian apt security update: man-in-the-middle arbitrary code execution",
+      "title": "Salesforce Data 360 integration with OneLake (Preview)",
+      "summary": "A customer reports a missing delivery. The service case is in Salesforce, while the shipping and returns records are in Microsoft Fabric. Before a team can decide what to do next, it needs to connect those two views of the same cu",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Salesforce-Data-360-integration-with-OneLake-Preview/ba-p/5384626",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-04T16:10:26+00:00"
+    },
+    {
+      "title": "Debian apt security update (man-in-the-middle)",
       "summary": "Comments",
-      "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html",
+      "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-04T12:46:58+00:00"
+      "published": "2026-11-04T15:04:14+00:00"
     },
     {
       "title": "More ways to use scalar UDFs in Microsoft Fabric Data Warehouse (Preview)",
@@ -116,6 +124,14 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-04T11:56:02+00:00"
+    },
+    {
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-04T07:00:00+00:00"
     },
     {
       "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
@@ -132,22 +148,6 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-02T20:00:00+00:00"
-    },
-    {
-      "title": "The latest AI news we announced in October 2026",
-      "summary": "Here are Google’s latest AI updates from October 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "2026-11-02T17:45:00+00:00"
-    },
-    {
-      "title": "Introducing the Grid Protectors Program",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-02T15:00:00+00:00"
     }
   ]
 }
