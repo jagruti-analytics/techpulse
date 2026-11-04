@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-11-04T01:23:38.021732+00:00",
+  "updated_at": "2026-11-04T05:12:59.694803+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "Jelly Sheet",
+      "summary": "Comments",
+      "url": "https://mrdoob.github.io/codevember-2026/01/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T03:40:50+00:00"
+    },
+    {
+      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+      "summary": "Comments",
+      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T03:20:13+00:00"
+    },
+    {
+      "title": "Arrows to arrows, categories to queries (2025)",
+      "summary": "Comments",
+      "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T03:11:27+00:00"
+    },
+    {
+      "title": "Giant canyon on Mars is still tectonically active",
+      "summary": "Comments",
+      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T01:40:42+00:00"
+    },
     {
       "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
       "summary": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will ",
@@ -9,6 +41,14 @@
       "source": "The Verge",
       "category": "Emerging",
       "published": "2026-11-04T01:15:34+00:00"
+    },
+    {
+      "title": "C++26 Disapproved",
+      "summary": "Comments",
+      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T00:33:22+00:00"
     },
     {
       "title": "Please stop asking me when the AI bubble will pop",
@@ -91,20 +131,20 @@
       "published": "2026-11-03T21:39:05+00:00"
     },
     {
-      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "summary": "Comments",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T21:26:44+00:00"
-    },
-    {
       "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
       "summary": "It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be",
       "url": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
       "source": "The Verge",
       "category": "Emerging",
       "published": "2026-11-03T21:21:04+00:00"
+    },
+    {
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "summary": "Comments",
+      "url": "https://uncracked.city",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T21:20:03+00:00"
     },
     {
       "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
@@ -147,6 +187,14 @@
       "published": "2026-11-03T21:00:00+00:00"
     },
     {
+      "title": "The Pnyx and the Agora (2016)",
+      "summary": "Comments",
+      "url": "https://www.readingdesign.org/the-pnyx-and-the-agora",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T20:49:11+00:00"
+    },
+    {
       "title": "iPhone 18 rumors suggest a bigger battery, higher price next year",
       "summary": "After Apple raised iPhone prices earlier this year, a new rumor claims it plans to launch the base iPhone 18 with a higher price, too. A Weibo post from leaker Digital Chat Station, spotted by 9to5Mac, says the base iPhone 18 is g",
       "url": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery",
@@ -169,14 +217,6 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-03T20:15:45+00:00"
-    },
-    {
-      "title": "Pratt parsing is a black box",
-      "summary": "Comments",
-      "url": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T20:07:41+00:00"
     },
     {
       "title": "Announcing support for Materialized views and streaming tables in Mirrored Azure Databricks catalog",
@@ -209,22 +249,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-03T19:34:43+00:00"
-    },
-    {
-      "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
-      "summary": "Comments",
-      "url": "https://flipper.net/pages/flipper-one",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T19:32:13+00:00"
-    },
-    {
-      "title": "macOS 27 does not support CoreStorage volumes",
-      "summary": "Comments",
-      "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T19:27:53+00:00"
     },
     {
       "title": "Introduction to Programming in ATS",
@@ -371,14 +395,6 @@
       "published": "2026-11-03T16:47:29+00:00"
     },
     {
-      "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
-      "summary": "Comments",
-      "url": "https://arxiv.org/abs/2611.02618",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T16:40:02+00:00"
-    },
-    {
       "title": "Palette: teaching a small model to build decks in your design language",
       "summary": "",
       "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
@@ -443,28 +459,12 @@
       "published": "2026-11-03T15:03:02+00:00"
     },
     {
-      "title": "Mac at Any Scale",
-      "summary": "Comments",
-      "url": "https://namespace.so/blog/mac-at-any-scale",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T14:53:42+00:00"
-    },
-    {
       "title": "There is no posttraining data commons",
       "summary": "Comments",
       "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-03T14:45:47+00:00"
-    },
-    {
-      "title": "Practice speaking Japanese with real YouTube videos, graded line by line",
-      "summary": "Comments",
-      "url": "https://jivx.com/yt",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T14:41:02+00:00"
     },
     {
       "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
@@ -489,6 +489,22 @@
       "source": "MIT Technology Review",
       "category": "Emerging",
       "published": "2026-11-03T13:10:00+00:00"
+    },
+    {
+      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+      "summary": "Comments",
+      "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T12:58:43+00:00"
+    },
+    {
+      "title": "Why Clip Art Was Everywhere Until It Wasn't [video]",
+      "summary": "Comments",
+      "url": "https://www.youtube.com/watch?v=XfLlpxE6AYM",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T12:40:06+00:00"
     },
     {
       "title": "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
@@ -609,14 +625,6 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-03T08:00:00+00:00"
-    },
-    {
-      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
-      "summary": "Comments",
-      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T07:56:21+00:00"
     },
     {
       "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
@@ -891,14 +899,6 @@
       "published": "2026-11-02T15:30:00+00:00"
     },
     {
-      "title": "Killing what can't be handled – putting a spaghetti demon to eternal rest",
-      "summary": "Comments",
-      "url": "https://themaister.net/blog/2026/10/29/killing-what-cant-be-handled-putting-a-spaghetti-demon-to-eternal-rest/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T15:18:49+00:00"
-    },
-    {
       "title": "Introducing the Grid Protectors Program",
       "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
       "url": "https://openai.com/index/grid-protectors-program",
@@ -1035,17 +1035,17 @@
       "published": "2026-11-02T04:31:20+00:00"
     },
     {
-      "title": "Qodo builds context into AI code review with Codex",
-      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "url": "https://openai.com/index/qodo-codex-plugin",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-02T00:00:00+00:00"
     },
     {
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "title": "Qodo builds context into AI code review with Codex",
+      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "url": "https://openai.com/index/qodo-codex-plugin",
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-02T00:00:00+00:00"
@@ -1099,7 +1099,7 @@
       "published": "2026-11-01T07:02:58+00:00"
     },
     {
-      "title": "We're Training a Figma-Fluent Editing Model",
+      "title": "We're training a Figma-fluent editing model",
       "summary": "Comments",
       "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
       "source": "Hacker News",
