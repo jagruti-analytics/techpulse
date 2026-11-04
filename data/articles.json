@@ -1,7 +1,151 @@
 {
-  "updated_at": "2026-11-04T09:13:02.489454+00:00",
+  "updated_at": "2026-11-04T13:24:57.265758+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "Securing the agentic enterprise with data lineage",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a s",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "source": "MIT Technology Review",
+      "category": "Emerging",
+      "published": "2026-11-04T13:00:00+00:00"
+    },
+    {
+      "title": "Debian apt security update: man-in-the-middle arbitrary code execution",
+      "summary": "Comments",
+      "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T12:46:58+00:00"
+    },
+    {
+      "title": "A map of 5000+ midterm ads",
+      "summary": "Comments",
+      "url": "https://admap.org/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T12:18:35+00:00"
+    },
+    {
+      "title": "Hackers hit French national blood bank",
+      "summary": "Comments",
+      "url": "https://www.telegraph.co.uk/world-news/2026/11/04/hackers-hit-french-blood-bank/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T12:08:35+00:00"
+    },
+    {
+      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw ",
+      "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-04T12:07:04+00:00"
+    },
+    {
+      "title": "Google hasn’t figured out how to make AI pay like its search engine",
+      "summary": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down f",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-04T12:00:00+00:00"
+    },
+    {
+      "title": "More ways to use scalar UDFs in Microsoft Fabric Data Warehouse (Preview)",
+      "summary": "Scalar user-defined functions (UDFs) let data teams define a business rule once and reuse it across workloads in both Warehouse and the SQL analytics endpoint in Microsoft Fabric. This helps teams maintain consistent logic without",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/More-ways-to-use-scalar-UDFs-in-Microsoft-Fabric-Data-Warehouse/ba-p/5376708",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-04T11:56:02+00:00"
+    },
+    {
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "summary": "Comments",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T11:52:17+00:00"
+    },
+    {
+      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others.",
+      "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-04T11:46:27+00:00"
+    },
+    {
+      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
+      "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agen",
+      "url": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-04T11:34:20+00:00"
+    },
+    {
+      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
+      "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance c",
+      "url": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-04T11:24:31+00:00"
+    },
+    {
+      "title": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
+      "summary": "Comments",
+      "url": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T11:14:12+00:00"
+    },
+    {
+      "title": "Exit polls show AI ranked last among voter priorities in the 2026 U.S. midterms",
+      "summary": "In the 2026 U.S. midterm elections, AI ranked last among campaign issues: only 56 percent of respondents cited AI and data centers as an important factor. According to NBC exit polls, corruption (90 percent) and the cost of living",
+      "url": "https://the-decoder.com/exit-polls-show-ai-ranked-last-among-voter-priorities-in-the-2026-u-s-midterms/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-04T10:45:54+00:00"
+    },
+    {
+      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "summary": "Comments",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T10:23:34+00:00"
+    },
+    {
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "summary": "Comments",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T10:10:27+00:00"
+    },
+    {
+      "title": "Schools that turn off Google's AI will lose search too starting in 2027",
+      "summary": "Starting in 2027, Google plans to turn off AI features in its school products by default, letting schools decide what to enable. The catch: schools that block AI entirely on their devices will also lose access to Google Search, si",
+      "url": "https://the-decoder.com/schools-that-turn-off-googles-ai-will-lose-search-too-starting-in-2027/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-04T10:06:23+00:00"
+    },
+    {
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "summary": "Comments",
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T10:00:06+00:00"
+    },
+    {
+      "title": "Verification Is Not Knowledge: Science needs more than answers",
+      "summary": "Comments",
+      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T09:01:58+00:00"
+    },
     {
       "title": "Kitty 0.50",
       "summary": "Comments",
@@ -9,6 +153,14 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-04T08:57:10+00:00"
+    },
+    {
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "summary": "Comments",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T08:46:29+00:00"
     },
     {
       "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
@@ -33,14 +185,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-04T07:37:30+00:00"
-    },
-    {
-      "title": "AI stocks slide as Texas governor result raises data center risks",
-      "summary": "Comments",
-      "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T07:00:20+00:00"
     },
     {
       "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
@@ -163,14 +307,6 @@
       "published": "2026-11-03T21:43:08+00:00"
     },
     {
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "summary": "Comments",
-      "url": "https://arxiv.org/abs/2605.29713",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T21:40:53+00:00"
-    },
-    {
       "title": "Safari introduces Adaptive Dark Mode in 27.3",
       "summary": "Comments",
       "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
@@ -193,14 +329,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-03T21:20:03+00:00"
-    },
-    {
-      "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
-      "summary": "Comments",
-      "url": "https://github.com/finic-ai/kairos",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T21:16:48+00:00"
     },
     {
       "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
@@ -267,14 +395,6 @@
       "published": "2026-11-03T20:00:00+00:00"
     },
     {
-      "title": "You can’t hit a wrong note when playing along with songs on Casio’s new keyboard",
-      "summary": "Casio announced a new addition to its Casiotone line of portable electronic keyboards with a feature that could help aspiring musicians master skills like rhythm and timing without the frustrations or discouragement of hitting the",
-      "url": "https://www.theverge.com/tech/1025673/casio-digital-piano-keyboard-ct-fs1-feel-sync-technology",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-03T19:48:41+00:00"
-    },
-    {
       "title": "Rapid LLM development is outrunning the research meant to explain it, study finds",
       "summary": "Stanford researchers tested 50 widely cited claims about LLMs against 20 current models. 44 percent of the findings are already \"expired,\" and another 34 percent have weakened significantly. The average lifespan is just 15.7 month",
       "url": "https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/",
@@ -289,14 +409,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-03T19:34:43+00:00"
-    },
-    {
-      "title": "Introduction to Programming in ATS",
-      "summary": "Comments",
-      "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T19:25:18+00:00"
     },
     {
       "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
@@ -393,14 +505,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-03T17:07:01+00:00"
-    },
-    {
-      "title": "Ashby (YC W19) Is Hiring EMs",
-      "summary": "Comments",
-      "url": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T17:00:53+00:00"
     },
     {
       "title": "Modernize data integration strategy with Microsoft Fabric when using Snowflake and Databricks",
@@ -531,22 +635,6 @@
       "published": "2026-11-03T13:10:00+00:00"
     },
     {
-      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-      "summary": "Comments",
-      "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T12:58:43+00:00"
-    },
-    {
-      "title": "Why Clip Art Was Everywhere Until It Wasn't [video]",
-      "summary": "Comments",
-      "url": "https://www.youtube.com/watch?v=XfLlpxE6AYM",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T12:40:06+00:00"
-    },
-    {
       "title": "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
       "summary": "Anthropic released Message Threads for the Messages API. Instead of resending the entire conversation with every turn, agents now only transmit what's changed. For requests between 500,000 and one million tokens, time to first tok",
       "url": "https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations/",
@@ -561,14 +649,6 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-03T12:22:12+00:00"
-    },
-    {
-      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-      "summary": "Comments",
-      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T12:21:17+00:00"
     },
     {
       "title": "Bring insights and action together with Fabric Apps in Org apps",
@@ -633,14 +713,6 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-03T10:42:44+00:00"
-    },
-    {
-      "title": "Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs",
-      "summary": "Anthropic is blocking its coding assistant Claude Code from recreating existing video games. The article Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs appeared first on The Decoder .",
-      "url": "https://the-decoder.com/anthropic-cracks-down-on-game-cloning-in-claude-code-after-wave-of-ai-built-knockoffs/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-03T09:48:08+00:00"
     },
     {
       "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
@@ -787,22 +859,6 @@
       "published": "2026-11-02T22:14:50+00:00"
     },
     {
-      "title": "Union Types and Option Types (2025)",
-      "summary": "Comments",
-      "url": "https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T20:08:33+00:00"
-    },
-    {
-      "title": "Goldman Sachs pulls AI coding tools from traders and bankers",
-      "summary": "Goldman Sachs is pulling AI coding tools like Claude Code and GitHub Copilot from traders and bankers, limiting access to engineers only. As recently as July, CIO Marco Argenti publicly praised \"vibe coding\" by non-technical staff",
-      "url": "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-02T20:00:03+00:00"
-    },
-    {
       "title": "From a prompt to an operational dashboard: Generate Real-Time Dashboards with Copilot (Preview)",
       "summary": "Start with the question, not a blank dashboard Which transit stations are sending the most fans toward a stadium? How does that incoming demand compare with activity at the gates? Where are queues building? Answering these operati",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-a-prompt-to-an-operational-dashboard-Generate-Real-Time/ba-p/5380258",
@@ -913,14 +969,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-02T15:50:26+00:00"
-    },
-    {
-      "title": "Curiosity Traps",
-      "summary": "Comments",
-      "url": "https://www.autodidacts.io/curiosity-traps/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T15:40:04+00:00"
     },
     {
       "title": "Scaling Git at OpenAI",
@@ -1171,22 +1219,6 @@
       "published": "2026-10-31T08:27:43+00:00"
     },
     {
-      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-      "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed. The researchers re",
-      "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-10-31T05:33:41+00:00"
-    },
-    {
-      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-      "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million net",
-      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-10-31T04:56:12+00:00"
-    },
-    {
       "title": "Databricks and SAP unleash end-to-end data & AI capabilities to level up enterprise AI transformation",
       "summary": "Today's AI models are more capable than ever. What they still lack is the business...",
       "url": "https://www.databricks.com/blog/databricks-and-sap-unleash-end-end-data-ai-capabilities-level-enterprise-ai-transformation",
@@ -1225,22 +1257,6 @@
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-10-30T17:57:24+00:00"
-    },
-    {
-      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-      "summary": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously. The activity has been",
-      "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-10-30T16:58:44+00:00"
-    },
-    {
-      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
-      "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the ",
-      "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-10-30T15:17:28+00:00"
     },
     {
       "title": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
@@ -1379,14 +1395,6 @@
       "published": "2026-10-29T13:37:07+00:00"
     },
     {
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and",
-      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "source": "MIT Technology Review",
-      "category": "Emerging",
-      "published": "2026-10-29T12:10:00+00:00"
-    },
-    {
       "title": "A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards",
       "summary": "Illicit software on the computers of some of the world’s best online poker players allowed the accused cheater to see what cards were in the victims’ hands—and trounce them at the tables.",
       "url": "https://www.wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards/",
@@ -1497,14 +1505,6 @@
       "source": "IEEE Spectrum",
       "category": "Emerging",
       "published": "2026-10-28T18:00:02+00:00"
-    },
-    {
-      "title": "More ways to use scalar UDFs in Microsoft Fabric Data Warehouse (Preview)",
-      "summary": "Scalar user-defined functions (UDFs) let data teams define a business rule once and reuse it across workloads in both Warehouse and the SQL analytics endpoint in Microsoft Fabric. This helps teams maintain consistent logic without",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/More-ways-to-use-scalar-UDFs-in-Microsoft-Fabric-Data-Warehouse/ba-p/5376708",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-10-28T17:00:00+00:00"
     },
     {
       "title": "GitHub Universe 2026: Evolving every layer of the stack",
