@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-11-05T05:14:53.061375+00:00",
+  "updated_at": "2026-11-05T09:17:31.102405+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+      "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web m",
+      "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-05T07:06:33+00:00"
+    },
+    {
+      "title": "Want to Rent an Internet Address at the White House?",
+      "summary": "Comments",
+      "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T05:59:13+00:00"
+    },
+    {
+      "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+      "summary": "Comments",
+      "url": "https://www.altera.com/newsroom/agilex-2x",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T05:47:14+00:00"
+    },
+    {
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-05T05:17:04+00:00"
+    },
+    {
+      "title": "Lemmings CSS Animation",
+      "summary": "Comments",
+      "url": "https://markblah.github.io/lemmings/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T04:54:10+00:00"
+    },
     {
       "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
       "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our p",
@@ -467,14 +507,6 @@
       "published": "2026-11-04T15:44:44+00:00"
     },
     {
-      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
-      "summary": "Comments",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T15:38:34+00:00"
-    },
-    {
       "title": "Kimi K3.1 Pro model weights are out",
       "summary": "Comments",
       "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
@@ -571,6 +603,14 @@
       "published": "2026-11-04T13:00:00+00:00"
     },
     {
+      "title": "So my ISP was hijacking my DNS",
+      "summary": "Comments",
+      "url": "https://www.karthihegde.dev/posts/dns_tampering",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T12:51:51+00:00"
+    },
+    {
       "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
       "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw ",
       "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
@@ -625,14 +665,6 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-04T10:06:23+00:00"
-    },
-    {
-      "title": "11 Nanoseconds per Word: Over-Optimizing Anagrams",
-      "summary": "Comments",
-      "url": "https://wiredream.com/anagram-fun/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T09:57:43+00:00"
     },
     {
       "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
@@ -769,14 +801,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-03T19:34:43+00:00"
-    },
-    {
-      "title": "Is Curiosity Good for Us?",
-      "summary": "Comments",
-      "url": "https://www.lrb.co.uk/the-paper/v48/n20/adam-phillips/is-curiosity-good-for-us",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T19:16:23+00:00"
     },
     {
       "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
@@ -963,6 +987,14 @@
       "published": "2026-11-03T10:43:41+00:00"
     },
     {
+      "title": "Chip Art",
+      "summary": "Comments",
+      "url": "https://en.wikipedia.org/wiki/Chip_art",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T09:51:39+00:00"
+    },
+    {
       "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
       "summary": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on instances ru",
       "url": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
@@ -993,6 +1025,14 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-03T07:43:07+00:00"
+    },
+    {
+      "title": "Future Maintenance of Mbed TLS",
+      "summary": "Comments",
+      "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T07:39:05+00:00"
     },
     {
       "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
@@ -1027,14 +1067,6 @@
       "published": "2026-11-03T04:18:47+00:00"
     },
     {
-      "title": "Ask HN: What cryptography book do you recommend for reading with 10 year olds?",
-      "summary": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50347425",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T02:52:50+00:00"
-    },
-    {
       "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
       "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
       "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
@@ -1065,22 +1097,6 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-02T20:00:00+00:00"
-    },
-    {
-      "title": "PageScribe: Handwriting and offline dictionary audio for KOReader",
-      "summary": "Comments",
-      "url": "https://aspireai.kiranadimatyam.com/builds/pagescribe/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T19:23:48+00:00"
-    },
-    {
-      "title": "Frustrated Ranchers Want People to Quit 'Rescuing' Their Working Guardian Dogs",
-      "summary": "Comments",
-      "url": "https://cowboystatedaily.com/2026/10/15/frustrated-ranchers-want-people-to-quit-rescuing-their-working-guardian-dogs/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T19:13:55+00:00"
     },
     {
       "title": "Spreading Liquid with Three.js",
@@ -1115,6 +1131,14 @@
       "published": "2026-11-02T17:45:00+00:00"
     },
     {
+      "title": "Partial Operator Precedence",
+      "summary": "Comments",
+      "url": "https://ziglang.org/devlog/2026/#2026-10-24",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-02T17:22:20+00:00"
+    },
+    {
       "title": "Raising the quality of insights in agentic analytics",
       "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taki",
       "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
@@ -1145,14 +1169,6 @@
       "source": "AWS News",
       "category": "Cloud",
       "published": "2026-11-02T16:45:48+00:00"
-    },
-    {
-      "title": "Show HN: The DNA of DOOM – How code structure survives across 44 ports",
-      "summary": "Comments",
-      "url": "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T16:23:37+00:00"
     },
     {
       "title": "Data Days: Learn, build, and connect with AI @Work",
@@ -1275,14 +1291,6 @@
       "published": "2026-11-02T09:00:00+00:00"
     },
     {
-      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
-      "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other t",
-      "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-02T05:51:07+00:00"
-    },
-    {
       "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
       "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
       "url": "https://openai.com/index/dan-driscoll-joins-openai",
@@ -1313,14 +1321,6 @@
       "source": "IEEE Spectrum",
       "category": "Emerging",
       "published": "2026-11-01T14:00:01+00:00"
-    },
-    {
-      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-      "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted clie",
-      "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-01T08:51:31+00:00"
     },
     {
       "title": "Lakebase branching for CI/CD: lessons from 100 PR databases",
