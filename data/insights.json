@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-05T13:29:12.489241+00:00",
+  "updated_at": "2026-11-05T17:26:11.058131+00:00",
   "trending": [
+    {
+      "title": "Tencent releases Hy4 with vision and computer use, claims second place among Chinese AI models",
+      "summary": "Tencent has unveiled Hy4, its first multimodal language model that understands images and can operate software on its own. On the Artificial Analysis Intelligence Index, it scores 35 points, solid but behind Kimi K3.1 Pro. On hard",
+      "url": "https://the-decoder.com/tencent-releases-hy4-with-vision-and-computer-use-claims-second-place-among-chinese-ai-models/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-05T16:06:31+00:00"
+    },
     {
       "title": "Introducing Apache Spark® 4.3 - Now available in Databricks Runtime 19",
       "summary": "IntroductionApache Spark 4.3 brings stateful processing to Real-Time Mode, achieving...",
@@ -8,6 +16,22 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-05T00:00:00+00:00"
+    },
+    {
+      "title": "Launch HN: Rivet (YC F25) – Scale and Orchestrate Agents on S3",
+      "summary": "Comments",
+      "url": "https://github.com/rivet-dev/rivet",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T17:17:42+00:00"
+    },
+    {
+      "title": "No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark",
+      "summary": "SemiAnalysis is putting AI agents through simulated knowledge work in its new GDPx benchmark, covering everything from chip design to quant trading. No model breaks 12 percent. Claude Opus 5.5 leads narrowly over Gemini 4 Carbon. ",
+      "url": "https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-05T16:46:24+00:00"
     },
     {
       "title": "Eventhouse support for OneLake security (Generally Available)",
@@ -18,96 +42,80 @@
       "published": "2026-11-04T22:00:00+00:00"
     },
     {
-      "title": "The Enterprise Case for Open-Weight Models on Databricks",
-      "summary": "As field engineers at Databricks, we spend our days inside enterprise AI deployments,...",
-      "url": "https://www.databricks.com/blog/enterprise-case-open-weight-models-databricks",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-04T20:00:00+00:00"
-    },
-    {
-      "title": "Baidu released ERNIE 5.5 Flash Base",
-      "summary": "Comments",
-      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T09:29:12+00:00"
-    },
-    {
-      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-      "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agen",
-      "url": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-04T11:34:20+00:00"
-    },
-    {
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "source": "OpenAI",
+      "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+      "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+      "source": "TechCrunch AI",
       "category": "AI",
-      "published": "2026-11-05T02:00:00+00:00"
+      "published": "2026-11-05T14:42:00+00:00"
     }
   ],
   "ai_breakthroughs": [
     {
-      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
-      "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
-      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-      "source": "TechCrunch AI",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summary": "",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "source": "Google DeepMind",
       "category": "AI",
-      "published": "2026-11-05T13:00:00+00:00"
+      "published": "2026-11-05T17:05:16+00:00"
     },
     {
-      "title": "Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI",
-      "summary": "Catherine Wu, the founding product lead for Claude Code, is leaving Anthropic for OpenAI, where she'll head up product management for \"Core Products\" and work directly with Codex lead Thibault Sottiaux. She's the third person to l",
-      "url": "https://the-decoder.com/anthropic-loses-product-lead-catherine-wu-behind-claude-code-to-openai/",
+      "title": "No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark",
+      "summary": "SemiAnalysis is putting AI agents through simulated knowledge work in its new GDPx benchmark, covering everything from chip design to quant trading. No model breaks 12 percent. Claude Opus 5.5 leads narrowly over Gemini 4 Carbon. ",
+      "url": "https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/",
       "source": "The Decoder",
       "category": "AI",
-      "published": "2026-11-05T12:20:35+00:00"
+      "published": "2026-11-05T16:46:24+00:00"
     },
     {
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-05T02:00:00+00:00"
-    },
-    {
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
       "source": "TechCrunch AI",
       "category": "AI",
-      "published": "2026-11-05T01:26:22+00:00"
+      "published": "2026-11-05T16:16:45+00:00"
     },
     {
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "source": "TechCrunch AI",
+      "title": "Tencent releases Hy4 with vision and computer use, claims second place among Chinese AI models",
+      "summary": "Tencent has unveiled Hy4, its first multimodal language model that understands images and can operate software on its own. On the Artificial Analysis Intelligence Index, it scores 35 points, solid but behind Kimi K3.1 Pro. On hard",
+      "url": "https://the-decoder.com/tencent-releases-hy4-with-vision-and-computer-use-claims-second-place-among-chinese-ai-models/",
+      "source": "The Decoder",
       "category": "AI",
-      "published": "2026-11-04T22:45:09+00:00"
+      "published": "2026-11-05T16:06:31+00:00"
     },
     {
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
       "source": "TechCrunch AI",
       "category": "AI",
-      "published": "2026-11-04T22:13:16+00:00"
+      "published": "2026-11-05T15:19:05+00:00"
+    },
+    {
+      "title": "Meta buys AI coding startup Conductor as big tech races to lock in developers",
+      "summary": "Meta is acquiring AI coding startup Conductor, which lets developers control multiple AI coding agents at once. On the same day, OpenAI announced plans to acquire Pierre Computer, and Anthropic already bought Stainless back in May",
+      "url": "https://the-decoder.com/meta-buys-ai-coding-startup-conductor-as-big-tech-races-to-lock-in-developers/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-05T15:01:09+00:00"
     }
   ],
   "technology_releases": [
     {
-      "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
+      "title": "Launch HN: Rivet (YC F25) – Scale and Orchestrate Agents on S3",
       "summary": "Comments",
-      "url": "https://hachyderm.io/@damienmiller/117563026759098135",
+      "url": "https://github.com/rivet-dev/rivet",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-05T09:46:17+00:00"
+      "published": "2026-11-05T17:17:42+00:00"
+    },
+    {
+      "title": "Power Query Corner: Finding and connecting to data in the new experience (Preview)",
+      "summary": "About this series This is the first in a six-part Power Query Corner series exploring the new Power Query experience. Each post takes a closer look at a different part of the experience, including what’s changing, why it matters, ",
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-Query-Corner-Finding-and-connecting-to-data-in-the-new/ba-p/5382053",
+      "source": "Microsoft Power BI",
+      "category": "Analytics",
+      "published": "2026-11-05T17:00:00+00:00"
     },
     {
       "title": "Baidu released ERNIE 5.5 Flash Base",
@@ -118,14 +126,6 @@
       "published": "2026-11-05T09:29:12+00:00"
     },
     {
-      "title": "X says its updated web app is way faster",
-      "summary": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" princip",
-      "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-05T00:25:12+00:00"
-    },
-    {
       "title": "Introducing Apache Spark® 4.3 - Now available in Databricks Runtime 19",
       "summary": "IntroductionApache Spark 4.3 brings stateful processing to Real-Time Mode, achieving...",
       "url": "https://www.databricks.com/blog/introducing-apache-spark-43-now-available-databricks-runtime-19",
@@ -134,20 +134,20 @@
       "published": "2026-11-05T00:00:00+00:00"
     },
     {
-      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
-      "summary": "Comments",
-      "url": "https://icode4.coffee/?p=1746",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T22:01:49+00:00"
-    },
-    {
       "title": "Eventhouse support for OneLake security (Generally Available)",
       "summary": "Security should be consistent wherever you query your data. With OneLake security, you can define access controls once, close to the data, and apply them across supported Microsoft Fabric engines without recreating your security r",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Eventhouse-support-for-OneLake-security-Generally-Available/ba-p/5377875",
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-04T22:00:00+00:00"
+    },
+    {
+      "title": "Find expensive queries from Capacity Metrics (Generally Available)",
+      "summary": "When warehouse capacity usage spikes, you need to quickly understand what ran, which warehouse drove the usage, and which queries require investigation. The Monitor in warehouse action in the Microsoft Fabric Capacity Metrics app ",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Find-expensive-queries-from-Capacity-Metrics-Generally-Available/ba-p/5393588",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-04T20:03:23+00:00"
     }
   ]
 }

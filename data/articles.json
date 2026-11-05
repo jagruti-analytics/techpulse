@@ -1,7 +1,351 @@
 {
-  "updated_at": "2026-11-05T13:29:12.489241+00:00",
+  "updated_at": "2026-11-05T17:26:11.058131+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "Launch HN: Rivet (YC F25) – Scale and Orchestrate Agents on S3",
+      "summary": "Comments",
+      "url": "https://github.com/rivet-dev/rivet",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T17:17:42+00:00"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summary": "",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-11-05T17:05:16+00:00"
+    },
+    {
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "summary": "Comments",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T17:01:23+00:00"
+    },
+    {
+      "title": "Power Query Corner: Finding and connecting to data in the new experience (Preview)",
+      "summary": "About this series This is the first in a six-part Power Query Corner series exploring the new Power Query experience. Each post takes a closer look at a different part of the experience, including what’s changing, why it matters, ",
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-Query-Corner-Finding-and-connecting-to-data-in-the-new/ba-p/5382053",
+      "source": "Microsoft Power BI",
+      "category": "Analytics",
+      "published": "2026-11-05T17:00:00+00:00"
+    },
+    {
+      "title": "No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark",
+      "summary": "SemiAnalysis is putting AI agents through simulated knowledge work in its new GDPx benchmark, covering everything from chip design to quant trading. No model breaks 12 percent. Claude Opus 5.5 leads narrowly over Gemini 4 Carbon. ",
+      "url": "https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-05T16:46:24+00:00"
+    },
+    {
+      "title": "Vibe Coding Keypad",
+      "summary": "Comments",
+      "url": "https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T16:43:16+00:00"
+    },
+    {
+      "title": "Which Data Collaboration Tool: OpenSharing, Clean Rooms, Marketplace",
+      "summary": "The world of sharing has extended far past tables. We can now securely share all...",
+      "url": "https://www.databricks.com/blog/which-data-collaboration-tool-opensharing-clean-rooms-marketplace",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-05T16:29:00+00:00"
+    },
+    {
+      "title": "From Delta Sharing to OpenSharing: what changed, what's next",
+      "summary": "Delta Sharing has been the way thousands of organizations exchange live data across...",
+      "url": "https://www.databricks.com/blog/delta-sharing-opensharing-what-changed-whats-next",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-05T16:25:00+00:00"
+    },
+    {
+      "title": "My psychophysics as a bilateral cochlear implant user",
+      "summary": "Comments",
+      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T16:21:12+00:00"
+    },
+    {
+      "title": "The Stacks Project, Formalized in Lean",
+      "summary": "Comments",
+      "url": "https://axiommath.ai/research/the-stacks-project-formalized/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T16:16:59+00:00"
+    },
+    {
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-05T16:16:45+00:00"
+    },
+    {
+      "title": "Tencent releases Hy4 with vision and computer use, claims second place among Chinese AI models",
+      "summary": "Tencent has unveiled Hy4, its first multimodal language model that understands images and can operate software on its own. On the Artificial Analysis Intelligence Index, it scores 35 points, solid but behind Kimi K3.1 Pro. On hard",
+      "url": "https://the-decoder.com/tencent-releases-hy4-with-vision-and-computer-use-claims-second-place-among-chinese-ai-models/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-05T16:06:31+00:00"
+    },
+    {
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "summary": "Comments",
+      "url": "https://motorolanews.com/motorola-signature-27-2/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T16:01:34+00:00"
+    },
+    {
+      "title": "OCAP Bounded Authority: Edera's Managed Approach to Object Capabilities",
+      "summary": "Comments",
+      "url": "https://edera.dev/stories/ocap-bounded-authority",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T16:01:26+00:00"
+    },
+    {
+      "title": "Accessibility statements now have a home on GitHub",
+      "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have",
+      "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
+      "source": "GitHub Blog",
+      "category": "Development",
+      "published": "2026-11-05T16:00:00+00:00"
+    },
+    {
+      "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
+      "summary": "Comments",
+      "url": "https://github.com/AGGIB/Stroq",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T15:54:41+00:00"
+    },
+    {
+      "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
+      "summary": "Comments",
+      "url": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T15:51:57+00:00"
+    },
+    {
+      "title": "Offline survival assistant – local LLM and Kiwix, runs from a USB stick",
+      "summary": "Comments",
+      "url": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T15:25:36+00:00"
+    },
+    {
+      "title": "We can do better than line-buffered output",
+      "summary": "Comments",
+      "url": "https://nullprogram.com/blog/2026/11/05/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T15:25:22+00:00"
+    },
+    {
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-05T15:19:05+00:00"
+    },
+    {
+      "title": "Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust",
+      "summary": "Comments",
+      "url": "https://nordstjernen.org/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T15:17:31+00:00"
+    },
+    {
+      "title": "Meta buys AI coding startup Conductor as big tech races to lock in developers",
+      "summary": "Meta is acquiring AI coding startup Conductor, which lets developers control multiple AI coding agents at once. On the same day, OpenAI announced plans to acquire Pierre Computer, and Anthropic already bought Stainless back in May",
+      "url": "https://the-decoder.com/meta-buys-ai-coding-startup-conductor-as-big-tech-races-to-lock-in-developers/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-05T15:01:09+00:00"
+    },
+    {
+      "title": "The hidden supply chain costs of the AI boom",
+      "summary": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chain",
+      "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-05T15:00:00+00:00"
+    },
+    {
+      "title": "WhatsApp will let you invite friends to events who aren’t on the app",
+      "summary": "WhatsApp is rolling out a new feature that allows you to invite friends and family members to events in the app - even if they don't have the messenger installed. When you create an event in WhatsApp, you can share a link with a f",
+      "url": "https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-05T15:00:00+00:00"
+    },
+    {
+      "title": "You can edit your videos with AI on Instagram’s new desktop Edits app",
+      "summary": "Instagram's standalone video editing app is now available on macOS, where you can plug in your AI agent of choice to assemble your videos. Instagram's Matthew Simari, head of product management for Edits, said in an interview with",
+      "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-05T15:00:00+00:00"
+    },
+    {
+      "title": "Image of our satellite-choked night skies",
+      "summary": "Comments",
+      "url": "https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T14:49:07+00:00"
+    },
+    {
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "summary": "Comments",
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T14:44:20+00:00"
+    },
+    {
+      "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+      "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-05T14:42:00+00:00"
+    },
+    {
+      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+      "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shoul",
+      "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-05T14:41:10+00:00"
+    },
+    {
+      "title": "After midterm rout, OpenAI tries to win over communities it needs for AI expansion",
+      "summary": "OpenAI is responding to the clear vote by US voters against new data centers with voluntary commitments for future sites. The pledges only apply to facilities OpenAI operates itself, though, and a large share of its infrastructure",
+      "url": "https://the-decoder.com/after-midterm-rout-openai-tries-to-win-over-communities-it-needs-for-ai-expansion/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-05T14:37:46+00:00"
+    },
+    {
+      "title": "September in Servo: , rounded rectangles, and more",
+      "summary": "Comments",
+      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T14:34:18+00:00"
+    },
+    {
+      "title": "Tech is about to get hammered in Congress",
+      "summary": "Tech CEO hearings. Tougher AI and data center guardrails. Investigations of Elon Musk's DOGE cuts. The gates are open for Democrats once they regain control of committee gavels come January after a historic win of majorities in bo",
+      "url": "https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-05T14:11:27+00:00"
+    },
+    {
+      "title": "The X-70 is NASA’s next experimental X-plane",
+      "summary": "Yesterday NASA announced the latest addition to its X-series of experimental aircraft that have included the Bell X-1 that first broke the sound barrier nearly 80 years ago, and the more recent X-59 quiet supersonic demonstrator. ",
+      "url": "https://www.theverge.com/tech/1027426/nasa-experimental-x-70-fractal-aircraft",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-05T14:10:12+00:00"
+    },
+    {
+      "title": "Anthropic reverses course and pays for news content for the first time",
+      "summary": "Anthropic signed its first licensing deal with a news publisher just ahead of the US midterm elections. The article Anthropic reverses course and pays for news content for the first time appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropic-reverses-course-and-pays-for-news-content-for-the-first-time/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-05T14:09:05+00:00"
+    },
+    {
+      "title": "MCP Explained",
+      "summary": "Comments",
+      "url": "https://mcp-explained.com/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T14:08:35+00:00"
+    },
+    {
+      "title": "OpenAI's GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles",
+      "summary": "OpenAI's new GPT-6 Astra model apparently sabotaged AI safety research on purpose. It invented obstacles, withheld solutions, and performed about 40 percent worse on safety tasks than on comparable other tasks. Removing a flawed t",
+      "url": "https://the-decoder.com/openais-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-05T14:08:22+00:00"
+    },
+    {
+      "title": "Apple slashes internal AI budgets, with deeper cuts still planned",
+      "summary": "Tech companies are cutting internal AI spending, and Apple is the latest to follow suit. The article Apple slashes internal AI budgets, with deeper cuts still planned appeared first on The Decoder .",
+      "url": "https://the-decoder.com/apple-slashes-internal-ai-budgets-with-deeper-cuts-still-planned/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-05T14:03:14+00:00"
+    },
+    {
+      "title": "Why a Mathematician Is Chasing Eclipses With Algorithms and Cameras",
+      "summary": "The sun hangs low over the plains of Castile and León, in the north-central region of Spain. But from a slope of the mountain Pico Trigaza , it appears that a few puffy white clouds have started to block the sun. That’s vexing. A ",
+      "url": "https://spectrum.ieee.org/2026-solar-eclipse",
+      "source": "IEEE Spectrum",
+      "category": "Emerging",
+      "published": "2026-11-05T14:00:02+00:00"
+    },
+    {
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+      "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-05T14:00:00+00:00"
+    },
+    {
+      "title": "The touchscreen MacBook Pro is a winner",
+      "summary": "I keep forgetting the MacBook Pro with PROLED XDR Display has a touchscreen. I've been testing this new laptop, one of the most impressive Apple has ever created, for the better part of a week. I can't stop noticing some of its ot",
+      "url": "https://www.theverge.com/tech/1026570/apple-macbook-pro-proled-xdr-display-review",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-05T14:00:00+00:00"
+    },
+    {
+      "title": "The new iMac is a good desktop computer that needs a redesign",
+      "summary": "I'm a simple guy. I usually work from my MacBook Neo wherever I end up sitting in my house. And while I have monitors, mice, and keyboards to plug it into, I often end up leaning over the MacBook and doing none of that. I rarely e",
+      "url": "https://www.theverge.com/tech/1027177/2026-imac-m6-review",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-05T14:00:00+00:00"
+    },
+    {
+      "title": "The M6 MacBook Pro is probably the last of its kind",
+      "summary": "On November 6th, Apple will release an all-new MacBook Pro. It's thinner and lighter and has a beautiful OLED touchscreen. It is very likely what every new MacBook Pro will look like in a couple of years. The M6 MacBook Pro, which",
+      "url": "https://www.theverge.com/tech/1027250/m6-macbook-pro-review",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-05T14:00:00+00:00"
+    },
+    {
+      "title": "I wish tech companies knew more about me",
+      "summary": "Comments",
+      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T13:40:52+00:00"
+    },
     {
       "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is th",
@@ -9,6 +353,22 @@
       "source": "MIT Technology Review",
       "category": "Emerging",
       "published": "2026-11-05T13:10:00+00:00"
+    },
+    {
+      "title": "Discord is ditching Electron and its new app uses less RAM",
+      "summary": "Comments",
+      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T13:05:28+00:00"
+    },
+    {
+      "title": "Download your favourite YouTube videos",
+      "summary": "Comments",
+      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T13:00:11+00:00"
     },
     {
       "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
@@ -19,12 +379,36 @@
       "published": "2026-11-05T13:00:00+00:00"
     },
     {
+      "title": "Motorola is going ultra premium with its $1,600 ‘Signature’ phone",
+      "summary": "Motorola is trying something it hasn't attempted in the modern smartphone era: to make an all-out flagship slab-style phone. Previous high-end Edge devices never quite hit the mark, and lacked features that would put it in the hig",
+      "url": "https://www.theverge.com/gadgets/1026643/motorola-signature-27-price-specs-availability",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-05T13:00:00+00:00"
+    },
+    {
+      "title": "Obscure audio codec is a perfect fit for the N64",
+      "summary": "Comments",
+      "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T12:51:48+00:00"
+    },
+    {
       "title": "Push-based CDC into Unity Catalog with Zerobus Ingest and Debezium",
       "summary": "Data in operational databases drives business decisions, and much of that analysis...",
       "url": "https://www.databricks.com/blog/push-based-cdc-unity-catalog-zerobus-ingest-and-debezium",
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-05T12:48:00+00:00"
+    },
+    {
+      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+      "summary": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may ",
+      "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-05T12:25:00+00:00"
     },
     {
       "title": "Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI",
@@ -35,7 +419,7 @@
       "published": "2026-11-05T12:20:35+00:00"
     },
     {
-      "title": "Sshole",
+      "title": "sshole",
       "summary": "Comments",
       "url": "https://sshhole.com",
       "source": "Hacker News",
@@ -75,14 +459,6 @@
       "published": "2026-11-05T11:16:51+00:00"
     },
     {
-      "title": "Big Tech’s big AI buildout will not end until someone stops it",
-      "summary": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-05T10:45:00+00:00"
-    },
-    {
       "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
       "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise ",
       "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
@@ -97,14 +473,6 @@
       "source": "MIT Technology Review",
       "category": "Emerging",
       "published": "2026-11-05T10:00:00+00:00"
-    },
-    {
-      "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
-      "summary": "Comments",
-      "url": "https://hachyderm.io/@damienmiller/117563026759098135",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T09:46:17+00:00"
     },
     {
       "title": "Baidu released ERNIE 5.5 Flash Base",
@@ -147,22 +515,6 @@
       "published": "2026-11-05T07:06:33+00:00"
     },
     {
-      "title": "Being a kid making games in the early 2000s",
-      "summary": "Comments",
-      "url": "https://jaytholen.net/teengamedev/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T05:53:53+00:00"
-    },
-    {
-      "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
-      "summary": "Comments",
-      "url": "https://www.altera.com/newsroom/agilex-2x",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T05:47:14+00:00"
-    },
-    {
       "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports",
       "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
@@ -188,7 +540,7 @@
     },
     {
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "summary": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
       "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
       "source": "TechCrunch AI",
       "category": "AI",
@@ -201,14 +553,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-05T01:02:14+00:00"
-    },
-    {
-      "title": "X says its updated web app is way faster",
-      "summary": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" princip",
-      "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-05T00:25:12+00:00"
     },
     {
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
@@ -227,14 +571,6 @@
       "published": "2026-11-05T00:00:00+00:00"
     },
     {
-      "title": "Images 2.6",
-      "summary": "Comments",
-      "url": "https://openai.com/index/introducing-images-2-6/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T23:35:44+00:00"
-    },
-    {
       "title": "Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg",
       "summary": "You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or compute to provision, while production workloads keep running.",
       "url": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/",
@@ -251,28 +587,12 @@
       "published": "2026-11-04T22:45:09+00:00"
     },
     {
-      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-      "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI da",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-04T22:42:15+00:00"
-    },
-    {
       "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
       "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
       "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-04T22:13:16+00:00"
-    },
-    {
-      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
-      "summary": "Comments",
-      "url": "https://icode4.coffee/?p=1746",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T22:01:49+00:00"
     },
     {
       "title": "Eventhouse support for OneLake security (Generally Available)",
@@ -291,22 +611,6 @@
       "published": "2026-11-04T21:56:01+00:00"
     },
     {
-      "title": "17 better ways Elon Musk could have wasted $446 million",
-      "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitte",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-04T21:45:00+00:00"
-    },
-    {
-      "title": "How I learned to love an obnoxious phone grip",
-      "summary": "Much like a great recipe, it started with a stick of butter. This wasn't real butter; it was a friend's new phone grip, complemented by a phone case with bold stripes. Butter is in vogue now, or at least that's what a 12-year-old ",
-      "url": "https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-04T21:30:00+00:00"
-    },
-    {
       "title": "OpenAI is already trying to shape the 2028 election",
       "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
       "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
@@ -321,22 +625,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-04T21:10:56+00:00"
-    },
-    {
-      "title": "Residential proxies detected on White House network",
-      "summary": "Comments",
-      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T20:45:18+00:00"
-    },
-    {
-      "title": "Gemini for Home now plugs into AT&T’s smart security system",
-      "summary": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered featu",
-      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-04T20:23:24+00:00"
     },
     {
       "title": "Find expensive queries from Capacity Metrics (Generally Available)",
@@ -361,22 +649,6 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-04T20:00:00+00:00"
-    },
-    {
-      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-      "summary": "Comments",
-      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T19:55:14+00:00"
-    },
-    {
-      "title": "Insects don't swarm at LED lights",
-      "summary": "Comments",
-      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T19:50:23+00:00"
     },
     {
       "title": "ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model",
@@ -419,44 +691,12 @@
       "published": "2026-11-04T19:03:55+00:00"
     },
     {
-      "title": "Google’s Pixel 11 phones are up to 27 percent off",
-      "summary": "You can save a heck of lot of money on Google’s Pixel 11 phones through November 8th, whether you want the best-for-the-least Pixel 11, or the slightly pricier Pixel 11 Pro that takes better photos. Even the big Pixel 11 Pro XL wi",
-      "url": "https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-04T19:00:00+00:00"
-    },
-    {
-      "title": "Xbox previews two new ways to control cloud games",
-      "summary": "I revealed yesterday that the new Xbox Nano controller supports a Wi-Fi connection directly to Xbox Cloud Gaming, and now Microsoft is making it official today. Two new Xbox previews will let players try out using a phone as a con",
-      "url": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-04T19:00:00+00:00"
-    },
-    {
       "title": "Govern Fabric connections with admin APIs and data connection policies (Preview)",
       "summary": "Co-author: Abhishek Narain Protect continuity, understand connection risk, and set tenant-wide guardrails Imagine that the person who built a business-critical pipeline has left your organization. The connection still exists, but ",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Govern-Fabric-connections-with-admin-APIs-and-data-connection/ba-p/5383656",
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-04T19:00:00+00:00"
-    },
-    {
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "summary": "Comments",
-      "url": "https://www.ricursive.com/ripple",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T18:53:29+00:00"
-    },
-    {
-      "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
-      "summary": "Comments",
-      "url": "https://fireflyk64.github.io/wcmulti/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T18:51:27+00:00"
     },
     {
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
@@ -475,38 +715,6 @@
       "published": "2026-11-04T18:44:57+00:00"
     },
     {
-      "title": "OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents",
-      "summary": "OpenAI is buying Pierre Computer Company, the startup whose libraries already power the coding agent Codex. Combined with OpenAI's recently launched Git backend Pando, the deal shows the company is building out its infrastructure ",
-      "url": "https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-04T18:41:03+00:00"
-    },
-    {
-      "title": "Nothing teases a screen-free AI device ahead of launch next month",
-      "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give a",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-04T18:26:07+00:00"
-    },
-    {
-      "title": "Apple will check shared iCloud links for ‘harmful content’",
-      "summary": "Apple will start checking iCloud items that are accessible to anyone who has the link for \"harmful content\" starting with iOS 27.3 and other 27.3 updates, the company says. \"When you share an item that can be accessed by Anyone wi",
-      "url": "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-04T18:23:37+00:00"
-    },
-    {
-      "title": "Conductor is joining Meta",
-      "summary": "Comments",
-      "url": "https://www.conductor.build/announcement",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T18:22:40+00:00"
-    },
-    {
       "title": "Roundtables: Inside the Quest for Cognitive Immortality",
       "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior ed",
       "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
@@ -523,28 +731,12 @@
       "published": "2026-11-04T18:00:00+00:00"
     },
     {
-      "title": "A new Go API for JSON",
-      "summary": "Comments",
-      "url": "https://go.dev/blog/jsonv2",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T17:52:11+00:00"
-    },
-    {
       "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
       "summary": "",
       "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-11-04T17:50:10+00:00"
-    },
-    {
-      "title": "Progress on provable inference for large language models",
-      "summary": "Comments",
-      "url": "https://www.anthropic.com/research/provable-inference",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T17:17:46+00:00"
     },
     {
       "title": "What’s next for US energy policy after the midterm elections?",
@@ -579,12 +771,12 @@
       "published": "2026-11-04T16:51:35+00:00"
     },
     {
-      "title": "New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations",
-      "summary": "CloudOpsBench is a new open-source benchmark that measures how well AI agents handle typical DevOps tasks in the cloud, from fixing services and removing resources to restricting access rights, rolling out updates, and decommissio",
-      "url": "https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-04T16:42:52+00:00"
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "summary": "Comments",
+      "url": "https://www.linum.ai/field-notes/pjit-21k",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T16:45:11+00:00"
     },
     {
       "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
@@ -609,54 +801,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-04T16:06:43+00:00"
-    },
-    {
-      "title": "GPT-6 Astra sees the matrix and reprograms other AI models directly through their weights",
-      "summary": "MIT researchers show that OpenAI's GPT-6 Astra can read and deliberately rewrite the weights of other AI models without traditional training. In one experiment, Astra boosted a Qwen model's math accuracy from 7.9 to 48.1 percent b",
-      "url": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-04T15:44:44+00:00"
-    },
-    {
-      "title": "Kimi K3.1 Pro model weights are out",
-      "summary": "Comments",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T15:30:30+00:00"
-    },
-    {
-      "title": "Anthropic's new prototype proves which model wrote an AI response without exposing its weights",
-      "summary": "Anthropic has released FlashProve, a research prototype that uses cryptography to verify whether an AI response actually came from the claimed model. The system still has significant limitations. The article Anthropic's new protot",
-      "url": "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-04T15:23:49+00:00"
-    },
-    {
-      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
-      "summary": "Comments",
-      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T15:01:44+00:00"
-    },
-    {
-      "title": "TScert: A Sound Core for TypeScript",
-      "summary": "Comments",
-      "url": "https://github.com/cristianoc/TScert",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T14:58:52+00:00"
-    },
-    {
-      "title": "Ask HN: What's your current AI agentic setup?",
-      "summary": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50366117",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T14:37:22+00:00"
     },
     {
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
@@ -707,14 +851,6 @@
       "published": "2026-11-04T12:07:04+00:00"
     },
     {
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "summary": "Comments",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T11:52:17+00:00"
-    },
-    {
       "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
       "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others.",
       "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
@@ -737,22 +873,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-04T11:24:31+00:00"
-    },
-    {
-      "title": "Exit polls show AI ranked last among voter priorities in the 2026 U.S. midterms",
-      "summary": "In the 2026 U.S. midterm elections, AI ranked last among campaign issues: only 56 percent of respondents cited AI and data centers as an important factor. According to NBC exit polls, corruption (90 percent) and the cost of living",
-      "url": "https://the-decoder.com/exit-polls-show-ai-ranked-last-among-voter-priorities-in-the-2026-u-s-midterms/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-04T10:45:54+00:00"
-    },
-    {
-      "title": "Schools that turn off Google's AI will lose search too starting in 2027",
-      "summary": "Starting in 2027, Google plans to turn off AI features in its school products by default, letting schools decide what to enable. The catch: schools that block AI entirely on their devices will also lose access to Google Search, si",
-      "url": "https://the-decoder.com/schools-that-turn-off-googles-ai-will-lose-search-too-starting-in-2027/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-04T10:06:23+00:00"
     },
     {
       "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
@@ -819,28 +939,12 @@
       "published": "2026-11-03T22:41:03+00:00"
     },
     {
-      "title": "Data centers are turning to old jet engines as the wait for power grows",
-      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
-      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-03T22:19:53+00:00"
-    },
-    {
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-03T21:43:08+00:00"
-    },
-    {
-      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-      "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
-      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-03T21:05:55+00:00"
+      "title": "Declare and optimize with UNIQUE constraints on Databricks",
+      "summary": "Data teams often maintain uniqueness guarantees in their pipelines, but without a...",
+      "url": "https://www.databricks.com/blog/declare-and-optimize-unique-constraints-databricks",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-03T21:00:00+00:00"
     },
     {
       "title": "Claude Platform now supports native OpenTelemetry observability in Databricks MLflow",
@@ -851,36 +955,12 @@
       "published": "2026-11-03T21:00:00+00:00"
     },
     {
-      "title": "Declare and optimize with UNIQUE constraints on Databricks",
-      "summary": "Data teams often maintain uniqueness guarantees in their pipelines, but without a...",
-      "url": "https://www.databricks.com/blog/declare-and-optimize-unique-constraints-databricks",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-03T21:00:00+00:00"
-    },
-    {
-      "title": "OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week",
-      "summary": "OpenAI's hardware team used GPT-6 Astra to design a device for the Codex coding agent in under a week, handling everything from the enclosure to the circuit board to the firmware. Several revision rounds were needed before product",
-      "url": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-03T20:15:45+00:00"
-    },
-    {
       "title": "Announcing support for Materialized views and streaming tables in Mirrored Azure Databricks catalog",
       "summary": "Access more Unity Catalog objects through the existing mirrored catalog experience in Microsoft Fabric We are expanding Mirrored Azure Databricks catalogs in Microsoft Fabric to support materialized views and streaming tables alon",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Announcing-support-for-Materialized-views-and-streaming-tables/ba-p/5377928",
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-03T20:00:00+00:00"
-    },
-    {
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-03T19:34:43+00:00"
     },
     {
       "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
@@ -1067,6 +1147,14 @@
       "published": "2026-11-03T10:43:41+00:00"
     },
     {
+      "title": "The Lisp curse, now coming to your ecosystem",
+      "summary": "Comments",
+      "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T08:59:31+00:00"
+    },
+    {
       "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
       "summary": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on instances ru",
       "url": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
@@ -1097,14 +1185,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-03T07:43:07+00:00"
-    },
-    {
-      "title": "Future Maintenance of Mbed TLS",
-      "summary": "Comments",
-      "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T07:39:05+00:00"
     },
     {
       "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
@@ -1163,28 +1243,12 @@
       "published": "2026-11-03T00:00:00+00:00"
     },
     {
-      "title": "Moment of Ruby: An Argument for Nothing",
-      "summary": "Comments",
-      "url": "https://www.aha.io/engineering/articles/moment-of-ruby-an-argument-for-nothing",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T20:32:57+00:00"
-    },
-    {
       "title": "From a prompt to an operational dashboard: Generate Real-Time Dashboards with Copilot (Preview)",
       "summary": "Start with the question, not a blank dashboard Which transit stations are sending the most fans toward a stadium? How does that incoming demand compare with activity at the gates? Where are queues building? Answering these operati",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-a-prompt-to-an-operational-dashboard-Generate-Real-Time/ba-p/5380258",
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-02T20:00:00+00:00"
-    },
-    {
-      "title": "Spreading Liquid with Three.js",
-      "summary": "Comments",
-      "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T18:45:54+00:00"
     },
     {
       "title": "Rewarding defenders with bigger bug bounties",
@@ -1209,14 +1273,6 @@
       "source": "Google AI",
       "category": "AI",
       "published": "2026-11-02T17:45:00+00:00"
-    },
-    {
-      "title": "Partial Operator Precedence",
-      "summary": "Comments",
-      "url": "https://ziglang.org/devlog/2026/#2026-10-24",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-02T17:22:20+00:00"
     },
     {
       "title": "Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes",
@@ -1275,28 +1331,12 @@
       "published": "2026-11-02T15:00:00+00:00"
     },
     {
-      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
-      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report publishe",
-      "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-02T14:46:05+00:00"
-    },
-    {
       "title": "Lakebase Postgres is now generally available on Google Cloud",
       "summary": "We're excited to announce that Lakebase Postgres is generally available on Google Cloud...",
       "url": "https://www.databricks.com/blog/lakebase-postgres-now-generally-available-google-cloud",
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-02T14:26:08+00:00"
-    },
-    {
-      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
-      "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and its vulnerabilit",
-      "url": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-02T11:50:00+00:00"
     },
     {
       "title": "My Journey to the Center of America’s Political Spam Text Hell",
@@ -1393,22 +1433,6 @@
       "source": "Wired Security",
       "category": "Security",
       "published": "2026-10-30T20:38:46+00:00"
-    },
-    {
-      "title": "Wealth Management Client Onboarding Needs More Than AI",
-      "summary": "Wealth Management client onboarding can stall even when every system has done its job. The document is collected...",
-      "url": "https://www.databricks.com/blog/wealth-management-client-onboarding-needs-more-ai",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-10-30T19:40:00+00:00"
-    },
-    {
-      "title": "Deliberate decisions and enterprise AI value",
-      "summary": "AI progress is moving quickly. Expectations are rising, experimentation is spreading...",
-      "url": "https://www.databricks.com/blog/deliberate-decisions-and-enterprise-ai-value",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-10-30T19:30:00+00:00"
     },
     {
       "title": "nemotron-halloween",
@@ -2155,14 +2179,6 @@
       "published": "2026-10-15T19:39:27+00:00"
     },
     {
-      "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
-      "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog",
-      "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
-      "source": "GitHub Blog",
-      "category": "Development",
-      "published": "2026-10-15T18:00:00+00:00"
-    },
-    {
       "title": "Databricks ADBC connector for Power BI and Microsoft Fabric (Generally Available)",
       "summary": "This release is part of the broader ODBC-to-ADBC transition for Power Query connectors described in the Transition from ODBC to ADBC drivers in Power BI and Microsoft Fabric documentation. What’s new Existing connections in your s",
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Databricks-ADBC-connector-for-Power-BI-and-Microsoft-Fabric/ba-p/5369591",
@@ -2233,14 +2249,6 @@
       "source": "AWS News",
       "category": "Cloud",
       "published": "2026-10-14T19:30:48+00:00"
-    },
-    {
-      "title": "IEEE Continues Preparations for the Realignment of Its Regions",
-      "summary": "Progress continues in restructuring IEEE’s geographic regions, as outlined in The Institute’s February 2023 article “ IEEE Is Realigning Its Geographic Regions .” The “Region 1” designation will no longer be used. The new Region 2",
-      "url": "https://spectrum.ieee.org/realignment-ieee-regions",
-      "source": "IEEE Spectrum",
-      "category": "Emerging",
-      "published": "2026-10-14T18:00:03+00:00"
     },
     {
       "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
@@ -2667,14 +2675,6 @@
       "published": "2026-09-09T16:00:00+00:00"
     },
     {
-      "title": "Recreating a 70-year love story frame by frame",
-      "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "2026-09-09T16:00:00+00:00"
-    },
-    {
       "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
       "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
@@ -2905,22 +2905,6 @@
       "source": "Google DeepMind",
       "category": "AI",
       "published": "2026-07-21T15:16:30+00:00"
-    },
-    {
-      "title": "Introducing Gemini 3.5 Flash Cyber",
-      "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-      "source": "Google DeepMind",
-      "category": "AI",
-      "published": "2026-07-17T15:00:11+00:00"
-    },
-    {
-      "title": "Deep dive into Power BI reporting with the new date picker slicer option (Preview)",
-      "summary": "Power BI’s new date picker slicer helps report authors set dynamic default date ranges while giving viewers flexible, easy ways to explore dates, ranges, and rolling periods as data refreshes.",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Deep-dive-into-Power-BI-reporting-with-the-new-date-picker/ba-p/5295674",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-07-16T16:00:00+00:00"
     },
     {
       "title": "Andrew Ng: Unbiggen AI",
