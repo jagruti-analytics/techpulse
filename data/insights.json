@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T21:05:45.954189+00:00",
+  "updated_at": "2026-11-05T01:25:42.233121+00:00",
   "trending": [
+    {
+      "title": "Introducing Apache Spark® 4.3 - Now available in Databricks Runtime 19",
+      "summary": "IntroductionApache Spark 4.3 brings stateful processing to Real-Time Mode, achieving...",
+      "url": "https://www.databricks.com/blog/introducing-apache-spark-43-now-available-databricks-runtime-19",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-05T00:00:00+00:00"
+    },
+    {
+      "title": "Eventhouse support for OneLake security (Generally Available)",
+      "summary": "Security should be consistent wherever you query your data. With OneLake security, you can define access controls once, close to the data, and apply them across supported Microsoft Fabric engines without recreating your security r",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Eventhouse-support-for-OneLake-security-Generally-Available/ba-p/5377875",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-04T22:00:00+00:00"
+    },
     {
       "title": "The Enterprise Case for Open-Weight Models on Databricks",
       "summary": "As field engineers at Databricks, we spend our days inside enterprise AI deployments,...",
@@ -26,81 +42,97 @@
       "published": "2026-11-04T07:00:00+00:00"
     },
     {
-      "title": "Find expensive queries from Capacity Metrics (Generally Available)",
-      "summary": "When warehouse capacity usage spikes, you need to quickly understand what ran, which warehouse drove the usage, and which queries require investigation. The Monitor in warehouse action in the Microsoft Fabric Capacity Metrics app ",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Find-expensive-queries-from-Capacity-Metrics-Generally-Available/ba-p/5393588",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-04T20:03:23+00:00"
-    },
-    {
-      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "title": "You'll need nerves of steel to work with AI agents",
       "summary": "Comments",
-      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-04T19:55:14+00:00"
-    },
-    {
-      "title": "ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model",
-      "summary": "OpenAI is adding a GIF feature to ChatGPT. With the new Images 2.6 model, users can create animated GIFs from text prompts or photos and then adjust speed and individual frames. The model's image consistency is strong enough to ke",
-      "url": "https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-04T19:44:20+00:00"
+      "published": "2026-11-05T00:01:30+00:00"
     }
   ],
   "ai_breakthroughs": [
     {
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-04T22:45:09+00:00"
+    },
+    {
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-04T22:13:16+00:00"
+    },
+    {
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-04T21:56:01+00:00"
+    },
+    {
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-04T21:25:44+00:00"
+    },
+    {
+      "title": "Meta acquires AI coding startup Conductor",
+      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-04T21:10:56+00:00"
+    },
+    {
       "title": "ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model",
       "summary": "OpenAI is adding a GIF feature to ChatGPT. With the new Images 2.6 model, users can create animated GIFs from text prompts or photos and then adjust speed and individual frames. The model's image consistency is strong enough to ke",
       "url": "https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/",
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-04T19:44:20+00:00"
-    },
-    {
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available",
-      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-04T19:30:04+00:00"
-    },
-    {
-      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-04T19:29:52+00:00"
-    },
-    {
-      "title": "Anthropic's text watermark is easy to bypass on several older Claude models",
-      "summary": "Anthropic is rolling out text watermarks to four more Claude models ahead of the EU AI Act's December deadline. But on older models like Claude Opus 4.6 and Sonnet 4.6, API users can disable the watermark by changing a single samp",
-      "url": "https://the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-04T19:03:55+00:00"
-    },
-    {
-      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available",
-      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-04T18:44:57+00:00"
-    },
-    {
-      "title": "OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents",
-      "summary": "OpenAI is buying Pierre Computer Company, the startup whose libraries already power the coding agent Codex. Combined with OpenAI's recently launched Git backend Pando, the deal shows the company is building out its infrastructure ",
-      "url": "https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-04T18:41:03+00:00"
     }
   ],
   "technology_releases": [
+    {
+      "title": "X says its updated web app is way faster",
+      "summary": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" princip",
+      "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-05T00:25:12+00:00"
+    },
+    {
+      "title": "Introducing Apache Spark® 4.3 - Now available in Databricks Runtime 19",
+      "summary": "IntroductionApache Spark 4.3 brings stateful processing to Real-Time Mode, achieving...",
+      "url": "https://www.databricks.com/blog/introducing-apache-spark-43-now-available-databricks-runtime-19",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-05T00:00:00+00:00"
+    },
+    {
+      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "summary": "Comments",
+      "url": "https://icode4.coffee/?p=1746",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T22:01:49+00:00"
+    },
+    {
+      "title": "Eventhouse support for OneLake security (Generally Available)",
+      "summary": "Security should be consistent wherever you query your data. With OneLake security, you can define access controls once, close to the data, and apply them across supported Microsoft Fabric engines without recreating your security r",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Eventhouse-support-for-OneLake-security-Generally-Available/ba-p/5377875",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-04T22:00:00+00:00"
+    },
     {
       "title": "Find expensive queries from Capacity Metrics (Generally Available)",
       "summary": "When warehouse capacity usage spikes, you need to quickly understand what ran, which warehouse drove the usage, and which queries require investigation. The Monitor in warehouse action in the Microsoft Fabric Capacity Metrics app ",
@@ -116,38 +148,6 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-04T20:00:00+00:00"
-    },
-    {
-      "title": "Govern Fabric connections with admin APIs and data connection policies (Preview)",
-      "summary": "Co-author: Abhishek Narain Protect continuity, understand connection risk, and set tenant-wide guardrails Imagine that the person who built a business-critical pipeline has left your organization. The connection still exists, but ",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Govern-Fabric-connections-with-admin-APIs-and-data-connection/ba-p/5383656",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-04T19:00:00+00:00"
-    },
-    {
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "summary": "Comments",
-      "url": "https://www.ricursive.com/ripple",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T18:53:29+00:00"
-    },
-    {
-      "title": "Nothing teases a screen-free AI device ahead of launch next month",
-      "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give a",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-04T18:26:07+00:00"
-    },
-    {
-      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-      "summary": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50368804",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T17:31:53+00:00"
     }
   ]
 }
