@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-05T01:25:42.233121+00:00",
+  "updated_at": "2026-11-05T05:14:53.061375+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our p",
+      "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-05T04:31:16+00:00"
+    },
+    {
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-05T01:26:22+00:00"
+    },
+    {
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-05T01:02:14+00:00"
+    },
     {
       "title": "X says its updated web app is way faster",
       "summary": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" princip",
@@ -11,20 +35,12 @@
       "published": "2026-11-05T00:25:12+00:00"
     },
     {
-      "title": "SpaceX – Starfall",
+      "title": "Starfall – Affordable, routine access to microgravity",
       "summary": "Comments",
       "url": "https://www.spacex.com/starfall",
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-05T00:18:18+00:00"
-    },
-    {
-      "title": "You'll need nerves of steel to work with AI agents",
-      "summary": "Comments",
-      "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T00:01:30+00:00"
     },
     {
       "title": "Introducing Apache Spark® 4.3 - Now available in Databricks Runtime 19",
@@ -131,28 +147,12 @@
       "published": "2026-11-04T21:10:56+00:00"
     },
     {
-      "title": "Death Comes for XSLT",
-      "summary": "Comments",
-      "url": "https://dbushell.com/2026/11/03/xslt-rip/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T20:57:10+00:00"
-    },
-    {
       "title": "Residential proxies detected on White House network",
       "summary": "Comments",
       "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-04T20:45:18+00:00"
-    },
-    {
-      "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
-      "summary": "Comments",
-      "url": "https://github.com/gauge-sh/gauge-cli",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T20:31:30+00:00"
     },
     {
       "title": "Gemini for Home now plugs into AT&T’s smart security system",
@@ -307,14 +307,6 @@
       "published": "2026-11-04T18:41:03+00:00"
     },
     {
-      "title": "Have I befriended a murderer?",
-      "summary": "Comments",
-      "url": "https://longreads.com/2026/11/03/murder-friendship-doubt/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T18:40:54+00:00"
-    },
-    {
       "title": "Nothing teases a screen-free AI device ahead of launch next month",
       "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give a",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
@@ -443,6 +435,14 @@
       "published": "2026-11-04T16:17:22+00:00"
     },
     {
+      "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
+      "summary": "Comments",
+      "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T16:11:33+00:00"
+    },
+    {
       "title": "Salesforce Data 360 integration with OneLake (Preview)",
       "summary": "A customer reports a missing delivery. The service case is in Salesforce, while the shipping and returns records are in Microsoft Fabric. Before a team can decide what to do next, it needs to connect those two views of the same cu",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Salesforce-Data-360-integration-with-OneLake-Preview/ba-p/5384626",
@@ -532,7 +532,7 @@
     },
     {
       "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
-      "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian we",
+      "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainia",
       "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
       "source": "The Hacker News",
       "category": "Security",
@@ -627,12 +627,12 @@
       "published": "2026-11-04T10:06:23+00:00"
     },
     {
-      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "title": "11 Nanoseconds per Word: Over-Optimizing Anagrams",
       "summary": "Comments",
-      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "url": "https://wiredream.com/anagram-fun/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-04T10:00:06+00:00"
+      "published": "2026-11-04T09:57:43+00:00"
     },
     {
       "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
@@ -875,14 +875,6 @@
       "published": "2026-11-03T16:35:36+00:00"
     },
     {
-      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
-      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-03T16:30:34+00:00"
-    },
-    {
       "title": "Arnis turns any place on Earth into a Minecraft world",
       "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog .",
       "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
@@ -905,14 +897,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-03T15:41:53+00:00"
-    },
-    {
-      "title": "Apple restricts dating apps and AI companions to users 18 and up",
-      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
-      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-03T15:38:27+00:00"
     },
     {
       "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
@@ -1043,6 +1027,14 @@
       "published": "2026-11-03T04:18:47+00:00"
     },
     {
+      "title": "Ask HN: What cryptography book do you recommend for reading with 10 year olds?",
+      "summary": "Comments",
+      "url": "https://news.ycombinator.com/item?id=50347425",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T02:52:50+00:00"
+    },
+    {
       "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
       "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
       "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
@@ -1081,6 +1073,22 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-02T19:23:48+00:00"
+    },
+    {
+      "title": "Frustrated Ranchers Want People to Quit 'Rescuing' Their Working Guardian Dogs",
+      "summary": "Comments",
+      "url": "https://cowboystatedaily.com/2026/10/15/frustrated-ranchers-want-people-to-quit-rescuing-their-working-guardian-dogs/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-02T19:13:55+00:00"
+    },
+    {
+      "title": "Spreading Liquid with Three.js",
+      "summary": "Comments",
+      "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-02T18:45:54+00:00"
     },
     {
       "title": "Preparing our next security sprint to harden OpenAI",
@@ -1313,14 +1321,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-01T08:51:31+00:00"
-    },
-    {
-      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
-      "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outsid",
-      "url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-01T07:25:40+00:00"
     },
     {
       "title": "Lakebase branching for CI/CD: lessons from 100 PR databases",

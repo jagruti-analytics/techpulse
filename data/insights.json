@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T01:25:42.233121+00:00",
+  "updated_at": "2026-11-05T05:14:53.061375+00:00",
   "trending": [
     {
       "title": "Introducing Apache Spark® 4.3 - Now available in Databricks Runtime 19",
@@ -42,15 +42,23 @@
       "published": "2026-11-04T07:00:00+00:00"
     },
     {
-      "title": "You'll need nerves of steel to work with AI agents",
-      "summary": "Comments",
-      "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T00:01:30+00:00"
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-04T21:56:01+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-05T01:26:22+00:00"
+    },
     {
       "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
       "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
@@ -90,14 +98,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-04T21:10:56+00:00"
-    },
-    {
-      "title": "ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model",
-      "summary": "OpenAI is adding a GIF feature to ChatGPT. With the new Images 2.6 model, users can create animated GIFs from text prompts or photos and then adjust speed and individual frames. The model's image consistency is strong enough to ke",
-      "url": "https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-04T19:44:20+00:00"
     }
   ],
   "technology_releases": [
