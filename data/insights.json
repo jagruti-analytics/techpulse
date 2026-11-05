@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T09:17:31.102405+00:00",
+  "updated_at": "2026-11-05T13:29:12.489241+00:00",
   "trending": [
     {
       "title": "Introducing Apache Spark® 4.3 - Now available in Databricks Runtime 19",
@@ -26,6 +26,14 @@
       "published": "2026-11-04T20:00:00+00:00"
     },
     {
+      "title": "Baidu released ERNIE 5.5 Flash Base",
+      "summary": "Comments",
+      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T09:29:12+00:00"
+    },
+    {
       "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
       "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agen",
       "url": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
@@ -34,23 +42,39 @@
       "published": "2026-11-04T11:34:20+00:00"
     },
     {
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
       "source": "OpenAI",
       "category": "AI",
-      "published": "2026-11-04T07:00:00+00:00"
-    },
-    {
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-04T21:56:01+00:00"
+      "published": "2026-11-05T02:00:00+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+      "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-05T13:00:00+00:00"
+    },
+    {
+      "title": "Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI",
+      "summary": "Catherine Wu, the founding product lead for Claude Code, is leaving Anthropic for OpenAI, where she'll head up product management for \"Core Products\" and work directly with Codex lead Thibault Sottiaux. She's the third person to l",
+      "url": "https://the-decoder.com/anthropic-loses-product-lead-catherine-wu-behind-claude-code-to-openai/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-05T12:20:35+00:00"
+    },
+    {
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-05T02:00:00+00:00"
+    },
     {
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
       "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
@@ -74,33 +98,25 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-04T22:13:16+00:00"
-    },
-    {
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-04T21:56:01+00:00"
-    },
-    {
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-04T21:25:44+00:00"
-    },
-    {
-      "title": "Meta acquires AI coding startup Conductor",
-      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-04T21:10:56+00:00"
     }
   ],
   "technology_releases": [
+    {
+      "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
+      "summary": "Comments",
+      "url": "https://hachyderm.io/@damienmiller/117563026759098135",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T09:46:17+00:00"
+    },
+    {
+      "title": "Baidu released ERNIE 5.5 Flash Base",
+      "summary": "Comments",
+      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T09:29:12+00:00"
+    },
     {
       "title": "X says its updated web app is way faster",
       "summary": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" princip",
@@ -132,22 +148,6 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-04T22:00:00+00:00"
-    },
-    {
-      "title": "Find expensive queries from Capacity Metrics (Generally Available)",
-      "summary": "When warehouse capacity usage spikes, you need to quickly understand what ran, which warehouse drove the usage, and which queries require investigation. The Monitor in warehouse action in the Microsoft Fabric Capacity Metrics app ",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Find-expensive-queries-from-Capacity-Metrics-Generally-Available/ba-p/5393588",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-04T20:03:23+00:00"
-    },
-    {
-      "title": "OneLake table APIs: Now with Iceberg writes, plus richer table metadata (Preview)",
-      "summary": "OneLake table APIs already let Iceberg-compatible engines discover and read tables in Microsoft Fabric. Today we're taking the next step with two additions: Iceberg REST Catalog (IRC) writes through the OneLake table endpoint, now",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/OneLake-table-APIs-Now-with-Iceberg-writes-plus-richer-table/ba-p/5391262",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-04T20:00:00+00:00"
     }
   ]
 }
