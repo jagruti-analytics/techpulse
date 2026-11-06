@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T17:06:57.808644+00:00",
+  "updated_at": "2026-11-06T20:58:57.841318+00:00",
   "method": "GitHub search: repositories created in last 21 days, sorted by total stars",
   "repositories": [
     {
@@ -7,7 +7,7 @@
       "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "url": "https://github.com/Gathin23/cleanyourtv",
       "language": "Python",
-      "stars": 53156,
+      "stars": 53247,
       "created_at": "2026-10-17T08:12:35Z"
     },
     {
@@ -15,7 +15,7 @@
       "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "language": "Python",
-      "stars": 25535,
+      "stars": 25549,
       "created_at": "2026-10-16T07:47:23Z"
     },
     {
@@ -23,31 +23,31 @@
       "description": "Towards a More Autonomous Agent System",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "language": "TypeScript",
-      "stars": 20147,
+      "stars": 20212,
       "created_at": "2026-10-31T09:32:46Z"
-    },
-    {
-      "name": "Zagitta/gpu-unlock",
-      "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2\u00d7 FP16 / BF16 / TF32 tensor throughput",
-      "url": "https://github.com/Zagitta/gpu-unlock",
-      "language": "C",
-      "stars": 17511,
-      "created_at": "2026-10-18T01:28:31Z"
     },
     {
       "name": "storytold/craft-anything",
       "description": "Craft Anything: understand how any software works, and craft your own.",
       "url": "https://github.com/storytold/craft-anything",
       "language": "Rust",
-      "stars": 17380,
+      "stars": 17741,
       "created_at": "2026-10-31T14:50:00Z"
+    },
+    {
+      "name": "Zagitta/gpu-unlock",
+      "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2\u00d7 FP16 / BF16 / TF32 tensor throughput",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "language": "C",
+      "stars": 17565,
+      "created_at": "2026-10-18T01:28:31Z"
     },
     {
       "name": "ccch1mneyyy/dsh-Go",
       "description": "dsh-go \u2014 DeepSeek Harness \u88c5\u8fdb\u53e3\u888b\uff1a\u624b\u673a\u672c\u673a\u8fd0\u884c\uff0c\u4e5f\u80fd\u9065\u63a7\u4f60\u7684\u7535\u8111\u3002",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
       "language": "Dart",
-      "stars": 12788,
+      "stars": 12885,
       "created_at": "2026-10-25T08:09:52Z"
     },
     {
@@ -55,7 +55,7 @@
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "url": "https://github.com/heydamir/unslop",
       "language": "JavaScript",
-      "stars": 10574,
+      "stars": 10662,
       "created_at": "2026-10-29T15:41:21Z"
     },
     {
@@ -63,7 +63,7 @@
       "description": "\u7ed9\u56fd\u4ea7\u7535\u89c6\u7684\u4e00\u5757\u5e72\u51c0\u684c\u9762\uff1a\u53c2\u7167 tvOS \u8bbe\u8ba1\u7684\u5f00\u6e90 Android TV \u684c\u9762\uff0c\u6ca1\u6709\u5e7f\u544a\uff0c\u5f00\u673a\u81ea\u52a8\u63a5\u7ba1\u3002A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
       "url": "https://github.com/pengchujin/aerial-tv",
       "language": "Kotlin",
-      "stars": 10317,
+      "stars": 10332,
       "created_at": "2026-10-20T09:13:06Z"
     },
     {
@@ -71,7 +71,7 @@
       "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA\u2013style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
       "url": "https://github.com/l0ng-ai/openidea",
       "language": "TypeScript",
-      "stars": 7389,
+      "stars": 7414,
       "created_at": "2026-10-21T12:23:14Z"
     },
     {
@@ -79,7 +79,7 @@
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "url": "https://github.com/wangzan101/Mika",
       "language": "Kotlin",
-      "stars": 7356,
+      "stars": 7382,
       "created_at": "2026-10-29T14:34:07Z"
     },
     {
@@ -87,7 +87,7 @@
       "description": "",
       "url": "https://github.com/unclebob/ub-mode",
       "language": "Open source",
-      "stars": 7190,
+      "stars": 7201,
       "created_at": "2026-10-25T16:04:09Z"
     },
     {
@@ -95,7 +95,7 @@
       "description": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game.",
       "url": "https://github.com/ly05010419/MacNativeGames",
       "language": "C",
-      "stars": 7174,
+      "stars": 7184,
       "created_at": "2026-10-17T19:52:00Z"
     }
   ]
