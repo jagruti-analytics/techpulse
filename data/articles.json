@@ -1,7 +1,239 @@
 {
-  "updated_at": "2026-11-06T13:25:09.242822+00:00",
+  "updated_at": "2026-11-06T17:06:57.107074+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "First steps in bare-metal programming using UEFI",
+      "summary": "Comments",
+      "url": "https://kevinboone.me/efitest_index.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T16:50:29+00:00"
+    },
+    {
+      "title": "Perplexity now has its own always-on AI agent",
+      "summary": "Perplexity is launching \"Teammates,\" always-on agents that work through ongoing projects on their own virtual machines. The feature requires the Max plan at $200 per month, well above similar offerings from OpenAI or Anthropic. Th",
+      "url": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-06T16:47:28+00:00"
+    },
+    {
+      "title": "How Akai and Moog are embracing vibe-coded mods",
+      "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the commu",
+      "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-06T16:34:39+00:00"
+    },
+    {
+      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+      "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files u",
+      "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-06T16:08:38+00:00"
+    },
+    {
+      "title": "Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets",
+      "summary": "OpenAI is talking about the AGI era, and Nvidia CEO Jensen Huang says AGI has arrived. At the same time, co-creators of today's models are leaving OpenAI, Google DeepMind, and Meta to start their own labs, raising billions with no",
+      "url": "https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-06T15:55:23+00:00"
+    },
+    {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-06T15:54:47+00:00"
+    },
+    {
+      "title": "Deus Ex",
+      "summary": "Comments",
+      "url": "https://www.filfre.net/2026/11/deus-ex/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T15:44:36+00:00"
+    },
+    {
+      "title": "This see-through camera lets photographers maintain eye contact with their subjects",
+      "summary": "Lutra, a South Korean startup, has debuted a new brand called Humans of Authenticity (HOA) that's launching another screen-free digital camera that incorporates a large open viewfinder into its design, as spotted by PetaPixel. The",
+      "url": "https://www.theverge.com/tech/1028632/lutra-humans-of-authenticity-hoa-a1-transparent-digital-camera",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-06T15:33:03+00:00"
+    },
+    {
+      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+      "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CV",
+      "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-06T15:21:49+00:00"
+    },
+    {
+      "title": "How public sector organizations can govern AI at scale",
+      "summary": "Every government CIO has the same mandate right now: adopt AI, move faster, do more...",
+      "url": "https://www.databricks.com/blog/how-public-sector-organizations-can-govern-ai-scale",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-06T15:14:29+00:00"
+    },
+    {
+      "title": "Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’",
+      "summary": "A researcher found over 100,000 words and phrases in \"every major language\" that are blocked from autocomplete and swipe-type in iOS, Reuters reports. The researcher, Derik Kauffman, says you can still type the words on the blockl",
+      "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-06T15:10:28+00:00"
+    },
+    {
+      "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+      "summary": "Comments",
+      "url": "https://github.com/zalando-incubator/agentic-identity-broker",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T15:07:47+00:00"
+    },
+    {
+      "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
+      "summary": "Comments",
+      "url": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T15:03:24+00:00"
+    },
+    {
+      "title": "Where Each U.S. State Gets Its Tax Revenue From",
+      "summary": "Comments",
+      "url": "https://www.visualcapitalist.com/where-each-states-tax-revenue-comes-from/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T15:02:07+00:00"
+    },
+    {
+      "title": "RIP Cybertruck",
+      "summary": "Comments",
+      "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T15:01:38+00:00"
+    },
+    {
+      "title": "How Do You Land on a Moon With Almost No Gravity?",
+      "summary": "Last August, looking up from the edge of an ancient river delta on Mars, the Perseverance rover ’s electronic eye spied an oblong shadow crossing the distant, glowing Sun. Phobos , the Martian moon named for the Greek god of fear ",
+      "url": "https://spectrum.ieee.org/mmx-mission-to-phobos",
+      "source": "IEEE Spectrum",
+      "category": "Emerging",
+      "published": "2026-11-06T15:00:02+00:00"
+    },
+    {
+      "title": "Ask HN: What in the world is taking Ubuntu so long?",
+      "summary": "Comments",
+      "url": "https://news.ycombinator.com/item?id=50393105",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T14:58:33+00:00"
+    },
+    {
+      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+      "summary": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new model is ",
+      "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-06T14:58:32+00:00"
+    },
+    {
+      "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
+      "summary": "Comments",
+      "url": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T14:57:16+00:00"
+    },
+    {
+      "title": "MTG-I2 First Images",
+      "summary": "Comments",
+      "url": "https://www.eumetsat.int/mtg-i2-first-images",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T14:35:29+00:00"
+    },
+    {
+      "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+      "summary": "Comments",
+      "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T14:13:09+00:00"
+    },
+    {
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-06T14:10:00+00:00"
+    },
+    {
+      "title": "TikTok’s For You page needs to change, says the EU",
+      "summary": "The European Commission claims TikTok broke its online platform rules by offering a recommendation algorithm that creates a \"rabbit hole effect\" on users. In an announcement on Friday, the regulators allege TikTok's algorithm can ",
+      "url": "https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-06T14:00:49+00:00"
+    },
+    {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "summary": "",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "source": "Hugging Face",
+      "category": "AI",
+      "published": "2026-11-06T14:00:48+00:00"
+    },
+    {
+      "title": "Amazon will let you text Alexa your shopping list",
+      "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and",
+      "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-06T14:00:00+00:00"
+    },
+    {
+      "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
+      "summary": "Nonprofit METR spent eleven weeks auditing Anthropic's internal research data and concluded that the pace of model development has roughly doubled, with about 80 percent of the speedup driven by AI-assisted research. Anthropic red",
+      "url": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-06T13:40:07+00:00"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash",
+      "summary": "Comments",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T13:35:27+00:00"
+    },
+    {
+      "title": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models",
+      "summary": "Thinking Machines, the startup from former OpenAI CTO Mira Murati, is releasing Inkling 2 Small, a mixture-of-experts model with 594 billion parameters. The company claims it's the strongest western open-weight model. Better agent",
+      "url": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-06T13:25:09+00:00"
+    },
+    {
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Hu",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "source": "MIT Technology Review",
+      "category": "Emerging",
+      "published": "2026-11-06T13:10:00+00:00"
+    },
     {
       "title": "Underdog shows off a 32MB speech model in new demo",
       "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
@@ -19,12 +251,12 @@
       "published": "2026-11-06T13:00:00+00:00"
     },
     {
-      "title": "Tesla winds down Cybertruck production after years of poor sales in few markets",
-      "summary": "Comments",
-      "url": "https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-06T12:13:51+00:00"
+      "title": "I’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares",
+      "summary": "When I first read Allison and Nilay's Verge review of the iPhone Duo, I was immediately struck by one of their complaints: that the cover display is too small. That's not how the Samsung Galaxy Z Fold 8 feels, I thought. Had they ",
+      "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-06T12:30:00+00:00"
     },
     {
       "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
@@ -49,6 +281,30 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-06T12:00:42+00:00"
+    },
+    {
+      "title": "After printing 40,000 whistles, this is the 3D printer I’d buy",
+      "summary": "I've been wanting to try 3D printing, people tell me. Which printer should I get? I finally have a fairly easy answer: the Bambu Lab P2S Combo. The auto-loading, fully enclosed touchscreen printer is one of the very few I can reco",
+      "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-06T12:00:00+00:00"
+    },
+    {
+      "title": "The Enough Phone is made by and for people fed up with big screens",
+      "summary": "It's a bad time and maybe also a great time to make a new smartphone. Brennan Jordan and Austin Boer are two-thirds of the trio behind the Enough Phone, a small phone that will run your choice of stock Android or the minimalist Od",
+      "url": "https://www.theverge.com/tech/1028160/enough-small-phone-kickstarter-sleke",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-06T12:00:00+00:00"
+    },
+    {
+      "title": "Protesters break into Microsoft data center site in Amsterdam",
+      "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers",
+      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-06T11:55:19+00:00"
     },
     {
       "title": "We've built an open-source feature flag server for 11 years",
@@ -107,7 +363,15 @@
       "published": "2026-11-06T09:27:12+00:00"
     },
     {
-      "title": "Chomsky and the Two Cultures of Statistical Learning",
+      "title": "AI for scientific discovery: How researchers use Claude",
+      "summary": "Comments",
+      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T09:13:30+00:00"
+    },
+    {
+      "title": "Chomsky and the Two Cultures of Statistical Learning (2011)",
       "summary": "Comments",
       "url": "https://www.norvig.com/chomsky.html",
       "source": "Hacker News",
@@ -145,14 +409,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-06T07:40:35+00:00"
-    },
-    {
-      "title": "Hardcoded credentials and other issues in Tata Motors App",
-      "summary": "Comments",
-      "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-06T07:28:39+00:00"
     },
     {
       "title": "Britain to make salary disclosure in job ads mandatory",
@@ -211,14 +467,6 @@
       "published": "2026-11-06T03:16:26+00:00"
     },
     {
-      "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
-      "summary": "Comments",
-      "url": "https://github.com/matthewmrichter/mooftcp",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-06T00:54:15+00:00"
-    },
-    {
       "title": "Airbnb is working on an AI travel agent",
       "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine t",
       "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
@@ -241,30 +489,6 @@
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-11-06T00:00:00+00:00"
-    },
-    {
-      "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
-      "summary": "The New York Times Company is in talks\"exclusive negotations\" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony Pictures Entertainment, and A24 ",
-      "url": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-05T23:45:10+00:00"
-    },
-    {
-      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’",
-      "summary": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim Höttges says he takes the Elon Musk-owned ",
-      "url": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-05T23:17:10+00:00"
-    },
-    {
-      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "summary": "Comments",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T23:09:57+00:00"
     },
     {
       "title": "6 Best VPN Services (2026), Tested and Reviewed",
@@ -291,14 +515,6 @@
       "published": "2026-11-05T22:17:15+00:00"
     },
     {
-      "title": "Salon is shutting down after 31 years",
-      "summary": "Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication. The company said that the \"business realities of independent digital jour",
-      "url": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-05T22:08:14+00:00"
-    },
-    {
       "title": "Power BI reports support OAP exceptions for semantic models in separate workspaces (Preview)",
       "summary": "Workspace outbound access protection (OAP) helps you control where data in a Microsoft Fabric workspace can flow. The initial preview for Power BI reports , launched in June, required a report in an OAP-protected workspace to use ",
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-reports-support-OAP-exceptions-for-semantic-models-in/ba-p/5377907",
@@ -313,14 +529,6 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-05T22:00:00+00:00"
-    },
-    {
-      "title": "The midterms proved once and for all that X is not real life",
-      "summary": "A week before the midterm elections, Vice President JD Vance hosted a town hall in Texas with Fox News host Jesse Watters. It was a friendly event with a friendly audience in what should have been a friendly state, and maybe that'",
-      "url": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-05T21:55:00+00:00"
     },
     {
       "title": "MS Paint Remote Code Execution Vulnerability",
@@ -379,14 +587,6 @@
       "published": "2026-11-05T19:35:16+00:00"
     },
     {
-      "title": "Pangram Image 1.0",
-      "summary": "Comments",
-      "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T19:27:52+00:00"
-    },
-    {
       "title": "Meta warns that election backlash against data centers could make AI expansion harder",
       "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
       "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
@@ -419,12 +619,12 @@
       "published": "2026-11-05T19:05:31+00:00"
     },
     {
-      "title": "Muse has a voice mode now",
-      "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you ch",
-      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
-      "source": "The Verge",
+      "title": "IEEE Program Schools Preuniversity Educators On Tech Topics",
+      "summary": "Now in their third year, the IEEE TryEngineering educator sessions continue to empower preuniversity teachers with specialized professional development programs on engineering topics and classroom-tested lessons. This year’s sessi",
+      "url": "https://spectrum.ieee.org/ieee-preuniversity",
+      "source": "IEEE Spectrum",
       "category": "Emerging",
-      "published": "2026-11-05T19:03:04+00:00"
+      "published": "2026-11-05T19:00:02+00:00"
     },
     {
       "title": "Use OneLake as native storage for Azure Databricks (Generally Available)",
@@ -433,6 +633,14 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-05T19:00:00+00:00"
+    },
+    {
+      "title": "Zero Hour: Telling time was a matter of survival and strategy during WWI (2014)",
+      "summary": "Comments",
+      "url": "https://www.laphamsquarterly.org/roundtable/zero-hour",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T18:59:37+00:00"
     },
     {
       "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
@@ -467,30 +675,6 @@
       "published": "2026-11-05T17:56:41+00:00"
     },
     {
-      "title": "TikTok launched a dedicated TikTok Shop app",
-      "summary": "TikTok has released a standalone app for TikTok Shop in a few countries, as spotted by social media consultant Matt Navarra. According to its App Store listing, the TikTok Shop app offers: - Personalized picks inspired by your int",
-      "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-05T17:27:36+00:00"
-    },
-    {
-      "title": "Nintendo says it’s not planning another Switch 2 price hike",
-      "summary": "Nintendo president Shuntaro Furukawa said during the company's latest earnings call that it's \"not considering additional changes\" to the Switch 2's price, Reuters reports. The Switch 2 got a $50 price hike earlier this year, brin",
-      "url": "https://www.theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-05T17:24:39+00:00"
-    },
-    {
-      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "summary": "Comments",
-      "url": "https://github.com/rivet-dev/rivet",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T17:17:42+00:00"
-    },
-    {
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "summary": "",
       "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
@@ -513,30 +697,6 @@
       "source": "Microsoft Power BI",
       "category": "Analytics",
       "published": "2026-11-05T17:00:00+00:00"
-    },
-    {
-      "title": "Xbox overhauls its PC, web, and cloud apps with a faster design",
-      "summary": "Microsoft is unveiling a new Xbox PC app that launches \"up to 60 percent faster\" than before, with an overhauled design to match new updates to Xbox Cloud Gaming on the web and smart TVs. Xbox Insiders will be able to start testin",
-      "url": "https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-05T17:00:00+00:00"
-    },
-    {
-      "title": "Where is Windows 12?",
-      "summary": "While I wasn't expecting Microsoft to announce Windows 12 during its RTX Spark launch event last month, more than a few people were hoping to see something truly new. Between the growing frustration with Windows 11 and the muted r",
-      "url": "https://www.theverge.com/tech/1027621/where-is-windows-12-notepad",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-05T17:00:00+00:00"
-    },
-    {
-      "title": "Window Sweaters",
-      "summary": "Comments",
-      "url": "https://github.com/saragordic/window-sweaters",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T16:50:14+00:00"
     },
     {
       "title": "No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark",
@@ -595,22 +755,6 @@
       "published": "2026-11-05T16:08:03+00:00"
     },
     {
-      "title": "Tencent releases Hy4 with vision and computer use, claims second place among Chinese AI models",
-      "summary": "Tencent has unveiled Hy4, its first multimodal language model that understands images and can operate software on its own. On the Artificial Analysis Intelligence Index, it scores 35 points, solid but behind Kimi K3.1 Pro. On hard",
-      "url": "https://the-decoder.com/tencent-releases-hy4-with-vision-and-computer-use-claims-second-place-among-chinese-ai-models/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-05T16:06:31+00:00"
-    },
-    {
-      "title": "Motorola Signature 27 with GrapheneOS support",
-      "summary": "Comments",
-      "url": "https://motorolanews.com/motorola-signature-27-2/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T16:01:34+00:00"
-    },
-    {
       "title": "Accessibility statements now have a home on GitHub",
       "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have",
       "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
@@ -625,14 +769,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-05T15:19:05+00:00"
-    },
-    {
-      "title": "Meta buys AI coding startup Conductor as big tech races to lock in developers",
-      "summary": "Meta is acquiring AI coding startup Conductor, which lets developers control multiple AI coding agents at once. On the same day, OpenAI announced plans to acquire Pierre Computer, and Anthropic already bought Stainless back in May",
-      "url": "https://the-decoder.com/meta-buys-ai-coding-startup-conductor-as-big-tech-races-to-lock-in-developers/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-05T15:01:09+00:00"
     },
     {
       "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
@@ -651,30 +787,6 @@
       "published": "2026-11-05T14:41:10+00:00"
     },
     {
-      "title": "After midterm rout, OpenAI tries to win over communities it needs for AI expansion",
-      "summary": "OpenAI is responding to the clear vote by US voters against new data centers with voluntary commitments for future sites. The pledges only apply to facilities OpenAI operates itself, though, and a large share of its infrastructure",
-      "url": "https://the-decoder.com/after-midterm-rout-openai-tries-to-win-over-communities-it-needs-for-ai-expansion/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-05T14:37:46+00:00"
-    },
-    {
-      "title": "September in Servo: , rounded rectangles, and more",
-      "summary": "Comments",
-      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T14:34:18+00:00"
-    },
-    {
-      "title": "Anthropic reverses course and pays for news content for the first time",
-      "summary": "Anthropic signed its first licensing deal with a news publisher just ahead of the US midterm elections. The article Anthropic reverses course and pays for news content for the first time appeared first on The Decoder .",
-      "url": "https://the-decoder.com/anthropic-reverses-course-and-pays-for-news-content-for-the-first-time/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-05T14:09:05+00:00"
-    },
-    {
       "title": "Why a Mathematician Is Chasing Eclipses With Algorithms and Cameras",
       "summary": "The sun hangs low over the plains of Castile and León, in the north-central region of Spain. But from a slope of the mountain Pico Trigaza , it appears that a few puffy white clouds have started to block the sun. That’s vexing. A ",
       "url": "https://spectrum.ieee.org/2026-solar-eclipse",
@@ -691,36 +803,12 @@
       "published": "2026-11-05T14:00:00+00:00"
     },
     {
-      "title": "I wish tech companies knew more about me",
-      "summary": "Comments",
-      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T13:40:52+00:00"
-    },
-    {
       "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is th",
       "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
       "source": "MIT Technology Review",
       "category": "Emerging",
       "published": "2026-11-05T13:10:00+00:00"
-    },
-    {
-      "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
-      "summary": "Comments",
-      "url": "https://firenook.dev/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T13:07:29+00:00"
-    },
-    {
-      "title": "Download your favourite YouTube videos",
-      "summary": "Comments",
-      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T13:00:11+00:00"
     },
     {
       "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
@@ -907,28 +995,12 @@
       "published": "2026-11-04T22:45:09+00:00"
     },
     {
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-04T22:13:16+00:00"
-    },
-    {
       "title": "Eventhouse support for OneLake security (Generally Available)",
       "summary": "Security should be consistent wherever you query your data. With OneLake security, you can define access controls once, close to the data, and apply them across supported Microsoft Fabric engines without recreating your security r",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Eventhouse-support-for-OneLake-security-Generally-Available/ba-p/5377875",
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-04T22:00:00+00:00"
-    },
-    {
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-04T21:56:01+00:00"
     },
     {
       "title": "Find expensive queries from Capacity Metrics (Generally Available)",
@@ -1027,14 +1099,6 @@
       "published": "2026-11-04T17:00:38+00:00"
     },
     {
-      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-      "summary": "Comments",
-      "url": "https://www.linum.ai/field-notes/pjit-21k",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T16:45:11+00:00"
-    },
-    {
       "title": "Salesforce Data 360 integration with OneLake (Preview)",
       "summary": "A customer reports a missing delivery. The service case is in Salesforce, while the shipping and returns records are in Microsoft Fabric. Before a team can decide what to do next, it needs to connect those two views of the same cu",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Salesforce-Data-360-integration-with-OneLake-Preview/ba-p/5384626",
@@ -1049,6 +1113,14 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-04T16:06:43+00:00"
+    },
+    {
+      "title": "Share data and context across organizations with IQ Share (Preview)",
+      "summary": "The data needed to answer a business question rarely belongs to one organization. Enterprises depend on suppliers, software providers, research partners, and customers for information that complement their own. Yet getting that da",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Share-data-and-context-across-organizations-with-IQ-Share/ba-p/5378764",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-04T16:00:00+00:00"
     },
     {
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
@@ -1243,14 +1315,6 @@
       "published": "2026-11-03T18:00:00+00:00"
     },
     {
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "summary": "",
-      "url": "https://huggingface.co/blog/allenai/statebench",
-      "source": "Hugging Face",
-      "category": "AI",
-      "published": "2026-11-03T17:15:21+00:00"
-    },
-    {
       "title": "Agentic cheminformatics with Google Antigravity",
       "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
       "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
@@ -1307,14 +1371,6 @@
       "published": "2026-11-03T15:41:53+00:00"
     },
     {
-      "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
-      "summary": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensit",
-      "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-03T15:16:32+00:00"
-    },
-    {
       "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse gam",
       "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
@@ -1337,30 +1393,6 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-03T12:00:00+00:00"
-    },
-    {
-      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-      "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its o",
-      "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-03T11:23:53+00:00"
-    },
-    {
-      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-      "summary": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the q",
-      "url": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-03T11:18:20+00:00"
-    },
-    {
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they ",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "source": "MIT Technology Review",
-      "category": "Emerging",
-      "published": "2026-11-03T10:43:41+00:00"
     },
     {
       "title": "How Cisco defends at machine speed with OpenAI",
@@ -1539,14 +1571,6 @@
       "published": "2026-11-01T14:00:01+00:00"
     },
     {
-      "title": "Lakebase branching for CI/CD: lessons from 100 PR databases",
-      "summary": "The problem: testing against production data shouldn't take over 30 minutesSnorkel...",
-      "url": "https://www.databricks.com/blog/lakebase-branching-cicd-lessons-100-pr-databases",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-10-31T21:25:00+00:00"
-    },
-    {
       "title": "When Electric Cars Were for Women",
       "summary": "At the turn of the last century, the automobile industry was still new and evolving rapidly. In 1898, there were about 50 carmakers in the United States. A decade later, that number had increased fivefold. In 1901, the companies p",
       "url": "https://spectrum.ieee.org/early-electric-vehicles",
@@ -1649,14 +1673,6 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-10-29T18:20:11+00:00"
-    },
-    {
-      "title": "Bringing Rust-native Spark compatibility to Microsoft OneLake with Sail and LakeSail",
-      "summary": "Coauthor: Shehab Amin Microsoft OneLake gives every Microsoft Fabric tenant a single, unified data lake built on open formats. One copy of data, many engines: that is the promise, and it is what makes OneLake such a strong foundat",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bringing-Rust-native-Spark-compatibility-to-Microsoft-OneLake/ba-p/5377595",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-10-29T17:48:58+00:00"
     },
     {
       "title": "An updated Model Spec for more capable and beneficial AI",
@@ -2233,22 +2249,6 @@
       "source": "Google DeepMind",
       "category": "AI",
       "published": "2026-10-15T16:08:03+00:00"
-    },
-    {
-      "title": "Chasing China’s Monazite Monopoly",
-      "summary": "One of the singular features of Baotou, an industrial city of 2 million people in Inner Mongolia, is a 10-square-kilometer (4-square-mile) lake that is among the most polluted in the world. The artificial lake, referred to by the ",
-      "url": "https://spectrum.ieee.org/china-rare-earth-minerals",
-      "source": "IEEE Spectrum",
-      "category": "Emerging",
-      "published": "2026-10-15T14:54:03+00:00"
-    },
-    {
-      "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
-      "summary": "The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles of the early 21st century. Hundreds of mining companies, government agencies, and industri",
-      "url": "https://spectrum.ieee.org/monazite-rare-earth",
-      "source": "IEEE Spectrum",
-      "category": "Emerging",
-      "published": "2026-10-15T14:53:02+00:00"
     },
     {
       "title": "Apertus 1.5 Release Notes",

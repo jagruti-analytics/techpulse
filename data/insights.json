@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T13:25:09.242822+00:00",
+  "updated_at": "2026-11-06T17:06:57.107074+00:00",
   "trending": [
     {
       "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
@@ -8,6 +8,14 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-06T06:28:32+00:00"
+    },
+    {
+      "title": "Perplexity now has its own always-on AI agent",
+      "summary": "Perplexity is launching \"Teammates,\" always-on agents that work through ongoing projects on their own virtual machines. The feature requires the Max plan at $200 per month, well above similar offerings from OpenAI or Anthropic. Th",
+      "url": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-06T16:47:28+00:00"
     },
     {
       "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
@@ -26,31 +34,47 @@
       "published": "2026-11-05T22:00:00+00:00"
     },
     {
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-05T19:06:12+00:00"
-    },
-    {
-      "title": "Use OneLake as native storage for Azure Databricks (Generally Available)",
-      "summary": "Organizations increasingly use Microsoft Fabric and Azure Databricks together so teams can choose the tools that best fit their data engineering, analytics, and AI workloads while working from a common data foundation. OneLake ext",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Use-OneLake-as-native-storage-for-Azure-Databricks-Generally/ba-p/5377939",
-      "source": "Microsoft Fabric",
+      "title": "How public sector organizations can govern AI at scale",
+      "summary": "Every government CIO has the same mandate right now: adopt AI, move faster, do more...",
+      "url": "https://www.databricks.com/blog/how-public-sector-organizations-can-govern-ai-scale",
+      "source": "Databricks",
       "category": "Analytics",
-      "published": "2026-11-05T19:00:00+00:00"
+      "published": "2026-11-06T15:14:29+00:00"
     },
     {
-      "title": "Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model",
-      "summary": "Baidu releases ERNIE 5.5 Flash Base: a 280-billion-parameter MoE model pre-trained on 33.5 trillion tokens, shipped deliberately without fine-tuning, so developers can take it wherever they want. The article Baidu releases ERNIE 5",
-      "url": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-05T17:56:41+00:00"
+      "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+      "summary": "Comments",
+      "url": "https://github.com/zalando-incubator/agentic-identity-broker",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T15:07:47+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "Perplexity now has its own always-on AI agent",
+      "summary": "Perplexity is launching \"Teammates,\" always-on agents that work through ongoing projects on their own virtual machines. The feature requires the Max plan at $200 per month, well above similar offerings from OpenAI or Anthropic. Th",
+      "url": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-06T16:47:28+00:00"
+    },
+    {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-06T15:54:47+00:00"
+    },
+    {
+      "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
+      "summary": "Nonprofit METR spent eleven weeks auditing Anthropic's internal research data and concluded that the pace of model development has roughly doubled, with about 80 percent of the speedup driven by AI-assisted research. Anthropic red",
+      "url": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-06T13:40:07+00:00"
+    },
     {
       "title": "Underdog shows off a 32MB speech model in new demo",
       "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
@@ -74,30 +98,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-06T06:28:32+00:00"
-    },
-    {
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-05T22:40:55+00:00"
-    },
-    {
-      "title": "OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them",
-      "summary": "With GPT-6 Cyber, OpenAI is introducing an AI model built to find security vulnerabilities in software, develop exploits, and suggest patches. According to OpenAI, it has already found 81 previously unknown vulnerabilities in Fire",
-      "url": "https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-05T20:36:25+00:00"
-    },
-    {
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-05T19:48:28+00:00"
     }
   ],
   "technology_releases": [
