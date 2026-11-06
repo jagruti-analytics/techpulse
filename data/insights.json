@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T09:11:40.422687+00:00",
+  "updated_at": "2026-11-06T13:25:09.242822+00:00",
   "trending": [
     {
       "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
@@ -52,6 +52,22 @@
   ],
   "ai_breakthroughs": [
     {
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-06T13:02:16+00:00"
+    },
+    {
+      "title": "Anthropic adds bank account access to Claude so users can track their spending",
+      "summary": "Anthropic is introducing a new feature in Claude called Personal Finance, which allows users to connect their bank and card accounts and ask questions about their finances. The article Anthropic adds bank account access to Claude ",
+      "url": "https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-06T11:33:13+00:00"
+    },
+    {
       "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
       "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
       "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
@@ -82,25 +98,25 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-05T19:48:28+00:00"
-    },
-    {
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-05T19:12:39+00:00"
-    },
-    {
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-05T19:06:12+00:00"
     }
   ],
   "technology_releases": [
+    {
+      "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+      "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was the newest P",
+      "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-06T12:06:43+00:00"
+    },
+    {
+      "title": "We've built an open-source feature flag server for 11 years",
+      "summary": "Comments",
+      "url": "https://github.com/Unleash/unleash",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T11:40:06+00:00"
+    },
     {
       "title": "Power BI reports support OAP exceptions for semantic models in separate workspaces (Preview)",
       "summary": "Workspace outbound access protection (OAP) helps you control where data in a Microsoft Fabric workspace can flow. The initial preview for Power BI reports , launched in June, required a report in an OAP-protected workspace to use ",
@@ -132,22 +148,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-05T19:06:12+00:00"
-    },
-    {
-      "title": "Use OneLake as native storage for Azure Databricks (Generally Available)",
-      "summary": "Organizations increasingly use Microsoft Fabric and Azure Databricks together so teams can choose the tools that best fit their data engineering, analytics, and AI workloads while working from a common data foundation. OneLake ext",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Use-OneLake-as-native-storage-for-Azure-Databricks-Generally/ba-p/5377939",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-05T19:00:00+00:00"
-    },
-    {
-      "title": "TikTok launched a dedicated TikTok Shop app",
-      "summary": "TikTok has released a standalone app for TikTok Shop in a few countries, as spotted by social media consultant Matt Navarra. According to its App Store listing, the TikTok Shop app offers: - Personalized picks inspired by your int",
-      "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-05T17:27:36+00:00"
     }
   ]
 }
