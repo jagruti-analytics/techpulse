@@ -1,14 +1,118 @@
 {
-  "updated_at": "2026-11-06T05:14:27.559706+00:00",
+  "updated_at": "2026-11-06T09:11:40.422687+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
     {
-      "title": "Silicon Valley's Bad Night",
+      "title": "Living Maps: Bay Area tech since 1960s",
       "summary": "Comments",
-      "url": "https://www.theatlantic.com/technology/2026/11/americans-really-dont-like-data-centers-elections/689284/",
+      "url": "https://tomorrowasusual.com/living-maps/bay-area-tech/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-06T03:54:28+00:00"
+      "published": "2026-11-06T08:08:19+00:00"
+    },
+    {
+      "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+      "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we investiga",
+      "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-06T08:04:49+00:00"
+    },
+    {
+      "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
+      "summary": "Comments",
+      "url": "https://obelisk.club/research/app-store-2026",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T07:59:19+00:00"
+    },
+    {
+      "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
+      "summary": "Comments",
+      "url": "https://worldstrike.fun/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T07:55:48+00:00"
+    },
+    {
+      "title": "Global stocks tumble as AI panic grips markets after Democrats' midterm success",
+      "summary": "Comments",
+      "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T07:52:53+00:00"
+    },
+    {
+      "title": "Kugelblitz – Mac-Native Google Earth Alternative",
+      "summary": "Comments",
+      "url": "https://apps.metaebene.me/en/kugelblitz",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T07:47:38+00:00"
+    },
+    {
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "summary": "Comments",
+      "url": "https://github.com/ppmpreetham/BUI",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T07:40:35+00:00"
+    },
+    {
+      "title": "Hardcoded credentials and other issues in Tata Motors App",
+      "summary": "Comments",
+      "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T07:28:39+00:00"
+    },
+    {
+      "title": "Britain to make salary disclosure in job ads mandatory",
+      "summary": "Comments",
+      "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T07:22:04+00:00"
+    },
+    {
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-06T06:28:32+00:00"
+    },
+    {
+      "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
+      "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that ",
+      "url": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-06T05:58:54+00:00"
+    },
+    {
+      "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
+      "summary": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the secu",
+      "url": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-06T05:39:10+00:00"
+    },
+    {
+      "title": "I struggle to believe that AI R&D is ingenious",
+      "summary": "Comments",
+      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T05:19:04+00:00"
+    },
+    {
+      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "summary": "Comments",
+      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T04:17:49+00:00"
     },
     {
       "title": "Pwn.college",
@@ -25,14 +129,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-06T03:16:26+00:00"
-    },
-    {
-      "title": "Closed AI models dominate the price-performance frontier",
-      "summary": "Comments",
-      "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-06T02:49:56+00:00"
     },
     {
       "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
@@ -163,14 +259,6 @@
       "published": "2026-11-05T20:23:21+00:00"
     },
     {
-      "title": "Search for everyone",
-      "summary": "Comments",
-      "url": "https://kagi.com/changelog#11820",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T20:03:34+00:00"
-    },
-    {
       "title": "Goodbye from Salon",
       "summary": "Comments",
       "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
@@ -217,14 +305,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-05T19:27:52+00:00"
-    },
-    {
-      "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
-      "summary": "Comments",
-      "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T19:16:34+00:00"
     },
     {
       "title": "Meta warns that election backlash against data centers could make AI expansion harder",
@@ -331,14 +411,6 @@
       "published": "2026-11-05T17:17:42+00:00"
     },
     {
-      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-      "summary": "Comments",
-      "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T17:01:23+00:00"
-    },
-    {
       "title": "Australian universities are creating AI-native graduates",
       "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
       "url": "https://openai.com/index/australian-universities-ai-native-graduates",
@@ -427,22 +499,6 @@
       "published": "2026-11-05T16:25:00+00:00"
     },
     {
-      "title": "My psychophysics as a bilateral cochlear implant user",
-      "summary": "Comments",
-      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T16:21:12+00:00"
-    },
-    {
-      "title": "The Stacks Project, Formalized in Lean",
-      "summary": "Comments",
-      "url": "https://axiommath.ai/research/the-stacks-project-formalized/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T16:16:59+00:00"
-    },
-    {
       "title": "Axiom Math wants to keep AI slop out of mathematics",
       "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
       "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
@@ -481,14 +537,6 @@
       "source": "GitHub Blog",
       "category": "Development",
       "published": "2026-11-05T16:00:00+00:00"
-    },
-    {
-      "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
-      "summary": "Comments",
-      "url": "https://github.com/AGGIB/Stroq",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T15:54:41+00:00"
     },
     {
       "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
@@ -627,14 +675,6 @@
       "published": "2026-11-05T13:00:00+00:00"
     },
     {
-      "title": "Obscure audio codec is a perfect fit for the N64",
-      "summary": "Comments",
-      "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T12:51:48+00:00"
-    },
-    {
       "title": "Push-based CDC into Unity Catalog with Zerobus Ingest and Debezium",
       "summary": "Data in operational databases drives business decisions, and much of that analysis...",
       "url": "https://www.databricks.com/blog/push-based-cdc-unity-catalog-zerobus-ingest-and-debezium",
@@ -689,14 +729,6 @@
       "source": "MIT Technology Review",
       "category": "Emerging",
       "published": "2026-11-05T10:00:00+00:00"
-    },
-    {
-      "title": "Baidu released ERNIE 5.5 Flash Base",
-      "summary": "Comments",
-      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T09:29:12+00:00"
     },
     {
       "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
@@ -881,14 +913,6 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-04T20:00:00+00:00"
-    },
-    {
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available",
-      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-04T19:30:04+00:00"
     },
     {
       "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
@@ -1329,30 +1353,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-03T07:43:07+00:00"
-    },
-    {
-      "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
-      "summary": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reported more tha",
-      "url": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-03T07:27:07+00:00"
-    },
-    {
-      "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
-      "summary": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing ",
-      "url": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-03T05:34:41+00:00"
-    },
-    {
-      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
-      "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648,",
-      "url": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-03T05:34:37+00:00"
     },
     {
       "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",

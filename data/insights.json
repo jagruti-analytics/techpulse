@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-06T05:14:27.559706+00:00",
+  "updated_at": "2026-11-06T09:11:40.422687+00:00",
   "trending": [
+    {
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-06T06:28:32+00:00"
+    },
     {
       "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
       "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
@@ -40,17 +48,17 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-05T17:56:41+00:00"
-    },
-    {
-      "title": "Tencent releases Hy4 with vision and computer use, claims second place among Chinese AI models",
-      "summary": "Tencent has unveiled Hy4, its first multimodal language model that understands images and can operate software on its own. On the Artificial Analysis Intelligence Index, it scores 35 points, solid but behind Kimi K3.1 Pro. On hard",
-      "url": "https://the-decoder.com/tencent-releases-hy4-with-vision-and-computer-use-claims-second-place-among-chinese-ai-models/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-05T16:06:31+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-06T06:28:32+00:00"
+    },
     {
       "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
       "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
@@ -90,14 +98,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-05T19:06:12+00:00"
-    },
-    {
-      "title": "Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent",
-      "summary": "Google Deepmind is making Gemini Omni 1.2 Flash generally available. The video-generation model now creates clips up to 15 seconds long, can be edited step by step via conversation, and costs just $0.07 per second at 720p, 30 perc",
-      "url": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-05T19:05:31+00:00"
     }
   ],
   "technology_releases": [
@@ -126,14 +126,6 @@
       "published": "2026-11-05T20:00:00+00:00"
     },
     {
-      "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
-      "summary": "Comments",
-      "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T19:16:34+00:00"
-    },
-    {
       "title": "OpenAI released a new cybersecurity model. Is that enough?",
       "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
       "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
@@ -148,6 +140,14 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-05T19:00:00+00:00"
+    },
+    {
+      "title": "TikTok launched a dedicated TikTok Shop app",
+      "summary": "TikTok has released a standalone app for TikTok Shop in a few countries, as spotted by social media consultant Matt Navarra. According to its App Store listing, the TikTok Shop app offers: - Personalized picks inspired by your int",
+      "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-05T17:27:36+00:00"
     }
   ]
 }
