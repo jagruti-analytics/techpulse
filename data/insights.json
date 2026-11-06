@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T01:27:44.965327+00:00",
+  "updated_at": "2026-11-06T05:14:27.559706+00:00",
   "trending": [
     {
       "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
@@ -16,14 +16,6 @@
       "source": "Microsoft Power BI",
       "category": "Analytics",
       "published": "2026-11-05T22:00:00+00:00"
-    },
-    {
-      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-      "summary": "Comments",
-      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T20:21:43+00:00"
     },
     {
       "title": "OpenAI released a new cybersecurity model. Is that enough?",
@@ -48,6 +40,14 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-05T17:56:41+00:00"
+    },
+    {
+      "title": "Tencent releases Hy4 with vision and computer use, claims second place among Chinese AI models",
+      "summary": "Tencent has unveiled Hy4, its first multimodal language model that understands images and can operate software on its own. On the Artificial Analysis Intelligence Index, it scores 35 points, solid but behind Kimi K3.1 Pro. On hard",
+      "url": "https://the-decoder.com/tencent-releases-hy4-with-vision-and-computer-use-claims-second-place-among-chinese-ai-models/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-05T16:06:31+00:00"
     }
   ],
   "ai_breakthroughs": [
@@ -126,14 +126,6 @@
       "published": "2026-11-05T20:00:00+00:00"
     },
     {
-      "title": "Introducing Pangram Image 1.0",
-      "summary": "Comments",
-      "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T19:27:52+00:00"
-    },
-    {
       "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
       "summary": "Comments",
       "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
@@ -148,6 +140,14 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-05T19:06:12+00:00"
+    },
+    {
+      "title": "Use OneLake as native storage for Azure Databricks (Generally Available)",
+      "summary": "Organizations increasingly use Microsoft Fabric and Azure Databricks together so teams can choose the tools that best fit their data engineering, analytics, and AI workloads while working from a common data foundation. OneLake ext",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Use-OneLake-as-native-storage-for-Azure-Databricks-Generally/ba-p/5377939",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-05T19:00:00+00:00"
     }
   ]
 }
