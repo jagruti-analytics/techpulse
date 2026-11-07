@@ -1,14 +1,94 @@
 {
-  "updated_at": "2026-11-07T09:02:18.337608+00:00",
+  "updated_at": "2026-11-07T13:10:00.066779+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
     {
-      "title": "Bong: DuckDuckGo bang alternative, open-source and self-hosted",
+      "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
+      "summary": "Escalating hacks affecting blood labs and grocery stores show the very real risks to critical infrastructure that come from basic security lapses involving internet-connected devices.",
+      "url": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
+      "source": "Wired Security",
+      "category": "Security",
+      "published": "2026-11-07T13:00:00+00:00"
+    },
+    {
+      "title": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away",
+      "summary": "Nous Research retrained Alibaba's Qwen3.8-27B to produce Arete-27B, largely stripping out its pro-Chinese bias. The propaganda rate dropped from 22 percent to less than one percent, while general capabilities remained intact in te",
+      "url": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-07T12:32:45+00:00"
+    },
+    {
+      "title": "Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar",
+      "summary": "The \"Into the Unknown\" benchmark tasks nine AI agents with tackling open research questions from U.S. national laboratories. None of the 135 submissions meets all requirements. A total of 114 papers fail the integrity check, with ",
+      "url": "https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-07T11:13:42+00:00"
+    },
+    {
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
       "summary": "Comments",
-      "url": "https://bong.glendalab.com",
+      "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-07T07:48:13+00:00"
+      "published": "2026-11-07T11:11:15+00:00"
+    },
+    {
+      "title": "Upload Your RAM",
+      "summary": "Comments",
+      "url": "https://uploadyourram.org",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-07T10:15:26+00:00"
+    },
+    {
+      "title": "Google's AI detects high blood pressure from a regular smartwatch without a cuff",
+      "summary": "Google Research built an AI that spots signs of high blood pressure using only the pulse and motion sensors in a standard smartwatch, no cuff needed. In a 196-person study, its 65.8 percent detection rate beat the traditional in-o",
+      "url": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-07T09:54:09+00:00"
+    },
+    {
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "summary": "Comments",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-07T09:46:03+00:00"
+    },
+    {
+      "title": "OpenAI lands an $11 billion funding round, but has to court dentists for more capital",
+      "summary": "OpenAI has secured $11 billion in fresh capital, the first tranche of a round that values the company at $1.25 trillion. The full round could swell to $20 billion. That OpenAI is already turning to wealthy private investors hints ",
+      "url": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-07T09:45:23+00:00"
+    },
+    {
+      "title": "Running a law firm on Free software",
+      "summary": "Comments",
+      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-07T09:39:06+00:00"
+    },
+    {
+      "title": "Port 0: The Port That Does Not Exist",
+      "summary": "Comments",
+      "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-07T09:38:26+00:00"
+    },
+    {
+      "title": "Need for Speed Underground 2 online in the browser",
+      "summary": "Comments",
+      "url": "https://nfsu2.xyz/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-07T09:36:36+00:00"
     },
     {
       "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
@@ -27,14 +107,6 @@
       "published": "2026-11-07T06:39:04+00:00"
     },
     {
-      "title": "Asahi Linux Progress Linux 7.3",
-      "summary": "Comments",
-      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-07T05:20:18+00:00"
-    },
-    {
       "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
       "summary": "Comments",
       "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
@@ -49,14 +121,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-07T01:40:28+00:00"
-    },
-    {
-      "title": "I toured Unitree's factory. I'm more bullish on the West",
-      "summary": "Comments",
-      "url": "https://josef.cn/blog/unitree",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-07T01:05:16+00:00"
     },
     {
       "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
@@ -475,14 +539,6 @@
       "published": "2026-11-06T11:38:17+00:00"
     },
     {
-      "title": "Anthropic adds bank account access to Claude so users can track their spending",
-      "summary": "Anthropic is introducing a new feature in Claude called Personal Finance, which allows users to connect their bank and card accounts and ask questions about their finances. The article Anthropic adds bank account access to Claude ",
-      "url": "https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-06T11:33:13+00:00"
-    },
-    {
       "title": "The Flood is Coming And The Pipes Were Already Full",
       "summary": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these mo",
       "url": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
@@ -497,14 +553,6 @@
       "source": "MIT Technology Review",
       "category": "Emerging",
       "published": "2026-11-06T10:00:00+00:00"
-    },
-    {
-      "title": "Chomsky and the two cultures of statistical learning (2011)",
-      "summary": "Comments",
-      "url": "https://www.norvig.com/chomsky.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-06T08:18:36+00:00"
     },
     {
       "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
@@ -545,14 +593,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-06T05:39:10+00:00"
-    },
-    {
-      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
-      "summary": "Comments",
-      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-06T04:17:49+00:00"
     },
     {
       "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
@@ -619,14 +659,6 @@
       "published": "2026-11-05T22:00:00+00:00"
     },
     {
-      "title": "OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them",
-      "summary": "With GPT-6 Cyber, OpenAI is introducing an AI model built to find security vulnerabilities in software, develop exploits, and suggest patches. According to OpenAI, it has already found 81 previously unknown vulnerabilities in Fire",
-      "url": "https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-05T20:36:25+00:00"
-    },
-    {
       "title": "Inside GitHub’s new Git storage architecture",
       "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .",
       "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
@@ -683,14 +715,6 @@
       "published": "2026-11-05T19:06:12+00:00"
     },
     {
-      "title": "Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent",
-      "summary": "Google Deepmind is making Gemini Omni 1.2 Flash generally available. The video-generation model now creates clips up to 15 seconds long, can be edited step by step via conversation, and costs just $0.07 per second at 720p, 30 perc",
-      "url": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-05T19:05:31+00:00"
-    },
-    {
       "title": "IEEE Program Schools Preuniversity Educators On Tech Topics",
       "summary": "Now in their third year, the IEEE TryEngineering educator sessions continue to empower preuniversity teachers with specialized professional development programs on engineering topics and classroom-tested lessons. This year’s sessi",
       "url": "https://spectrum.ieee.org/ieee-preuniversity",
@@ -729,14 +753,6 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-05T18:00:00+00:00"
-    },
-    {
-      "title": "Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model",
-      "summary": "Baidu releases ERNIE 5.5 Flash Base: a 280-billion-parameter MoE model pre-trained on 33.5 trillion tokens, shipped deliberately without fine-tuning, so developers can take it wherever they want. The article Baidu releases ERNIE 5",
-      "url": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-05T17:56:41+00:00"
     },
     {
       "title": "Australian universities are creating AI-native graduates",
@@ -843,14 +859,6 @@
       "published": "2026-11-05T14:41:10+00:00"
     },
     {
-      "title": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
-      "summary": "Comments",
-      "url": "https://github.com/piercefreeman/waymark",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T14:06:31+00:00"
-    },
-    {
       "title": "Why a Mathematician Is Chasing Eclipses With Algorithms and Cameras",
       "summary": "The sun hangs low over the plains of Castile and León, in the north-central region of Spain. But from a slope of the mountain Pico Trigaza , it appears that a few puffy white clouds have started to block the sun. That’s vexing. A ",
       "url": "https://spectrum.ieee.org/2026-solar-eclipse",
@@ -889,6 +897,14 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-05T12:08:54+00:00"
+    },
+    {
+      "title": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
+      "summary": "Comments",
+      "url": "https://github.com/hyphatech/spindle",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T10:45:28+00:00"
     },
     {
       "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
@@ -1291,14 +1307,6 @@
       "published": "2026-11-03T20:00:00+00:00"
     },
     {
-      "title": "Panthera: Ampere's CPU Performance Model",
-      "summary": "Comments",
-      "url": "https://github.com/AmpereComputing/panthera",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T19:12:17+00:00"
-    },
-    {
       "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
       "summary": "Suspected North Korean attackers duped an engineer with a fake job interview and a malicious download to gain a foothold in the crypto firm’s system and steal billions, according to Binance.",
       "url": "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/",
@@ -1323,6 +1331,14 @@
       "published": "2026-11-03T18:46:38+00:00"
     },
     {
+      "title": "ToothPaste",
+      "summary": "Comments",
+      "url": "https://brisk4t.github.io/blog/toothpaste/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T18:27:27+00:00"
+    },
+    {
       "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
       "summary": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The incident is assessed to be part o",
       "url": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
@@ -1345,14 +1361,6 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-03T18:00:00+00:00"
-    },
-    {
-      "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
-      "summary": "Comments",
-      "url": "https://github.com/andrewboldi/tmux-restore",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T17:25:21+00:00"
     },
     {
       "title": "Modernize data integration strategy with Microsoft Fabric when using Snowflake and Databricks",
@@ -2041,14 +2049,6 @@
       "source": "GitHub Blog",
       "category": "Development",
       "published": "2026-10-21T16:00:00+00:00"
-    },
-    {
-      "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
-      "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
-      "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
-      "source": "Wired Security",
-      "category": "Security",
-      "published": "2026-10-21T14:26:19+00:00"
     },
     {
       "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
