@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-07T16:53:45.077104+00:00",
+  "updated_at": "2026-11-07T20:52:54.306019+00:00",
   "trending": [
+    {
+      "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
+      "summary": "AI models can often spot problematic behavior by other AI agents in logs, according to a study by Anthropic researcher Andy Hall. GPT-5 found about 98 percent of reward-hacking cases, but the more exhaustively the search is tuned,",
+      "url": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-07T16:56:38+00:00"
+    },
     {
       "title": "The gap between open and closed AI models in cyber capabilities keeps shrinking",
       "summary": "In the Vals AI benchmark, OpenAI's GPT-6 Sol Daybreak hits 80.8 percent of attack objectives in simulated corporate networks. Worse, the open-weight model DeepSeek V4.1 Flash reaches 72.8 percent at a tenth of the cost. Because op",
@@ -8,6 +16,14 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-07T15:35:50+00:00"
+    },
+    {
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’v",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-07T15:00:00+00:00"
     },
     {
       "title": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away",
@@ -32,25 +48,17 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-07T06:44:17+00:00"
-    },
-    {
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-06T06:28:32+00:00"
-    },
-    {
-      "title": "How Long Can Life Wait?",
-      "summary": "Comments",
-      "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-07T16:22:59+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
+      "summary": "AI models can often spot problematic behavior by other AI agents in logs, according to a study by Anthropic researcher Andy Hall. GPT-5 found about 98 percent of reward-hacking cases, but the more exhaustively the search is tuned,",
+      "url": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-07T16:56:38+00:00"
+    },
     {
       "title": "The gap between open and closed AI models in cyber capabilities keeps shrinking",
       "summary": "In the Vals AI benchmark, OpenAI's GPT-6 Sol Daybreak hits 80.8 percent of attack objectives in simulated corporate networks. Worse, the open-weight model DeepSeek V4.1 Flash reaches 72.8 percent at a tenth of the cost. Because op",
@@ -90,14 +98,6 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-07T09:45:23+00:00"
-    },
-    {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-06T22:53:46+00:00"
     }
   ],
   "technology_releases": [
