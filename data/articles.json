@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-11-07T01:18:15.638867+00:00",
+  "updated_at": "2026-11-07T05:04:11.199508+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "Show HN: Did prediction markets do any predicting this midterms?",
+      "summary": "Comments",
+      "url": "https://app.artifactbin.dev/@vivek/AQTt2H-did-prediction-markets-predict-the-midterms",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-07T03:50:21+00:00"
+    },
+    {
+      "title": "Lighting the Skies",
+      "summary": "Comments",
+      "url": "https://computer.rip/2026-10-25-searchlights.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-07T03:40:34+00:00"
+    },
+    {
+      "title": "The AI sell-off compared to well-known stock market crashes",
+      "summary": "Comments",
+      "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-07T02:20:06+00:00"
+    },
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-07T01:40:28+00:00"
+    },
+    {
+      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+      "summary": "Comments",
+      "url": "https://josef.cn/blog/unitree",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-07T01:05:16+00:00"
+    },
+    {
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "summary": "Comments",
+      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T23:37:19+00:00"
+    },
     {
       "title": "Libghostty 1.0",
       "summary": "Comments",
@@ -9,14 +57,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-06T23:30:52+00:00"
-    },
-    {
-      "title": "Outbound SIP calling is now available to all organizations",
-      "summary": "Comments",
-      "url": "https://developers.openai.com/api/docs/guides/voice-sip",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-06T23:03:55+00:00"
     },
     {
       "title": "Sodium-ion batteries approach cost parity with LFP",
@@ -41,14 +81,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-06T22:53:46+00:00"
-    },
-    {
-      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-      "summary": "Comments",
-      "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-06T22:50:43+00:00"
     },
     {
       "title": "Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions",
@@ -171,14 +203,6 @@
       "published": "2026-11-06T18:43:43+00:00"
     },
     {
-      "title": "40C3 halfnarp – Submit talk preferences to aid scheduling",
-      "summary": "Comments",
-      "url": "https://halfnarp.events.ccc.de",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-06T18:16:43+00:00"
-    },
-    {
       "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
       "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, ",
       "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
@@ -187,28 +211,12 @@
       "published": "2026-11-06T18:10:10+00:00"
     },
     {
-      "title": "Memorilla: Latent Semantic Memory for LLMs",
-      "summary": "Comments",
-      "url": "https://arxiv.org/abs/2610.21375",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-06T18:03:33+00:00"
-    },
-    {
       "title": "How a Blue Wave midterm might reshape the AI industry",
       "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more ",
       "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "title": "Size-It-Up (Game)",
-      "summary": "Comments",
-      "url": "https://magnitudle.com/size-it-up",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-06T17:59:59+00:00"
     },
     {
       "title": "Amazon is now making a Melania Trump TV series",
@@ -267,28 +275,20 @@
       "published": "2026-11-06T17:15:16+00:00"
     },
     {
+      "title": "Notes on San Marino",
+      "summary": "Comments",
+      "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T17:12:05+00:00"
+    },
+    {
       "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
       "summary": "Comments",
       "url": "https://up.codes/careers?utm_source=HN",
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-06T17:03:33+00:00"
-    },
-    {
-      "title": "PyLings: Solve Exercises and Learn Python",
-      "summary": "Comments",
-      "url": "https://github.com/thesayfulla/pylings",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-06T16:59:40+00:00"
-    },
-    {
-      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-      "summary": "Comments",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-06T16:54:36+00:00"
     },
     {
       "title": "First steps in bare-metal programming using UEFI",
@@ -315,14 +315,6 @@
       "published": "2026-11-06T16:34:39+00:00"
     },
     {
-      "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
-      "summary": "Comments",
-      "url": "https://github.com/anomalyco/rune",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-06T16:31:32+00:00"
-    },
-    {
       "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
       "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files u",
       "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
@@ -345,14 +337,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-06T15:54:47+00:00"
-    },
-    {
-      "title": "Deus Ex",
-      "summary": "Comments",
-      "url": "https://www.filfre.net/2026/11/deus-ex/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-06T15:44:36+00:00"
     },
     {
       "title": "This see-through camera lets photographers maintain eye contact with their subjects",
@@ -417,14 +401,6 @@
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-11-06T14:00:48+00:00"
-    },
-    {
-      "title": "How octopuses squeeze through too small gaps",
-      "summary": "Comments",
-      "url": "https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-06T13:57:20+00:00"
     },
     {
       "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
@@ -641,6 +617,14 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-05T22:00:00+00:00"
+    },
+    {
+      "title": "What do the next 4000 emoji look like?",
+      "summary": "Comments",
+      "url": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T20:46:26+00:00"
     },
     {
       "title": "OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them",
@@ -883,14 +867,6 @@
       "published": "2026-11-05T14:00:02+00:00"
     },
     {
-      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-      "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-      "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-05T14:00:00+00:00"
-    },
-    {
       "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is th",
       "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
@@ -985,6 +961,14 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-05T05:17:04+00:00"
+    },
+    {
+      "title": "How tall can you build with 54 Jenga blocks?",
+      "summary": "Comments",
+      "url": "https://johnjwang.com/post/2026/10/25/tallest-jenga-tower",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T02:19:18+00:00"
     },
     {
       "title": "Setting a new standard for responsible AI infrastructure",
@@ -1137,14 +1121,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-04T17:00:38+00:00"
-    },
-    {
-      "title": "Annie Ernaux still feels like an outsider",
-      "summary": "Comments",
-      "url": "https://www.vulture.com/article/annie-ernaux-interview-french-protests-nobel-prize.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T16:51:22+00:00"
     },
     {
       "title": "Salesforce Data 360 integration with OneLake (Preview)",
@@ -1307,6 +1283,14 @@
       "published": "2026-11-03T20:00:00+00:00"
     },
     {
+      "title": "Panthera: Ampere's CPU Performance Model",
+      "summary": "Comments",
+      "url": "https://github.com/AmpereComputing/panthera",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T19:12:17+00:00"
+    },
+    {
       "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
       "summary": "Suspected North Korean attackers duped an engineer with a fake job interview and a malicious download to gain a foothold in the crypto firm’s system and steal billions, according to Binance.",
       "url": "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/",
@@ -1353,6 +1337,14 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-03T18:00:00+00:00"
+    },
+    {
+      "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+      "summary": "Comments",
+      "url": "https://github.com/andrewboldi/tmux-restore",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T17:25:21+00:00"
     },
     {
       "title": "Agentic cheminformatics with Google Antigravity",
@@ -1417,6 +1409,14 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-03T15:41:53+00:00"
+    },
+    {
+      "title": "The Flash C Compiler",
+      "summary": "Comments",
+      "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T14:49:42+00:00"
     },
     {
       "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
