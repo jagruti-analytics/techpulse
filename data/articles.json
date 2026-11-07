@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-11-07T13:10:00.066779+00:00",
+  "updated_at": "2026-11-07T16:53:45.077104+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs",
+      "summary": "Thinking Machines' AI model Inkling 2 Small swears during its internal reasoning, 316 times across 2,655 benchmark runs, according to an analysis by Vals AI. The profanity typically shows up late in long runs that fail anyway. But",
+      "url": "https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-07T16:31:00+00:00"
+    },
+    {
+      "title": "How Long Can Life Wait?",
+      "summary": "Comments",
+      "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-07T16:22:59+00:00"
+    },
+    {
+      "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+      "summary": "Comments",
+      "url": "https://kevinboone.me/tpwin.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-07T16:06:27+00:00"
+    },
+    {
+      "title": "The gap between open and closed AI models in cyber capabilities keeps shrinking",
+      "summary": "In the Vals AI benchmark, OpenAI's GPT-6 Sol Daybreak hits 80.8 percent of attack objectives in simulated corporate networks. Worse, the open-weight model DeepSeek V4.1 Flash reaches 72.8 percent at a tenth of the cost. Because op",
+      "url": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-07T15:35:50+00:00"
+    },
+    {
+      "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
+      "summary": "Comments",
+      "url": "https://news.ycombinator.com/item?id=50405250",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-07T15:14:40+00:00"
+    },
+    {
+      "title": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf]",
+      "summary": "Comments",
+      "url": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-07T14:18:45+00:00"
+    },
+    {
+      "title": "The $8 Linux Computer (2022)",
+      "summary": "Comments",
+      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-07T14:00:20+00:00"
+    },
     {
       "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
       "summary": "Escalating hacks affecting blood labs and grocery stores show the very real risks to critical infrastructure that come from basic security lapses involving internet-connected devices.",
@@ -25,14 +81,6 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-07T11:13:42+00:00"
-    },
-    {
-      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
-      "summary": "Comments",
-      "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-07T11:11:15+00:00"
     },
     {
       "title": "Upload Your RAM",
@@ -73,14 +121,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-07T09:39:06+00:00"
-    },
-    {
-      "title": "Port 0: The Port That Does Not Exist",
-      "summary": "Comments",
-      "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-07T09:38:26+00:00"
     },
     {
       "title": "Need for Speed Underground 2 online in the browser",
@@ -187,22 +227,6 @@
       "published": "2026-11-06T22:10:00+00:00"
     },
     {
-      "title": "AI is dramatically accelerating AI research",
-      "summary": "Comments",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-06T20:27:23+00:00"
-    },
-    {
-      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-      "summary": "Comments",
-      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-06T20:09:14+00:00"
-    },
-    {
       "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
       "summary": "Comments",
       "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
@@ -233,14 +257,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-06T19:24:21+00:00"
-    },
-    {
-      "title": "Restaurant Delivery Payment-Skimming Campaign",
-      "summary": "Comments",
-      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-06T19:19:27+00:00"
     },
     {
       "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
@@ -307,14 +323,6 @@
       "published": "2026-11-06T17:32:16+00:00"
     },
     {
-      "title": "Devvm.dev: One VM for every project",
-      "summary": "Comments",
-      "url": "https://devvm.dev/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-06T17:30:22+00:00"
-    },
-    {
       "title": "The iPhone Duo has more than 100,000 optimized apps, Apple says",
       "summary": "Apple's iPhone Duo has been officially on sale for two weeks, and the company said today that the App Store now has over 100,000 apps that are built for the foldable. \"It's been wonderful to see how quickly developers have embrace",
       "url": "https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps",
@@ -345,14 +353,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-06T17:12:05+00:00"
-    },
-    {
-      "title": "First steps in bare-metal programming using UEFI",
-      "summary": "Comments",
-      "url": "https://kevinboone.me/efitest_index.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-06T16:50:29+00:00"
     },
     {
       "title": "Perplexity now has its own always-on AI agent",
@@ -467,22 +467,6 @@
       "published": "2026-11-06T13:40:07+00:00"
     },
     {
-      "title": "Gemini Omni 1.2 Flash",
-      "summary": "Comments",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-06T13:35:27+00:00"
-    },
-    {
-      "title": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models",
-      "summary": "Thinking Machines, the startup from former OpenAI CTO Mira Murati, is releasing Inkling 2 Small, a mixture-of-experts model with 594 billion parameters. The company claims it's the strongest western open-weight model. Better agent",
-      "url": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-06T13:25:09+00:00"
-    },
-    {
       "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Hu",
       "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
@@ -529,14 +513,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-06T12:06:35+00:00"
-    },
-    {
-      "title": "Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation",
-      "summary": "Anthropic's IPO is in trouble as investors push back on the $1.5 trillion valuation and the tech market sells off. The article Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation appeared first on The Deco",
-      "url": "https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-06T11:38:17+00:00"
     },
     {
       "title": "The Flood is Coming And The Pipes Were Already Full",
@@ -755,6 +731,14 @@
       "published": "2026-11-05T18:00:00+00:00"
     },
     {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summary": "",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-11-05T17:05:16+00:00"
+    },
+    {
       "title": "Australian universities are creating AI-native graduates",
       "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
       "url": "https://openai.com/index/australian-universities-ai-native-graduates",
@@ -768,14 +752,6 @@
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-Query-Corner-Finding-and-connecting-to-data-in-the-new/ba-p/5382053",
       "source": "Microsoft Power BI",
       "category": "Analytics",
-      "published": "2026-11-05T17:00:00+00:00"
-    },
-    {
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "source": "Google AI",
-      "category": "AI",
       "published": "2026-11-05T17:00:00+00:00"
     },
     {
@@ -1267,12 +1243,28 @@
       "published": "2026-11-04T05:43:11+00:00"
     },
     {
-      "title": "PostgreSQL Internals [pdf]",
+      "title": "PostgreSQL Internals [pdf] (2023)",
       "summary": "Comments",
       "url": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-04T05:22:43+00:00"
+    },
+    {
+      "title": "Text.js: Build full-stack React apps that render inside console.log",
+      "summary": "Comments",
+      "url": "https://textjs.org/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T04:59:36+00:00"
+    },
+    {
+      "title": "Building the NBC News Big Board",
+      "summary": "Comments",
+      "url": "https://ejfox.com/projects/nbc-big-board",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T04:09:48+00:00"
     },
     {
       "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
@@ -1297,6 +1289,14 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-04T00:00:00+00:00"
+    },
+    {
+      "title": "Tasfer: a text editor drawn on a 2D canvas",
+      "summary": "Comments",
+      "url": "https://www.hamza.se/blog/tasfer",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T20:58:40+00:00"
     },
     {
       "title": "Announcing support for Materialized views and streaming tables in Mirrored Azure Databricks catalog",
@@ -1363,6 +1363,14 @@
       "published": "2026-11-03T18:00:00+00:00"
     },
     {
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-11-03T17:01:49+00:00"
+    },
+    {
       "title": "Modernize data integration strategy with Microsoft Fabric when using Snowflake and Databricks",
       "summary": "Challenges solved by Microsoft Fabric Microsoft Fabric is an end-to-end analytics platform that brings together data integration, data engineering, warehousing, real-time analytics, business intelligence, and AI-related experience",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Modernize-data-integration-strategy-with-Microsoft-Fabric-when/ba-p/5377581",
@@ -1387,14 +1395,6 @@
       "published": "2026-11-03T16:35:36+00:00"
     },
     {
-      "title": "Can GROUP BY still be optimized after all these years?",
-      "summary": "Comments",
-      "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T16:30:23+00:00"
-    },
-    {
       "title": "Arnis turns any place on Earth into a Minecraft world",
       "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog .",
       "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
@@ -1409,6 +1409,14 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-03T15:59:19+00:00"
+    },
+    {
+      "title": "British Library Legal deposit and web archiving",
+      "summary": "Comments",
+      "url": "https://www.bl.uk/services/legal-deposit/web-archiving",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T14:56:30+00:00"
     },
     {
       "title": "The Flash C Compiler",
@@ -1505,14 +1513,6 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-02T18:00:00+00:00"
-    },
-    {
-      "title": "The latest AI news we announced in October 2026",
-      "summary": "Here are Google’s latest AI updates from October 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "2026-11-02T17:45:00+00:00"
     },
     {
       "title": "Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes",
@@ -1633,6 +1633,14 @@
       "source": "Wired Security",
       "category": "Security",
       "published": "2026-10-30T20:38:46+00:00"
+    },
+    {
+      "title": "Speeding up planning decisions with AI",
+      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-10-30T14:18:30+00:00"
     },
     {
       "title": "Multiphysics Modeling for Next-Generation Electromagnetic Manufacturing Technologies",
@@ -1811,6 +1819,14 @@
       "published": "2026-10-28T18:00:02+00:00"
     },
     {
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "summary": "",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-10-28T17:00:58+00:00"
+    },
+    {
       "title": "GitHub Universe 2026: Evolving every layer of the stack",
       "summary": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog .",
       "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
@@ -1875,6 +1891,14 @@
       "published": "2026-10-27T16:14:39+00:00"
     },
     {
+      "title": "Genie 4: A new generation of world simulation",
+      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-10-27T16:01:38+00:00"
+    },
+    {
       "title": "UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court",
       "summary": "Jess Asato’s public campaigning for victims of online abuse put her in the crosshairs of Grok’s deepfake scandal. Then the UK member of parliament became a victim of the abuse herself.",
       "url": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
@@ -1905,14 +1929,6 @@
       "source": "IEEE Spectrum",
       "category": "Emerging",
       "published": "2026-10-26T18:00:03+00:00"
-    },
-    {
-      "title": "Our newest AI Quest: Mapping the human brain",
-      "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "2026-10-26T16:00:00+00:00"
     },
     {
       "title": "AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)",
@@ -2003,6 +2019,14 @@
       "published": "2026-10-22T17:21:30+00:00"
     },
     {
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-10-22T14:30:24+00:00"
+    },
+    {
       "title": "Why Engineers Should Brave Capitol Hill",
       "summary": "When San Antonio–based software engineer Nikhil Jathar first went to Washington, D.C., to advocate for federal support for technology education and research funding, he was in awe of the opportunity. It was spring of 2025, not lon",
       "url": "https://spectrum.ieee.org/engineers-lobbying-congress",
@@ -2057,14 +2081,6 @@
       "source": "IEEE Spectrum",
       "category": "Emerging",
       "published": "2026-10-21T13:00:02+00:00"
-    },
-    {
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "2026-10-21T04:00:00+00:00"
     },
     {
       "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services",
@@ -2203,6 +2219,14 @@
       "published": "2026-10-15T17:00:00+00:00"
     },
     {
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-10-15T16:08:03+00:00"
+    },
+    {
       "title": "Apertus 1.5 Release Notes",
       "summary": "",
       "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
@@ -2235,6 +2259,22 @@
       "published": "2026-10-14T19:30:48+00:00"
     },
     {
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-10-14T02:00:14+00:00"
+    },
+    {
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "summary": "",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-10-13T19:43:07+00:00"
+    },
+    {
       "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
       "summary": "",
       "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
@@ -2243,12 +2283,20 @@
       "published": "2026-10-13T17:05:48+00:00"
     },
     {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "source": "Google AI",
+      "title": "Gemini 4 Argon for Robotics",
+      "summary": "",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "source": "Google DeepMind",
       "category": "AI",
-      "published": "2026-10-13T16:00:00+00:00"
+      "published": "2026-10-13T16:01:58+00:00"
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-10-13T16:01:52+00:00"
     },
     {
       "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
@@ -2283,12 +2331,12 @@
       "published": "2026-10-07T13:21:03+00:00"
     },
     {
-      "title": "Introducing Playground: Create and play custom games",
-      "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "source": "Google AI",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "summary": "",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "source": "Google DeepMind",
       "category": "AI",
-      "published": "2026-10-07T12:00:00+00:00"
+      "published": "2026-10-06T19:57:04+00:00"
     },
     {
       "title": "All the numbers: Amazon Prime Day 2026 powered by AWS",
@@ -2313,14 +2361,6 @@
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-10-03T22:56:48+00:00"
-    },
-    {
-      "title": "The latest AI news we announced in September 2026",
-      "summary": "Here are Google’s latest AI updates from September 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "2026-10-02T15:00:00+00:00"
     },
     {
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
@@ -2355,6 +2395,14 @@
       "published": "2026-09-30T20:03:34+00:00"
     },
     {
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "summary": "",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-09-30T20:01:45+00:00"
+    },
+    {
       "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
       "summary": "Amazon Aurora PostgreSQL now lets you directly query Apache Iceberg and Parquet data stored in your data lake alongside live operational data—no ETL pipelines required. Powered by DuckDB embedded within Aurora, this capability ena",
       "url": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/",
@@ -2369,6 +2417,14 @@
       "source": "AWS News",
       "category": "Cloud",
       "published": "2026-09-30T17:04:05+00:00"
+    },
+    {
+      "title": "Introducing SynthID Bio",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-09-30T15:03:07+00:00"
     },
     {
       "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
@@ -2393,14 +2449,6 @@
       "source": "Microsoft Power BI",
       "category": "Analytics",
       "published": "2026-09-29T06:30:00+00:00"
-    },
-    {
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "2026-09-28T19:00:00+00:00"
     },
     {
       "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
@@ -2435,12 +2483,28 @@
       "published": "2026-09-24T20:58:46+00:00"
     },
     {
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "source": "Google AI",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "source": "Google DeepMind",
       "category": "AI",
-      "published": "2026-09-23T18:00:00+00:00"
+      "published": "2026-09-24T16:20:39+00:00"
+    },
+    {
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-09-23T16:00:57+00:00"
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "summary": "",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-09-23T15:25:14+00:00"
     },
     {
       "title": "Now on Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
@@ -2467,30 +2531,6 @@
       "published": "2026-09-22T00:00:00+00:00"
     },
     {
-      "title": "New experts join Google’s AI & Economy team",
-      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "2026-09-18T14:00:00+00:00"
-    },
-    {
-      "title": "Co-creating the future of fashion with Google",
-      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "2026-09-18T13:00:00+00:00"
-    },
-    {
-      "title": "Making global data easier to explore",
-      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "2026-09-17T20:00:00+00:00"
-    },
-    {
       "title": "Manage semantic model settings in context with the default settings pane (Preview)",
       "summary": "The semantic model settings pane is becoming the default way to configure semantic models in the Power BI service. The pane opens alongside your workspace, so you can review and change settings without leaving the current page. It",
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Manage-semantic-model-settings-in-context-with-the-default/ba-p/5366792",
@@ -2499,52 +2539,12 @@
       "published": "2026-09-17T16:00:00+00:00"
     },
     {
-      "title": "AI for Societal Impact",
-      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "source": "Google AI",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "Google DeepMind",
       "category": "AI",
-      "published": "2026-09-15T16:00:00+00:00"
-    },
-    {
-      "title": "Building AI to accelerate science and improve lives",
-      "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "2026-09-15T16:00:00+00:00"
-    },
-    {
-      "title": "AI for everyone in every language",
-      "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "2026-09-15T16:00:00+00:00"
-    },
-    {
-      "title": "New insights from Google’s AI & Economy ATLAS",
-      "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "2026-09-15T13:00:00+00:00"
-    },
-    {
-      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "2026-09-14T19:00:00+00:00"
-    },
-    {
-      "title": "DevFest is back",
-      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "2026-09-14T16:00:00+00:00"
+      "published": "2026-09-15T17:05:57+00:00"
     },
     {
       "title": "Power BI Q&A retirement reminder: February 2027 timeline update",
@@ -2555,20 +2555,20 @@
       "published": "2026-09-10T16:00:00+00:00"
     },
     {
-      "title": "3 ways to prep for your next big race with Search",
-      "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "source": "Google AI",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "source": "Google DeepMind",
       "category": "AI",
-      "published": "2026-09-10T16:00:00+00:00"
+      "published": "2026-09-08T14:00:15+00:00"
     },
     {
-      "title": "Get ready for the game with new football features in Search",
-      "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
-      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-      "source": "Google AI",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "source": "Google DeepMind",
       "category": "AI",
-      "published": "2026-09-09T16:00:00+00:00"
+      "published": "2026-09-03T15:02:08+00:00"
     },
     {
       "title": "Modern Power BI architecture choices for reporting on Azure Databricks: A performance benchmark for Power BI storage modes",
@@ -2579,12 +2579,60 @@
       "published": "2026-09-03T11:30:43+00:00"
     },
     {
+      "title": "Proactive cyber defense for governments and enterprises",
+      "summary": "",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-09-02T16:24:24+00:00"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-09-02T16:18:31+00:00"
+    },
+    {
       "title": "Power BI sample reports, refreshed with modern visual defaults",
       "summary": "Microsoft has refreshed its Power BI sample reports with modern visual defaults, stronger semantic models, mobile-optimized layouts, and newer authoring features to help creators build clearer, more effective reports.",
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-sample-reports-refreshed-with-modern-visual-defaults/ba-p/5363807",
       "source": "Microsoft Power BI",
       "category": "Analytics",
       "published": "2026-09-02T16:00:00+00:00"
+    },
+    {
+      "title": "Introducing agentic video understanding with Gemini",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-09-01T17:08:51+00:00"
+    },
+    {
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "summary": "",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-08-27T16:11:32+00:00"
+    },
+    {
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "summary": "Piloting the world's first double-blind AI evaluations",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-08-27T12:59:16+00:00"
+    },
+    {
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-08-26T17:01:00+00:00"
     },
     {
       "title": "Direct Lake Calculated Columns (Preview)",
@@ -2611,6 +2659,14 @@
       "published": "2026-08-21T21:06:18+00:00"
     },
     {
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-08-21T11:59:48+00:00"
+    },
+    {
       "title": "The AI Semantic Layer You Probably Already Have",
       "summary": "If your organization uses Power BI, you own something most companies chasing AI are desperately trying to build. You just may not know it by name. Let me explain. The invisible thing behind every report Every Power BI report you h",
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/The-AI-Semantic-Layer-You-Probably-Already-Have/ba-p/5360197",
@@ -2627,12 +2683,36 @@
       "published": "2026-08-18T17:00:00+00:00"
     },
     {
+      "title": "Introducing Gemini 3.7 Flash",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-08-13T17:04:18+00:00"
+    },
+    {
+      "title": "Putting sign language AI into users’ hands",
+      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-08-12T14:01:59+00:00"
+    },
+    {
       "title": "TMDL View on the web: Edit semantic models as code in your browser (Preview)",
       "summary": "TMDL View on the Web is a feature in Power BI that enables developers to view and edit semantic models as code directly in the browser using TMDL. It expands the Power BI web modelling experience by introducing a rich code editor ",
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/TMDL-View-on-the-web-Edit-semantic-models-as-code-in-your/ba-p/5332653",
       "source": "Microsoft Power BI",
       "category": "Analytics",
       "published": "2026-08-10T21:00:00+00:00"
+    },
+    {
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "summary": "",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-08-06T15:06:15+00:00"
     },
     {
       "title": "Deep dive into conditional formatting for lines and legends",
@@ -2643,6 +2723,30 @@
       "published": "2026-08-04T21:00:00+00:00"
     },
     {
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-07-30T15:00:59+00:00"
+    },
+    {
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "summary": "",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-07-29T16:02:10+00:00"
+    },
+    {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "summary": "",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-07-28T13:21:37+00:00"
+    },
+    {
       "title": "Power BI July 2026 Feature Summary",
       "summary": "Welcome to the July 2026 Power BI update! This month, we're introducing new capabilities across reporting, modeling, mobile, and embedded analytics. Highlights include expanded modern visual defaults, conditional formatting improv",
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-July-2026-Feature-Summary/ba-p/5303533",
@@ -2651,12 +2755,28 @@
       "published": "2026-07-22T15:48:26+00:00"
     },
     {
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-07-22T13:38:54+00:00"
+    },
+    {
       "title": "Bringing Power BI Insights to Every Copilot User",
       "summary": "The future of Power BI and Copilot starts by meeting users where they already work . We’re bringing trusted Power BI answers into Microsoft 365 Copilot first, so people can ask questions of governed business data in the flow of wo",
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Bringing-Power-BI-Insights-to-Every-Copilot-User/ba-p/5309360",
       "source": "Microsoft Power BI",
       "category": "Analytics",
       "published": "2026-07-21T19:00:00+00:00"
+    },
+    {
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-07-21T15:16:30+00:00"
     },
     {
       "title": "Andrew Ng: Unbiggen AI",
