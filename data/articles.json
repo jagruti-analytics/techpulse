@@ -1,14 +1,22 @@
 {
-  "updated_at": "2026-11-08T05:06:01.404239+00:00",
+  "updated_at": "2026-11-08T09:02:48.080843+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
     {
-      "title": "I Use Development-Driven Specs, Not Spec-Driven Development",
+      "title": "Kirlian Photography: Building Your Own Equipment",
       "summary": "Comments",
-      "url": "https://github.com/waywardgeek/ensemble",
+      "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-08T03:51:55+00:00"
+      "published": "2026-11-08T04:14:12+00:00"
+    },
+    {
+      "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+      "summary": "Comments",
+      "url": "https://github.com/dmunozv04/isponsorblocktv",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-08T03:47:19+00:00"
     },
     {
       "title": "Goodbye Claude, Hello Pi",
@@ -81,14 +89,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-07T21:17:08+00:00"
-    },
-    {
-      "title": "Show HN: Where Were We",
-      "summary": "Comments",
-      "url": "https://wherewerewe.app/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-07T21:08:35+00:00"
     },
     {
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
@@ -323,6 +323,14 @@
       "published": "2026-11-07T09:45:23+00:00"
     },
     {
+      "title": "Running a law firm on Free software",
+      "summary": "Comments",
+      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-07T09:39:06+00:00"
+    },
+    {
       "title": "Need for Speed Underground 2 online in the browser",
       "summary": "Comments",
       "url": "https://nfsu2.xyz/",
@@ -345,6 +353,14 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-07T05:20:18+00:00"
+    },
+    {
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "summary": "Comments",
+      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-07T04:54:36+00:00"
     },
     {
       "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -883,6 +899,14 @@
       "published": "2026-11-05T14:00:02+00:00"
     },
     {
+      "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
+      "summary": "Comments",
+      "url": "https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T13:44:07+00:00"
+    },
+    {
       "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is th",
       "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
@@ -993,14 +1017,6 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-05T02:00:00+00:00"
-    },
-    {
-      "title": "Here Be Monsters",
-      "summary": "Comments",
-      "url": "https://www.nybooks.com/online/2026/10/30/here-be-monsters/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T01:40:08+00:00"
     },
     {
       "title": "Flipsnack grows product signups with conversion optimization",
@@ -1171,6 +1187,14 @@
       "published": "2026-11-04T16:00:00+00:00"
     },
     {
+      "title": "Clj.rs – a Clojure dialect implemented in Rust",
+      "summary": "Comments",
+      "url": "https://clj.rs/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-04T15:23:16+00:00"
+    },
+    {
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
       "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
       "url": "https://openai.com/index/openai-to-acquire-pierre",
@@ -1275,22 +1299,6 @@
       "published": "2026-11-04T05:43:11+00:00"
     },
     {
-      "title": "Text.js: Build full-stack React apps that render inside console.log",
-      "summary": "Comments",
-      "url": "https://textjs.org/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T04:59:36+00:00"
-    },
-    {
-      "title": "Study solved a 150-year-old mystery into the identity of the extinct giant crane",
-      "summary": "Comments",
-      "url": "https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T03:30:28+00:00"
-    },
-    {
       "title": "Introducing Images 2.6",
       "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
       "url": "https://openai.com/index/introducing-images-2-6",
@@ -1305,14 +1313,6 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-04T00:00:00+00:00"
-    },
-    {
-      "title": "Turning every radio into a radar",
-      "summary": "Comments",
-      "url": "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T21:18:48+00:00"
     },
     {
       "title": "Announcing support for Materialized views and streaming tables in Mirrored Azure Databricks catalog",
