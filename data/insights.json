@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T16:53:07.328505+00:00",
+  "updated_at": "2026-11-08T20:52:03.201657+00:00",
   "trending": [
     {
       "title": "I'm not a fan of Deno's security model (2024)",
@@ -18,36 +18,36 @@
       "published": "2026-11-08T09:50:59+00:00"
     },
     {
-      "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
+      "title": "How I Fight AI Brain Fry",
       "summary": "Comments",
-      "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-08T16:07:42+00:00"
+      "published": "2026-11-08T19:37:42+00:00"
     },
     {
-      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
-      "summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features App",
-      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "summary": "Comments",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-08T19:20:32+00:00"
+    },
+    {
+      "title": "Apple is racing to make Siri more agentic",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
       "source": "The Verge",
       "category": "Emerging",
-      "published": "2026-11-08T16:00:00+00:00"
+      "published": "2026-11-08T19:18:19+00:00"
     },
     {
-      "title": "I Have Never Seen a Game Fail Because the Artists Were Too Slow",
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
       "summary": "Comments",
-      "url": "https://www.productionalchemist.com/p/inever-seen-a-game-fail-because-artists-too-slow",
+      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-08T15:44:17+00:00"
-    },
-    {
-      "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-      "summary": "Comments",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-08T15:19:51+00:00"
+      "published": "2026-11-08T18:43:07+00:00"
     }
   ],
   "ai_breakthroughs": [
@@ -102,14 +102,6 @@
   ],
   "technology_releases": [
     {
-      "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
-      "summary": "Comments",
-      "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-08T16:07:42+00:00"
-    },
-    {
       "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
       "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was the newest P",
       "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
@@ -148,6 +140,14 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-05T20:00:00+00:00"
+    },
+    {
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-05T19:06:12+00:00"
     }
   ]
 }
