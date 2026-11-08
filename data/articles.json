@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-11-08T01:25:19.169225+00:00",
+  "updated_at": "2026-11-08T05:06:01.404239+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "I Use Development-Driven Specs, Not Spec-Driven Development",
+      "summary": "Comments",
+      "url": "https://github.com/waywardgeek/ensemble",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-08T03:51:55+00:00"
+    },
+    {
+      "title": "Goodbye Claude, Hello Pi",
+      "summary": "Comments",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-08T03:11:48+00:00"
+    },
+    {
+      "title": "Consumer brain wave headsets threaten privacy",
+      "summary": "Comments",
+      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-08T02:02:38+00:00"
+    },
+    {
+      "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+      "summary": "Comments",
+      "url": "https://github.com/crmne/zapfast",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-08T02:02:27+00:00"
+    },
     {
       "title": "Commodore PET – The Worlds First Personal Computer",
       "summary": "Comments",
@@ -43,14 +75,6 @@
       "published": "2026-11-07T22:07:22+00:00"
     },
     {
-      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-      "summary": "Comments",
-      "url": "https://eyesrhythm.com/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-07T21:47:47+00:00"
-    },
-    {
       "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
       "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
       "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
@@ -59,12 +83,12 @@
       "published": "2026-11-07T21:17:08+00:00"
     },
     {
-      "title": "Shadow of the Sun (2021)",
+      "title": "Show HN: Where Were We",
       "summary": "Comments",
-      "url": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
+      "url": "https://wherewerewe.app/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-07T21:11:05+00:00"
+      "published": "2026-11-07T21:08:35+00:00"
     },
     {
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
@@ -163,28 +187,12 @@
       "published": "2026-11-07T16:31:00+00:00"
     },
     {
-      "title": "How Long Can Life Wait?",
-      "summary": "Comments",
-      "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-07T16:22:59+00:00"
-    },
-    {
       "title": "Every processor die anyone has photographed and given away",
       "summary": "Comments",
       "url": "https://sheets.works/data-viz/cpu-dies",
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-07T16:21:36+00:00"
-    },
-    {
-      "title": "Terry Pratchett's Study",
-      "summary": "Comments",
-      "url": "https://www.sussi.dk/terry-pratchetts-study",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-07T16:05:45+00:00"
     },
     {
       "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
@@ -315,14 +323,6 @@
       "published": "2026-11-07T09:45:23+00:00"
     },
     {
-      "title": "Running a law firm on Free software",
-      "summary": "Comments",
-      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-07T09:39:06+00:00"
-    },
-    {
       "title": "Need for Speed Underground 2 online in the browser",
       "summary": "Comments",
       "url": "https://nfsu2.xyz/",
@@ -345,14 +345,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-07T05:20:18+00:00"
-    },
-    {
-      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-      "summary": "Comments",
-      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-07T04:54:36+00:00"
     },
     {
       "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -1003,6 +995,14 @@
       "published": "2026-11-05T02:00:00+00:00"
     },
     {
+      "title": "Here Be Monsters",
+      "summary": "Comments",
+      "url": "https://www.nybooks.com/online/2026/10/30/here-be-monsters/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T01:40:08+00:00"
+    },
+    {
       "title": "Flipsnack grows product signups with conversion optimization",
       "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
       "url": "https://openai.com/ads/customers/flipsnack",
@@ -1307,7 +1307,7 @@
       "published": "2026-11-04T00:00:00+00:00"
     },
     {
-      "title": "Turning Every Radio into a Radar",
+      "title": "Turning every radio into a radar",
       "summary": "Comments",
       "url": "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
       "source": "Hacker News",
@@ -1419,12 +1419,12 @@
       "published": "2026-11-03T15:59:19+00:00"
     },
     {
-      "title": "Shipping 103,802 Dots in 82 KB",
+      "title": "Amsterdam School",
       "summary": "Comments",
-      "url": "https://layers.engineering/shipping-103-802-dots-in-82-kb-b4f7d3a89779",
+      "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-03T13:20:09+00:00"
+      "published": "2026-11-03T13:50:19+00:00"
     },
     {
       "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
