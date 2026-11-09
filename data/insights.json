@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T01:27:47.058146+00:00",
+  "updated_at": "2026-11-09T05:22:22.828108+00:00",
   "trending": [
     {
       "title": "I'm not a fan of Deno's security model (2024)",
@@ -18,9 +18,25 @@
       "published": "2026-11-08T09:50:59+00:00"
     },
     {
+      "title": "A Bit about Email",
+      "summary": "Comments",
+      "url": "https://maurycyz.com/misc/email/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-09T02:46:21+00:00"
+    },
+    {
+      "title": "I'm not convinced the AI bubble exists",
+      "summary": "Comments",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-08T23:44:36+00:00"
+    },
+    {
       "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
       "summary": "Comments",
-      "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-08T22:20:09+00:00"
@@ -32,22 +48,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-08T19:37:42+00:00"
-    },
-    {
-      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-      "summary": "Comments",
-      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-08T19:20:32+00:00"
-    },
-    {
-      "title": "Apple is racing to make Siri more agentic",
-      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-08T19:18:19+00:00"
     }
   ],
   "ai_breakthroughs": [
