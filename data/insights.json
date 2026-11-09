@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-11-09T05:22:22.828108+00:00",
+  "updated_at": "2026-11-09T09:28:14.196404+00:00",
   "trending": [
     {
-      "title": "I'm not a fan of Deno's security model (2024)",
+      "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
       "summary": "Comments",
-      "url": "https://goldstein.lol/posts/deno-security/",
+      "url": "https://arxiv.org/abs/2610.14162",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-08T14:42:38+00:00"
+      "published": "2026-11-09T07:20:37+00:00"
+    },
+    {
+      "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+      "summary": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfo",
+      "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-09T07:05:48+00:00"
+    },
+    {
+      "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+      "summary": "Comments",
+      "url": "https://github.com/OmniJev/Flide",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-09T04:43:12+00:00"
     },
     {
       "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
@@ -16,14 +32,6 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-08T09:50:59+00:00"
-    },
-    {
-      "title": "A Bit about Email",
-      "summary": "Comments",
-      "url": "https://maurycyz.com/misc/email/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-09T02:46:21+00:00"
     },
     {
       "title": "I'm not convinced the AI bubble exists",
@@ -40,14 +48,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-08T22:20:09+00:00"
-    },
-    {
-      "title": "How I Fight AI Brain Fry",
-      "summary": "Comments",
-      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-08T19:37:42+00:00"
     }
   ],
   "ai_breakthroughs": [
@@ -102,6 +102,14 @@
   ],
   "technology_releases": [
     {
+      "title": "Psalm 7 release: PHP security&static analysis software",
+      "summary": "Comments",
+      "url": "https://psalm.dev/articles/psalm-7",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-07T17:06:18+00:00"
+    },
+    {
       "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
       "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was the newest P",
       "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
@@ -140,14 +148,6 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-05T20:00:00+00:00"
-    },
-    {
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-05T19:06:12+00:00"
     }
   ]
 }
