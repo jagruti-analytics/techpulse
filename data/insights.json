@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T20:52:03.201657+00:00",
+  "updated_at": "2026-11-09T01:27:47.058146+00:00",
   "trending": [
     {
       "title": "I'm not a fan of Deno's security model (2024)",
@@ -16,6 +16,14 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-08T09:50:59+00:00"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "summary": "Comments",
+      "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-08T22:20:09+00:00"
     },
     {
       "title": "How I Fight AI Brain Fry",
@@ -40,14 +48,6 @@
       "source": "The Verge",
       "category": "Emerging",
       "published": "2026-11-08T19:18:19+00:00"
-    },
-    {
-      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-      "summary": "Comments",
-      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-08T18:43:07+00:00"
     }
   ],
   "ai_breakthroughs": [

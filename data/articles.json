@@ -1,7 +1,71 @@
 {
-  "updated_at": "2026-11-08T20:52:03.201657+00:00",
+  "updated_at": "2026-11-09T01:27:47.058146+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "Unlocking any car from X brand in most of the world",
+      "summary": "Comments",
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-09T00:10:50+00:00"
+    },
+    {
+      "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
+      "summary": "Comments",
+      "url": "https://isocpp.org/files/papers/P4454R0.pdf",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-08T23:28:01+00:00"
+    },
+    {
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investi",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-08T22:54:50+00:00"
+    },
+    {
+      "title": "Chimera Vocal Synth",
+      "summary": "Comments",
+      "url": "https://chimera-vocal-synth.vercel.app/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-08T22:36:03+00:00"
+    },
+    {
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "summary": "Comments",
+      "url": "https://ketchup3d.github.io/app/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-08T22:35:35+00:00"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "summary": "Comments",
+      "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-08T22:20:09+00:00"
+    },
+    {
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "summary": "Comments",
+      "url": "https://news.ycombinator.com/item?id=50417407",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-08T21:20:20+00:00"
+    },
+    {
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-08T21:00:11+00:00"
+    },
     {
       "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
       "summary": "Comments",
@@ -17,6 +81,14 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-08T19:49:46+00:00"
+    },
+    {
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "summary": "Comments",
+      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-08T19:48:32+00:00"
     },
     {
       "title": "How I Fight AI Brain Fry",
@@ -51,12 +123,12 @@
       "published": "2026-11-08T19:08:51+00:00"
     },
     {
-      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "title": "Playing with the STM32MP2",
       "summary": "Comments",
-      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-08T18:43:07+00:00"
+      "published": "2026-11-08T19:04:07+00:00"
     },
     {
       "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
@@ -67,28 +139,12 @@
       "published": "2026-11-08T18:33:50+00:00"
     },
     {
-      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
       "summary": "Comments",
       "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-08T18:16:07+00:00"
-    },
-    {
-      "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
-      "summary": "Comments",
-      "url": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-08T17:32:55+00:00"
-    },
-    {
-      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
-      "summary": "Comments",
-      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-08T17:20:29+00:00"
     },
     {
       "title": "A Little Snitch for Windows",
@@ -97,14 +153,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-08T17:16:07+00:00"
-    },
-    {
-      "title": "A field guide to CAPTCHA types and how they break",
-      "summary": "Comments",
-      "url": "https://github.com/vsmutok/FuckCaptcha",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-08T17:09:55+00:00"
     },
     {
       "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
@@ -171,22 +219,6 @@
       "published": "2026-11-08T11:44:41+00:00"
     },
     {
-      "title": "Petered",
-      "summary": "Comments",
-      "url": "https://aworkinglibrary.com/writing/petered",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-08T10:56:43+00:00"
-    },
-    {
-      "title": "JIT bitmap text rendering for microcontrollers",
-      "summary": "Comments",
-      "url": "https://linebender.org/blog/jit-bitmap-text/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-08T10:42:15+00:00"
-    },
-    {
       "title": "Writing as a thinking tool",
       "summary": "Comments",
       "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
@@ -209,14 +241,6 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-08T09:50:59+00:00"
-    },
-    {
-      "title": "Agent memory needs its OpenTelemetry moment",
-      "summary": "Comments",
-      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-08T08:40:23+00:00"
     },
     {
       "title": "Goodbye Claude, hello Pi",
@@ -249,14 +273,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-07T20:45:32+00:00"
-    },
-    {
-      "title": "What I run on my $10 USD OpenStick homelab",
-      "summary": "Comments",
-      "url": "https://blog.bosscher.ch/posts/openstick/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-07T18:12:12+00:00"
     },
     {
       "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
@@ -331,20 +347,12 @@
       "published": "2026-11-07T15:00:00+00:00"
     },
     {
-      "title": "Good riddance, Cybertruck!",
-      "summary": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of",
-      "url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-07T14:40:06+00:00"
-    },
-    {
-      "title": "The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf]",
+      "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
       "summary": "Comments",
-      "url": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
+      "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-07T14:18:45+00:00"
+      "published": "2026-11-07T14:51:40+00:00"
     },
     {
       "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
@@ -691,6 +699,14 @@
       "published": "2026-11-05T22:00:00+00:00"
     },
     {
+      "title": "The Kekulé Problem – Cormac McCarthy",
+      "summary": "Comments",
+      "url": "https://nautil.us/the-kekul-problem-236574",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-05T21:25:29+00:00"
+    },
+    {
       "title": "Inside GitHub’s new Git storage architecture",
       "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .",
       "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
@@ -841,14 +857,6 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-05T16:25:00+00:00"
-    },
-    {
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-05T16:16:45+00:00"
     },
     {
       "title": "Use Your Year-End Review to Reach for a Promotion",
@@ -1171,14 +1179,6 @@
       "published": "2026-11-04T16:00:00+00:00"
     },
     {
-      "title": "Clj.rs – a Clojure dialect implemented in Rust",
-      "summary": "Comments",
-      "url": "https://clj.rs/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-04T15:23:16+00:00"
-    },
-    {
       "title": "Porting Android 16 to my blind mother's keypad phone",
       "summary": "Comments",
       "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
@@ -1315,14 +1315,6 @@
       "published": "2026-11-04T00:00:00+00:00"
     },
     {
-      "title": "Tasfer: a text editor drawn on a 2D canvas",
-      "summary": "Comments",
-      "url": "https://www.hamza.se/blog/tasfer",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-03T20:58:40+00:00"
-    },
-    {
       "title": "Announcing support for Materialized views and streaming tables in Mirrored Azure Databricks catalog",
       "summary": "Access more Unity Catalog objects through the existing mirrored catalog experience in Microsoft Fabric We are expanding Mirrored Azure Databricks catalogs in Microsoft Fabric to support materialized views and streaming tables alon",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Announcing-support-for-Materialized-views-and-streaming-tables/ba-p/5377928",
@@ -1401,6 +1393,14 @@
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-11-03T16:35:36+00:00"
+    },
+    {
+      "title": "The History of Djgpp (1998)",
+      "summary": "Comments",
+      "url": "https://www.delorie.com/djgpp/history.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-03T16:10:37+00:00"
     },
     {
       "title": "Arnis turns any place on Earth into a Minecraft world",
