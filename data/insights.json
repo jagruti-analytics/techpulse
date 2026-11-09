@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-09T13:30:22.677652+00:00",
+  "updated_at": "2026-11-09T17:22:29.517841+00:00",
   "trending": [
+    {
+      "title": "Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire",
+      "summary": "Disney and Adobe are building custom AI tools together for the entertainment giant's productions. The article Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire appeared first on The Decoder",
+      "url": "https://the-decoder.com/disney-bets-on-adobes-firefly-to-create-brand-safe-ai-models-for-its-entertainment-empire/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-09T16:54:16+00:00"
+    },
+    {
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "summary": "Comments",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-09T16:00:45+00:00"
+    },
+    {
+      "title": "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer",
+      "summary": "Tencent chief AI scientist Vinces Yao Shunyu warns that AI will soon be able to develop bioweapons and argues for a middle ground between open and closed models. While safety filters on open-source systems can be easily stripped t",
+      "url": "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-09T15:44:53+00:00"
+    },
+    {
+      "title": "Accelerate GPU training on Unity Catalog tables with UCDataset",
+      "summary": "GPUs are usually the most expensive part of any training run, and most teams can't...",
+      "url": "https://www.databricks.com/blog/accelerate-gpu-training-unity-catalog-tables-ucdataset",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-09T15:00:00+00:00"
+    },
+    {
+      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+      "summary": "Comments",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-09T14:31:39+00:00"
+    },
     {
       "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
       "summary": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week. The agents also found a Taipei fire department platform exposing pa",
@@ -8,49 +48,41 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-09T09:01:50+00:00"
-    },
-    {
-      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel a",
-      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
-      "source": "MIT Technology Review",
-      "category": "Emerging",
-      "published": "2026-11-09T13:15:00+00:00"
-    },
-    {
-      "title": "Innovating with AI in the special chemicals industry",
-      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realit",
-      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "source": "MIT Technology Review",
-      "category": "Emerging",
-      "published": "2026-11-09T13:00:00+00:00"
-    },
-    {
-      "title": "Humans will never again create a project like Wikipedia",
-      "summary": "Comments",
-      "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-09T12:30:20+00:00"
-    },
-    {
-      "title": "Fold Epic Paper Airplanes",
-      "summary": "Comments",
-      "url": "https://www.foldableflight.com",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-09T12:19:22+00:00"
-    },
-    {
-      "title": "Instagram’s AI age detection is expanding globally",
-      "summary": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven't correctly disclosed their age. The rollout will automatically place \"millions more teens on Instagram into Teen Account pr",
-      "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-09T12:00:00+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "summary": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-09T16:56:54+00:00"
+    },
+    {
+      "title": "Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire",
+      "summary": "Disney and Adobe are building custom AI tools together for the entertainment giant's productions. The article Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire appeared first on The Decoder",
+      "url": "https://the-decoder.com/disney-bets-on-adobes-firefly-to-create-brand-safe-ai-models-for-its-entertainment-empire/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-09T16:54:16+00:00"
+    },
+    {
+      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+      "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-09T16:12:28+00:00"
+    },
+    {
+      "title": "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer",
+      "summary": "Tencent chief AI scientist Vinces Yao Shunyu warns that AI will soon be able to develop bioweapons and argues for a middle ground between open and closed models. While safety filters on open-source systems can be easily stripped t",
+      "url": "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-09T15:44:53+00:00"
+    },
     {
       "title": "Nvidia espionage scandal weakens Huang's lobby against tighter AI chip export controls",
       "summary": "Nvidia CEO Jensen Huang has admitted to an extramarital affair with a woman US intelligence agencies classify as a suspected Chinese informant. The board has launched an independent investigation. The affair weakens Huang's lobbyi",
@@ -66,41 +98,17 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-08T14:23:00+00:00"
-    },
-    {
-      "title": "The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate",
-      "summary": "Consciousness researchers Anil Seth, Ned Block, and Giulio Tononi argue in a Nature commentary that today's AI systems aren't conscious and won't become so on silicon hardware. They consider the assumption that consciousness depen",
-      "url": "https://the-decoder.com/the-brain-as-computer-metaphor-shaped-modern-ai-but-may-be-misleading-the-consciousness-debate/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-08T13:49:21+00:00"
-    },
-    {
-      "title": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
-      "summary": "Turing Award winner Richard Sutton reaffirms that raw compute alone isn't enough for intelligence and that fundamentally new learning methods are needed. Ex-OpenAI researcher Tworek agrees, saying blind transformer scaling \"has re",
-      "url": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-08T11:44:41+00:00"
-    },
-    {
-      "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
-      "summary": "Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice. Even GPT-6 Astra, the top performer, fully solves only 26.4 percent of tasks. On older benchmar",
-      "url": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-08T09:50:59+00:00"
-    },
-    {
-      "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
-      "summary": "AI models can often spot problematic behavior by other AI agents in logs, according to a study by Anthropic researcher Andy Hall. GPT-5 found about 98 percent of reward-hacking cases, but the more exhaustively the search is tuned,",
-      "url": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-07T16:56:38+00:00"
     }
   ],
   "technology_releases": [
+    {
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "summary": "Comments",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-09T16:00:45+00:00"
+    },
     {
       "title": "Psalm 7 release: PHP security&static analysis software",
       "summary": "Comments",
@@ -140,14 +148,6 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-05T22:00:00+00:00"
-    },
-    {
-      "title": "Regular expression functions in Microsoft Fabric Data Warehouse (Preview)",
-      "summary": "Data warehouses routinely ingest valuable information embedded in free text, where inconsistent structure makes it difficult to query, connect, and analyze. Incoming values can also require quality checks before they reach curated",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Regular-expression-functions-in-Microsoft-Fabric-Data-Warehouse/ba-p/5382375",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-05T20:00:00+00:00"
     }
   ]
 }
