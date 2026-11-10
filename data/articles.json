@@ -1,7 +1,103 @@
 {
-  "updated_at": "2026-11-10T05:08:29.464171+00:00",
+  "updated_at": "2026-11-10T09:06:45.837974+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "Closing the AI guidance gap in education",
+      "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-10T09:00:00+00:00"
+    },
+    {
+      "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
+      "summary": "Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language models (LLMs) helped its engineers \"c",
+      "url": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-10T08:16:14+00:00"
+    },
+    {
+      "title": "M John Harrison becomes first science fiction author to win the Booker prize",
+      "summary": "Comments",
+      "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-10T07:40:52+00:00"
+    },
+    {
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "summary": "Comments",
+      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-10T07:19:38+00:00"
+    },
+    {
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-10T07:00:00+00:00"
+    },
+    {
+      "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
+      "summary": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
+      "url": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
+      "source": "Wired Security",
+      "category": "Security",
+      "published": "2026-11-10T07:00:00+00:00"
+    },
+    {
+      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+      "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score:",
+      "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-10T06:52:54+00:00"
+    },
+    {
+      "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
+      "summary": "N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30 vulnerabilities collectively tracked as ",
+      "url": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-10T06:44:36+00:00"
+    },
+    {
+      "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) ca",
+      "url": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-10T06:31:42+00:00"
+    },
+    {
+      "title": "ClickHouse Acquires Xata",
+      "summary": "Comments",
+      "url": "https://xata.io/blog/xata-is-joining-clickhouse",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-10T06:14:51+00:00"
+    },
+    {
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "summary": "Comments",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-10T06:01:08+00:00"
+    },
+    {
+      "title": "Your TV can see through walls",
+      "summary": "Comments",
+      "url": "https://maurycyz.com/projects/fading/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-10T05:24:45+00:00"
+    },
     {
       "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
       "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
@@ -9,6 +105,14 @@
       "source": "Wired Security",
       "category": "Security",
       "published": "2026-11-10T05:01:00+00:00"
+    },
+    {
+      "title": "Ultorg: The User Interface for Relational Databases",
+      "summary": "Comments",
+      "url": "https://www.ultorg.com/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-10T03:59:39+00:00"
     },
     {
       "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
@@ -147,14 +251,6 @@
       "published": "2026-11-09T20:09:06+00:00"
     },
     {
-      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-      "summary": "Comments",
-      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-09T20:04:55+00:00"
-    },
-    {
       "title": "USPS now offers official ZIP Code boundary polygons",
       "summary": "Comments",
       "url": "https://postalpro.usps.com/zcb",
@@ -203,14 +299,6 @@
       "published": "2026-11-09T19:35:33+00:00"
     },
     {
-      "title": "CUI – Native UI components for C",
-      "summary": "Comments",
-      "url": "https://yappologistic.github.io/CUI/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-09T19:35:16+00:00"
-    },
-    {
       "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
       "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
       "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
@@ -227,14 +315,6 @@
       "published": "2026-11-09T19:09:58+00:00"
     },
     {
-      "title": "Announcing the retirement of R and Python visuals in Power BI",
-      "summary": "The built-in R and Python visuals in Power BI will retire in May 2027 . What changes This retirement applies only to R and Python visuals in interactive Power BI reports. Python scripts used in Power Query to populate tables are n",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Announcing-the-retirement-of-R-and-Python-visuals-in-Power-BI/ba-p/5400748",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-11-09T19:00:39+00:00"
-    },
-    {
       "title": "ChatGPT Enterprise now available in AWS Marketplace",
       "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
       "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
@@ -249,14 +329,6 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-09T19:00:00+00:00"
-    },
-    {
-      "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
-      "summary": "Comments",
-      "url": "https://someonewashere.app/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-09T18:50:56+00:00"
     },
     {
       "title": "Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift",
@@ -393,14 +465,6 @@
       "source": "MIT Technology Review",
       "category": "Emerging",
       "published": "2026-11-09T17:05:43+00:00"
-    },
-    {
-      "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
-      "summary": "Comments",
-      "url": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-09T17:00:06+00:00"
     },
     {
       "title": "Unifying SQL Pools: Upcoming changes to UI and APIs",
@@ -603,14 +667,6 @@
       "published": "2026-11-09T11:38:43+00:00"
     },
     {
-      "title": "What is malloc doing, anyway?",
-      "summary": "Comments",
-      "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-09T11:31:05+00:00"
-    },
-    {
       "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
       "summary": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start",
       "url": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
@@ -747,14 +803,6 @@
       "published": "2026-11-08T07:15:32+00:00"
     },
     {
-      "title": "A renowned scientist, a deadly snakebite, and a diary that documented it (2025)",
-      "summary": "Comments",
-      "url": "https://www.cbsnews.com/chicago/news/field-museum-karl-patterson-schmidt-deadly-snakebite-diary/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-08T00:38:37+00:00"
-    },
-    {
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
       "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
       "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
@@ -771,12 +819,20 @@
       "published": "2026-11-07T21:17:08+00:00"
     },
     {
-      "title": "An ode to livelyness analysis; SSA to registers",
+      "title": "Time for AVIF everywhere?",
       "summary": "Comments",
-      "url": "https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/",
+      "url": "https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-07T15:17:31+00:00"
+      "published": "2026-11-07T17:34:07+00:00"
+    },
+    {
+      "title": "A failed experiment in laptop cooling",
+      "summary": "Comments",
+      "url": "https://kevinboone.me/failed_cooling.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-07T15:57:29+00:00"
     },
     {
       "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
@@ -849,14 +905,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-06T18:44:38+00:00"
-    },
-    {
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-06T18:44:20+00:00"
     },
     {
       "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
@@ -1035,14 +1083,6 @@
       "published": "2026-11-05T23:00:00+00:00"
     },
     {
-      "title": "Power BI reports support OAP exceptions for semantic models in separate workspaces (Preview)",
-      "summary": "Workspace outbound access protection (OAP) helps you control where data in a Microsoft Fabric workspace can flow. The initial preview for Power BI reports , launched in June, required a report in an OAP-protected workspace to use ",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-reports-support-OAP-exceptions-for-semantic-models-in/ba-p/5377907",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-11-05T22:00:00+00:00"
-    },
-    {
       "title": "Build more connected workflows with Fabric Actions and Business Actions in Fabric Pipelines (Preview)",
       "summary": "Modern data workflows rarely stop at moving and transforming data. Once data is ready, you may need to trigger another operation in Fabric, refresh a semantic model, update a business application, send a notification, generate a d",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-more-connected-workflows-with-Fabric-Actions-and-Business/ba-p/5377911",
@@ -1104,14 +1144,6 @@
       "url": "https://openai.com/index/australian-universities-ai-native-graduates",
       "source": "OpenAI",
       "category": "AI",
-      "published": "2026-11-05T17:00:00+00:00"
-    },
-    {
-      "title": "Power Query Corner: Finding and connecting to data in the new experience (Preview)",
-      "summary": "About this series This is the first in a six-part Power Query Corner series exploring the new Power Query experience. Each post takes a closer look at a different part of the experience, including what’s changing, why it matters, ",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-Query-Corner-Finding-and-connecting-to-data-in-the-new/ba-p/5382053",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
       "published": "2026-11-05T17:00:00+00:00"
     },
     {
@@ -1209,14 +1241,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-05T12:08:54+00:00"
-    },
-    {
-      "title": "How Many People Work from Home?",
-      "summary": "Comments",
-      "url": "https://nicholasdecker.substack.com/p/how-many-people-work-from-home",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-05T12:00:05+00:00"
     },
     {
       "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
@@ -1387,36 +1411,12 @@
       "published": "2026-11-04T17:50:10+00:00"
     },
     {
-      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that Debian, Ubu",
-      "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-04T17:00:46+00:00"
-    },
-    {
-      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are b",
-      "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-04T17:00:38+00:00"
-    },
-    {
       "title": "Salesforce Data 360 integration with OneLake (Preview)",
       "summary": "A customer reports a missing delivery. The service case is in Salesforce, while the shipping and returns records are in Microsoft Fabric. Before a team can decide what to do next, it needs to connect those two views of the same cu",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Salesforce-Data-360-integration-with-OneLake-Preview/ba-p/5384626",
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-04T16:10:26+00:00"
-    },
-    {
-      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
-      "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway. The",
-      "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-04T16:06:43+00:00"
     },
     {
       "title": "Share data and context across organizations with IQ Share (Preview)",
@@ -1433,14 +1433,6 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-04T14:30:00+00:00"
-    },
-    {
-      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
-      "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainia",
-      "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-04T14:27:52+00:00"
     },
     {
       "title": "A thousand fewer paths to root",
@@ -1811,14 +1803,6 @@
       "published": "2026-10-29T09:00:00+00:00"
     },
     {
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-10-29T07:00:00+00:00"
-    },
-    {
       "title": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
       "summary": "Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers because it contains people’s contact information, shared without their authorization.",
       "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
@@ -1939,14 +1923,6 @@
       "published": "2026-10-27T13:00:03+00:00"
     },
     {
-      "title": "Microsoft & Snowflake’s Commitment to Apache Ossie",
-      "summary": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databas",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Snowflake-s-Commitment-to-Apache-Ossie/ba-p/5369534",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-10-26T18:44:50+00:00"
-    },
-    {
       "title": "IEEE Xplore Digital Library Adds AI Assistant",
       "summary": "IEEE recently released the IEEE Xplore AI Research Suite , built on the full text of millions of peer-reviewed publications in the IEEE Xplore Digital Library . The library offers full-text access to IEEE standards , journals, mag",
       "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
@@ -1969,14 +1945,6 @@
       "source": "AWS News",
       "category": "Cloud",
       "published": "2026-10-26T15:02:24+00:00"
-    },
-    {
-      "title": "The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans",
-      "summary": "Two US senators say the Trump administration is breaking the law by withholding the FISA court decision while it presses Congress to renew America’s most sweeping surveillance program.",
-      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-      "source": "Wired Security",
-      "category": "Security",
-      "published": "2026-10-26T14:09:00+00:00"
     },
     {
       "title": "Build a Hidden Lock With a Magnetic Imager",
@@ -2203,30 +2171,6 @@
       "published": "2026-10-16T00:00:00+00:00"
     },
     {
-      "title": "Power BI October 2026 Feature Summary",
-      "summary": "Last month, we shared a packed September update alongside the European Microsoft Fabric + SQL Community Conference. Even so, the Power BI team has continued delivering new capabilities, and we didn't want to wait another month to ",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-October-2026-Feature-Summary/ba-p/5374650",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-10-15T21:25:10+00:00"
-    },
-    {
-      "title": "Power BI September 2026 Feature Summary",
-      "summary": "As the Power BI, Microsoft Fabric, data, and analytics community gathers in Barcelona for the European Microsoft Fabric + SQL Community Conference, this month is packed with news. From new Copilot and AI experiences to reporting, ",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-September-2026-Feature-Summary/ba-p/5325831",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-10-15T21:06:46+00:00"
-    },
-    {
-      "title": "Databricks ADBC connector for Power BI and Microsoft Fabric (Generally Available)",
-      "summary": "This release is part of the broader ODBC-to-ADBC transition for Power Query connectors described in the Transition from ODBC to ADBC drivers in Power BI and Microsoft Fabric documentation. What’s new Existing connections in your s",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Databricks-ADBC-connector-for-Power-BI-and-Microsoft-Fabric/ba-p/5369591",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-10-15T17:00:00+00:00"
-    },
-    {
       "title": "Apertus 1.5 Release Notes",
       "summary": "",
       "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
@@ -2411,14 +2355,6 @@
       "published": "2026-09-29T13:07:00+00:00"
     },
     {
-      "title": "Power BI’s next chapter: The evolution of business intelligence",
-      "summary": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databas",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-s-next-chapter-The-evolution-of-business-intelligence/ba-p/5369131",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-09-29T06:30:00+00:00"
-    },
-    {
       "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
@@ -2499,14 +2435,6 @@
       "published": "2026-09-17T20:00:00+00:00"
     },
     {
-      "title": "Manage semantic model settings in context with the default settings pane (Preview)",
-      "summary": "The semantic model settings pane is becoming the default way to configure semantic models in the Power BI service. The pane opens alongside your workspace, so you can review and change settings without leaving the current page. It",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Manage-semantic-model-settings-in-context-with-the-default/ba-p/5366792",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-09-17T16:00:00+00:00"
-    },
-    {
       "title": "AI for Societal Impact",
       "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
@@ -2555,14 +2483,6 @@
       "published": "2026-09-14T16:00:00+00:00"
     },
     {
-      "title": "Power BI Q&A retirement reminder: February 2027 timeline update",
-      "summary": "In December, we announced the retirement of Power BI Q&A , our legacy natural-language querying experience, with retirement planned for December 2026. To give current Q&A user's additional time to assess their dependencies and tra",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-Q-A-retirement-reminder-February-2027-timeline-update/ba-p/5365841",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-09-10T16:00:00+00:00"
-    },
-    {
       "title": "3 ways to prep for your next big race with Search",
       "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
       "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
@@ -2577,86 +2497,6 @@
       "source": "Google AI",
       "category": "AI",
       "published": "2026-09-09T16:00:00+00:00"
-    },
-    {
-      "title": "Modern Power BI architecture choices for reporting on Azure Databricks: A performance benchmark for Power BI storage modes",
-      "summary": "Many enterprise Power BI semantic models use Azure Databricks as a data source. When building these models, developers and architects face an early and consequential decision: which storage mode to use. Cost, security, and ease of",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Modern-Power-BI-architecture-choices-for-reporting-on-Azure/ba-p/5364286",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-09-03T11:30:43+00:00"
-    },
-    {
-      "title": "Power BI sample reports, refreshed with modern visual defaults",
-      "summary": "Microsoft has refreshed its Power BI sample reports with modern visual defaults, stronger semantic models, mobile-optimized layouts, and newer authoring features to help creators build clearer, more effective reports.",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-sample-reports-refreshed-with-modern-visual-defaults/ba-p/5363807",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-09-02T16:00:00+00:00"
-    },
-    {
-      "title": "Direct Lake Calculated Columns (Preview)",
-      "summary": "Calculated columns are now available in preview for Direct Lake on OneLake semantic models. This has been one of the most requested capabilities since Direct Lake launched and closes a long-standing gap with Import and DirectQuery",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Direct-Lake-Calculated-Columns-Preview/ba-p/5357159",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-08-24T16:14:20+00:00"
-    },
-    {
-      "title": "Upgrade Power BI Dataflows Gen1 to Fabric Dataflows Gen2 with the Upgrade Wizard (Preview)",
-      "summary": "Upgrading Power BI Dataflows Gen1 is now easier with the Dataflows Upgrade Wizard. Now in preview for eligible workspaces assigned to Fabric capacity, the wizard provides a guided experience to upgrade Power BI Dataflows Gen1 item",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Upgrade-Power-BI-Dataflows-Gen1-to-Fabric-Dataflows-Gen2-with/ba-p/5360422",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-08-24T15:00:00+00:00"
-    },
-    {
-      "title": "Power BI August 2026 Feature Summary",
-      "summary": "Welcome to the August 2026 Power BI Feature Summary! This month includes updates across reporting, modeling, data connectivity, mobile, embedded analytics, and developer experiences, with a mix of generally available enhancements ",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-August-2026-Feature-Summary/ba-p/5348434",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-08-21T21:06:18+00:00"
-    },
-    {
-      "title": "The AI Semantic Layer You Probably Already Have",
-      "summary": "If your organization uses Power BI, you own something most companies chasing AI are desperately trying to build. You just may not know it by name. Let me explain. The invisible thing behind every report Every Power BI report you h",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/The-AI-Semantic-Layer-You-Probably-Already-Have/ba-p/5360197",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-08-20T19:00:00+00:00"
-    },
-    {
-      "title": "Edit your Power BI projects anywhere and reload them instantly in Power BI Desktop (Preview)",
-      "summary": "Power BI Projects (PBIP) make reports and semantic models file-based, enabling source control, automation, and other developer workflows. You can edit those files directly in a code editor or through external tools. Until now, cha",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Edit-your-Power-BI-projects-anywhere-and-reload-them-instantly/ba-p/5359136",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-08-18T17:00:00+00:00"
-    },
-    {
-      "title": "TMDL View on the web: Edit semantic models as code in your browser (Preview)",
-      "summary": "TMDL View on the Web is a feature in Power BI that enables developers to view and edit semantic models as code directly in the browser using TMDL. It expands the Power BI web modelling experience by introducing a rich code editor ",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/TMDL-View-on-the-web-Edit-semantic-models-as-code-in-your/ba-p/5332653",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-08-10T21:00:00+00:00"
-    },
-    {
-      "title": "Deep dive into conditional formatting for lines and legends",
-      "summary": "Bring your Power BI reports to life with dynamic conditional formatting for lines and legends that stays consistent and updates automatically as your data changes.",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Deep-dive-into-conditional-formatting-for-lines-and-legends/ba-p/5331078",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-08-04T21:00:00+00:00"
-    },
-    {
-      "title": "Power BI July 2026 Feature Summary",
-      "summary": "Welcome to the July 2026 Power BI update! This month, we're introducing new capabilities across reporting, modeling, mobile, and embedded analytics. Highlights include expanded modern visual defaults, conditional formatting improv",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-July-2026-Feature-Summary/ba-p/5303533",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-07-22T15:48:26+00:00"
     },
     {
       "title": "Andrew Ng: Unbiggen AI",
