@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T21:06:31.939666+00:00",
+  "updated_at": "2026-11-10T01:21:22.205083+00:00",
   "trending": [
     {
       "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
@@ -34,23 +34,31 @@
       "published": "2026-11-09T16:25:06+00:00"
     },
     {
+      "title": "Securing and governing your medallion layers in Fabric Data Warehouse",
+      "summary": "Coauthor - Artur Vieira Part 4 of a series on medallion architecture with Fabric Data Warehouse. Security should follow the layers, not fight them. In Part 1 we chose the pattern, in Part 2 we built the layers, and in Part 3 we co",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Securing-and-governing-your-medallion-layers-in-Fabric-Data/ba-p/5377539",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-09T21:32:00+00:00"
+    },
+    {
       "title": "Bring insights and action together with Fabric Apps in Org apps",
       "summary": "Business users move from understanding what happened, to investigating why, to acting. Microsoft Fabric can bring that journey together. Fabric Apps provide purpose-built, data-driven experiences when users need more than a report",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-insights-and-action-together-with-Fabric-Apps-in-Org-apps/ba-p/5377690",
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-09T19:54:16+00:00"
-    },
-    {
-      "title": "Databricks' Commitment to European Sovereignty",
-      "summary": "Over a Decade of Investment in EuropeDatabricks has been building in Europe since...",
-      "url": "https://www.databricks.com/blog/databricks-commitment-european-sovereignty",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-09T19:40:00+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
+      "summary": "Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified organizations. The models solve open physics problems, show stronger cyb",
+      "url": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-09T21:15:23+00:00"
+    },
     {
       "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
       "summary": "Meta is introducing Muse Ember, its smallest and most efficient AI model, optimized for repetitive agent tasks such as tool calls, routing, and data extraction. According to Meta, it delivers more intelligence per dollar than Clau",
@@ -90,14 +98,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-09T16:12:28+00:00"
-    },
-    {
-      "title": "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer",
-      "summary": "Tencent chief AI scientist Vinces Yao Shunyu warns that AI will soon be able to develop bioweapons and argues for a middle ground between open and closed models. While safety filters on open-source systems can be easily stripped t",
-      "url": "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-09T15:44:53+00:00"
     }
   ],
   "technology_releases": [
