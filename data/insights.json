@@ -1,14 +1,6 @@
 {
-  "updated_at": "2026-11-11T09:11:02.604064+00:00",
+  "updated_at": "2026-11-11T13:28:13.360965+00:00",
   "trending": [
-    {
-      "title": "Unity Catalog Metric Views, now in Power BI: one unified, governed semantic layer for all your reporting and AI",
-      "summary": "Organizations want a single, trusted definition of their business semantics. Revenue,...",
-      "url": "https://www.databricks.com/blog/unity-catalog-metric-views-now-power-bi-one-unified-governed-semantic-layer-all-your-reporting",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-10T18:45:00+00:00"
-    },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
@@ -18,36 +10,44 @@
       "published": "2026-11-12T00:00:00+00:00"
     },
     {
-      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
-      "summary": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attacker's command",
-      "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-11T07:21:05+00:00"
+      "title": "Unity Catalog Metric Views, now in Power BI: one unified, governed semantic layer for all your reporting and AI",
+      "summary": "Organizations want a single, trusted definition of their business semantics. Revenue,...",
+      "url": "https://www.databricks.com/blog/unity-catalog-metric-views-now-power-bi-one-unified-governed-semantic-layer-all-your-reporting",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-10T18:45:00+00:00"
     },
     {
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "summary": "",
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "source": "Hugging Face",
-      "category": "AI",
-      "published": "2026-11-11T05:01:16+00:00"
+      "title": "Use OneLake as native storage for Azure Databricks (Preview)",
+      "summary": "Organizations increasingly use Microsoft Fabric and Azure Databricks together so teams can choose the tools that best fit their data engineering, analytics, and AI workloads while working from a common data foundation. OneLake ext",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Use-OneLake-as-native-storage-for-Azure-Databricks-Preview/ba-p/5377939",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-11T12:13:55+00:00"
     },
     {
-      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
       "summary": "Comments",
-      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "url": "https://pietromiotti.com/latest/maya-site/?maya",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-10T21:25:03+00:00"
+      "published": "2026-11-11T12:05:22+00:00"
     },
     {
-      "title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
-      "summary": "OpenAI is opening up ChatGPT as a business platform: through a new Business Hub, companies can claim their profile, add product data, and track how users interact with them. \"Business Agents\" let eligible US e-commerce providers t",
-      "url": "https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-10T20:17:00+00:00"
+      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+      "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. Then, we bu",
+      "url": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-11T12:01:59+00:00"
+    },
+    {
+      "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
+      "summary": "Comments",
+      "url": "https://news.ycombinator.com/item?id=50452404",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-11T12:00:35+00:00"
     }
   ],
   "ai_breakthroughs": [
@@ -58,6 +58,22 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "title": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic",
+      "summary": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival Anthropic operates far more efficiently on $17 billion i",
+      "url": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-11T12:12:47+00:00"
+    },
+    {
+      "title": "UK regulator threatens universities with sanctions unless they adopt AI-proof exam formats",
+      "summary": "England's higher education regulator, the Office for Students, says AI has made it \"nearly impossible\" to fairly assess student coursework. An investigation found that students are having ChatGPT write entire papers undetected, wi",
+      "url": "https://the-decoder.com/uk-regulator-threatens-universities-with-sanctions-unless-they-adopt-ai-proof-exam-formats/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-11T11:54:46+00:00"
     },
     {
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
@@ -82,32 +98,16 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-10T20:52:13+00:00"
-    },
-    {
-      "title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
-      "summary": "OpenAI is opening up ChatGPT as a business platform: through a new Business Hub, companies can claim their profile, add product data, and track how users interact with them. \"Business Agents\" let eligible US e-commerce providers t",
-      "url": "https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-10T20:17:00+00:00"
-    },
-    {
-      "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
-      "summary": "Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, letting partners like Adobe and Atlassian embed their apps directly inside Claude. Anthropic says Claude Meetings, which can join calls and take n",
-      "url": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-10T19:48:40+00:00"
     }
   ],
   "technology_releases": [
     {
-      "title": "Google’s Pixel Tag tracker is now available",
-      "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's trackin",
-      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-10T19:00:00+00:00"
+      "title": "Use OneLake as native storage for Azure Databricks (Preview)",
+      "summary": "Organizations increasingly use Microsoft Fabric and Azure Databricks together so teams can choose the tools that best fit their data engineering, analytics, and AI workloads while working from a common data foundation. OneLake ext",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Use-OneLake-as-native-storage-for-Azure-Databricks-Preview/ba-p/5377939",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-11T12:13:55+00:00"
     },
     {
       "title": "Git security vulnerabilities announced",
@@ -116,14 +116,6 @@
       "source": "GitHub Blog",
       "category": "Development",
       "published": "2026-11-10T18:00:00+00:00"
-    },
-    {
-      "title": "Ableton Live 13 announced with a step sequencer, new drum synth, and more",
-      "summary": "Today, Ableton announced Live 13, which is expected to arrive in early 2027 with a slew of new features. Most of the changes are seemingly minor on paper, but when combined, they make for the biggest update to the digital audio wo",
-      "url": "https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-10T17:43:49+00:00"
     },
     {
       "title": "Gemini 4 Carbon is now available",
@@ -148,6 +140,14 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-10T10:00:00+00:00"
+    },
+    {
+      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+      "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score:",
+      "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-10T06:52:54+00:00"
     }
   ]
 }

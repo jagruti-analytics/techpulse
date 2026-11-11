@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T09:11:02.604064+00:00",
+  "updated_at": "2026-11-11T13:28:13.360965+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
     {
@@ -9,6 +9,150 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+      "summary": "Every TV company is spying on you, not just LG. Like other tech companies, they collect lots of information, and while some is necessary for products to work, not all of it is - and could include details you'd prefer to keep priva",
+      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-11T13:00:00+00:00"
+    },
+    {
+      "title": "Not everyone is loving their new iPhone Duo",
+      "summary": "For most new relationships, two weeks probably isn't enough time to decide if you're ready for long-term commitment. But two weeks with a new phone? You probably know. The iPhone Duo launched just over two weeks ago, and that's be",
+      "url": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-11T13:00:00+00:00"
+    },
+    {
+      "title": "Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline",
+      "summary": "Security firm Claroc found more than 35,000 Grok-built apps open to anyone without login, including patient data and confidential SpaceXSI documents. The cause: \"Anyone with the link\" was preselected as the default access setting.",
+      "url": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-11T12:53:07+00:00"
+    },
+    {
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "summary": "Comments",
+      "url": "https://nathan.rs/posts/weight-space-lp/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-11T12:30:17+00:00"
+    },
+    {
+      "title": "Serve Robotics wants to democratize sidewalk delivery robots",
+      "summary": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engin",
+      "url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-11T12:30:00+00:00"
+    },
+    {
+      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, t",
+      "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-11T12:19:40+00:00"
+    },
+    {
+      "title": "Apple is killing its Support Community forum next week",
+      "summary": "It's the end of the road for the Apple Support Community. The dedicated discussion forum, which gave Apple users a place to exchange advice, troubleshoot, and generally chat about Apple products, has been placed into read-only mod",
+      "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-11T12:19:10+00:00"
+    },
+    {
+      "title": "Use OneLake as native storage for Azure Databricks (Preview)",
+      "summary": "Organizations increasingly use Microsoft Fabric and Azure Databricks together so teams can choose the tools that best fit their data engineering, analytics, and AI workloads while working from a common data foundation. OneLake ext",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Use-OneLake-as-native-storage-for-Azure-Databricks-Preview/ba-p/5377939",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-11T12:13:55+00:00"
+    },
+    {
+      "title": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic",
+      "summary": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival Anthropic operates far more efficiently on $17 billion i",
+      "url": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-11T12:12:47+00:00"
+    },
+    {
+      "title": "Next-Level Benchmarking Overfitting – Thomas Neumann",
+      "summary": "Comments",
+      "url": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-11T12:09:49+00:00"
+    },
+    {
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "summary": "Comments",
+      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-11T12:05:22+00:00"
+    },
+    {
+      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+      "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. Then, we bu",
+      "url": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-11T12:01:59+00:00"
+    },
+    {
+      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+      "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has its own priva",
+      "url": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-11T12:00:53+00:00"
+    },
+    {
+      "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
+      "summary": "Comments",
+      "url": "https://news.ycombinator.com/item?id=50452404",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-11T12:00:35+00:00"
+    },
+    {
+      "title": "UK regulator threatens universities with sanctions unless they adopt AI-proof exam formats",
+      "summary": "England's higher education regulator, the Office for Students, says AI has made it \"nearly impossible\" to fairly assess student coursework. An investigation found that students are having ChatGPT write entire papers undetected, wi",
+      "url": "https://the-decoder.com/uk-regulator-threatens-universities-with-sanctions-unless-they-adopt-ai-proof-exam-formats/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-11T11:54:46+00:00"
+    },
+    {
+      "title": "Physically Controllable Relighting of Photographs",
+      "summary": "Comments",
+      "url": "https://yaksoy.github.io/PhysicalRelighting/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-11T11:38:43+00:00"
+    },
+    {
+      "title": "The Housing Market Is Nuts",
+      "summary": "Comments",
+      "url": "https://nuts.logical.li/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-11T11:02:46+00:00"
+    },
+    {
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "summary": "Comments",
+      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-11T10:48:40+00:00"
     },
     {
       "title": "Experience the art and legacy of Dr. Esther Mahlangu",
@@ -107,28 +251,12 @@
       "published": "2026-11-11T02:57:08+00:00"
     },
     {
-      "title": "Hooked on Tuna",
-      "summary": "Comments",
-      "url": "https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-11T02:23:25+00:00"
-    },
-    {
       "title": "A great old-timey game-programming hack (2013)",
       "summary": "Comments",
       "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-11T01:56:31+00:00"
-    },
-    {
-      "title": "LLMs Play Zachtronics' TIS-100",
-      "summary": "Comments",
-      "url": "https://tis-100.wincon.dev/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-11T00:37:05+00:00"
     },
     {
       "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
@@ -145,14 +273,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-10T22:17:56+00:00"
-    },
-    {
-      "title": "$30M Raised to Redo the CPU",
-      "summary": "Comments",
-      "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-10T22:14:03+00:00"
     },
     {
       "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
@@ -299,22 +419,6 @@
       "published": "2026-11-10T19:00:02+00:00"
     },
     {
-      "title": "Google’s Pixel Tag tracker is now available",
-      "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's trackin",
-      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-10T19:00:00+00:00"
-    },
-    {
-      "title": "Google is making Pixel HiLight slightly more useful",
-      "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. ",
-      "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-10T19:00:00+00:00"
-    },
-    {
       "title": "Gemini Intelligence: New features, on more devices",
       "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
       "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
@@ -403,28 +507,12 @@
       "published": "2026-11-10T17:55:07+00:00"
     },
     {
-      "title": "Ableton Live 13 announced with a step sequencer, new drum synth, and more",
-      "summary": "Today, Ableton announced Live 13, which is expected to arrive in early 2027 with a slew of new features. Most of the changes are seemingly minor on paper, but when combined, they make for the biggest update to the digital audio wo",
-      "url": "https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-10T17:43:49+00:00"
-    },
-    {
       "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
       "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and cr",
       "url": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-10T17:43:23+00:00"
-    },
-    {
-      "title": "Google Fi is bringing back multiple cell network support for better coverage",
-      "summary": "Google Fi is launching a new \"super network\" that can automatically switch users between two different 5G networks depending on which one has better connectivity. The feature is rolling out starting today on Pixel 9 and newer phon",
-      "url": "https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-10T17:32:39+00:00"
     },
     {
       "title": "Val Town is winding down",
@@ -459,14 +547,6 @@
       "published": "2026-11-10T17:04:19+00:00"
     },
     {
-      "title": "AMD's Zen 6 Family: Feeding the Beast",
-      "summary": "Comments",
-      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-10T17:02:32+00:00"
-    },
-    {
       "title": ".name Grandfathered",
       "summary": "Comments",
       "url": "https://neil.fraser.name/news/2026/11/10/",
@@ -481,14 +561,6 @@
       "source": "Google DeepMind",
       "category": "AI",
       "published": "2026-11-10T16:03:47+00:00"
-    },
-    {
-      "title": "Announcing .NET 11",
-      "summary": "Comments",
-      "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-10T16:01:27+00:00"
     },
     {
       "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
@@ -635,28 +707,12 @@
       "published": "2026-11-10T13:00:00+00:00"
     },
     {
-      "title": "Ableton Live 13",
-      "summary": "Comments",
-      "url": "https://www.ableton.com/en/live/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-10T12:58:04+00:00"
-    },
-    {
       "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
       "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today",
       "url": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-10T12:15:31+00:00"
-    },
-    {
-      "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
-      "summary": "Anthropic is kicking off its IPO roadshow, targeting a valuation of up to $1.02 trillion. Beyond the public offering of up to $64.4 billion, the company is securing $26 billion through a private placement with Google, Nvidia, Micr",
-      "url": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-10T12:13:03+00:00"
     },
     {
       "title": "AlphaProof Code",
@@ -673,6 +729,14 @@
       "source": "Google DeepMind",
       "category": "AI",
       "published": "2026-11-10T12:02:28+00:00"
+    },
+    {
+      "title": "Small-Grid Wraparound Cellular Automata",
+      "summary": "Comments",
+      "url": "https://justismills.substack.com/p/small-grid-wraparound-cellular-automata",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-10T12:00:08+00:00"
     },
     {
       "title": "Helping caregivers use AI in everyday life",
@@ -697,14 +761,6 @@
       "source": "IEEE Spectrum",
       "category": "Emerging",
       "published": "2026-11-10T11:00:02+00:00"
-    },
-    {
-      "title": "AI usage generates a fragile codebase",
-      "summary": "Comments",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-10T10:25:58+00:00"
     },
     {
       "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
@@ -827,6 +883,14 @@
       "published": "2026-11-10T05:01:00+00:00"
     },
     {
+      "title": "Make this forward pass as fast as possible",
+      "summary": "Comments",
+      "url": "https://ianbarber.blog/2026/11/09/make-this-forward-pass-as-fast-as-possible/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-10T04:10:36+00:00"
+    },
+    {
       "title": "Anthropic reportedly plans to move forward with IPO plans",
       "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
       "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
@@ -867,28 +931,12 @@
       "published": "2026-11-09T23:28:37+00:00"
     },
     {
-      "title": "Process Explorer for macOS",
-      "summary": "Comments",
-      "url": "https://github.com/microsoft/Procexp-Mac",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-09T22:30:41+00:00"
-    },
-    {
       "title": "Securing and governing your medallion layers in Fabric Data Warehouse",
       "summary": "Coauthor - Artur Vieira Part 4 of a series on medallion architecture with Fabric Data Warehouse. Security should follow the layers, not fight them. In Part 1 we chose the pattern, in Part 2 we built the layers, and in Part 3 we co",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Securing-and-governing-your-medallion-layers-in-Fabric-Data/ba-p/5377539",
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-09T21:32:00+00:00"
-    },
-    {
-      "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
-      "summary": "Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified organizations. The models solve open physics problems, show stronger cyb",
-      "url": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-09T21:15:23+00:00"
     },
     {
       "title": "Bring insights and action together with Fabric Apps in Org apps",
@@ -905,14 +953,6 @@
       "source": "Google DeepMind",
       "category": "AI",
       "published": "2026-11-09T19:51:47+00:00"
-    },
-    {
-      "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
-      "summary": "Meta is introducing Muse Ember, its smallest and most efficient AI model, optimized for repetitive agent tasks such as tool calls, routing, and data extraction. According to Meta, it delivers more intelligence per dollar than Clau",
-      "url": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-09T19:41:51+00:00"
     },
     {
       "title": "Databricks' Commitment to European Sovereignty",
@@ -953,14 +993,6 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-09T19:00:00+00:00"
-    },
-    {
-      "title": "A ZIP-style Prolog VM for trilog",
-      "summary": "Comments",
-      "url": "https://github.com/no382001/zipc",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-09T18:10:30+00:00"
     },
     {
       "title": "AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)",
@@ -1187,14 +1219,6 @@
       "published": "2026-11-08T16:30:04+00:00"
     },
     {
-      "title": "\"Jumping genes\" helped ants evolve after the extinction of the dinosaurs",
-      "summary": "Comments",
-      "url": "https://www.uni-muenster.de/news/view.php?cmdid=15659&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-08T15:16:37+00:00"
-    },
-    {
       "title": "Hacking the Meta Ray-Ban smartglasses",
       "summary": "Comments",
       "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
@@ -1209,14 +1233,6 @@
       "source": "Wired Security",
       "category": "Security",
       "published": "2026-11-07T13:00:00+00:00"
-    },
-    {
-      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-      "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding a",
-      "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-07T06:44:17+00:00"
     },
     {
       "title": "Beyond code generation: A developer’s guide to agentic engineering",
@@ -1259,22 +1275,6 @@
       "published": "2026-11-06T17:15:16+00:00"
     },
     {
-      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
-      "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files u",
-      "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-06T16:08:38+00:00"
-    },
-    {
-      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
-      "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CV",
-      "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-06T15:21:49+00:00"
-    },
-    {
       "title": "How public sector organizations can govern AI at scale",
       "summary": "Every government CIO has the same mandate right now: adopt AI, move faster, and do...",
       "url": "https://www.databricks.com/blog/how-public-sector-organizations-can-govern-ai-scale",
@@ -1289,6 +1289,14 @@
       "source": "IEEE Spectrum",
       "category": "Emerging",
       "published": "2026-11-06T15:00:02+00:00"
+    },
+    {
+      "title": "Why Amstrad chose the 3\" drives",
+      "summary": "Comments",
+      "url": "https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-06T14:56:07+00:00"
     },
     {
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
@@ -1401,14 +1409,6 @@
       "source": "IEEE Spectrum",
       "category": "Emerging",
       "published": "2026-11-05T19:00:02+00:00"
-    },
-    {
-      "title": "Use OneLake as native storage for Azure Databricks (Generally Available)",
-      "summary": "Organizations increasingly use Microsoft Fabric and Azure Databricks together so teams can choose the tools that best fit their data engineering, analytics, and AI workloads while working from a common data foundation. OneLake ext",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Use-OneLake-as-native-storage-for-Azure-Databricks-Generally/ba-p/5377939",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-05T19:00:00+00:00"
     },
     {
       "title": "A builder’s guide to scaling Databricks Apps",
