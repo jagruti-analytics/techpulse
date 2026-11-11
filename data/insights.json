@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T20:59:19.236594+00:00",
+  "updated_at": "2026-11-11T01:22:50.903026+00:00",
   "trending": [
     {
       "title": "Unity Catalog Metric Views, now in Power BI: one unified, governed semantic layer for all your reporting and AI",
@@ -8,6 +8,14 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-10T18:45:00+00:00"
+    },
+    {
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-12T00:00:00+00:00"
     },
     {
       "title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
@@ -26,31 +34,39 @@
       "published": "2026-11-10T19:19:39+00:00"
     },
     {
-      "title": "eBay appears to have shut the door on third-party AI agents",
-      "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a",
-      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-10T16:20:30+00:00"
+      "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
+      "summary": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and inc",
+      "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-10T15:33:59+00:00"
     },
     {
-      "title": "Gemini 4 Carbon is now available",
-      "summary": "",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "source": "Google DeepMind",
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "source": "TechCrunch AI",
       "category": "AI",
-      "published": "2026-11-10T16:03:47+00:00"
-    },
-    {
-      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-      "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of c",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-10T16:00:00+00:00"
+      "published": "2026-11-10T15:29:30+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-10T21:08:52+00:00"
+    },
     {
       "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
       "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
@@ -82,22 +98,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-10T19:23:34+00:00"
-    },
-    {
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-10T19:03:52+00:00"
-    },
-    {
-      "title": "Gemini Intelligence: New features, on more devices",
-      "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "2026-11-10T19:00:00+00:00"
     }
   ],
   "technology_releases": [
@@ -134,20 +134,20 @@
       "published": "2026-11-10T16:15:43+00:00"
     },
     {
-      "title": "Gemini 4 Carbon is now available",
-      "summary": "",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "source": "Google DeepMind",
+      "title": "Introducing Businesses in ChatGPT",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "source": "OpenAI",
       "category": "AI",
-      "published": "2026-11-10T16:03:47+00:00"
+      "published": "2026-11-10T10:00:00+00:00"
     },
     {
-      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-      "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of c",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-10T16:00:00+00:00"
+      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+      "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score:",
+      "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-10T06:52:54+00:00"
     }
   ]
 }
