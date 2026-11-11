@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T13:28:14.057225+00:00",
+  "updated_at": "2026-11-11T17:14:20.758193+00:00",
   "method": "GitHub search: repositories created in last 21 days, sorted by total stars",
   "repositories": [
     {
@@ -7,7 +7,7 @@
       "description": "Craft Anything: understand how any software works, and craft your own.",
       "url": "https://github.com/storytold/craft-anything",
       "language": "Rust",
-      "stars": 27795,
+      "stars": 28107,
       "created_at": "2026-10-31T14:50:00Z"
     },
     {
@@ -15,7 +15,7 @@
       "description": "Towards a More Autonomous Agent System",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "language": "TypeScript",
-      "stars": 22410,
+      "stars": 22461,
       "created_at": "2026-10-31T09:32:46Z"
     },
     {
@@ -23,7 +23,7 @@
       "description": "dsh-go \u2014 DeepSeek Harness \u88c5\u8fdb\u53e3\u888b\uff1a\u624b\u673a\u672c\u673a\u8fd0\u884c\uff0c\u4e5f\u80fd\u9065\u63a7\u4f60\u7684\u7535\u8111\u3002",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
       "language": "Dart",
-      "stars": 19416,
+      "stars": 19613,
       "created_at": "2026-10-25T08:09:52Z"
     },
     {
@@ -31,7 +31,7 @@
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "url": "https://github.com/heydamir/unslop",
       "language": "JavaScript",
-      "stars": 14254,
+      "stars": 14389,
       "created_at": "2026-10-29T15:41:21Z"
     },
     {
@@ -39,7 +39,7 @@
       "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA\u2013style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
       "url": "https://github.com/l0ng-ai/openidea",
       "language": "TypeScript",
-      "stars": 8529,
+      "stars": 8551,
       "created_at": "2026-10-21T12:23:14Z"
     },
     {
@@ -47,7 +47,7 @@
       "description": "VERY experimental Nintendo Switch 2 emulator",
       "url": "https://github.com/zortos293/Lichii",
       "language": "C++",
-      "stars": 8380,
+      "stars": 8443,
       "created_at": "2026-10-31T14:17:26Z"
     },
     {
@@ -55,7 +55,7 @@
       "description": "YellowFruit third-party client",
       "url": "https://github.com/Minireel/HGhub",
       "language": "Open source",
-      "stars": 8259,
+      "stars": 8277,
       "created_at": "2026-11-03T14:04:27Z"
     },
     {
@@ -63,7 +63,7 @@
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "url": "https://github.com/wangzan101/Mika",
       "language": "Kotlin",
-      "stars": 8199,
+      "stars": 8224,
       "created_at": "2026-10-29T14:34:07Z"
     },
     {
@@ -71,7 +71,7 @@
       "description": "",
       "url": "https://github.com/unclebob/ub-mode",
       "language": "Open source",
-      "stars": 7690,
+      "stars": 7725,
       "created_at": "2026-10-25T16:04:09Z"
     },
     {
@@ -79,7 +79,7 @@
       "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "language": "Python",
-      "stars": 7481,
+      "stars": 7525,
       "created_at": "2026-10-24T05:35:47Z"
     },
     {
@@ -87,16 +87,16 @@
       "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
       "url": "https://github.com/NotRexed/Hookshot",
       "language": "C++",
-      "stars": 7163,
+      "stars": 7373,
       "created_at": "2026-11-05T12:18:58Z"
     },
     {
-      "name": "patch-gg/pixelfx",
-      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-      "url": "https://github.com/patch-gg/pixelfx",
-      "language": "JavaScript",
-      "stars": 6883,
-      "created_at": "2026-10-30T06:43:25Z"
+      "name": "JuneYaooo/rea-video",
+      "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. \u9006\u5411\u4e00\u5207\u89c6\u9891\uff0c\u9010\u4e2a\u955c\u5934\u770b\u662f\u62cd\u7684\u3001AI \u751f\u6210\u7684\u8fd8\u662f\u4ee3\u7801\u505a\u7684\uff0c\u518d\u544a\u8bc9\u4f60\u600e\u4e48\u590d\u523b\u3002",
+      "url": "https://github.com/JuneYaooo/rea-video",
+      "language": "Python",
+      "stars": 6972,
+      "created_at": "2026-10-29T16:15:01Z"
     }
   ]
 }
