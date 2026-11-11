@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T05:15:52.167763+00:00",
+  "updated_at": "2026-11-11T09:11:02.604064+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
     {
@@ -11,12 +11,84 @@
       "published": "2026-11-12T00:00:00+00:00"
     },
     {
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "source": "Google AI",
+      "category": "AI",
+      "published": "2026-11-11T09:00:00+00:00"
+    },
+    {
+      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+      "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, 174 in Off",
+      "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-11T08:17:53+00:00"
+    },
+    {
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-11T08:00:00+00:00"
+    },
+    {
+      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+      "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those ",
+      "url": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-11T07:49:04+00:00"
+    },
+    {
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-11T07:30:51+00:00"
+    },
+    {
+      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+      "summary": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attacker's command",
+      "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-11T07:21:05+00:00"
+    },
+    {
+      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citi",
+      "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-11T06:04:02+00:00"
+    },
+    {
+      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+      "summary": "Comments",
+      "url": "https://github.com/gmkurtzer/ginux",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-11T05:25:54+00:00"
+    },
+    {
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "summary": "",
       "url": "https://huggingface.co/blog/qvac/botpsy",
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-11-11T05:01:16+00:00"
+    },
+    {
+      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+      "summary": "Comments",
+      "url": "https://github.com/adrbn/bo2-mac",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-11T04:56:47+00:00"
     },
     {
       "title": "Protecting SSH Keys with macOS Secure Enclave",
@@ -67,14 +139,6 @@
       "published": "2026-11-11T00:34:24+00:00"
     },
     {
-      "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
-      "summary": "Comments",
-      "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-11T00:15:33+00:00"
-    },
-    {
       "title": "Tracking Anthropic-discovered vulnerabilities",
       "summary": "Comments",
       "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
@@ -105,6 +169,14 @@
       "source": "The Verge",
       "category": "Emerging",
       "published": "2026-11-10T21:40:31+00:00"
+    },
+    {
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "summary": "Comments",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-10T21:25:03+00:00"
     },
     {
       "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
@@ -163,28 +235,12 @@
       "published": "2026-11-10T19:48:40+00:00"
     },
     {
-      "title": "Research taste in history: the importance of learning Babylonian math",
-      "summary": "Comments",
-      "url": "https://resobscura.substack.com/p/research-taste-in-history-the-importance",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-10T19:42:44+00:00"
-    },
-    {
       "title": "The PlayStation Plus PC app is shutting down next month",
       "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to So",
       "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
       "source": "The Verge",
       "category": "Emerging",
       "published": "2026-11-10T19:40:52+00:00"
-    },
-    {
-      "title": "What objective is reasoning solving?",
-      "summary": "Comments",
-      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-10T19:25:14+00:00"
     },
     {
       "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
@@ -225,14 +281,6 @@
       "source": "The Verge",
       "category": "Emerging",
       "published": "2026-11-10T19:04:05+00:00"
-    },
-    {
-      "title": "A comprehensive study of how fingerprintable users are",
-      "summary": "Comments",
-      "url": "https://fingerprinting.study/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-10T19:03:54+00:00"
     },
     {
       "title": "PSI is trying to make a business out of AI-driven scientific discovery",
@@ -345,6 +393,14 @@
       "source": "GitHub Blog",
       "category": "Development",
       "published": "2026-11-10T18:00:00+00:00"
+    },
+    {
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "summary": "Comments",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-10T17:55:07+00:00"
     },
     {
       "title": "Ableton Live 13 announced with a step sequencer, new drum synth, and more",
@@ -707,6 +763,14 @@
       "published": "2026-11-10T08:16:14+00:00"
     },
     {
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-10T08:00:00+00:00"
+    },
+    {
       "title": "Work at the Frontier: AI’s effect on freelance work",
       "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
       "url": "https://openai.com/index/ai-effect-on-freelance-work",
@@ -771,6 +835,14 @@
       "published": "2026-11-10T01:27:12+00:00"
     },
     {
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "url": "https://openai.com/index/cogent-security",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-10T00:00:00+00:00"
+    },
+    {
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
       "summary": "",
       "url": "https://huggingface.co/blog/hub-gcp-marketplace",
@@ -793,14 +865,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-09T23:28:37+00:00"
-    },
-    {
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-09T22:46:09+00:00"
     },
     {
       "title": "Process Explorer for macOS",
@@ -889,6 +953,14 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-09T19:00:00+00:00"
+    },
+    {
+      "title": "A ZIP-style Prolog VM for trilog",
+      "summary": "Comments",
+      "url": "https://github.com/no382001/zipc",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-09T18:10:30+00:00"
     },
     {
       "title": "AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)",
@@ -1107,28 +1179,20 @@
       "published": "2026-11-09T06:05:24+00:00"
     },
     {
-      "title": "Unremarkable things we made in 2026",
+      "title": "A Compendium of Abandoned Greenhouses",
       "summary": "Comments",
-      "url": "https://www.neilchen.co/blog/things2026",
+      "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-09T03:12:52+00:00"
+      "published": "2026-11-08T16:30:04+00:00"
     },
     {
-      "title": "Pinot Noir: inside the criminal gangs making fake wine",
+      "title": "\"Jumping genes\" helped ants evolve after the extinction of the dinosaurs",
       "summary": "Comments",
-      "url": "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine",
+      "url": "https://www.uni-muenster.de/news/view.php?cmdid=15659&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-08T05:13:25+00:00"
-    },
-    {
-      "title": "Simon Winchester has died",
-      "summary": "Comments",
-      "url": "https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-08T04:07:21+00:00"
+      "published": "2026-11-08T15:16:37+00:00"
     },
     {
       "title": "Hacking the Meta Ray-Ban smartglasses",
@@ -1227,14 +1291,6 @@
       "published": "2026-11-06T15:00:02+00:00"
     },
     {
-      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
-      "summary": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new model is ",
-      "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-06T14:58:32+00:00"
-    },
-    {
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
       "summary": "",
       "url": "https://huggingface.co/blog/allenai/toyblocks",
@@ -1249,30 +1305,6 @@
       "source": "MIT Technology Review",
       "category": "Emerging",
       "published": "2026-11-06T13:10:00+00:00"
-    },
-    {
-      "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
-      "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was the newest P",
-      "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-06T12:06:43+00:00"
-    },
-    {
-      "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
-      "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude ",
-      "url": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-06T12:06:35+00:00"
-    },
-    {
-      "title": "The Flood is Coming And The Pipes Were Already Full",
-      "summary": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these mo",
-      "url": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-06T11:30:00+00:00"
     },
     {
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
@@ -1747,17 +1779,17 @@
       "published": "2026-11-02T20:00:00+00:00"
     },
     {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-02T18:00:00+00:00"
     },
     {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-02T18:00:00+00:00"
@@ -1827,22 +1859,6 @@
       "published": "2026-11-02T09:00:00+00:00"
     },
     {
-      "title": "Qodo builds context into AI code review with Codex",
-      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "url": "https://openai.com/index/qodo-codex-plugin",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-02T00:00:00+00:00"
-    },
-    {
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-02T00:00:00+00:00"
-    },
-    {
       "title": "Game Off 2026: The theme is SHIFT",
       "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme i",
       "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
@@ -1905,14 +1921,6 @@
       "source": "Wired Security",
       "category": "Security",
       "published": "2026-10-30T11:36:52+00:00"
-    },
-    {
-      "title": "Making it easier for websites to express AI training preferences",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-10-30T09:30:00+00:00"
     },
     {
       "title": "Consumer Appetite for Personal AI Goes Mainstream",
@@ -2713,14 +2721,6 @@
       "source": "Google AI",
       "category": "AI",
       "published": "2026-09-15T13:00:00+00:00"
-    },
-    {
-      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "2026-09-14T19:00:00+00:00"
     },
     {
       "title": "Power BI Q&A retirement reminder: February 2027 timeline update",
