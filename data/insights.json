@@ -1,9 +1,17 @@
 {
-  "updated_at": "2026-11-11T17:14:20.115523+00:00",
+  "updated_at": "2026-11-11T21:51:59.400500+00:00",
   "trending": [
     {
+      "title": "Databricks Doubles Down on AI Products, Opens New 235,000-Square-Foot San Francisco Headquarters",
+      "summary": "Last week, we opened our new headquarters at One Sansome Street in San Francisco,...",
+      "url": "https://www.databricks.com/blog/databricks-doubles-down-ai-products-opens-new-235000-square-foot-san-francisco-headquarters",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-11T18:20:00+00:00"
+    },
+    {
       "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-      "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for",
+      "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised",
       "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
       "source": "TechCrunch AI",
       "category": "AI",
@@ -18,36 +26,28 @@
       "published": "2026-11-12T00:00:00+00:00"
     },
     {
-      "title": "Air gapped, not data dark: how Bright Machines gives customers live factory dashboards without opening the plant",
-      "summary": "Bright Machines gives customers live, governed dashboards of their factory data without...",
-      "url": "https://www.databricks.com/blog/air-gapped-not-data-dark-how-bright-machines-gives-customers-live-factory-dashboards-without",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-11T16:10:00+00:00"
-    },
-    {
-      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
       "summary": "Comments",
-      "url": "https://github.com/klad-app/klad",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-11T16:00:50+00:00"
+      "published": "2026-11-11T21:24:35+00:00"
     },
     {
-      "title": "The new Genie: autonomous AI for complex enterprise work",
-      "summary": "AI assistants can run analyses and summarize meetings, but employees still manage...",
-      "url": "https://www.databricks.com/blog/new-genie-autonomous-ai-complex-enterprise-work",
-      "source": "Databricks",
+      "title": "The next chapter for CI/CD in Fabric Warehouse (Preview)",
+      "summary": "Building and operating a data warehouse is increasingly a software engineering discipline. Teams want to develop warehouse changes in isolation, version them in Git, review them through pull requests, promote them safely across en",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/The-next-chapter-for-CI-CD-in-Fabric-Warehouse-Preview/ba-p/5401222",
+      "source": "Microsoft Fabric",
       "category": "Analytics",
-      "published": "2026-11-11T16:00:00+00:00"
+      "published": "2026-11-11T18:00:00+00:00"
     },
     {
-      "title": "From enterprise context to action: Genie Agents now analyze more data sources to transform your work",
-      "summary": "Thousands of teams use Genie Agents to turn deep operational questions into actionable outcomes every day...",
-      "url": "https://www.databricks.com/blog/enterprise-context-action-genie-agents-now-analyze-more-data-sources-transform-your-work",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-11T15:00:00+00:00"
+      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+      "summary": "Comments",
+      "url": "https://pomerado.ai/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-11T17:11:56+00:00"
     }
   ],
   "ai_breakthroughs": [
@@ -60,47 +60,63 @@
       "published": "2026-11-12T00:00:00+00:00"
     },
     {
-      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-      "summary": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
-      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-11T16:14:44+00:00"
-    },
-    {
-      "title": "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name",
-      "summary": "Helsing has unveiled Clarity, an AI platform that uses agents to distill sensor data into target recommendations for weapons systems, all under human oversight and European control. But experience from the Iran war, Gaza, and a ne",
-      "url": "https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/",
+      "title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
+      "summary": "Google Deepmind's new Gemini Decisions API evaluates up to 1,000 closed-ended questions in a single pass across text, images, audio, and video. Gemini Decision 1 returns results in 150 to 250 milliseconds at roughly five times low",
+      "url": "https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/",
       "source": "The Decoder",
       "category": "AI",
-      "published": "2026-11-11T15:12:53+00:00"
+      "published": "2026-11-11T20:12:46+00:00"
     },
     {
-      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-      "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for",
-      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
       "source": "TechCrunch AI",
       "category": "AI",
-      "published": "2026-11-11T15:00:00+00:00"
+      "published": "2026-11-11T19:54:00+00:00"
     },
     {
-      "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
-      "summary": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat. The company's in-house model Mythos reportedly ported Claude to AMD GPUs in just three days, with almost no human intervention. Anthropic now runs Claude on four chi",
-      "url": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
+      "title": "US corporate AI spending hits a new high in October, but growth slows to 1.65 percent",
+      "summary": "According to the Ramp AI Index, US corporate AI spending rose just 1.65 percent in October 2026. One percent of companies still drive 80 percent of revenue for OpenAI and Anthropic. Customer support is emerging as a new growth dri",
+      "url": "https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/",
       "source": "The Decoder",
       "category": "AI",
-      "published": "2026-11-11T14:25:20+00:00"
+      "published": "2026-11-11T19:35:11+00:00"
     },
     {
-      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
-      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
       "source": "TechCrunch AI",
       "category": "AI",
-      "published": "2026-11-11T14:00:00+00:00"
+      "published": "2026-11-11T19:34:55+00:00"
+    },
+    {
+      "title": "Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years",
+      "summary": "Google Deepmind's AlphaProof Code mathematically verified Signal's cryptographic core code in four weeks, a process that typically takes years. AI agents powered by Gemini Carbon wrote more than six million lines of proof code and",
+      "url": "https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-11T18:18:25+00:00"
     }
   ],
   "technology_releases": [
+    {
+      "title": "The next chapter for CI/CD in Fabric Warehouse (Preview)",
+      "summary": "Building and operating a data warehouse is increasingly a software engineering discipline. Teams want to develop warehouse changes in isolation, version them in Git, review them through pull requests, promote them safely across en",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/The-next-chapter-for-CI-CD-in-Fabric-Warehouse-Preview/ba-p/5401222",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-11T18:00:00+00:00"
+    },
+    {
+      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+      "summary": "Comments",
+      "url": "https://pomerado.ai/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-11T17:11:56+00:00"
+    },
     {
       "title": "Use OneLake as native storage for Azure Databricks (Preview)",
       "summary": "Organizations increasingly use Microsoft Fabric and Azure Databricks together so teams can choose the tools that best fit their data engineering, analytics, and AI workloads while working from a common data foundation. OneLake ext",
@@ -116,22 +132,6 @@
       "source": "GitHub Blog",
       "category": "Development",
       "published": "2026-11-10T18:00:00+00:00"
-    },
-    {
-      "title": "Gemini 4 Carbon is now available",
-      "summary": "",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "source": "Google DeepMind",
-      "category": "AI",
-      "published": "2026-11-10T16:03:47+00:00"
-    },
-    {
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "source": "Google DeepMind",
-      "category": "AI",
-      "published": "2026-11-10T12:02:28+00:00"
     },
     {
       "title": "Introducing Businesses in ChatGPT",
