@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T01:22:50.903026+00:00",
+  "updated_at": "2026-11-11T05:15:52.167763+00:00",
   "trending": [
     {
       "title": "Unity Catalog Metric Views, now in Power BI: one unified, governed semantic layer for all your reporting and AI",
@@ -18,6 +18,14 @@
       "published": "2026-11-12T00:00:00+00:00"
     },
     {
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "summary": "",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "source": "Hugging Face",
+      "category": "AI",
+      "published": "2026-11-11T05:01:16+00:00"
+    },
+    {
       "title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
       "summary": "OpenAI is opening up ChatGPT as a business platform: through a new Business Hub, companies can claim their profile, add product data, and track how users interact with them. \"Business Agents\" let eligible US e-commerce providers t",
       "url": "https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/",
@@ -34,20 +42,12 @@
       "published": "2026-11-10T19:19:39+00:00"
     },
     {
-      "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
-      "summary": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and inc",
-      "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-10T15:33:59+00:00"
-    },
-    {
-      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-      "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
-      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-      "source": "TechCrunch AI",
+      "title": "Gemini 4 Carbon is now available",
+      "summary": "",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "source": "Google DeepMind",
       "category": "AI",
-      "published": "2026-11-10T15:29:30+00:00"
+      "published": "2026-11-10T16:03:47+00:00"
     }
   ],
   "ai_breakthroughs": [
@@ -58,6 +58,14 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "summary": "",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "source": "Hugging Face",
+      "category": "AI",
+      "published": "2026-11-11T05:01:16+00:00"
     },
     {
       "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
@@ -90,14 +98,6 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-10T19:48:40+00:00"
-    },
-    {
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-10T19:23:34+00:00"
     }
   ],
   "technology_releases": [
@@ -126,12 +126,20 @@
       "published": "2026-11-10T17:43:49+00:00"
     },
     {
-      "title": "Blender 5.3 released with Gaussian Splat support",
-      "summary": "Comments",
-      "url": "https://www.blender.org/download/releases/5-3/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-10T16:15:43+00:00"
+      "title": "Gemini 4 Carbon is now available",
+      "summary": "",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-11-10T16:03:47+00:00"
+    },
+    {
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-11-10T12:02:28+00:00"
     },
     {
       "title": "Introducing Businesses in ChatGPT",
@@ -140,14 +148,6 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-10T10:00:00+00:00"
-    },
-    {
-      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
-      "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score:",
-      "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-10T06:52:54+00:00"
     }
   ]
 }
