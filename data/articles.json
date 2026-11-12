@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-11-12T05:16:35.994495+00:00",
+  "updated_at": "2026-11-12T09:16:23.857962+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
+      "summary": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client pieces of its",
+      "url": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-12T08:20:37+00:00"
+    },
+    {
+      "title": "Humble Bundle just killed most of their security through vibecoding",
+      "summary": "Comments",
+      "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-12T06:52:48+00:00"
+    },
+    {
+      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+      "summary": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company. The stealer is bui",
+      "url": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-12T06:42:47+00:00"
+    },
+    {
+      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+      "summary": "Comments",
+      "url": "https://www.getlazarus.org/forums/topic/17/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-12T05:49:34+00:00"
+    },
+    {
+      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+      "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yes",
+      "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-12T05:12:26+00:00"
+    },
     {
       "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
       "summary": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company said there is no evidence that ",
@@ -17,6 +57,14 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-12T04:32:31+00:00"
+    },
+    {
+      "title": "Bad ideas that aren't bad anymore",
+      "summary": "Comments",
+      "url": "https://devonestes.com/bad-ideas-that-arent-bad-anymore",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-12T03:18:13+00:00"
     },
     {
       "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
@@ -139,14 +187,6 @@
       "published": "2026-11-11T22:16:41+00:00"
     },
     {
-      "title": "Jensen Huang said to have had relationship with executive who reports to him",
-      "summary": "Comments",
-      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-11T22:03:58+00:00"
-    },
-    {
       "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
       "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. ",
       "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
@@ -259,14 +299,6 @@
       "published": "2026-11-11T19:22:22+00:00"
     },
     {
-      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-      "summary": "Comments",
-      "url": "https://termsheetplease.com/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-11T19:12:16+00:00"
-    },
-    {
       "title": "Test your applications against AWS locally with AWS Emulator",
       "summary": "AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS b",
       "url": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
@@ -329,6 +361,14 @@
       "source": "Google AI",
       "category": "AI",
       "published": "2026-11-11T18:00:00+00:00"
+    },
+    {
+      "title": "The Lost World of Aquaterra",
+      "summary": "Comments",
+      "url": "https://www.theatlantic.com/magazine/2026/12/aquaterra-ancient-human-migration/689029/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-11T17:53:29+00:00"
     },
     {
       "title": "What to know about this year’s UN climate talks",
@@ -497,14 +537,6 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-11T14:25:20+00:00"
-    },
-    {
-      "title": "Atuin Threads: All your agent sessions on every machine",
-      "summary": "Comments",
-      "url": "https://blog.atuin.sh/threads-agent-sessions/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-11T14:10:46+00:00"
     },
     {
       "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
@@ -963,6 +995,14 @@
       "published": "2026-11-10T11:00:02+00:00"
     },
     {
+      "title": "Jane Street: Socratic Tutor",
+      "summary": "Comments",
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-10T10:18:22+00:00"
+    },
+    {
       "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
       "summary": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a grou",
       "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
@@ -1075,22 +1115,6 @@
       "published": "2026-11-10T05:01:00+00:00"
     },
     {
-      "title": "Stingray Fish Laser",
-      "summary": "Comments",
-      "url": "https://www.stingray.no/en/technology/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-10T03:29:55+00:00"
-    },
-    {
-      "title": "A Brief History of Sierra Online (2017)",
-      "summary": "Comments",
-      "url": "https://retrofreakreviews.com/2017/01/30/sierra-retrospective/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-10T02:12:48+00:00"
-    },
-    {
       "title": "Cogent and OpenAI build cyber defense factories for enterprises",
       "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
       "url": "https://openai.com/index/cogent-security",
@@ -1113,14 +1137,6 @@
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-11-10T00:00:00+00:00"
-    },
-    {
-      "title": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
-      "summary": "Comments",
-      "url": "https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-09T22:15:13+00:00"
     },
     {
       "title": "Securing and governing your medallion layers in Fabric Data Warehouse",
@@ -1267,6 +1283,14 @@
       "published": "2026-11-09T13:15:00+00:00"
     },
     {
+      "title": "A live tree of systemd jobs on the boot console",
+      "summary": "Comments",
+      "url": "https://codeberg.org/wvhulle/bootvine",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-09T13:02:44+00:00"
+    },
+    {
       "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
       "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
       "url": "https://openai.com/index/control-room",
@@ -1289,30 +1313,6 @@
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-11-09T12:34:29+00:00"
-    },
-    {
-      "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
-      "summary": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start",
-      "url": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-09T11:27:53+00:00"
-    },
-    {
-      "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
-      "summary": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at ",
-      "url": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-09T10:56:25+00:00"
-    },
-    {
-      "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
-      "summary": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday. It has several security fixes to release and asked operator",
-      "url": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-09T10:01:21+00:00"
     },
     {
       "title": "The climate case for AI has not been made",
@@ -1347,20 +1347,20 @@
       "published": "2026-11-09T08:00:00+00:00"
     },
     {
-      "title": "The Learjet Repo Man (2009)",
+      "title": "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)",
       "summary": "Comments",
-      "url": "https://www.salon.com/2009/06/06/lear_jet_repo_man/",
+      "url": "https://publicdomainreview.org/collection/marian-wawrzeniecki/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-08T14:06:18+00:00"
+      "published": "2026-11-09T03:57:57+00:00"
     },
     {
-      "title": "How to make a CNC plasma cutter with high-frequency start",
+      "title": "I gave an agent a lakehouse and control of my garden",
       "summary": "Comments",
-      "url": "https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html",
+      "url": "https://jatorre.github.io/garden/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-08T12:34:04+00:00"
+      "published": "2026-11-08T17:19:06+00:00"
     },
     {
       "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
