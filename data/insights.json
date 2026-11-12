@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T09:16:23.857962+00:00",
+  "updated_at": "2026-11-12T13:30:27.084890+00:00",
   "trending": [
     {
       "title": "Databricks Doubles Down on AI Products, Opens New 235,000-Square-Foot San Francisco Headquarters",
@@ -10,12 +10,28 @@
       "published": "2026-11-11T18:20:00+00:00"
     },
     {
+      "title": "Australia's proposed AI safety bill would force frontier model makers to open up to independent testing",
+      "summary": "Australia's government, led by Prime Minister Anthony Albanese, wants to enshrine mandatory safety rules for frontier AI companies in law for the first time. A new regulator would enforce independent model audits and impose steep ",
+      "url": "https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-12T10:09:56+00:00"
+    },
+    {
       "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
       "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised",
       "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-11T15:00:00+00:00"
+    },
+    {
+      "title": "Supporting research on AI and children’s safety",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "url": "https://openai.com/index/children-first-declaration",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-12T00:00:00+00:00"
     },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -32,25 +48,33 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-11T23:42:00+00:00"
-    },
-    {
-      "title": "Detecting credential-driven attacks on Databricks",
-      "summary": "At Databricks, we know your data is your most valuable asset. Databricks has worked...",
-      "url": "https://www.databricks.com/blog/detecting-credential-driven-attacks-databricks",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-11T23:00:00+00:00"
-    },
-    {
-      "title": "Brickster Voices: Meet Alasdair Anderson",
-      "summary": "Q: What does a typical week look like for a Lead Solutions Architect, and how would...",
-      "url": "https://www.databricks.com/blog/brickster-voices-meet-alasdair-anderson",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-11T22:50:00+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2",
+      "summary": "Google Deepmind has unveiled AlphaGenome 2, an AI model that analyzes genetic variants for individual cell types rather than across bulk tissue. Trained on more than 107 million cell profiles, it identifies nearly twice as many di",
+      "url": "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-12T12:09:43+00:00"
+    },
+    {
+      "title": "Australia's proposed AI safety bill would force frontier model makers to open up to independent testing",
+      "summary": "Australia's government, led by Prime Minister Anthony Albanese, wants to enshrine mandatory safety rules for frontier AI companies in law for the first time. A new regulator would enforce independent model audits and impose steep ",
+      "url": "https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-12T10:09:56+00:00"
+    },
+    {
+      "title": "Supporting research on AI and children’s safety",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "url": "https://openai.com/index/children-first-declaration",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-12T00:00:00+00:00"
+    },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
@@ -74,41 +98,9 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-11T19:54:00+00:00"
-    },
-    {
-      "title": "US corporate AI spending hits a new high in October, but growth slows to 1.65 percent",
-      "summary": "According to the Ramp AI Index, US corporate AI spending rose just 1.65 percent in October 2026. One percent of companies still drive 80 percent of revenue for OpenAI and Anthropic. Customer support is emerging as a new growth dri",
-      "url": "https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-11T19:35:11+00:00"
-    },
-    {
-      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-11T19:34:55+00:00"
-    },
-    {
-      "title": "Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years",
-      "summary": "Google Deepmind's AlphaProof Code mathematically verified Signal's cryptographic core code in four weeks, a process that typically takes years. AI agents powered by Gemini Carbon wrote more than six million lines of proof code and",
-      "url": "https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-11T18:18:25+00:00"
     }
   ],
   "technology_releases": [
-    {
-      "title": "Darling Development Update – Q4 2026",
-      "summary": "Comments",
-      "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-12T04:32:31+00:00"
-    },
     {
       "title": "The next chapter for CI/CD in Fabric Warehouse (Preview)",
       "summary": "Building and operating a data warehouse is increasingly a software engineering discipline. Teams want to develop warehouse changes in isolation, version them in Git, review them through pull requests, promote them safely across en",
@@ -148,6 +140,14 @@
       "source": "Google DeepMind",
       "category": "AI",
       "published": "2026-11-10T12:02:28+00:00"
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-10T10:00:00+00:00"
     }
   ]
 }

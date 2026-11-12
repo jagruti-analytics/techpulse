@@ -1,7 +1,119 @@
 {
-  "updated_at": "2026-11-12T09:16:23.857962+00:00",
+  "updated_at": "2026-11-12T13:30:27.084890+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+      "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
+      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-12T13:26:25+00:00"
+    },
+    {
+      "title": "The Download: COP31’s climate challenge and the quest for immortality",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journ",
+      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+      "source": "MIT Technology Review",
+      "category": "Emerging",
+      "published": "2026-11-12T13:10:00+00:00"
+    },
+    {
+      "title": "Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2",
+      "summary": "Google Deepmind has unveiled AlphaGenome 2, an AI model that analyzes genetic variants for individual cell types rather than across bulk tissue. Trained on more than 107 million cell profiles, it identifies nearly twice as many di",
+      "url": "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-12T12:09:43+00:00"
+    },
+    {
+      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+      "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations against attacks between VMs, and be",
+      "url": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-12T12:09:14+00:00"
+    },
+    {
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious ",
+      "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-12T12:02:51+00:00"
+    },
+    {
+      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+      "summary": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. \"Based on our initial review, the server issue de",
+      "url": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-12T11:51:43+00:00"
+    },
+    {
+      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+      "summary": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on purpose. The",
+      "url": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-12T11:51:31+00:00"
+    },
+    {
+      "title": "Anthropic IPO",
+      "summary": "Comments",
+      "url": "https://ipo.anthropic.com/us/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-12T11:46:41+00:00"
+    },
+    {
+      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+      "summary": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked as CVE-2026-126325, carries a CV",
+      "url": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-12T11:33:15+00:00"
+    },
+    {
+      "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
+      "summary": "Comments",
+      "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-12T10:46:20+00:00"
+    },
+    {
+      "title": "Why Writing Correct Software Is Hard",
+      "summary": "Comments",
+      "url": "https://pron.github.io/posts/correctness-and-complexity",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-12T10:28:26+00:00"
+    },
+    {
+      "title": "Australia's proposed AI safety bill would force frontier model makers to open up to independent testing",
+      "summary": "Australia's government, led by Prime Minister Anthony Albanese, wants to enshrine mandatory safety rules for frontier AI companies in law for the first time. A new regulator would enforce independent model audits and impose steep ",
+      "url": "https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-12T10:09:56+00:00"
+    },
+    {
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-12T09:30:00+00:00"
+    },
+    {
+      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+      "summary": "A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main server while it s",
+      "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-12T09:25:00+00:00"
+    },
     {
       "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
       "summary": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client pieces of its",
@@ -9,14 +121,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-12T08:20:37+00:00"
-    },
-    {
-      "title": "Humble Bundle just killed most of their security through vibecoding",
-      "summary": "Comments",
-      "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-12T06:52:48+00:00"
     },
     {
       "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
@@ -51,22 +155,6 @@
       "published": "2026-11-12T04:39:48+00:00"
     },
     {
-      "title": "Darling Development Update – Q4 2026",
-      "summary": "Comments",
-      "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-12T04:32:31+00:00"
-    },
-    {
-      "title": "Bad ideas that aren't bad anymore",
-      "summary": "Comments",
-      "url": "https://devonestes.com/bad-ideas-that-arent-bad-anymore",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-12T03:18:13+00:00"
-    },
-    {
       "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
       "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
       "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
@@ -89,6 +177,14 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-12T02:11:11+00:00"
+    },
+    {
+      "title": "Supporting research on AI and children’s safety",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "url": "https://openai.com/index/children-first-declaration",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-12T00:00:00+00:00"
     },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -156,7 +252,7 @@
     },
     {
       "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese s",
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese s",
       "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
       "source": "The Verge",
       "category": "Emerging",
@@ -361,14 +457,6 @@
       "source": "Google AI",
       "category": "AI",
       "published": "2026-11-11T18:00:00+00:00"
-    },
-    {
-      "title": "The Lost World of Aquaterra",
-      "summary": "Comments",
-      "url": "https://www.theatlantic.com/magazine/2026/12/aquaterra-ancient-human-migration/689029/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-11T17:53:29+00:00"
     },
     {
       "title": "What to know about this year’s UN climate talks",
@@ -587,7 +675,7 @@
       "published": "2026-11-11T13:50:30+00:00"
     },
     {
-      "title": "Hyper-Realistic Sand with WebGL2",
+      "title": "Hyper-realistic sand with WebGL2",
       "summary": "Comments",
       "url": "https://av.github.io/safe-sand/",
       "source": "Hacker News",
@@ -627,14 +715,6 @@
       "published": "2026-11-11T12:53:07+00:00"
     },
     {
-      "title": "Can a Linear Program Do Weight-Space Programming?",
-      "summary": "Comments",
-      "url": "https://nathan.rs/posts/weight-space-lp/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-11T12:30:17+00:00"
-    },
-    {
       "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
       "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, t",
       "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
@@ -649,14 +729,6 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-11T12:13:55+00:00"
-    },
-    {
-      "title": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic",
-      "summary": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival Anthropic operates far more efficiently on $17 billion i",
-      "url": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-11T12:12:47+00:00"
     },
     {
       "title": "My AI agents found an unmapped Maya site?",
@@ -681,14 +753,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-11T12:00:53+00:00"
-    },
-    {
-      "title": "UK regulator threatens universities with sanctions unless they adopt AI-proof exam formats",
-      "summary": "England's higher education regulator, the Office for Students, says AI has made it \"nearly impossible\" to fairly assess student coursework. An investigation found that students are having ChatGPT write entire papers undetected, wi",
-      "url": "https://the-decoder.com/uk-regulator-threatens-universities-with-sanctions-unless-they-adopt-ai-proof-exam-formats/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-11T11:54:46+00:00"
     },
     {
       "title": "The Dynamo-Electric Principle: 160 Years of Powering Industry",
@@ -843,14 +907,6 @@
       "published": "2026-11-10T19:19:39+00:00"
     },
     {
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-10T19:03:52+00:00"
-    },
-    {
       "title": "Speech Processing Pioneer Bishnu Saroop Atal Dies at 93",
       "summary": "Bishnu Saroop Atal Acoustics and signal processing pioneer Life Fellow, 93; died 19 August Atal was an acoustics and signal processing researcher at Bell Labs in Murray Hill, N.J., and later at AT&T ’s Shannon Laboratory, in Florh",
       "url": "https://spectrum.ieee.org/speech-processing-pioneer-in-memoriam",
@@ -923,6 +979,14 @@
       "published": "2026-11-10T15:33:59+00:00"
     },
     {
+      "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
+      "summary": "Comments",
+      "url": "https://aircad.com",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-10T15:01:19+00:00"
+    },
+    {
       "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
       "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
       "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
@@ -977,6 +1041,14 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-10T12:00:00+00:00"
+    },
+    {
+      "title": "Legocam: My Lego webcam from 2000, working on a modern Mac",
+      "summary": "Comments",
+      "url": "https://blog.benjamin.ie/legocam",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-10T11:46:09+00:00"
     },
     {
       "title": "Beyond the Alert: The Case for Rich Network Data",
@@ -1091,22 +1163,6 @@
       "published": "2026-11-10T06:52:54+00:00"
     },
     {
-      "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
-      "summary": "N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30 vulnerabilities collectively tracked as ",
-      "url": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-10T06:44:36+00:00"
-    },
-    {
-      "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) ca",
-      "url": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-10T06:31:42+00:00"
-    },
-    {
       "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
       "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
       "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
@@ -1145,6 +1201,14 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-09T21:32:00+00:00"
+    },
+    {
+      "title": "Making a €40 USB-C hub work as a Nintendo Switch 2 dock",
+      "summary": "Comments",
+      "url": "http://blog.nozomi.space/posts/sw2_dock/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-09T20:54:02+00:00"
     },
     {
       "title": "Bring insights and action together with Fabric Apps in Org apps",
@@ -1195,22 +1259,6 @@
       "published": "2026-11-09T17:55:26+00:00"
     },
     {
-      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
-      "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an AWS accoun",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-09T17:51:21+00:00"
-    },
-    {
-      "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
-      "summary": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases download and run ",
-      "url": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-09T17:36:28+00:00"
-    },
-    {
       "title": "Did Life Begin in an RNA World?",
       "summary": "Comments",
       "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
@@ -1257,22 +1305,6 @@
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-11-09T15:05:57+00:00"
-    },
-    {
-      "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
-      "summary": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan c",
-      "url": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-09T14:31:29+00:00"
-    },
-    {
-      "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
-      "summary": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely ",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-09T13:28:25+00:00"
     },
     {
       "title": "The Download: empty AI climate claims, and an Nvidia investigation",
@@ -1347,20 +1379,12 @@
       "published": "2026-11-09T08:00:00+00:00"
     },
     {
-      "title": "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)",
+      "title": "Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)",
       "summary": "Comments",
-      "url": "https://publicdomainreview.org/collection/marian-wawrzeniecki/",
+      "url": "https://www.researchgate.net/publication/319702287_THE_HISTORY_OF_EARLY_LOW_FREQUENCY_RADIO_ASTRONOMY_IN_AUSTRALIA_8_GROTE_REBER_AND_THE_%27SQUARE_KILOMETRE_ARRAY%27_NEAR_BOTHWELL_TASMANIA_IN_THE_1960s_AND_1970s",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-09T03:57:57+00:00"
-    },
-    {
-      "title": "I gave an agent a lakehouse and control of my garden",
-      "summary": "Comments",
-      "url": "https://jatorre.github.io/garden/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-08T17:19:06+00:00"
+      "published": "2026-11-08T20:04:36+00:00"
     },
     {
       "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
@@ -1409,14 +1433,6 @@
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-11-06T14:00:48+00:00"
-    },
-    {
-      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Hu",
-      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-      "source": "MIT Technology Review",
-      "category": "Emerging",
-      "published": "2026-11-06T13:10:00+00:00"
     },
     {
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
@@ -1833,22 +1849,6 @@
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-11-03T00:00:00+00:00"
-    },
-    {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-02T18:00:00+00:00"
-    },
-    {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-02T18:00:00+00:00"
     },
     {
       "title": "The latest AI news we announced in October 2026",
