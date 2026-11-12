@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-11-12T01:29:46.863853+00:00",
+  "updated_at": "2026-11-12T05:16:35.994495+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+      "summary": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company said there is no evidence that ",
+      "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-12T04:39:48+00:00"
+    },
+    {
+      "title": "Darling Development Update – Q4 2026",
+      "summary": "Comments",
+      "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-12T04:32:31+00:00"
+    },
+    {
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-12T03:13:10+00:00"
+    },
+    {
+      "title": "Lean Grimoire",
+      "summary": "Comments",
+      "url": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-12T02:36:48+00:00"
+    },
+    {
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "summary": "Comments",
+      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-12T02:11:11+00:00"
+    },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
@@ -75,7 +115,7 @@
       "published": "2026-11-11T22:44:36+00:00"
     },
     {
-      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+      "title": "93% of paint splatters are valid Perl programs (2019)",
       "summary": "Comments",
       "url": "https://www.mcmillen.dev/sigbovik/",
       "source": "Hacker News",
@@ -180,19 +220,11 @@
     },
     {
       "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
       "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-11T19:54:00+00:00"
-    },
-    {
-      "title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
-      "summary": "Comments",
-      "url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-11T19:47:59+00:00"
     },
     {
       "title": "The Utah Teapot",
@@ -299,14 +331,6 @@
       "published": "2026-11-11T18:00:00+00:00"
     },
     {
-      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-      "summary": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50455811",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-11T17:11:56+00:00"
-    },
-    {
       "title": "What to know about this year’s UN climate talks",
       "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the begin",
       "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
@@ -353,14 +377,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-11T16:12:46+00:00"
-    },
-    {
-      "title": "The hardest notes to find on the guitar",
-      "summary": "Comments",
-      "url": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-11T16:05:18+00:00"
     },
     {
       "title": "The new Genie: autonomous AI for complex enterprise work",
@@ -731,14 +747,6 @@
       "published": "2026-11-11T05:01:16+00:00"
     },
     {
-      "title": "The Apple Support Community will permanently close on November 20, 2026",
-      "summary": "Comments",
-      "url": "https://discussions.apple.com/welcome",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-11T03:26:51+00:00"
-    },
-    {
       "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
       "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
       "url": "https://openai.com/index/jiostar-vijay-seshadri",
@@ -825,14 +833,6 @@
       "source": "Google AI",
       "category": "AI",
       "published": "2026-11-10T19:00:00+00:00"
-    },
-    {
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-10T18:49:52+00:00"
     },
     {
       "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
@@ -1075,6 +1075,14 @@
       "published": "2026-11-10T05:01:00+00:00"
     },
     {
+      "title": "Stingray Fish Laser",
+      "summary": "Comments",
+      "url": "https://www.stingray.no/en/technology/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-10T03:29:55+00:00"
+    },
+    {
       "title": "A Brief History of Sierra Online (2017)",
       "summary": "Comments",
       "url": "https://retrofreakreviews.com/2017/01/30/sierra-retrospective/",
@@ -1185,6 +1193,14 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-09T17:36:28+00:00"
+    },
+    {
+      "title": "Did Life Begin in an RNA World?",
+      "summary": "Comments",
+      "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-09T17:27:24+00:00"
     },
     {
       "title": "Nancy Pelosi’s replacement is ready to regulate AI",
@@ -1315,14 +1331,6 @@
       "published": "2026-11-09T10:00:00+00:00"
     },
     {
-      "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
-      "summary": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week. The agents also found a Taipei fire department platform exposing pa",
-      "url": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-09T09:01:50+00:00"
-    },
-    {
       "title": "CodeRabbit scales agentic software development and ships 20x more",
       "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
       "url": "https://openai.com/index/coderabbit-codex-daybreak",
@@ -1339,20 +1347,12 @@
       "published": "2026-11-09T08:00:00+00:00"
     },
     {
-      "title": "Making the Iron Giant Live",
+      "title": "The Learjet Repo Man (2009)",
       "summary": "Comments",
-      "url": "https://animationobsessive.substack.com/p/making-the-iron-giant-live",
+      "url": "https://www.salon.com/2009/06/06/lear_jet_repo_man/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-09T07:26:45+00:00"
-    },
-    {
-      "title": "Optimizing Reference Deletions in Git",
-      "summary": "Comments",
-      "url": "https://nayak.im/posts/optimizing-reference-deletion/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-08T19:37:42+00:00"
+      "published": "2026-11-08T14:06:18+00:00"
     },
     {
       "title": "How to make a CNC plasma cutter with high-frequency start",

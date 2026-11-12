@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T01:29:46.863853+00:00",
+  "updated_at": "2026-11-12T05:16:35.994495+00:00",
   "trending": [
     {
       "title": "Databricks Doubles Down on AI Products, Opens New 235,000-Square-Foot San Francisco Headquarters",
@@ -69,7 +69,7 @@
     },
     {
       "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
       "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
       "source": "TechCrunch AI",
       "category": "AI",
@@ -102,20 +102,20 @@
   ],
   "technology_releases": [
     {
+      "title": "Darling Development Update – Q4 2026",
+      "summary": "Comments",
+      "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-12T04:32:31+00:00"
+    },
+    {
       "title": "The next chapter for CI/CD in Fabric Warehouse (Preview)",
       "summary": "Building and operating a data warehouse is increasingly a software engineering discipline. Teams want to develop warehouse changes in isolation, version them in Git, review them through pull requests, promote them safely across en",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/The-next-chapter-for-CI-CD-in-Fabric-Warehouse-Preview/ba-p/5401222",
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-11T18:00:00+00:00"
-    },
-    {
-      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-      "summary": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50455811",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-11T17:11:56+00:00"
     },
     {
       "title": "Use OneLake as native storage for Azure Databricks (Preview)",
