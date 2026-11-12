@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T21:51:59.400500+00:00",
+  "updated_at": "2026-11-12T01:29:46.863853+00:00",
   "trending": [
     {
       "title": "Databricks Doubles Down on AI Products, Opens New 235,000-Square-Foot San Francisco Headquarters",
@@ -26,28 +26,28 @@
       "published": "2026-11-12T00:00:00+00:00"
     },
     {
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "summary": "Comments",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-11T21:24:35+00:00"
-    },
-    {
-      "title": "The next chapter for CI/CD in Fabric Warehouse (Preview)",
-      "summary": "Building and operating a data warehouse is increasingly a software engineering discipline. Teams want to develop warehouse changes in isolation, version them in Git, review them through pull requests, promote them safely across en",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/The-next-chapter-for-CI-CD-in-Fabric-Warehouse-Preview/ba-p/5401222",
-      "source": "Microsoft Fabric",
+      "title": "Air gapped, not data dark: how Bright Machines gives customers live factory dashboards without opening the plant",
+      "summary": "Bright Machines gives customers live, governed dashboards of their factory data without...",
+      "url": "https://www.databricks.com/blog/air-gapped-not-data-dark-how-bright-machines-gives-customers-live-factory-dashboards-without",
+      "source": "Databricks",
       "category": "Analytics",
-      "published": "2026-11-11T18:00:00+00:00"
+      "published": "2026-11-11T23:42:00+00:00"
     },
     {
-      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-      "summary": "Comments",
-      "url": "https://pomerado.ai/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-11T17:11:56+00:00"
+      "title": "Detecting credential-driven attacks on Databricks",
+      "summary": "At Databricks, we know your data is your most valuable asset. Databricks has worked...",
+      "url": "https://www.databricks.com/blog/detecting-credential-driven-attacks-databricks",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-11T23:00:00+00:00"
+    },
+    {
+      "title": "Brickster Voices: Meet Alasdair Anderson",
+      "summary": "Q: What does a typical week look like for a Lead Solutions Architect, and how would...",
+      "url": "https://www.databricks.com/blog/brickster-voices-meet-alasdair-anderson",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-11T22:50:00+00:00"
     }
   ],
   "ai_breakthroughs": [
@@ -112,7 +112,7 @@
     {
       "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
       "summary": "Comments",
-      "url": "https://pomerado.ai/",
+      "url": "https://news.ycombinator.com/item?id=50455811",
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-11T17:11:56+00:00"
@@ -134,20 +134,20 @@
       "published": "2026-11-10T18:00:00+00:00"
     },
     {
-      "title": "Introducing Businesses in ChatGPT",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "source": "OpenAI",
+      "title": "Gemini 4 Carbon is now available",
+      "summary": "",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "source": "Google DeepMind",
       "category": "AI",
-      "published": "2026-11-10T10:00:00+00:00"
+      "published": "2026-11-10T16:03:47+00:00"
     },
     {
-      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
-      "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score:",
-      "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-10T06:52:54+00:00"
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-11-10T12:02:28+00:00"
     }
   ]
 }
