@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T22:16:43.288992+00:00",
+  "updated_at": "2026-11-13T06:51:56.654688+00:00",
   "trending": [
     {
       "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
@@ -34,20 +34,20 @@
       "published": "2026-11-12T14:59:06+00:00"
     },
     {
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "url": "https://openai.com/index/amplitude",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-12T20:00:00+00:00"
+      "title": "GitHub availability report: October 2026",
+      "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+      "source": "GitHub Blog",
+      "category": "Development",
+      "published": "2026-11-13T00:20:16+00:00"
     },
     {
-      "title": "No, AI agents did not discover a previously unknown Maya site",
-      "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was publ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-12T19:42:40+00:00"
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "summary": "Comments",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-12T21:56:11+00:00"
     }
   ],
   "ai_breakthroughs": [
@@ -62,7 +62,7 @@
     {
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "url": "https://openai.com/index/amplitude",
+      "url": "https://openai.com/business/customer-stories/amplitude",
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-12T20:00:00+00:00"
@@ -102,6 +102,22 @@
   ],
   "technology_releases": [
     {
+      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+      "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Mom",
+      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-12T23:43:22+00:00"
+    },
+    {
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-12T22:42:51+00:00"
+    },
+    {
       "title": "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
       "summary": "Google's Gemini 4 Hydrogen replaces the Flash series, but benchmarks suggest it also makes the pricier Argon obsolete. On the independent Artificial Analysis Intelligence Index, Hydrogen nearly matches Claude Sonnet 5.5 for less m",
       "url": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
@@ -132,22 +148,6 @@
       "source": "Google DeepMind",
       "category": "AI",
       "published": "2026-11-12T18:00:50+00:00"
-    },
-    {
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "2026-11-12T18:00:00+00:00"
-    },
-    {
-      "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
-      "summary": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver. The proof of concept, called SignDrop, targets a log-authentication feature adde",
-      "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-12T17:50:27+00:00"
     }
   ]
 }
