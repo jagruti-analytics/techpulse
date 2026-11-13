@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-11-13T06:51:56.654688+00:00",
+  "updated_at": "2026-11-13T16:29:29.365985+00:00",
   "trending": [
+    {
+      "title": "OpenAI and Databricks: Enterprise AI on your governed data",
+      "summary": "Greg Brockman, co-founder and President of OpenAI, has a simple way to describe AI...",
+      "url": "https://www.databricks.com/blog/openai-and-databricks-enterprise-ai-your-governed-data",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-13T15:30:00+00:00"
+    },
+    {
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-13T16:00:12+00:00"
+    },
+    {
+      "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
+      "summary": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's latest Blackwell GPUs despite US export controls. His forensic method read",
+      "url": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-13T15:21:04+00:00"
+    },
+    {
+      "title": "OpenAI enters the cybersecurity market with two Daybreak products",
+      "summary": "OpenAI has launched two security products under its Daybreak brand. The article OpenAI enters the cybersecurity market with two Daybreak products appeared first on The Decoder .",
+      "url": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-13T15:08:57+00:00"
+    },
     {
       "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
       "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
@@ -10,104 +42,96 @@
       "published": "2026-11-12T19:11:00+00:00"
     },
     {
-      "title": "Migrate Effortlessly to the Databricks Lakehouse with Genie Migrate, now Generally Available",
-      "summary": "Companies are racing to build AI agents and applications. Every one of these use...",
-      "url": "https://www.databricks.com/genie-migrate-for-lakehouse-generally-available",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-12T18:26:29+00:00"
-    },
-    {
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-12T17:17:58+00:00"
-    },
-    {
-      "title": "How Block powers collaborative AI agents with Buzz and Unity Gateway",
-      "summary": "Inside Block, Buzz brings employees and AI agents into a shared workspace. With Databricks...",
-      "url": "https://www.databricks.com/blog/how-block-powers-collaborative-ai-agents-buzz-and-unity-gateway",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-12T14:59:06+00:00"
-    },
-    {
-      "title": "GitHub availability report: October 2026",
-      "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
-      "source": "GitHub Blog",
-      "category": "Development",
-      "published": "2026-11-13T00:20:16+00:00"
-    },
-    {
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "summary": "Comments",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-12T21:56:11+00:00"
+      "title": "When an AI Agent Goes Wrong, Can You Stop It?",
+      "summary": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identi",
+      "url": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-13T11:52:31+00:00"
     }
   ],
   "ai_breakthroughs": [
     {
-      "title": "Claude Meetings lets Anthropic's AI join your video calls",
-      "summary": "Anthropic is adding Claude directly to video calls. Claude Meetings joins Google Meet sessions and creates documents, whiteboards, and meeting notes in real time. The feature launches in beta for Team and Enterprise plans, with mo",
-      "url": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-12T20:26:50+00:00"
-    },
-    {
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-12T20:00:00+00:00"
-    },
-    {
-      "title": "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
-      "summary": "Google's Gemini 4 Hydrogen replaces the Flash series, but benchmarks suggest it also makes the pricier Argon obsolete. On the independent Artificial Analysis Intelligence Index, Hydrogen nearly matches Claude Sonnet 5.5 for less m",
-      "url": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-12T19:58:43+00:00"
-    },
-    {
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
       "source": "TechCrunch AI",
       "category": "AI",
-      "published": "2026-11-12T19:11:00+00:00"
+      "published": "2026-11-13T16:00:12+00:00"
     },
     {
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "title": "Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails",
+      "summary": "US public-sector unions are increasingly pushing through protections against AI surveillance and automated firings. In Oakland, a strike vote forced retraining programs instead of layoffs, and a transport union in Ohio won veto po",
+      "url": "https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-13T15:53:49+00:00"
+    },
+    {
+      "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
+      "summary": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's latest Blackwell GPUs despite US export controls. His forensic method read",
+      "url": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-13T15:21:04+00:00"
+    },
+    {
+      "title": "Meta's Muse now calls businesses for you, but many companies might just hang up on the AI",
+      "summary": "Meta's AI agent Muse can now call businesses on behalf of paying US subscribers, handling everything from cable providers to restaurants. The agent already has over 10 million users, according to Meta's AI chief Alexandr Wang. Goo",
+      "url": "https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-13T15:12:44+00:00"
+    },
+    {
+      "title": "OpenAI enters the cybersecurity market with two Daybreak products",
+      "summary": "OpenAI has launched two security products under its Daybreak brand. The article OpenAI enters the cybersecurity market with two Daybreak products appeared first on The Decoder .",
+      "url": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-13T15:08:57+00:00"
+    },
+    {
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
       "summary": "",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
       "source": "Hugging Face",
       "category": "AI",
-      "published": "2026-11-12T19:07:35+00:00"
-    },
-    {
-      "title": "Introducing Gemini 4 Hydrogen",
-      "summary": "",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "source": "Google DeepMind",
-      "category": "AI",
-      "published": "2026-11-12T18:00:50+00:00"
+      "published": "2026-11-13T14:05:22+00:00"
     }
   ],
   "technology_releases": [
     {
-      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
-      "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Mom",
-      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+      "title": "My favorite recipe app just got a big upgrade — and a subscription fee",
+      "summary": "Nearly 10 years after the launch of Paprika 3, the recipe-managing, pantry-organizing, grocery list-making app has gotten a big upgrade that adds more functionality to nearly every corner of the experience. I tested Paprika 4 for ",
+      "url": "https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on",
       "source": "The Verge",
       "category": "Emerging",
-      "published": "2026-11-12T23:43:22+00:00"
+      "published": "2026-11-13T16:00:00+00:00"
+    },
+    {
+      "title": "Apple announces release dates for the first Apple Home Collection smart devices",
+      "summary": "The first few smart home devices and accessories that Apple co-developed with LG Electronics and Schneider Electric for its new Apple Home Collection are now available for preorder through the company's online store, with delivery",
+      "url": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-13T15:22:14+00:00"
+    },
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-13T15:00:00+00:00"
+    },
+    {
+      "title": "EU Digital Identity Wallet rollout: every EU state on one board",
+      "summary": "Comments",
+      "url": "https://myid.ie/business/eu-digital-wallet-tracker/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-13T14:58:07+00:00"
     },
     {
       "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
@@ -124,30 +148,6 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-12T19:58:43+00:00"
-    },
-    {
-      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-12T19:27:45+00:00"
-    },
-    {
-      "title": "Migrate Effortlessly to the Databricks Lakehouse with Genie Migrate, now Generally Available",
-      "summary": "Companies are racing to build AI agents and applications. Every one of these use...",
-      "url": "https://www.databricks.com/genie-migrate-for-lakehouse-generally-available",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-12T18:26:29+00:00"
-    },
-    {
-      "title": "Introducing Gemini 4 Hydrogen",
-      "summary": "",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "source": "Google DeepMind",
-      "category": "AI",
-      "published": "2026-11-12T18:00:50+00:00"
     }
   ]
 }
