@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T00:55:21.391237+00:00",
+  "updated_at": "2026-11-14T11:33:26.534363+00:00",
   "trending": [
     {
       "title": "OpenAI and Databricks: Enterprise AI on your governed data",
@@ -8,22 +8,6 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-13T15:30:00+00:00"
-    },
-    {
-      "title": "Doc-foundry – AI writes Security detection rules, then proves they work",
-      "summary": "Comments",
-      "url": "https://github.com/mjha-arya/DOC-foundry",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-13T23:40:12+00:00"
-    },
-    {
-      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-      "summary": "Comments",
-      "url": "https://atg.science/careers",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-13T21:01:11+00:00"
     },
     {
       "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
@@ -48,9 +32,33 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-13T18:40:30+00:00"
+    },
+    {
+      "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+      "summary": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at an accelerating rate. Coxon con",
+      "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-14T11:21:41+00:00"
+    },
+    {
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-13T16:00:12+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
+      "summary": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia's RoboL",
+      "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-14T09:45:45+00:00"
+    },
     {
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
       "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
@@ -90,17 +98,17 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-13T16:37:01+00:00"
-    },
-    {
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-13T16:00:12+00:00"
     }
   ],
   "technology_releases": [
+    {
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "summary": "Comments",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-14T00:06:04+00:00"
+    },
     {
       "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
       "summary": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done ",
@@ -140,14 +148,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-12T22:42:51+00:00"
-    },
-    {
-      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-12T19:27:45+00:00"
     }
   ]
 }
