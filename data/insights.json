@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T18:11:39.650828+00:00",
+  "updated_at": "2026-11-14T23:57:35.430771+00:00",
   "trending": [
     {
       "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
@@ -16,6 +16,14 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-13T15:30:00+00:00"
+    },
+    {
+      "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+      "summary": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments now total nearly $901 billion, and it's still far fro",
+      "url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-14T19:05:17+00:00"
     },
     {
       "title": "Lovable apps expose passport details and more than 200K private messages",
@@ -40,14 +48,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-14T15:40:52+00:00"
-    },
-    {
-      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in th",
-      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-14T15:00:00+00:00"
     }
   ],
   "ai_breakthroughs": [
@@ -102,14 +102,6 @@
   ],
   "technology_releases": [
     {
-      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-      "summary": "Comments",
-      "url": "https://unsloth.ai/docs/models/qwen3.8",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-14T00:06:04+00:00"
-    },
-    {
       "title": "Introducing ChatGPT Wallet",
       "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
       "url": "https://openai.com/index/introducing-chatgpt-wallet",
@@ -148,6 +140,14 @@
       "source": "Google AI",
       "category": "AI",
       "published": "2026-11-12T18:00:00+00:00"
+    },
+    {
+      "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
+      "summary": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver. The proof of concept, called SignDrop, targets a log-authentication feature adde",
+      "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-12T17:50:27+00:00"
     }
   ]
 }
