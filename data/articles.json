@@ -1,7 +1,231 @@
 {
-  "updated_at": "2026-11-14T11:33:26.534363+00:00",
+  "updated_at": "2026-11-14T18:11:39.650828+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "A Family Tree of Software Job Titles",
+      "summary": "Comments",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-14T17:45:19+00:00"
+    },
+    {
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "summary": "Comments",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-14T17:43:10+00:00"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-14T17:30:00+00:00"
+    },
+    {
+      "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+      "summary": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost significantly more. Gemini ignored th",
+      "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-14T16:48:01+00:00"
+    },
+    {
+      "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+      "summary": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop \"think hard\" and start at Medium effort. The article Anthropic say",
+      "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-14T16:42:56+00:00"
+    },
+    {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-14T16:34:15+00:00"
+    },
+    {
+      "title": "How to Create Your Own Decentralized Messenger Protocol",
+      "summary": "Comments",
+      "url": "https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-14T16:01:04+00:00"
+    },
+    {
+      "title": "Italy fines Meta €805M over photo privacy",
+      "summary": "Comments",
+      "url": "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-14T16:00:14+00:00"
+    },
+    {
+      "title": "Formalizing US Tax Code (Using Lean)",
+      "summary": "Comments",
+      "url": "https://lexifina.com/blog/formalizing-the-us-tax-code",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-14T15:41:20+00:00"
+    },
+    {
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "summary": "Comments",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-14T15:40:52+00:00"
+    },
+    {
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "summary": "Comments",
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-14T15:04:15+00:00"
+    },
+    {
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in th",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-14T15:00:00+00:00"
+    },
+    {
+      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+      "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be av",
+      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-14T14:18:36+00:00"
+    },
+    {
+      "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+      "summary": "Comments",
+      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-14T14:09:25+00:00"
+    },
+    {
+      "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+      "summary": "Comments",
+      "url": "https://github.com/paul-nameless/agweb",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-14T14:08:12+00:00"
+    },
+    {
+      "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+      "summary": "Comments",
+      "url": "https://github.com/FURSOY/fursoy-cpu",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-14T14:06:34+00:00"
+    },
+    {
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "summary": "Comments",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-14T14:05:54+00:00"
+    },
+    {
+      "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+      "summary": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size gamepad, plu",
+      "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-14T14:00:00+00:00"
+    },
+    {
+      "title": "Italy fines Meta $887M over Android users' data access",
+      "summary": "Comments",
+      "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-14T13:48:06+00:00"
+    },
+    {
+      "title": "KDE: The documentary [video]",
+      "summary": "Comments",
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-14T13:43:28+00:00"
+    },
+    {
+      "title": "A visual explanation of reinforcement learning",
+      "summary": "Comments",
+      "url": "https://aatishb.com/myriad/how-brains-learn/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-14T13:31:06+00:00"
+    },
+    {
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "summary": "Comments",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-14T13:20:43+00:00"
+    },
+    {
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "source": "Wired Security",
+      "category": "Security",
+      "published": "2026-11-14T13:00:00+00:00"
+    },
+    {
+      "title": "A gadget to make your dumb house smarter",
+      "summary": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the old editions at",
+      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-14T13:00:00+00:00"
+    },
+    {
+      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "summary": "Comments",
+      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-14T12:45:45+00:00"
+    },
+    {
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) cat",
+      "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-14T12:38:35+00:00"
+    },
+    {
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, t",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-14T12:00:00+00:00"
+    },
+    {
+      "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
+      "summary": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary. The researc",
+      "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-14T11:40:51+00:00"
+    },
     {
       "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
       "summary": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at an accelerating rate. Coxon con",
@@ -25,14 +249,6 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-14T07:02:42+00:00"
-    },
-    {
-      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-      "summary": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50494696",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-14T06:56:42+00:00"
     },
     {
       "title": "Monkey Island: all 13 versions side by side",
@@ -59,22 +275,6 @@
       "published": "2026-11-14T02:28:29+00:00"
     },
     {
-      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
-      "summary": "Comments",
-      "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-14T02:02:42+00:00"
-    },
-    {
-      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
-      "summary": "Comments",
-      "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-14T00:52:29+00:00"
-    },
-    {
       "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
       "summary": "Comments",
       "url": "https://unsloth.ai/docs/models/qwen3.8",
@@ -99,14 +299,6 @@
       "published": "2026-11-13T23:48:59+00:00"
     },
     {
-      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-      "summary": "Comments",
-      "url": "https://grounds.top/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-13T23:17:39+00:00"
-    },
-    {
       "title": "Terminal borders that don't cost a cell",
       "summary": "Comments",
       "url": "https://www.joshka.net/cell-borders/",
@@ -115,28 +307,12 @@
       "published": "2026-11-13T23:06:40+00:00"
     },
     {
-      "title": "How Not to Build a Music Player",
-      "summary": "Comments",
-      "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-13T23:04:30+00:00"
-    },
-    {
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
       "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
       "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-13T22:43:00+00:00"
-    },
-    {
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "summary": "Comments",
-      "url": "https://orcasairband.com/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-13T22:04:24+00:00"
     },
     {
       "title": "FAA issues national ground stop – lifted 4.5 hours later",
@@ -171,44 +347,12 @@
       "published": "2026-11-13T20:07:34+00:00"
     },
     {
-      "title": "Live-migration support in FreeBSD and bhyve coming",
-      "summary": "Comments",
-      "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-13T19:58:42+00:00"
-    },
-    {
       "title": "AI agent startup LangChain hits $3B valuation",
       "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
       "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-13T19:37:57+00:00"
-    },
-    {
-      "title": "Found: A protein that drives ageing without unleashing inflammation",
-      "summary": "Comments",
-      "url": "https://www.nature.com/articles/d41586-026-03638-3",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-13T19:25:21+00:00"
-    },
-    {
-      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-      "summary": "Comments",
-      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-13T19:24:47+00:00"
-    },
-    {
-      "title": "FM-1 Workbench",
-      "summary": "Comments",
-      "url": "https://open.m-vave.com/fm1-workbench",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-13T19:14:02+00:00"
     },
     {
       "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
@@ -243,14 +387,6 @@
       "published": "2026-11-13T18:40:30+00:00"
     },
     {
-      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
-      "summary": "Comments",
-      "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-13T18:23:49+00:00"
-    },
-    {
       "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
       "summary": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trac",
       "url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
@@ -275,22 +411,6 @@
       "published": "2026-11-13T18:00:39+00:00"
     },
     {
-      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
-      "summary": "Comments",
-      "url": "https://isometricsf.com/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-13T17:58:37+00:00"
-    },
-    {
-      "title": "After 600 experiments, here's what I discovered about JEPA world models",
-      "summary": "Comments",
-      "url": "https://haddyalchaer.com/jepa",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-13T17:55:28+00:00"
-    },
-    {
       "title": "Jensen Huang was reckless with the environment, too",
       "summary": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive facto",
       "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
@@ -307,28 +427,12 @@
       "published": "2026-11-13T17:15:54+00:00"
     },
     {
-      "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
-      "summary": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done ",
-      "url": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-13T17:12:56+00:00"
-    },
-    {
       "title": "XYBench: Helping with the problem behind the question",
       "summary": "",
       "url": "https://huggingface.co/blog/allenai/xybench",
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-11-13T17:02:35+00:00"
-    },
-    {
-      "title": "The new Apple TV has a YouTube problem",
-      "summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error ",
-      "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-13T16:55:57+00:00"
     },
     {
       "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
@@ -347,28 +451,12 @@
       "published": "2026-11-13T16:37:01+00:00"
     },
     {
-      "title": "Microsoft’s massive Outlook outage might be over",
-      "summary": "Service is recovering for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state on Friday morning, some people (in",
-      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-13T16:17:11+00:00"
-    },
-    {
       "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
       "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
       "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-13T16:00:12+00:00"
-    },
-    {
-      "title": "My favorite recipe app just got a big upgrade — and a subscription fee",
-      "summary": "Nearly 10 years after the launch of Paprika 3, the recipe-managing, pantry-organizing, grocery list-making app has gotten a big upgrade that adds more functionality to nearly every corner of the experience. I tested Paprika 4 for ",
-      "url": "https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-13T16:00:00+00:00"
     },
     {
       "title": "The unfolding Jensen Huang scandal: a timeline",
@@ -403,54 +491,6 @@
       "published": "2026-11-13T15:27:05+00:00"
     },
     {
-      "title": "Apple announces release dates for the first Apple Home Collection smart devices",
-      "summary": "The first few smart home devices and accessories that Apple co-developed with LG Electronics and Schneider Electric for its new Apple Home Collection are now available for preorder through the company's online store, with delivery",
-      "url": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-13T15:22:14+00:00"
-    },
-    {
-      "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
-      "summary": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's latest Blackwell GPUs despite US export controls. His forensic method read",
-      "url": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-13T15:21:04+00:00"
-    },
-    {
-      "title": "Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history",
-      "summary": "Anthropic is on track for the largest IPO ever, with orders exceeding available shares by a factor of six. The article Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history appea",
-      "url": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-13T15:15:08+00:00"
-    },
-    {
-      "title": "Meta's Muse now calls businesses for you, but many companies might just hang up on the AI",
-      "summary": "Meta's AI agent Muse can now call businesses on behalf of paying US subscribers, handling everything from cable providers to restaurants. The agent already has over 10 million users, according to Meta's AI chief Alexandr Wang. Goo",
-      "url": "https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-13T15:12:44+00:00"
-    },
-    {
-      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "summary": "Comments",
-      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-13T15:08:44+00:00"
-    },
-    {
-      "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
-      "summary": "Comments",
-      "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-13T15:08:07+00:00"
-    },
-    {
       "title": "Introducing ChatGPT Wallet",
       "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
       "url": "https://openai.com/index/introducing-chatgpt-wallet",
@@ -465,14 +505,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-13T14:44:48+00:00"
-    },
-    {
-      "title": "A technical vision for the Haskell ecosystem",
-      "summary": "Comments",
-      "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-13T14:43:12+00:00"
     },
     {
       "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
@@ -603,6 +635,14 @@
       "published": "2026-11-13T05:43:28+00:00"
     },
     {
+      "title": "Let's Write a PostScript Interpreter",
+      "summary": "Comments",
+      "url": "https://beyondloom.com/blog/postscript.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-13T05:12:56+00:00"
+    },
+    {
       "title": "GitHub availability report: October 2026",
       "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
       "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
@@ -633,14 +673,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-12T22:22:28+00:00"
-    },
-    {
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "summary": "Comments",
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-12T22:03:09+00:00"
     },
     {
       "title": "Dispelling LTAP myths",
@@ -803,14 +835,6 @@
       "published": "2026-11-12T17:00:52+00:00"
     },
     {
-      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
-      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-12T17:00:00+00:00"
-    },
-    {
       "title": "How H6.ai builds AI-powered financial automation with Lakebase Postgres",
       "summary": "Traditional accounts payable and invoice processing tools often force companies into a trade-off...",
       "url": "https://www.databricks.com/blog/how-h6ai-builds-ai-powered-financial-automation-lakebase-postgres",
@@ -825,14 +849,6 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-12T16:53:43+00:00"
-    },
-    {
-      "title": "Jensen Huang agrees to testify before Congress",
-      "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-12T16:36:37+00:00"
     },
     {
       "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
@@ -875,6 +891,22 @@
       "published": "2026-11-12T14:59:06+00:00"
     },
     {
+      "title": "C3 0.8.6:Library fetching,30% smaller safe-mode binaries,and stricter type rules",
+      "summary": "Comments",
+      "url": "https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-12T14:36:55+00:00"
+    },
+    {
+      "title": "Testing a Trash Can Faraday Cage",
+      "summary": "Comments",
+      "url": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-12T14:04:27+00:00"
+    },
+    {
       "title": "Apple’s HomeView Tries Face Authentication Without FaceID",
       "summary": "Apple’s FaceID has long provided robust authentication. But for its smart home device, HomeView, the company is betting on new “person recognition” technology that has yet to be challenged in the wild.",
       "url": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/",
@@ -899,20 +931,20 @@
       "published": "2026-11-12T13:08:28+00:00"
     },
     {
-      "title": "The curious case of the north-east arrow",
-      "summary": "Comments",
-      "url": "https://arsh.zip/posts/north-east-arrow/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-12T12:14:20+00:00"
-    },
-    {
       "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
       "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations against attacks between VMs, and be",
       "url": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-12T12:09:14+00:00"
+    },
+    {
+      "title": "Bilingualism and Denaskuleco",
+      "summary": "Comments",
+      "url": "https://pgadey.ca/notes/bilingualism-and-denaskuleco/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-12T12:00:06+00:00"
     },
     {
       "title": "Gondola doubles revenue as its team builds more with Codex",
@@ -995,14 +1027,6 @@
       "published": "2026-11-12T04:39:48+00:00"
     },
     {
-      "title": "The Other Nefertiti (2015)",
-      "summary": "Comments",
-      "url": "https://alloversky.com/puzzlepieces/the-other-nefertiti",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-12T04:08:33+00:00"
-    },
-    {
       "title": "Supporting research on AI and children’s safety",
       "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
       "url": "https://openai.com/index/children-first-declaration",
@@ -1081,14 +1105,6 @@
       "source": "Google AI",
       "category": "AI",
       "published": "2026-11-11T16:00:00+00:00"
-    },
-    {
-      "title": "Service Crew Discovers Rare Yellow Burbot in Oswego Harbor",
-      "summary": "Comments",
-      "url": "https://www.fws.gov/story/2026-11/service-crew-discovers-rare-yellow-burbot-oswego-harbor",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-11T15:47:43+00:00"
     },
     {
       "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
@@ -1195,28 +1211,12 @@
       "published": "2026-11-11T07:21:05+00:00"
     },
     {
-      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citi",
-      "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-11T06:04:02+00:00"
-    },
-    {
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "summary": "",
       "url": "https://huggingface.co/blog/qvac/botpsy",
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-11-11T05:01:16+00:00"
-    },
-    {
-      "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
-      "summary": "Comments",
-      "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-11T00:48:14+00:00"
     },
     {
       "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
@@ -1233,14 +1233,6 @@
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-11-11T00:00:00+00:00"
-    },
-    {
-      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
-      "summary": "Comments",
-      "url": "https://github.com/0xdeadf1sh/T1DMAI",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-10T19:07:53+00:00"
     },
     {
       "title": "Speech Processing Pioneer Bishnu Saroop Atal Dies at 93",
@@ -1273,6 +1265,14 @@
       "source": "Google DeepMind",
       "category": "AI",
       "published": "2026-11-10T16:03:47+00:00"
+    },
+    {
+      "title": "Generative AI uses more energy on non-English text",
+      "summary": "Comments",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-10T15:07:28+00:00"
     },
     {
       "title": "Why get an expensive Pi when I have an old phone?",
@@ -1537,6 +1537,14 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-09T08:00:00+00:00"
+    },
+    {
+      "title": "Reverse engineering a vintage diode-transistor logic chip",
+      "summary": "Comments",
+      "url": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-08T19:03:48+00:00"
     },
     {
       "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
@@ -2105,14 +2113,6 @@
       "source": "Wired Security",
       "category": "Security",
       "published": "2026-10-29T10:30:00+00:00"
-    },
-    {
-      "title": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
-      "summary": "Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers because it contains people’s contact information, shared without their authorization.",
-      "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
-      "source": "Wired Security",
-      "category": "Security",
-      "published": "2026-10-29T03:34:46+00:00"
     },
     {
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
