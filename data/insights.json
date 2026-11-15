@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-14T23:57:35.430771+00:00",
+  "updated_at": "2026-11-15T06:40:59.186927+00:00",
   "trending": [
+    {
+      "title": "Show HN: Gawain – Require type hints on all Python variables",
+      "summary": "Comments",
+      "url": "https://github.com/matheuzgomes/gawain",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-15T04:39:25+00:00"
+    },
     {
       "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
       "summary": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary. The researc",
@@ -18,36 +26,28 @@
       "published": "2026-11-13T15:30:00+00:00"
     },
     {
-      "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
-      "summary": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments now total nearly $901 billion, and it's still far fro",
-      "url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-14T19:05:17+00:00"
-    },
-    {
-      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
       "summary": "Comments",
-      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-14T17:43:10+00:00"
+      "published": "2026-11-15T03:05:54+00:00"
     },
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+      "summary": "Comments",
+      "url": "https://bobbiec.github.io/jamaican-font.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-15T00:56:45+00:00"
+    },
+    {
+      "title": "Where was Nvidia’s security team?",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence offic",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
       "source": "TechCrunch AI",
       "category": "AI",
-      "published": "2026-11-14T17:30:00+00:00"
-    },
-    {
-      "title": "PyPI's redesigned project pages with clearer security signals are now live",
-      "summary": "Comments",
-      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-14T15:40:52+00:00"
+      "published": "2026-11-15T00:08:07+00:00"
     }
   ],
   "ai_breakthroughs": [
