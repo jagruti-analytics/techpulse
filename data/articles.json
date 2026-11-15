@@ -1,14 +1,126 @@
 {
-  "updated_at": "2026-11-15T15:41:54.245070+00:00",
+  "updated_at": "2026-11-15T21:04:19.592003+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
     {
-      "title": "A Human Reads the Anthropic IPO Filing",
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morn",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-15T20:43:49+00:00"
+    },
+    {
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-15T20:20:57+00:00"
+    },
+    {
+      "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
       "summary": "Comments",
-      "url": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
+      "url": "https://arkanumdata.com/research/house-trades",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-15T15:18:06+00:00"
+      "published": "2026-11-15T19:46:02+00:00"
+    },
+    {
+      "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+      "summary": "Comments",
+      "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-15T19:39:46+00:00"
+    },
+    {
+      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+      "summary": "Comments",
+      "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-15T19:31:11+00:00"
+    },
+    {
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "summary": "Comments",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-15T19:26:22+00:00"
+    },
+    {
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for va",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-15T19:15:43+00:00"
+    },
+    {
+      "title": "Eclipse Mosquitto – An open source MQTT broker",
+      "summary": "Comments",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-15T18:36:40+00:00"
+    },
+    {
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "summary": "Comments",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-15T18:36:10+00:00"
+    },
+    {
+      "title": "A short explainer on how El Niño works [video]",
+      "summary": "Comments",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-15T18:23:21+00:00"
+    },
+    {
+      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "summary": "Comments",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-15T17:53:31+00:00"
+    },
+    {
+      "title": "Clice v1.0 Released: Welcome to Modern C++",
+      "summary": "Comments",
+      "url": "https://ykiko.me/en/articles/2105384023094834022/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-15T17:22:32+00:00"
+    },
+    {
+      "title": "Apple’s first smart glasses are coming together",
+      "summary": "Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June's WWDC next year. They likely ",
+      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-15T16:59:16+00:00"
+    },
+    {
+      "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+      "summary": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, c",
+      "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-15T15:42:03+00:00"
+    },
+    {
+      "title": "Emacs Is My Browser",
+      "summary": "Comments",
+      "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-15T15:21:21+00:00"
     },
     {
       "title": "All AI-generated code should be Open Source",
@@ -27,14 +139,6 @@
       "published": "2026-11-15T14:45:12+00:00"
     },
     {
-      "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
-      "summary": "Comments",
-      "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-15T14:31:52+00:00"
-    },
-    {
       "title": "The Sony Aibo was a robot revolution dressed like a dog",
       "summary": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others would be our ",
       "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
@@ -51,7 +155,7 @@
       "published": "2026-11-15T13:44:16+00:00"
     },
     {
-      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+      "title": "The MacBook Pro's OLED PWM problem",
       "summary": "Comments",
       "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
       "source": "Hacker News",
@@ -131,30 +235,6 @@
       "published": "2026-11-15T08:22:04+00:00"
     },
     {
-      "title": "Book list for streetfighting computer scientists",
-      "summary": "Comments",
-      "url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-15T07:08:50+00:00"
-    },
-    {
-      "title": "Disk encryption on NetBSD – achieving secrecy",
-      "summary": "Comments",
-      "url": "https://netbsd.org/~nia/disk-encrypt/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-15T05:29:54+00:00"
-    },
-    {
-      "title": "My favourite modern NES games",
-      "summary": "Comments",
-      "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-15T02:41:25+00:00"
-    },
-    {
       "title": "Court denies motion to dismiss DRAM price fixing case",
       "summary": "Comments",
       "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
@@ -211,22 +291,6 @@
       "published": "2026-11-14T19:05:17+00:00"
     },
     {
-      "title": "A family tree of software job titles",
-      "summary": "Comments",
-      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-14T17:45:19+00:00"
-    },
-    {
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "summary": "Comments",
-      "url": "https://www.crissyfield.de/research/lovable-en/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-14T17:43:10+00:00"
-    },
-    {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
       "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -281,14 +345,6 @@
       "source": "The Verge",
       "category": "Emerging",
       "published": "2026-11-14T14:00:00+00:00"
-    },
-    {
-      "title": "KDE: The documentary [video]",
-      "summary": "Comments",
-      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-14T13:43:28+00:00"
     },
     {
       "title": "Beware the New AI-Fueled Ransomware Boom",
@@ -355,14 +411,6 @@
       "published": "2026-11-14T07:02:42+00:00"
     },
     {
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"W",
-      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-13T23:49:11+00:00"
-    },
-    {
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
       "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
       "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
@@ -371,28 +419,12 @@
       "published": "2026-11-13T22:43:00+00:00"
     },
     {
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing ad",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-13T20:45:10+00:00"
-    },
-    {
-      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-      "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. Th",
-      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-13T20:30:00+00:00"
-    },
-    {
-      "title": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
-      "summary": "Jensen Huang likely left Nvidia more because of risky business practices than anything else, a Wall Street Journal report suggests. At the very least, those practices made him enemies internally. The company offered cloud provider",
-      "url": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-13T20:07:34+00:00"
+      "title": "Your room can be as bright as the outdoors (2019)",
+      "summary": "Comments",
+      "url": "https://www.benkuhn.net/lux/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-13T20:05:20+00:00"
     },
     {
       "title": "AI agent startup LangChain hits $3B valuation",
@@ -507,14 +539,6 @@
       "published": "2026-11-13T14:44:48+00:00"
     },
     {
-      "title": "Semicircle Packing",
-      "summary": "Comments",
-      "url": "https://rorz.io/writing/semicircle-packing",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-13T14:42:57+00:00"
-    },
-    {
       "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
       "summary": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a soc",
       "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
@@ -539,14 +563,6 @@
       "published": "2026-11-13T13:54:20+00:00"
     },
     {
-      "title": "500 Lines or Less A 3D Modeller",
-      "summary": "Comments",
-      "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-13T13:47:42+00:00"
-    },
-    {
       "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Za",
       "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
@@ -569,22 +585,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-13T12:28:23+00:00"
-    },
-    {
-      "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
-      "summary": "Comments",
-      "url": "https://www.niklasroy.com/carton-clock/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-13T12:00:18+00:00"
-    },
-    {
-      "title": "The Evolving Story of How Chemistry Became Biology",
-      "summary": "Comments",
-      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-13T11:55:19+00:00"
     },
     {
       "title": "When an AI Agent Goes Wrong, Can You Stop It?",
@@ -625,14 +625,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-13T10:26:01+00:00"
-    },
-    {
-      "title": "Strictly monotonic timestamps and gapless sequences in Rust",
-      "summary": "Comments",
-      "url": "https://tsoracle.rs/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-13T10:04:37+00:00"
     },
     {
       "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
@@ -737,14 +729,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-12T21:27:10+00:00"
-    },
-    {
-      "title": "Handwritten 200-year-old dismissal notice found on roof tile",
-      "summary": "Comments",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-12T21:27:01+00:00"
     },
     {
       "title": "Jensen Huang was having a third affair, Reuters reports",
@@ -867,14 +851,6 @@
       "published": "2026-11-12T17:50:27+00:00"
     },
     {
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-12T17:36:40+00:00"
-    },
-    {
       "title": "How H6.ai builds AI-powered financial automation with Lakebase Postgres",
       "summary": "Traditional accounts payable and invoice processing tools often force companies into a trade-off...",
       "url": "https://www.databricks.com/blog/how-h6ai-builds-ai-powered-financial-automation-lakebase-postgres",
@@ -915,6 +891,14 @@
       "published": "2026-11-12T15:15:40+00:00"
     },
     {
+      "title": "Bullet Dodged",
+      "summary": "Comments",
+      "url": "https://idiotking.org/archives/2026/10/bullet-dodged-3/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-12T15:00:11+00:00"
+    },
+    {
       "title": "Genie in Slack is now Generally Available: Governed AI cowork, right where work happens",
       "summary": "Many business questions can’t be started and answered within the same conversation. ...",
       "url": "https://www.databricks.com/blog/genie-slack-now-generally-available-governed-ai-cowork-right-where-work-happens",
@@ -929,6 +913,14 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-12T14:59:06+00:00"
+    },
+    {
+      "title": "20 Years of Pyrolog",
+      "summary": "Comments",
+      "url": "https://pypy.org/posts/2026/11/20-years-of-pyrolog.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-12T14:15:28+00:00"
     },
     {
       "title": "Apple’s HomeView Tries Face Authentication Without FaceID",
@@ -995,6 +987,14 @@
       "published": "2026-11-12T11:33:15+00:00"
     },
     {
+      "title": "Eval Awareness vs. Eval Paranoia",
+      "summary": "Comments",
+      "url": "https://www.lesswrong.com/posts/mepsi7JNKYejq9wry/eval-awareness-vs-eval-paranoia",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-12T11:23:02+00:00"
+    },
+    {
       "title": "Holiday Extras is rethinking what it can build with Codex",
       "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
       "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
@@ -1025,6 +1025,14 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-12T06:42:47+00:00"
+    },
+    {
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "summary": "Comments",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-12T05:29:24+00:00"
     },
     {
       "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
@@ -1163,6 +1171,14 @@
       "published": "2026-11-11T13:10:00+00:00"
     },
     {
+      "title": "Notes on Mathematics for Engineers (1959) [pdf]",
+      "summary": "Comments",
+      "url": "https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-11T12:25:42+00:00"
+    },
+    {
       "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
       "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, t",
       "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
@@ -1185,14 +1201,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-11T12:00:53+00:00"
-    },
-    {
-      "title": "Open-Source HF Communications for Remote Communities and Experimenters",
-      "summary": "Comments",
-      "url": "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-11T11:11:22+00:00"
     },
     {
       "title": "The Dynamo-Electric Principle: 160 Years of Powering Industry",
@@ -1281,14 +1289,6 @@
       "source": "Google DeepMind",
       "category": "AI",
       "published": "2026-11-10T16:03:47+00:00"
-    },
-    {
-      "title": "Why get an expensive Pi when I have an old phone?",
-      "summary": "Comments",
-      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-10T14:16:05+00:00"
     },
     {
       "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",

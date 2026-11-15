@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T15:41:54.245070+00:00",
+  "updated_at": "2026-11-15T21:04:19.592003+00:00",
   "trending": [
     {
       "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
@@ -10,47 +10,55 @@
       "published": "2026-11-15T10:06:06+00:00"
     },
     {
-      "title": "All AI-generated code should be Open Source",
+      "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
       "summary": "Comments",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-15T14:46:58+00:00"
+      "published": "2026-11-15T19:39:46+00:00"
     },
     {
-      "title": "The Sony Aibo was a robot revolution dressed like a dog",
-      "summary": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others would be our ",
-      "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for va",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
       "source": "The Verge",
       "category": "Emerging",
-      "published": "2026-11-15T13:57:30+00:00"
+      "published": "2026-11-15T19:15:43+00:00"
     },
     {
-      "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
-      "summary": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job postings and employment among 15- to 24-year",
-      "url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-15T10:45:58+00:00"
-    },
-    {
-      "title": "Why did some Apollo missions carry a grenade launcher?",
+      "title": "A short explainer on how El Niño works [video]",
       "summary": "Comments",
-      "url": "https://space.stackexchange.com/questions/37775",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-15T09:06:43+00:00"
+      "published": "2026-11-15T18:23:21+00:00"
     },
     {
-      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-      "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an ",
-      "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-15T08:22:04+00:00"
+      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "summary": "Comments",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-15T17:53:31+00:00"
+    },
+    {
+      "title": "Clice v1.0 Released: Welcome to Modern C++",
+      "summary": "Comments",
+      "url": "https://ykiko.me/en/articles/2105384023094834022/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-15T17:22:32+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+      "summary": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, c",
+      "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-15T15:42:03+00:00"
+    },
     {
       "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
       "summary": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job postings and employment among 15- to 24-year",
@@ -90,17 +98,17 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-14T16:42:56+00:00"
-    },
-    {
-      "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
-      "summary": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary. The researc",
-      "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-14T11:40:51+00:00"
     }
   ],
   "technology_releases": [
+    {
+      "title": "Clice v1.0 Released: Welcome to Modern C++",
+      "summary": "Comments",
+      "url": "https://ykiko.me/en/articles/2105384023094834022/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-15T17:22:32+00:00"
+    },
     {
       "title": "Introducing ChatGPT Wallet",
       "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
@@ -140,14 +148,6 @@
       "source": "Google AI",
       "category": "AI",
       "published": "2026-11-12T18:00:00+00:00"
-    },
-    {
-      "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
-      "summary": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver. The proof of concept, called SignDrop, targets a log-authentication feature adde",
-      "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-12T17:50:27+00:00"
     }
   ]
 }
