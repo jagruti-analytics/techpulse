@@ -1,56 +1,72 @@
 {
-  "updated_at": "2026-11-15T06:40:59.186927+00:00",
+  "updated_at": "2026-11-15T15:41:54.245070+00:00",
   "trending": [
     {
-      "title": "Show HN: Gawain – Require type hints on all Python variables",
-      "summary": "Comments",
-      "url": "https://github.com/matheuzgomes/gawain",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-15T04:39:25+00:00"
-    },
-    {
-      "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
-      "summary": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary. The researc",
-      "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+      "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+      "summary": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample",
+      "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
       "source": "The Decoder",
       "category": "AI",
-      "published": "2026-11-14T11:40:51+00:00"
+      "published": "2026-11-15T10:06:06+00:00"
     },
     {
-      "title": "OpenAI and Databricks: Enterprise AI on your governed data",
-      "summary": "Greg Brockman, co-founder and President of OpenAI, has a simple way to describe AI...",
-      "url": "https://www.databricks.com/blog/openai-and-databricks-enterprise-ai-your-governed-data",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-13T15:30:00+00:00"
-    },
-    {
-      "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+      "title": "All AI-generated code should be Open Source",
       "summary": "Comments",
-      "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-15T03:05:54+00:00"
+      "published": "2026-11-15T14:46:58+00:00"
     },
     {
-      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
-      "summary": "Comments",
-      "url": "https://bobbiec.github.io/jamaican-font.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-15T00:56:45+00:00"
+      "title": "The Sony Aibo was a robot revolution dressed like a dog",
+      "summary": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others would be our ",
+      "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-15T13:57:30+00:00"
     },
     {
-      "title": "Where was Nvidia’s security team?",
-      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence offic",
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "source": "TechCrunch AI",
+      "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+      "summary": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job postings and employment among 15- to 24-year",
+      "url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
+      "source": "The Decoder",
       "category": "AI",
-      "published": "2026-11-15T00:08:07+00:00"
+      "published": "2026-11-15T10:45:58+00:00"
+    },
+    {
+      "title": "Why did some Apollo missions carry a grenade launcher?",
+      "summary": "Comments",
+      "url": "https://space.stackexchange.com/questions/37775",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-15T09:06:43+00:00"
+    },
+    {
+      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+      "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an ",
+      "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-15T08:22:04+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+      "summary": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job postings and employment among 15- to 24-year",
+      "url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-15T10:45:58+00:00"
+    },
+    {
+      "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+      "summary": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample",
+      "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-15T10:06:06+00:00"
+    },
     {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
@@ -82,22 +98,6 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-14T11:40:51+00:00"
-    },
-    {
-      "title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
-      "summary": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia's RoboL",
-      "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-14T09:45:45+00:00"
-    },
-    {
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-13T22:43:00+00:00"
     }
   ],
   "technology_releases": [
