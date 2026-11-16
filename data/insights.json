@@ -1,121 +1,137 @@
 {
-  "updated_at": "2026-11-16T06:39:21.116082+00:00",
+  "updated_at": "2026-11-16T18:37:50.809178+00:00",
   "trending": [
     {
-      "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
-      "summary": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample",
-      "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-15T10:06:06+00:00"
-    },
-    {
-      "title": "Apple launches new app to study how people use AI for health",
-      "summary": "Apple's new app for a study will answer everyday medical questions",
-      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-16T01:30:00+00:00"
-    },
-    {
-      "title": "Fabric Influencers Spotlight: October 2026",
-      "summary": "The October Fabric Influencers Spotlight brings together 46 posts, videos and tutorials from Microsoft MVPs, Fabric Super Users and community contributors, many of them inspired by the announcements at FabCon Barcelona. This month",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Influencers-Spotlight-October-2026/ba-p/5420043",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-15T22:27:38+00:00"
-    },
-    {
-      "title": "A step toward defining the Standard Model on a lattice",
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-15T22:00:01+00:00"
-    },
-    {
-      "title": "Teach Genie One your workflows: The ultimate guide for skills in Genie One",
-      "summary": "Every team has “recipes” that govern how they work. The way finance puts together...",
-      "url": "https://www.databricks.com/blog/teach-genie-one-your-workflows-ultimate-guide-skills-genie-one",
+      "title": "Tabular foundation models on Databricks AI Runtime",
+      "summary": "Many of the most valuable predictive machine learning applications rely on tabular data...",
+      "url": "https://www.databricks.com/blog/tabular-foundation-models-databricks-ai-runtime",
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-16T17:00:00+00:00"
     },
     {
-      "title": "Tell HN: HN is being scraped for emails to scam",
-      "summary": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50513451",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-16T02:53:30+00:00"
+      "title": "Introducing the Databricks AI Index: The state of enterprise AI tokenomics",
+      "summary": "Developers have more AI models and coding agents to choose from than ever before....",
+      "url": "https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-16T17:00:00+00:00"
+    },
+    {
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-16T00:00:00+00:00"
+    },
+    {
+      "title": "Build a real-time next-best-offer recommender using Databricks Feature Views",
+      "summary": "Real-time personalization depends on understanding what customers want in the moment...",
+      "url": "https://www.databricks.com/blog/build-real-time-next-best-offer-recommender-using-databricks-feature-views",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-16T17:30:00+00:00"
+    },
+    {
+      "title": "Broadening access to AI for scientists",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-16T17:00:00+00:00"
+    },
+    {
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-16T17:00:00+00:00"
     }
   ],
   "ai_breakthroughs": [
     {
-      "title": "Apple launches new app to study how people use AI for health",
-      "summary": "Apple's new app for a study will answer everyday medical questions",
-      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+      "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
       "source": "TechCrunch AI",
       "category": "AI",
-      "published": "2026-11-16T01:30:00+00:00"
+      "published": "2026-11-16T17:36:43+00:00"
     },
     {
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
       "source": "TechCrunch AI",
       "category": "AI",
-      "published": "2026-11-15T23:30:00+00:00"
+      "published": "2026-11-16T17:10:00+00:00"
     },
     {
-      "title": "A step toward defining the Standard Model on a lattice",
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-16T17:02:43+00:00"
+    },
+    {
+      "title": "Broadening access to AI for scientists",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
       "source": "OpenAI",
       "category": "AI",
-      "published": "2026-11-15T22:00:01+00:00"
+      "published": "2026-11-16T17:00:00+00:00"
     },
     {
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
+      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
       "source": "TechCrunch AI",
       "category": "AI",
-      "published": "2026-11-15T21:56:35+00:00"
+      "published": "2026-11-16T17:00:00+00:00"
     },
     {
-      "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
-      "summary": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, c",
-      "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+      "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
+      "summary": "Alibaba launches Qwen4-Max, a new flagship model with 2.4 trillion parameters that activates only 71 billion per token. A hybrid architecture sharply cuts costs on long contexts. Qwen4-Max lands just behind Kimi K3.1 Pro on the Ar",
+      "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
       "source": "The Decoder",
       "category": "AI",
-      "published": "2026-11-15T15:42:03+00:00"
-    },
-    {
-      "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
-      "summary": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job postings and employment among 15- to 24-year",
-      "url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-15T10:45:58+00:00"
+      "published": "2026-11-16T16:56:04+00:00"
     }
   ],
   "technology_releases": [
     {
-      "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
-      "summary": "Comments",
-      "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-16T04:53:06+00:00"
+      "title": "Build a real-time next-best-offer recommender using Databricks Feature Views",
+      "summary": "Real-time personalization depends on understanding what customers want in the moment...",
+      "url": "https://www.databricks.com/blog/build-real-time-next-best-offer-recommender-using-databricks-feature-views",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-16T17:30:00+00:00"
     },
     {
-      "title": "Clice v1.0 Released: Welcome to Modern C++",
-      "summary": "Comments",
-      "url": "https://ykiko.me/en/articles/2105384023094834022/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-15T17:22:32+00:00"
+      "title": "Introducing the Databricks AI Index: The state of enterprise AI tokenomics",
+      "summary": "Developers have more AI models and coding agents to choose from than ever before....",
+      "url": "https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-16T17:00:00+00:00"
+    },
+    {
+      "title": "Amazon’s Zoox robotaxis are now available via Uber",
+      "summary": "Uber may be breaking up with Waymo, but it's also gaining a new robotaxi BFF: Amazon. Starting today, Uber riders in Las Vegas can be matched with Amazon-owned Zoox's purpose-built, bidirectional robotaxis. It's a first for both c",
+      "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-16T12:00:00+00:00"
+    },
+    {
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-16T00:00:00+00:00"
     },
     {
       "title": "Introducing ChatGPT Wallet",
@@ -126,28 +142,12 @@
       "published": "2026-11-13T15:00:00+00:00"
     },
     {
-      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-12T22:42:51+00:00"
-    },
-    {
       "title": "Introducing Gemini 4 Hydrogen",
       "summary": "",
       "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
       "source": "Google DeepMind",
       "category": "AI",
       "published": "2026-11-12T18:00:50+00:00"
-    },
-    {
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "2026-11-12T18:00:00+00:00"
     }
   ]
 }
