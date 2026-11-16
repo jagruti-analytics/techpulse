@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T21:04:20.177585+00:00",
+  "updated_at": "2026-11-16T06:39:21.610077+00:00",
   "method": "GitHub search: repositories created in last 21 days, sorted by total stars",
   "repositories": [
     {
@@ -7,23 +7,15 @@
       "description": "Craft Anything: understand how any software works, and craft your own.",
       "url": "https://github.com/storytold/craft-anything",
       "language": "Rust",
-      "stars": 33636,
+      "stars": 34089,
       "created_at": "2026-10-31T14:50:00Z"
-    },
-    {
-      "name": "ccch1mneyyy/dsh-Go",
-      "description": "dsh-go \u2014 DeepSeek Harness \u88c5\u8fdb\u53e3\u888b\uff1a\u624b\u673a\u672c\u673a\u8fd0\u884c\uff0c\u4e5f\u80fd\u9065\u63a7\u4f60\u7684\u7535\u8111\u3002",
-      "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "language": "Dart",
-      "stars": 23705,
-      "created_at": "2026-10-25T08:09:52Z"
     },
     {
       "name": "deepseek-ai/dsh-superagent-prototype",
       "description": "Towards a More Autonomous Agent System",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "language": "TypeScript",
-      "stars": 23284,
+      "stars": 23364,
       "created_at": "2026-10-31T09:32:46Z"
     },
     {
@@ -31,7 +23,7 @@
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "url": "https://github.com/heydamir/unslop",
       "language": "JavaScript",
-      "stars": 16671,
+      "stars": 16888,
       "created_at": "2026-10-29T15:41:21Z"
     },
     {
@@ -39,7 +31,7 @@
       "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
       "url": "https://github.com/anefzaoui/misterdownloadmanager",
       "language": "Rust",
-      "stars": 10268,
+      "stars": 10670,
       "created_at": "2026-10-29T01:25:19Z"
     },
     {
@@ -47,7 +39,7 @@
       "description": "VERY experimental Nintendo Switch 2 emulator",
       "url": "https://github.com/zortos293/Lichii",
       "language": "C++",
-      "stars": 9354,
+      "stars": 9415,
       "created_at": "2026-10-31T14:17:26Z"
     },
     {
@@ -55,7 +47,7 @@
       "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. \u9006\u5411\u4e00\u5207\u89c6\u9891\uff0c\u9010\u4e2a\u955c\u5934\u770b\u662f\u62cd\u7684\u3001AI \u751f\u6210\u7684\u8fd8\u662f\u4ee3\u7801\u505a\u7684\uff0c\u518d\u544a\u8bc9\u4f60\u600e\u4e48\u590d\u523b\uff1b\u62c6\u89e3\u7ed3\u679c\u6309 VIDEO.md \u683c\u5f0f\u8f93\u51fa\u3002",
       "url": "https://github.com/JuneYaooo/rea-video",
       "language": "Python",
-      "stars": 9125,
+      "stars": 9347,
       "created_at": "2026-10-29T16:15:01Z"
     },
     {
@@ -63,7 +55,7 @@
       "description": "Plug-in media player",
       "url": "https://github.com/Minireel/HGhub",
       "language": "Rust",
-      "stars": 8979,
+      "stars": 9175,
       "created_at": "2026-11-03T14:04:27Z"
     },
     {
@@ -71,7 +63,7 @@
       "description": "Agent skills",
       "url": "https://github.com/janestreet/agent_skills",
       "language": "Open source",
-      "stars": 8927,
+      "stars": 9160,
       "created_at": "2026-11-03T16:50:21Z"
     },
     {
@@ -79,24 +71,32 @@
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "url": "https://github.com/wangzan101/Mika",
       "language": "Kotlin",
-      "stars": 8713,
+      "stars": 8767,
       "created_at": "2026-10-29T14:34:07Z"
-    },
-    {
-      "name": "unclebob/ub-mode",
-      "description": "",
-      "url": "https://github.com/unclebob/ub-mode",
-      "language": "Open source",
-      "stars": 7997,
-      "created_at": "2026-10-25T16:04:09Z"
     },
     {
       "name": "huamidev/GestaltX",
       "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
       "url": "https://github.com/huamidev/GestaltX",
       "language": "Swift",
-      "stars": 7729,
+      "stars": 7781,
       "created_at": "2026-11-09T05:15:48Z"
+    },
+    {
+      "name": "patch-gg/pixelfx",
+      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "language": "JavaScript",
+      "stars": 7635,
+      "created_at": "2026-10-30T06:43:25Z"
+    },
+    {
+      "name": "valentderah/totk-pc-recomp",
+      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "language": "C",
+      "stars": 7424,
+      "created_at": "2026-10-29T12:32:46Z"
     }
   ]
 }

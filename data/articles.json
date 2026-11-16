@@ -1,7 +1,183 @@
 {
-  "updated_at": "2026-11-15T21:04:19.592003+00:00",
+  "updated_at": "2026-11-16T06:39:21.116082+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "Teach Genie One your workflows: The ultimate guide for skills in Genie One",
+      "summary": "Every team has “recipes” that govern how they work. The way finance puts together...",
+      "url": "https://www.databricks.com/blog/teach-genie-one-your-workflows-ultimate-guide-skills-genie-one",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-16T17:00:00+00:00"
+    },
+    {
+      "title": "How to Make Almost Anything",
+      "summary": "Comments",
+      "url": "https://pub.cba.mit.edu/863.26/site/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-16T05:50:37+00:00"
+    },
+    {
+      "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
+      "summary": "Comments",
+      "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-16T04:53:06+00:00"
+    },
+    {
+      "title": "Stop Filming in Log",
+      "summary": "Comments",
+      "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-16T04:37:03+00:00"
+    },
+    {
+      "title": "Tell HN: HN is being scraped for emails to scam",
+      "summary": "Comments",
+      "url": "https://news.ycombinator.com/item?id=50513451",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-16T02:53:30+00:00"
+    },
+    {
+      "title": "Qwen4-Max",
+      "summary": "Comments",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-16T02:14:44+00:00"
+    },
+    {
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "summary": "Comments",
+      "url": "https://iter.ca/post/ubo-uxss/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-16T02:04:48+00:00"
+    },
+    {
+      "title": "Apple launches new app to study how people use AI for health",
+      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-16T01:30:00+00:00"
+    },
+    {
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-16T01:26:56+00:00"
+    },
+    {
+      "title": "Coles hit by a cybersecurity incident",
+      "summary": "Comments",
+      "url": "https://www.colesgroup.com.au/updates/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-16T01:14:35+00:00"
+    },
+    {
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "summary": "Comments",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-16T00:21:54+00:00"
+    },
+    {
+      "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
+      "summary": "Comments",
+      "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-16T00:03:12+00:00"
+    },
+    {
+      "title": "What's Next for Nvidia?",
+      "summary": "Comments",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-15T23:55:55+00:00"
+    },
+    {
+      "title": "Mini.nvim Is Now on Tangled",
+      "summary": "Comments",
+      "url": "https://tangled.org/nvim-mini.org/mini.nvim",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-15T23:55:41+00:00"
+    },
+    {
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-15T23:30:00+00:00"
+    },
+    {
+      "title": "Preserving 30 years of Salon journalism",
+      "summary": "Comments",
+      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-15T23:00:11+00:00"
+    },
+    {
+      "title": "Fabric Influencers Spotlight: October 2026",
+      "summary": "The October Fabric Influencers Spotlight brings together 46 posts, videos and tutorials from Microsoft MVPs, Fabric Super Users and community contributors, many of them inspired by the announcements at FabCon Barcelona. This month",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Influencers-Spotlight-October-2026/ba-p/5420043",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-15T22:27:38+00:00"
+    },
+    {
+      "title": "Old Bitly links are being hijacked",
+      "summary": "Comments",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-15T22:11:43+00:00"
+    },
+    {
+      "title": "A step toward defining the Standard Model on a lattice",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-15T22:00:01+00:00"
+    },
+    {
+      "title": "Our new blog for science",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-15T22:00:00+00:00"
+    },
+    {
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-15T21:56:35+00:00"
+    },
+    {
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-15T21:05:02+00:00"
+    },
     {
       "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
       "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morn",
@@ -19,28 +195,20 @@
       "published": "2026-11-15T20:20:57+00:00"
     },
     {
-      "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
+      "title": "WebGL Flight Simulator with seed generated terrain",
       "summary": "Comments",
-      "url": "https://arkanumdata.com/research/house-trades",
+      "url": "https://baron.by.dai.studio/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-15T19:46:02+00:00"
+      "published": "2026-11-15T20:20:05+00:00"
     },
     {
-      "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+      "title": "Handwriting, as a Font",
       "summary": "Comments",
-      "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+      "url": "https://ductus.sorenblank.com",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-15T19:39:46+00:00"
-    },
-    {
-      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
-      "summary": "Comments",
-      "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-15T19:31:11+00:00"
+      "published": "2026-11-15T19:42:13+00:00"
     },
     {
       "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
@@ -83,7 +251,7 @@
       "published": "2026-11-15T18:23:21+00:00"
     },
     {
-      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "title": "Crows make decisions faster than we can",
       "summary": "Comments",
       "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
       "source": "Hacker News",
@@ -113,22 +281,6 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-15T15:42:03+00:00"
-    },
-    {
-      "title": "Emacs Is My Browser",
-      "summary": "Comments",
-      "url": "https://joshblais.com/blog/emacs-as-my-browser/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-15T15:21:21+00:00"
-    },
-    {
-      "title": "All AI-generated code should be Open Source",
-      "summary": "Comments",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-15T14:46:58+00:00"
     },
     {
       "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
@@ -171,30 +323,6 @@
       "published": "2026-11-15T13:00:00+00:00"
     },
     {
-      "title": "A NES emulator written in Odin",
-      "summary": "Comments",
-      "url": "https://lucypero.com/lucynes.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-15T12:51:47+00:00"
-    },
-    {
-      "title": "Understanding Positional Embeddings in Modern LLMs",
-      "summary": "Comments",
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-15T12:14:06+00:00"
-    },
-    {
-      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-      "summary": "Comments",
-      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-15T11:40:51+00:00"
-    },
-    {
       "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
       "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the featur",
       "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
@@ -219,28 +347,12 @@
       "published": "2026-11-15T10:06:06+00:00"
     },
     {
-      "title": "Why did some Apollo missions carry a grenade launcher?",
-      "summary": "Comments",
-      "url": "https://space.stackexchange.com/questions/37775",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-15T09:06:43+00:00"
-    },
-    {
       "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
       "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an ",
       "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-15T08:22:04+00:00"
-    },
-    {
-      "title": "Court denies motion to dismiss DRAM price fixing case",
-      "summary": "Comments",
-      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-15T01:18:36+00:00"
     },
     {
       "title": "Where was Nvidia’s security team?",
@@ -251,36 +363,12 @@
       "published": "2026-11-15T00:08:07+00:00"
     },
     {
-      "title": "The Telephone Changed the World",
-      "summary": "Comments",
-      "url": "https://lithub.com/how-the-telephone-changed-the-world/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-14T22:56:09+00:00"
-    },
-    {
-      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-      "summary": "Comments",
-      "url": "https://retrocomputing.stackexchange.com/questions/17957",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-14T22:22:49+00:00"
-    },
-    {
       "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
       "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
       "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-14T21:41:22+00:00"
-    },
-    {
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "summary": "Comments",
-      "url": "https://www.spacex.com/launches/starship-flight-15",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-14T21:22:24+00:00"
     },
     {
       "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
@@ -355,28 +443,12 @@
       "published": "2026-11-14T13:00:00+00:00"
     },
     {
-      "title": "A gadget to make your dumb house smarter",
-      "summary": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the old editions at",
-      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-14T13:00:00+00:00"
-    },
-    {
       "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) cat",
       "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-14T12:38:35+00:00"
-    },
-    {
-      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, t",
-      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-14T12:00:00+00:00"
     },
     {
       "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
@@ -419,12 +491,12 @@
       "published": "2026-11-13T22:43:00+00:00"
     },
     {
-      "title": "Your room can be as bright as the outdoors (2019)",
+      "title": "1900s How do you Wash a Kimono?",
       "summary": "Comments",
-      "url": "https://www.benkuhn.net/lux/",
+      "url": "https://www.oldphotosjapan.com/photos/877/laundry-washing-clothes-meiji-19th-century-vintage-albumen-prints",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-13T20:05:20+00:00"
+      "published": "2026-11-13T22:03:41+00:00"
     },
     {
       "title": "AI agent startup LangChain hits $3B valuation",
@@ -467,6 +539,14 @@
       "published": "2026-11-13T18:00:39+00:00"
     },
     {
+      "title": "A quest to create the perfect whiskey glass",
+      "summary": "Comments",
+      "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-13T17:37:32+00:00"
+    },
+    {
       "title": "The Microsoft Outage Is a Warning for the World",
       "summary": "Countless businesses, schools, hospitals, and governments have found out the hard way what it means to rely on a single company’s systems to get things done. And next time could be even worse.",
       "url": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/",
@@ -505,6 +585,22 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-13T15:58:00+00:00"
+    },
+    {
+      "title": "Artificial Intelligence for the Z80",
+      "summary": "Comments",
+      "url": "https://www.dfsantos.com/en/libro-ia-z80",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-13T15:50:43+00:00"
+    },
+    {
+      "title": "Do we still have to denormalize? Have your schema and search it too",
+      "summary": "Comments",
+      "url": "https://www.paradedb.com/blog/joins",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-13T15:31:50+00:00"
     },
     {
       "title": "OpenAI and Databricks: Enterprise AI on your governed data",
@@ -619,14 +715,6 @@
       "published": "2026-11-13T10:55:03+00:00"
     },
     {
-      "title": "What thousands of conversations look like inside a language model",
-      "summary": "Comments",
-      "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-13T10:26:01+00:00"
-    },
-    {
       "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
       "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of th",
       "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
@@ -667,6 +755,14 @@
       "published": "2026-11-13T08:00:00+00:00"
     },
     {
+      "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
+      "summary": "Comments",
+      "url": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-13T06:58:41+00:00"
+    },
+    {
       "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
       "summary": "N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. \"We are restricting certain N-central features and integrations,\" the co",
       "url": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
@@ -681,14 +777,6 @@
       "source": "GitHub Blog",
       "category": "Development",
       "published": "2026-11-13T00:20:16+00:00"
-    },
-    {
-      "title": "Chasing an audio artifact on power loss",
-      "summary": "Comments",
-      "url": "https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-12T23:11:25+00:00"
     },
     {
       "title": "Build once, run on any agent: A practical guide to agent skills",
@@ -763,14 +851,6 @@
       "published": "2026-11-12T20:00:00+00:00"
     },
     {
-      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-12T19:27:45+00:00"
-    },
-    {
       "title": "How Constellation is building a governed data foundation on Databricks",
       "summary": "Constellation operates the largest nuclear fleet in the United States. For them,...",
       "url": "https://www.databricks.com/blog/how-constellation-building-governed-data-foundation-databricks",
@@ -787,28 +867,12 @@
       "published": "2026-11-12T19:20:48+00:00"
     },
     {
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-12T19:11:00+00:00"
-    },
-    {
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "summary": "",
       "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-11-12T19:07:35+00:00"
-    },
-    {
-      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transiti",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-12T18:39:23+00:00"
     },
     {
       "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
@@ -891,14 +955,6 @@
       "published": "2026-11-12T15:15:40+00:00"
     },
     {
-      "title": "Bullet Dodged",
-      "summary": "Comments",
-      "url": "https://idiotking.org/archives/2026/10/bullet-dodged-3/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-12T15:00:11+00:00"
-    },
-    {
       "title": "Genie in Slack is now Generally Available: Governed AI cowork, right where work happens",
       "summary": "Many business questions can’t be started and answered within the same conversation. ...",
       "url": "https://www.databricks.com/blog/genie-slack-now-generally-available-governed-ai-cowork-right-where-work-happens",
@@ -915,12 +971,12 @@
       "published": "2026-11-12T14:59:06+00:00"
     },
     {
-      "title": "20 Years of Pyrolog",
+      "title": "Simple 8085 Computer",
       "summary": "Comments",
-      "url": "https://pypy.org/posts/2026/11/20-years-of-pyrolog.html",
+      "url": "https://www.hackster.io/mit41301/simple-8085-computer-9fe156",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-12T14:15:28+00:00"
+      "published": "2026-11-12T14:18:04+00:00"
     },
     {
       "title": "Apple’s HomeView Tries Face Authentication Without FaceID",
@@ -985,14 +1041,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-12T11:33:15+00:00"
-    },
-    {
-      "title": "Eval Awareness vs. Eval Paranoia",
-      "summary": "Comments",
-      "url": "https://www.lesswrong.com/posts/mepsi7JNKYejq9wry/eval-awareness-vs-eval-paranoia",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-12T11:23:02+00:00"
     },
     {
       "title": "Holiday Extras is rethinking what it can build with Codex",
@@ -1075,22 +1123,6 @@
       "published": "2026-11-12T00:00:00+00:00"
     },
     {
-      "title": "Air gapped, not data dark: how Bright Machines gives customers live factory dashboards without opening the plant",
-      "summary": "Bright Machines gives customers live, governed dashboards of their factory data without...",
-      "url": "https://www.databricks.com/blog/air-gapped-not-data-dark-how-bright-machines-gives-customers-live-factory-dashboards-without",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-11T23:42:00+00:00"
-    },
-    {
-      "title": "How to read codes from (many) IR remote controls with as little code as possible",
-      "summary": "Comments",
-      "url": "https://bitbanksoftware.blogspot.com/2026/11/how-to-read-codes-from-many-ir-remote.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-11T20:09:34+00:00"
-    },
-    {
       "title": "Test your applications against AWS locally with AWS Emulator",
       "summary": "AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS b",
       "url": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
@@ -1169,14 +1201,6 @@
       "source": "MIT Technology Review",
       "category": "Emerging",
       "published": "2026-11-11T13:10:00+00:00"
-    },
-    {
-      "title": "Notes on Mathematics for Engineers (1959) [pdf]",
-      "summary": "Comments",
-      "url": "https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-11T12:25:42+00:00"
     },
     {
       "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
@@ -1433,14 +1457,6 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-09T21:32:00+00:00"
-    },
-    {
-      "title": "Bring insights and action together with Fabric Apps in Org apps",
-      "summary": "Business users move from understanding what happened, to investigating why, to acting. Microsoft Fabric can bring that journey together. Fabric Apps provide purpose-built, data-driven experiences when users need more than a report",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-insights-and-action-together-with-Fabric-Apps-in-Org-apps/ba-p/5377690",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-09T19:54:16+00:00"
     },
     {
       "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
@@ -1953,22 +1969,6 @@
       "source": "GitHub Blog",
       "category": "Development",
       "published": "2026-11-03T16:00:00+00:00"
-    },
-    {
-      "title": "Accelerating engineering for the physical world",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-03T12:00:00+00:00"
-    },
-    {
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "url": "https://openai.com/index/cisco-cyber",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-03T08:00:00+00:00"
     },
     {
       "title": "CWE-bench v2: More coverage, quality, and transparency",
