@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T18:37:50.809178+00:00",
+  "updated_at": "2026-11-17T02:57:36.502225+00:00",
   "trending": [
     {
       "title": "Tabular foundation models on Databricks AI Runtime",
@@ -10,6 +10,14 @@
       "published": "2026-11-16T17:00:00+00:00"
     },
     {
+      "title": "Clean data was never enough: How IFS Copperleaf taught AI its business with Databricks Genie One",
+      "summary": "IFS Copperleaf is a leading global provider of Asset Investment Planning (AIP) software...",
+      "url": "https://www.databricks.com/blog/clean-data-was-never-enough-how-ifs-copperleaf-taught-ai-its-business-databricks-genie-one-0",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-16T18:30:56+00:00"
+    },
+    {
       "title": "Introducing the Databricks AI Index: The state of enterprise AI tokenomics",
       "summary": "Developers have more AI models and coding agents to choose from than ever before....",
       "url": "https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics",
@@ -18,42 +26,66 @@
       "published": "2026-11-16T17:00:00+00:00"
     },
     {
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-      "url": "https://openai.com/index/the-kings-trust-and-openai",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-16T00:00:00+00:00"
+      "title": "Show HN: A free interactive course on AI agent governance",
+      "summary": "Comments",
+      "url": "https://studio.sinapsdata.com.br",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-17T02:12:13+00:00"
     },
     {
-      "title": "Build a real-time next-best-offer recommender using Databricks Feature Views",
-      "summary": "Real-time personalization depends on understanding what customers want in the moment...",
-      "url": "https://www.databricks.com/blog/build-real-time-next-best-offer-recommender-using-databricks-feature-views",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-16T17:30:00+00:00"
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-16T23:32:32+00:00"
     },
     {
-      "title": "Broadening access to AI for scientists",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "source": "OpenAI",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "source": "TechCrunch AI",
       "category": "AI",
-      "published": "2026-11-16T17:00:00+00:00"
-    },
-    {
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "url": "https://openai.com/index/strengthening-online-child-safety",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-16T17:00:00+00:00"
+      "published": "2026-11-16T20:07:13+00:00"
     }
   ],
   "ai_breakthroughs": [
     {
-      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-      "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-16T23:32:32+00:00"
+    },
+    {
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-16T20:07:13+00:00"
+    },
+    {
+      "title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
+      "summary": "OpenAI physicist Nathaniel Craig used GPT-6 Astra to tackle a problem that had stumped particle physicists for over 25 years. The AI model took Craig's strategy for defining the full Standard Model on a computational lattice and t",
+      "url": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-16T19:19:56+00:00"
+    },
+    {
+      "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
+      "summary": "Moonshot AI is done chasing coding benchmarks, it says. The Beijing startup is pivoting its Kimi language models toward biology, chemistry, and pharma research, arguing that science demands smarter AI than law, finance, or code. T",
+      "url": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-16T18:52:55+00:00"
+    },
+    {
+      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
       "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
       "source": "TechCrunch AI",
       "category": "AI",
@@ -66,41 +98,17 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-16T17:10:00+00:00"
-    },
-    {
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-16T17:02:43+00:00"
-    },
-    {
-      "title": "Broadening access to AI for scientists",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-16T17:00:00+00:00"
-    },
-    {
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
-      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-16T17:00:00+00:00"
-    },
-    {
-      "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
-      "summary": "Alibaba launches Qwen4-Max, a new flagship model with 2.4 trillion parameters that activates only 71 billion per token. A hybrid architecture sharply cuts costs on long contexts. Qwen4-Max lands just behind Kimi K3.1 Pro on the Ar",
-      "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-16T16:56:04+00:00"
     }
   ],
   "technology_releases": [
+    {
+      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "summary": "Comments",
+      "url": "https://news.ycombinator.com/item?id=50522776",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-16T20:29:48+00:00"
+    },
     {
       "title": "Build a real-time next-best-offer recommender using Databricks Feature Views",
       "summary": "Real-time personalization depends on understanding what customers want in the moment...",
@@ -116,14 +124,6 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-16T17:00:00+00:00"
-    },
-    {
-      "title": "Amazon’s Zoox robotaxis are now available via Uber",
-      "summary": "Uber may be breaking up with Waymo, but it's also gaining a new robotaxi BFF: Amazon. Starting today, Uber riders in Las Vegas can be matched with Amazon-owned Zoox's purpose-built, bidirectional robotaxis. It's a first for both c",
-      "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-16T12:00:00+00:00"
     },
     {
       "title": "The King’s Trust and OpenAI launch £1m partnership",
