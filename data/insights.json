@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-17T02:57:36.502225+00:00",
+  "updated_at": "2026-11-17T13:31:46.863229+00:00",
   "trending": [
+    {
+      "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
+      "summary": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes, currently previewed in macOS 27.3 beta",
+      "url": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-17T11:07:31+00:00"
+    },
     {
       "title": "Tabular foundation models on Databricks AI Runtime",
       "summary": "Many of the most valuable predictive machine learning applications rely on tabular data...",
@@ -8,6 +16,14 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-16T17:00:00+00:00"
+    },
+    {
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijac",
+      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-17T12:25:06+00:00"
     },
     {
       "title": "Clean data was never enough: How IFS Copperleaf taught AI its business with Databricks Genie One",
@@ -26,31 +42,23 @@
       "published": "2026-11-16T17:00:00+00:00"
     },
     {
-      "title": "Show HN: A free interactive course on AI agent governance",
-      "summary": "Comments",
-      "url": "https://studio.sinapsdata.com.br",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-17T02:12:13+00:00"
-    },
-    {
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-      "source": "TechCrunch AI",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "source": "OpenAI",
       "category": "AI",
-      "published": "2026-11-16T23:32:32+00:00"
-    },
-    {
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-16T20:07:13+00:00"
+      "published": "2026-11-17T00:00:00+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-17T00:00:00+00:00"
+    },
     {
       "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
       "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
@@ -90,14 +98,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-16T17:36:43+00:00"
-    },
-    {
-      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-16T17:10:00+00:00"
     }
   ],
   "technology_releases": [

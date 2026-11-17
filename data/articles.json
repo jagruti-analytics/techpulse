@@ -1,7 +1,127 @@
 {
-  "updated_at": "2026-11-17T02:57:36.502225+00:00",
+  "updated_at": "2026-11-17T13:31:46.863229+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "Uber and Zipline’s drone delivery service takes flight in Houston",
+      "summary": "Uber Eats is officially launching drone delivery in partnership with Zipline starting Tuesday. The initial rollout begins in the Houston suburb of Spring, Texas, with Dallas next in line and dozens of additional US cities planned.",
+      "url": "https://www.theverge.com/transportation/1034794/uber-eats-zipline-drone-delivery-launch-texas-houston-dallas",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-17T13:00:00+00:00"
+    },
+    {
+      "title": "The Verge Best of 2026",
+      "summary": "Hundreds of gadgets pass across our desks each year. Some leave their mark and get a full review or make it to the top of a buying guide. It's harder than it sounds to narrow down our favorites. Instead of simply picking products ",
+      "url": "https://www.theverge.com/gadgets/1034881/the-verge-best-of-2026",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-17T13:00:00+00:00"
+    },
+    {
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijac",
+      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-17T12:25:06+00:00"
+    },
+    {
+      "title": "Regulatory Capture by Anthropic Through METR",
+      "summary": "Comments",
+      "url": "https://nitter.cf/kevinnbass/status/2099621874279817638",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-17T12:21:57+00:00"
+    },
+    {
+      "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
+      "summary": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The first security updates with the fix came out on August 17. Neither Apple",
+      "url": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-17T12:14:36+00:00"
+    },
+    {
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "summary": "Comments",
+      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-17T11:45:51+00:00"
+    },
+    {
+      "title": "My Empire of Dirt",
+      "summary": "Comments",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-17T11:39:20+00:00"
+    },
+    {
+      "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
+      "summary": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑a",
+      "url": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-17T11:20:18+00:00"
+    },
+    {
+      "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
+      "summary": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes, currently previewed in macOS 27.3 beta",
+      "url": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-17T11:07:31+00:00"
+    },
+    {
+      "title": "Understand How Satellite Links Shape IoT Device Design and Testing",
+      "summary": "How 3GPP Releases 15, 16, and 17 brought satellite access into 5G NR, NB-IoT, and eMTC. Why satellite links suit IoT devices that send small, infrequent, and delay-tolerant messages. Where non-terrestrial networks (NTN) add value,",
+      "url": "https://content.knowledgehub.wiley.com/5g-nr-ntn-design-and-test-challenges-for-satellite-connected-iot/",
+      "source": "IEEE Spectrum",
+      "category": "Emerging",
+      "published": "2026-11-17T11:00:04+00:00"
+    },
+    {
+      "title": "How the Claude Code team thinks about verification",
+      "summary": "Comments",
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-17T10:20:40+00:00"
+    },
+    {
+      "title": "Talk to your clinical data: unlocking AWS HealthLake with OpenSharing and Genie One",
+      "summary": "Many healthcare and life sciences organizations have standardized on AWS HealthLake to manage clinical data...",
+      "url": "https://www.databricks.com/blog/talk-your-clinical-data-unlocking-aws-healthlake-opensharing-and-genie-one",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-17T08:30:00+00:00"
+    },
+    {
+      "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
+      "summary": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today. Visitors to sites run by at least 178 organ",
+      "url": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-17T07:12:13+00:00"
+    },
+    {
+      "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
+      "summary": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later. Th",
+      "url": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-17T06:29:27+00:00"
+    },
+    {
+      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+      "summary": "N-able has released a new security update to address additional critical security flaws impacting N-central. Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of security pat",
+      "url": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-17T05:00:34+00:00"
+    },
     {
       "title": "If an App Asks for Full Disk Access or System and App Protection Override",
       "summary": "Comments",
@@ -11,44 +131,20 @@
       "published": "2026-11-17T02:17:04+00:00"
     },
     {
-      "title": "Mem Is Shutting Down",
+      "title": "Why 3dfx 1 cards had such a washed out color output?",
       "summary": "Comments",
-      "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-17T02:13:41+00:00"
+      "published": "2026-11-17T00:16:24+00:00"
     },
     {
-      "title": "Show HN: A free interactive course on AI agent governance",
-      "summary": "Comments",
-      "url": "https://studio.sinapsdata.com.br",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-17T02:12:13+00:00"
-    },
-    {
-      "title": "Show HN: 1.499x speedup and 28.5% dynamic energy drop on A40 via BF16 tiling",
-      "summary": "Comments",
-      "url": "https://cwtractors.com",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-17T01:31:35+00:00"
-    },
-    {
-      "title": "Running coding agents without handing them my credentials",
-      "summary": "Comments",
-      "url": "https://blog.antonio.cx/running-agents-with-lend",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-17T01:18:56+00:00"
-    },
-    {
-      "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
-      "summary": "Comments",
-      "url": "https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-17T00:23:21+00:00"
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-17T00:00:00+00:00"
     },
     {
       "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
@@ -59,14 +155,6 @@
       "published": "2026-11-16T23:32:32+00:00"
     },
     {
-      "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
-      "summary": "Comments",
-      "url": "https://github.com/0nelight/sutra-os",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-16T23:25:41+00:00"
-    },
-    {
       "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
       "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theo",
       "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
@@ -75,36 +163,12 @@
       "published": "2026-11-16T23:17:34+00:00"
     },
     {
-      "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
       "summary": "Comments",
       "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-16T23:00:34+00:00"
-    },
-    {
-      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-      "summary": "Comments",
-      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-16T22:58:20+00:00"
-    },
-    {
-      "title": "How to Break into Security, Ptacek Edition (2012)",
-      "summary": "Comments",
-      "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-16T22:19:23+00:00"
-    },
-    {
-      "title": "United Airlines experiencing a widespread system outage, airline says",
-      "summary": "Comments",
-      "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-16T22:14:38+00:00"
     },
     {
       "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
@@ -113,6 +177,14 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-16T22:03:02+00:00"
+    },
+    {
+      "title": "Spamhaus new email sender requirements in November",
+      "summary": "Comments",
+      "url": "https://www.spamhaus.org/sender-guidelines/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-16T21:47:19+00:00"
     },
     {
       "title": "The Bank Outage May Have Nothing to Do With Your Bank",
@@ -147,12 +219,12 @@
       "published": "2026-11-16T21:20:37+00:00"
     },
     {
-      "title": "My Quest to push native Three.js quality match AAA Game Engines",
+      "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
       "summary": "Comments",
-      "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-16T21:07:43+00:00"
+      "published": "2026-11-16T20:48:08+00:00"
     },
     {
       "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
@@ -185,14 +257,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-16T20:22:18+00:00"
-    },
-    {
-      "title": "Rust changed me as a developer",
-      "summary": "Comments",
-      "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-16T20:16:50+00:00"
     },
     {
       "title": "California state AG sues OpenAI over rogue agent incidents",
@@ -283,36 +347,12 @@
       "published": "2026-11-16T18:38:47+00:00"
     },
     {
-      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
-      "summary": "Comments",
-      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-16T18:31:30+00:00"
-    },
-    {
       "title": "Clean data was never enough: How IFS Copperleaf taught AI its business with Databricks Genie One",
       "summary": "IFS Copperleaf is a leading global provider of Asset Investment Planning (AIP) software...",
       "url": "https://www.databricks.com/blog/clean-data-was-never-enough-how-ifs-copperleaf-taught-ai-its-business-databricks-genie-one-0",
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-16T18:30:56+00:00"
-    },
-    {
-      "title": "Talk to your clinical data: unlocking AWS HealthLake with OpenSharing and Genie One",
-      "summary": "Many healthcare and life sciences organizations have standardized on AWS HealthLake to manage clinical data...",
-      "url": "https://www.databricks.com/blog/talk-your-clinical-data-unlocking-aws-healthlake-opensharing-and-genie-one",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-16T18:30:00+00:00"
-    },
-    {
-      "title": "15 hotel guests were injured by chlorine poisoning due to Microsoft’s global email outage",
-      "summary": "Microsoft's worldwide 365 and Outlook outage had real-world consequences after it cut off email alerts for a German hotel's pool safety system. The German outlet Westdeutscher Rundfunk (WDR) said several people were injured at a P",
-      "url": "https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-16T18:29:55+00:00"
     },
     {
       "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
@@ -337,14 +377,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-16T17:36:43+00:00"
-    },
-    {
-      "title": "Aristotle Expands into Rust",
-      "summary": "Comments",
-      "url": "https://www.harmonic.fun/news/aristotle-rust-verification/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-16T17:34:41+00:00"
     },
     {
       "title": "Build a real-time next-best-offer recommender using Databricks Feature Views",
@@ -403,14 +435,6 @@
       "published": "2026-11-16T17:00:00+00:00"
     },
     {
-      "title": "Introducing the Databricks AI Index: The state of enterprise AI tokenomics",
-      "summary": "Developers have more AI models and coding agents to choose from than ever before....",
-      "url": "https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-16T17:00:00+00:00"
-    },
-    {
       "title": "Tabular foundation models on Databricks AI Runtime",
       "summary": "Many of the most valuable predictive machine learning applications rely on tabular data...",
       "url": "https://www.databricks.com/blog/tabular-foundation-models-databricks-ai-runtime",
@@ -422,6 +446,14 @@
       "title": "Teach Genie One your workflows: The ultimate guide for skills in Genie One",
       "summary": "Every team has “recipes” that govern how they work. The way finance puts together...",
       "url": "https://www.databricks.com/blog/teach-genie-one-your-workflows-ultimate-guide-skills-genie-one",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-16T17:00:00+00:00"
+    },
+    {
+      "title": "Introducing the Databricks AI Index: The state of enterprise AI tokenomics",
+      "summary": "Developers have more AI models and coding agents to choose from than ever before....",
+      "url": "https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics",
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-16T17:00:00+00:00"
@@ -441,14 +473,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-16T16:53:39+00:00"
-    },
-    {
-      "title": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
-      "summary": "Following Jensen Huang's resignation as Nvidia's CEO last week, Trump told reporters on Monday that he's open to seeing Huang return and that he's not certain that the woman Huang reportedly had an affair with was in fact a spy. \"",
-      "url": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-16T16:39:36+00:00"
     },
     {
       "title": "Frame – 31.5\" color ePaper display",
@@ -531,6 +555,22 @@
       "published": "2026-11-16T14:00:00+00:00"
     },
     {
+      "title": "What is w2rt6byl5nf1opmc-a.com?",
+      "summary": "Comments",
+      "url": "https://jack.cab/blog/siterate",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-16T13:51:38+00:00"
+    },
+    {
+      "title": "Why sending notifications is a nightmare for engineers",
+      "summary": "Comments",
+      "url": "https://notifkit.dev/articles/why-notification-systems-are-a-nightmare",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-16T13:46:12+00:00"
+    },
+    {
       "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
       "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their ",
       "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
@@ -603,14 +643,6 @@
       "published": "2026-11-16T12:00:00+00:00"
     },
     {
-      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-      "summary": "Comments",
-      "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-16T11:39:31+00:00"
-    },
-    {
       "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
       "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to k",
       "url": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
@@ -635,6 +667,14 @@
       "published": "2026-11-16T09:32:57+00:00"
     },
     {
+      "title": "How Revolut raises ambition without lowering the bar",
+      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-16T09:30:00+00:00"
+    },
+    {
       "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
       "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
       "url": "https://openai.com/index/lvmh-media-division-partnership",
@@ -651,20 +691,20 @@
       "published": "2026-11-16T08:00:00+00:00"
     },
     {
-      "title": "Squircles",
-      "summary": "Comments",
-      "url": "https://linebender.org/wiki/curves/squircle/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-16T07:55:10+00:00"
-    },
-    {
       "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
       "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which Amazon's th",
       "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-16T07:34:21+00:00"
+    },
+    {
+      "title": "Test/verification technique effectiveness with Astra",
+      "summary": "Comments",
+      "url": "https://danluu.com/astra-testing/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-16T07:33:51+00:00"
     },
     {
       "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
@@ -675,12 +715,12 @@
       "published": "2026-11-16T06:53:34+00:00"
     },
     {
-      "title": "Large Angle Period of the Pendulum",
-      "summary": "Comments",
-      "url": "https://jslandy.com/pendulum/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-16T06:11:35+00:00"
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-16T06:00:00+00:00"
     },
     {
       "title": "Advancing computer-use agents for healthcare teams",
@@ -691,12 +731,12 @@
       "published": "2026-11-16T06:00:00+00:00"
     },
     {
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-16T06:00:00+00:00"
+      "title": "Stop Filming in Log?",
+      "summary": "Comments",
+      "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-16T04:37:03+00:00"
     },
     {
       "title": "Apple launches new app to study how people use AI for health",
@@ -705,6 +745,22 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-16T01:30:00+00:00"
+    },
+    {
+      "title": "Nimony: A New Compiler for Nim",
+      "summary": "Comments",
+      "url": "https://nimony.org/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-16T01:05:22+00:00"
+    },
+    {
+      "title": "The Fossils That Haunted Lovecraft",
+      "summary": "Comments",
+      "url": "https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-16T00:38:12+00:00"
     },
     {
       "title": "The King’s Trust and OpenAI launch £1m partnership",
@@ -737,6 +793,14 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-15T23:30:00+00:00"
+    },
+    {
+      "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+      "summary": "Comments",
+      "url": "https://visualbasic.world/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-15T23:08:30+00:00"
     },
     {
       "title": "Fabric Influencers Spotlight: October 2026",
@@ -779,12 +843,20 @@
       "published": "2026-11-15T20:20:57+00:00"
     },
     {
-      "title": "New open source C4 Diagram tool",
+      "title": "Turbo Pascal Compiler Written in Turbo Pascal",
       "summary": "Comments",
-      "url": "https://www.youtube.com/watch?v=ZCAHP50Zly8",
+      "url": "https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-15T15:55:08+00:00"
+      "published": "2026-11-15T18:40:57+00:00"
+    },
+    {
+      "title": "Japan's Hometown Tax (2018)",
+      "summary": "Comments",
+      "url": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-15T17:34:22+00:00"
     },
     {
       "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
@@ -1179,6 +1251,14 @@
       "published": "2026-11-12T17:50:27+00:00"
     },
     {
+      "title": "Rows vs. Columns: How different are they, really?",
+      "summary": "Comments",
+      "url": "https://spiraldb.com/blog/rows-vs-columns",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-12T17:04:41+00:00"
+    },
+    {
       "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
       "summary": "A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository. Quay enables anonymous access by default, and while it is enabled, the attacker ",
       "url": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
@@ -1251,68 +1331,12 @@
       "published": "2026-11-12T11:51:43+00:00"
     },
     {
-      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
-      "summary": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on purpose. The",
-      "url": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-12T11:51:31+00:00"
-    },
-    {
-      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
-      "summary": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked as CVE-2026-126325, carries a CV",
-      "url": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-12T11:33:15+00:00"
-    },
-    {
       "title": "Holiday Extras is rethinking what it can build with Codex",
       "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
       "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-12T09:30:00+00:00"
-    },
-    {
-      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
-      "summary": "A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main server while it s",
-      "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-12T09:25:00+00:00"
-    },
-    {
-      "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
-      "summary": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client pieces of its",
-      "url": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-12T08:20:37+00:00"
-    },
-    {
-      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
-      "summary": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company. The stealer is bui",
-      "url": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-12T06:42:47+00:00"
-    },
-    {
-      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
-      "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yes",
-      "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-12T05:12:26+00:00"
-    },
-    {
-      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
-      "summary": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company said there is no evidence that ",
-      "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-12T04:39:48+00:00"
     },
     {
       "title": "Supporting research on AI and children’s safety",
@@ -1787,14 +1811,6 @@
       "published": "2026-11-05T20:23:21+00:00"
     },
     {
-      "title": "Cult.fit builds operational muscle with Codex",
-      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-05T20:00:00+00:00"
-    },
-    {
       "title": "Regular expression functions in Microsoft Fabric Data Warehouse (Preview)",
       "summary": "Data warehouses routinely ingest valuable information embedded in free text, where inconsistent structure makes it difficult to query, connect, and analyze. Incoming values can also require quality checks before they reach curated",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Regular-expression-functions-in-Microsoft-Fabric-Data-Warehouse/ba-p/5382375",
@@ -1857,14 +1873,6 @@
       "source": "IEEE Spectrum",
       "category": "Emerging",
       "published": "2026-11-05T14:00:02+00:00"
-    },
-    {
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-05T09:00:00+00:00"
     },
     {
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
@@ -2337,14 +2345,6 @@
       "source": "AWS News",
       "category": "Cloud",
       "published": "2026-10-22T20:33:10+00:00"
-    },
-    {
-      "title": "Why AI Can’t Replace Engineering Teams",
-      "summary": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to ",
-      "url": "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace",
-      "source": "IEEE Spectrum",
-      "category": "Emerging",
-      "published": "2026-10-22T18:02:20+00:00"
     },
     {
       "title": "Beyond tree cover: mapping the world’s forest types",
