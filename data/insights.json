@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-17T13:31:46.863229+00:00",
+  "updated_at": "2026-11-17T23:32:28.169072+00:00",
   "trending": [
+    {
+      "title": "Bringing trusted Fabric IQ context to wherever people and agents work",
+      "summary": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. Over the past year, AI has moved from answ",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bringing-trusted-Fabric-IQ-context-to-wherever-people-and-agents/ba-p/5423049",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-17T22:18:17+00:00"
+    },
+    {
+      "title": "Fabric Data Warehouse at Ignite: Built for AI-era analytics",
+      "summary": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. Our telemetry shows that agentic analytics",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Data-Warehouse-at-Ignite-Built-for-AI-era-analytics/ba-p/5414274",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-17T18:43:07+00:00"
+    },
+    {
+      "title": "Build governed data apps with Microsoft Fabric Apps (Generally Available)",
+      "summary": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. AI has made it much faster to create an in",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-governed-data-apps-with-Microsoft-Fabric-Apps-Generally/ba-p/5423011",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-17T18:30:00+00:00"
+    },
     {
       "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
       "summary": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes, currently previewed in macOS 27.3 beta",
@@ -18,136 +42,112 @@
       "published": "2026-11-16T17:00:00+00:00"
     },
     {
-      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijac",
-      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-17T12:25:06+00:00"
-    },
-    {
-      "title": "Clean data was never enough: How IFS Copperleaf taught AI its business with Databricks Genie One",
-      "summary": "IFS Copperleaf is a leading global provider of Asset Investment Planning (AIP) software...",
-      "url": "https://www.databricks.com/blog/clean-data-was-never-enough-how-ifs-copperleaf-taught-ai-its-business-databricks-genie-one-0",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-16T18:30:56+00:00"
-    },
-    {
-      "title": "Introducing the Databricks AI Index: The state of enterprise AI tokenomics",
-      "summary": "Developers have more AI models and coding agents to choose from than ever before....",
-      "url": "https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-16T17:00:00+00:00"
-    },
-    {
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-17T00:00:00+00:00"
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "summary": "Comments",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-17T21:16:12+00:00"
     }
   ],
   "ai_breakthroughs": [
     {
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-17T00:00:00+00:00"
-    },
-    {
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "title": "Nvidia says its open-source AI strategy remains intact after Jensen Huang’s exit",
+      "summary": "Nvidia's interim CEO reaffirmed its open-source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
       "source": "TechCrunch AI",
       "category": "AI",
-      "published": "2026-11-16T23:32:32+00:00"
+      "published": "2026-11-17T23:04:35+00:00"
     },
     {
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-16T20:07:13+00:00"
-    },
-    {
-      "title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
-      "summary": "OpenAI physicist Nathaniel Craig used GPT-6 Astra to tackle a problem that had stumped particle physicists for over 25 years. The AI model took Craig's strategy for defining the full Standard Model on a computational lattice and t",
-      "url": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
+      "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
+      "summary": "OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper than their predecessors. In the independent Artificial Analysis Intelligence Index, Astra ranks second behind Claude Fable 5.2, and it is the ",
+      "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/",
       "source": "The Decoder",
       "category": "AI",
-      "published": "2026-11-16T19:19:56+00:00"
+      "published": "2026-11-17T20:30:50+00:00"
     },
     {
-      "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
-      "summary": "Moonshot AI is done chasing coding benchmarks, it says. The Beijing startup is pivoting its Kimi language models toward biology, chemistry, and pharma research, arguing that science demands smarter AI than law, finance, or code. T",
-      "url": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-16T18:52:55+00:00"
-    },
-    {
-      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-      "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
       "source": "TechCrunch AI",
       "category": "AI",
-      "published": "2026-11-16T17:36:43+00:00"
+      "published": "2026-11-17T19:32:11+00:00"
+    },
+    {
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-17T19:02:20+00:00"
+    },
+    {
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-17T18:48:23+00:00"
+    },
+    {
+      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-17T18:10:00+00:00"
     }
   ],
   "technology_releases": [
     {
-      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "title": "Fabric November 2026 Feature Summary",
+      "summary": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. ________________________ Welcome to the No",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-November-2026-Feature-Summary/ba-p/5414311",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-17T20:23:08+00:00"
+    },
+    {
+      "title": "Power BI November 2026 Feature Summary",
+      "summary": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. ________________________________ Welcome t",
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-November-2026-Feature-Summary/ba-p/5414287",
+      "source": "Microsoft Power BI",
+      "category": "Analytics",
+      "published": "2026-11-17T19:59:04+00:00"
+    },
+    {
+      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
       "summary": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50522776",
+      "url": "https://starsling.dev",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-16T20:29:48+00:00"
+      "published": "2026-11-17T19:01:43+00:00"
     },
     {
-      "title": "Build a real-time next-best-offer recommender using Databricks Feature Views",
-      "summary": "Real-time personalization depends on understanding what customers want in the moment...",
-      "url": "https://www.databricks.com/blog/build-real-time-next-best-offer-recommender-using-databricks-feature-views",
-      "source": "Databricks",
+      "title": "Phrack 73 Released",
+      "summary": "Comments",
+      "url": "https://phrack.org/issues/73/introduction_md",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-17T18:31:25+00:00"
+    },
+    {
+      "title": "Build governed data apps with Microsoft Fabric Apps (Generally Available)",
+      "summary": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. AI has made it much faster to create an in",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-governed-data-apps-with-Microsoft-Fabric-Apps-Generally/ba-p/5423011",
+      "source": "Microsoft Fabric",
       "category": "Analytics",
-      "published": "2026-11-16T17:30:00+00:00"
+      "published": "2026-11-17T18:30:00+00:00"
     },
     {
-      "title": "Introducing the Databricks AI Index: The state of enterprise AI tokenomics",
-      "summary": "Developers have more AI models and coding agents to choose from than ever before....",
-      "url": "https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-16T17:00:00+00:00"
-    },
-    {
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
       "source": "OpenAI",
       "category": "AI",
-      "published": "2026-11-16T00:00:00+00:00"
-    },
-    {
-      "title": "Introducing ChatGPT Wallet",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-13T15:00:00+00:00"
-    },
-    {
-      "title": "Introducing Gemini 4 Hydrogen",
-      "summary": "",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "source": "Google DeepMind",
-      "category": "AI",
-      "published": "2026-11-12T18:00:50+00:00"
+      "published": "2026-11-17T17:45:00+00:00"
     }
   ]
 }
