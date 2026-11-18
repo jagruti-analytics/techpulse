@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-17T23:32:28.169072+00:00",
+  "updated_at": "2026-11-18T07:37:07.663741+00:00",
   "trending": [
+    {
+      "title": "How we raised Databricks cluster rate limits by 7.5×",
+      "summary": "As part of the Compute Platform team at Databricks, we turn cloud infrastructure...",
+      "url": "https://www.databricks.com/blog/how-we-raised-databricks-cluster-rate-limits-75",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-18T02:30:31+00:00"
+    },
     {
       "title": "Bringing trusted Fabric IQ context to wherever people and agents work",
       "summary": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. Over the past year, AI has moved from answ",
@@ -26,34 +34,26 @@
       "published": "2026-11-17T18:30:00+00:00"
     },
     {
+      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+      "summary": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz. The malicious version",
+      "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-18T06:45:26+00:00"
+    },
+    {
       "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
       "summary": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes, currently previewed in macOS 27.3 beta",
       "url": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-17T11:07:31+00:00"
-    },
-    {
-      "title": "Tabular foundation models on Databricks AI Runtime",
-      "summary": "Many of the most valuable predictive machine learning applications rely on tabular data...",
-      "url": "https://www.databricks.com/blog/tabular-foundation-models-databricks-ai-runtime",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-16T17:00:00+00:00"
-    },
-    {
-      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "summary": "Comments",
-      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-17T21:16:12+00:00"
     }
   ],
   "ai_breakthroughs": [
     {
-      "title": "Nvidia says its open-source AI strategy remains intact after Jensen Huang’s exit",
-      "summary": "Nvidia's interim CEO reaffirmed its open-source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
       "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
       "source": "TechCrunch AI",
       "category": "AI",
