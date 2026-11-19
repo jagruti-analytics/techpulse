@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T13:19:40.139919+00:00",
+  "updated_at": "2026-11-19T23:05:30.264758+00:00",
   "method": "GitHub search: repositories created in last 21 days, sorted by total stars",
   "repositories": [
     {
@@ -7,7 +7,7 @@
       "description": "Craft Anything: understand how any software works, and craft your own.",
       "url": "https://github.com/storytold/craft-anything",
       "language": "Rust",
-      "stars": 37930,
+      "stars": 38419,
       "created_at": "2026-10-31T14:50:00Z"
     },
     {
@@ -15,7 +15,7 @@
       "description": "Towards a More Autonomous Agent System",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "language": "TypeScript",
-      "stars": 23932,
+      "stars": 23952,
       "created_at": "2026-10-31T09:32:46Z"
     },
     {
@@ -23,7 +23,7 @@
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "url": "https://github.com/heydamir/unslop",
       "language": "JavaScript",
-      "stars": 18506,
+      "stars": 18657,
       "created_at": "2026-10-29T15:41:21Z"
     },
     {
@@ -31,7 +31,7 @@
       "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
       "url": "https://github.com/anefzaoui/misterdownloadmanager",
       "language": "Rust",
-      "stars": 13501,
+      "stars": 13708,
       "created_at": "2026-10-29T01:25:19Z"
     },
     {
@@ -39,7 +39,7 @@
       "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
       "url": "https://github.com/libracoder/kiri",
       "language": "Rust",
-      "stars": 11064,
+      "stars": 11233,
       "created_at": "2026-11-02T16:11:30Z"
     },
     {
@@ -47,7 +47,7 @@
       "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. \u9006\u5411\u4e00\u5207\u89c6\u9891\uff0c\u9010\u4e2a\u955c\u5934\u770b\u662f\u62cd\u7684\u3001AI \u751f\u6210\u7684\u8fd8\u662f\u4ee3\u7801\u505a\u7684\uff0c\u518d\u544a\u8bc9\u4f60\u600e\u4e48\u590d\u523b\uff1b\u62c6\u89e3\u7ed3\u679c\u6309 VIDEO.md \u683c\u5f0f\u8f93\u51fa\u3002",
       "url": "https://github.com/JuneYaooo/rea-video",
       "language": "Python",
-      "stars": 10892,
+      "stars": 11041,
       "created_at": "2026-10-29T16:15:01Z"
     },
     {
@@ -55,7 +55,7 @@
       "description": "Plug-in media player",
       "url": "https://github.com/Minireel/HGhub",
       "language": "Rust",
-      "stars": 10258,
+      "stars": 10311,
       "created_at": "2026-11-03T14:04:27Z"
     },
     {
@@ -63,7 +63,7 @@
       "description": "Agent skills",
       "url": "https://github.com/janestreet/agent_skills",
       "language": "Open source",
-      "stars": 10198,
+      "stars": 10279,
       "created_at": "2026-11-03T16:50:21Z"
     },
     {
@@ -71,7 +71,7 @@
       "description": "VERY experimental Nintendo Switch 2 emulator",
       "url": "https://github.com/zortos293/Lichii",
       "language": "C++",
-      "stars": 9793,
+      "stars": 9831,
       "created_at": "2026-10-31T14:17:26Z"
     },
     {
@@ -79,7 +79,7 @@
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "url": "https://github.com/wangzan101/Mika",
       "language": "Kotlin",
-      "stars": 9141,
+      "stars": 9175,
       "created_at": "2026-10-29T14:34:07Z"
     },
     {
@@ -87,7 +87,7 @@
       "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
       "url": "https://github.com/huami1314/GestaltX",
       "language": "Swift",
-      "stars": 8484,
+      "stars": 8533,
       "created_at": "2026-11-09T05:15:48Z"
     },
     {
@@ -95,7 +95,7 @@
       "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
       "url": "https://github.com/patch-gg/pixelfx",
       "language": "JavaScript",
-      "stars": 8241,
+      "stars": 8303,
       "created_at": "2026-10-30T06:43:25Z"
     }
   ]
