@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T01:53:33.049121+00:00",
+  "updated_at": "2026-11-19T13:19:39.515570+00:00",
   "trending": [
+    {
+      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+      "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps",
+      "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-19T09:31:26+00:00"
+    },
+    {
+      "title": "Databricks Wins A-Team Award for AI in Capital Markets",
+      "summary": "Recognized for AI and governance, together.Capital markets have no shortage of AI...",
+      "url": "https://www.databricks.com/blog/databricks-wins-team-award-ai-capital-markets-0",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-19T03:54:28+00:00"
+    },
     {
       "title": "Bringing trusted Fabric IQ context to wherever people and agents work",
       "summary": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. Over the past year, AI has moved from answ",
@@ -10,12 +26,12 @@
       "published": "2026-11-18T17:59:46+00:00"
     },
     {
-      "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
-      "summary": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50549188",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-18T17:26:28+00:00"
+      "title": "Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago",
+      "summary": "Google DeepMind has released Gemini 4 Neon, its fourth model in seven weeks, which is nearly 2x faster than its sibling Carbon, outperforms it on most benchmarks and comes in at a significantly lower price. The article Google's la",
+      "url": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-19T11:18:18+00:00"
     },
     {
       "title": "Fabric Data Warehouse at Ignite: Built for AI-era analytics",
@@ -32,25 +48,25 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-18T14:03:54+00:00"
-    },
-    {
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-18T22:58:11+00:00"
-    },
-    {
-      "title": "How we raised Databricks cluster rate limits by 7.5×",
-      "summary": "As part of the Compute Platform team at Databricks, we turn cloud infrastructure...",
-      "url": "https://www.databricks.com/blog/how-we-raised-databricks-cluster-rate-limits-75",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-18T02:30:31+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "OpenAI's own researchers now say they value their AI tools more than nearly half their colleagues",
+      "summary": "OpenAI's internal use of coding agents is growing fast, with theoretical token costs now exceeding researchers' base salaries. Even though teams are reluctant to work without these tools, the models still produce a lot of \"AI slop",
+      "url": "https://the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-19T13:08:35+00:00"
+    },
+    {
+      "title": "Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago",
+      "summary": "Google DeepMind has released Gemini 4 Neon, its fourth model in seven weeks, which is nearly 2x faster than its sibling Carbon, outperforms it on most benchmarks and comes in at a significantly lower price. The article Google's la",
+      "url": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-19T11:18:18+00:00"
+    },
     {
       "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
       "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
@@ -82,22 +98,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-18T21:34:13+00:00"
-    },
-    {
-      "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
-      "summary": "Google released Gemini 4 Neon, a new frontier model built for software development, knowledge work, and science. It handles text, images, video, audio, and PDFs with a context window of one million tokens. At $3 per million input ",
-      "url": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-18T21:03:23+00:00"
-    },
-    {
-      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-      "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
-      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-18T19:56:39+00:00"
     }
   ],
   "technology_releases": [
