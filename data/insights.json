@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T23:05:29.640274+00:00",
+  "updated_at": "2026-11-20T07:24:17.459742+00:00",
   "trending": [
     {
       "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
@@ -10,20 +10,28 @@
       "published": "2026-11-19T09:31:26+00:00"
     },
     {
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-20T00:56:01+00:00"
+    },
+    {
+      "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+      "summary": "Comments",
+      "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-20T00:37:31+00:00"
+    },
+    {
       "title": "Apple is hiring engineers to build its own AI agent",
       "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which say",
       "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
       "source": "The Verge",
       "category": "Emerging",
       "published": "2026-11-19T22:31:41+00:00"
-    },
-    {
-      "title": "Databricks Wins A-Team Award for AI in Capital Markets",
-      "summary": "Recognized for AI and governance, together.Capital markets have no shortage of AI...",
-      "url": "https://www.databricks.com/blog/databricks-wins-team-award-ai-capital-markets-0",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-19T03:54:28+00:00"
     },
     {
       "title": "These tech outages are giving Y2K, AI agent style",
@@ -40,17 +48,17 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-19T21:30:00+00:00"
-    },
-    {
-      "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
-      "summary": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned task but dismissed it as an env",
-      "url": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-19T21:15:01+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-20T00:56:01+00:00"
+    },
     {
       "title": "These tech outages are giving Y2K, AI agent style",
       "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
@@ -90,14 +98,6 @@
       "source": "Google AI",
       "category": "AI",
       "published": "2026-11-19T18:00:00+00:00"
-    },
-    {
-      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them",
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-19T17:38:40+00:00"
     }
   ],
   "technology_releases": [
@@ -134,20 +134,20 @@
       "published": "2026-11-19T13:35:00+00:00"
     },
     {
-      "title": "Introducing Unity Gateway Insights",
-      "summary": "When looking to cut AI costs, teams often start with budgets or open-source models....",
-      "url": "https://www.databricks.com/blog/introducing-unity-gateway-insights",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-18T22:42:36+00:00"
+      "title": "Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing",
+      "summary": "With Genie 4, Google DeepMind is launching its most realistic world model to date for Google AI Ultra subscribers. It generates interactive 3D worlds that can be modified in real time via text input and, for the first time, includ",
+      "url": "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-18T19:26:25+00:00"
     },
     {
-      "title": "Introducing Gemini 4 Neon",
-      "summary": "",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-      "source": "Google DeepMind",
-      "category": "AI",
-      "published": "2026-11-18T21:35:43+00:00"
+      "title": "Power BI November 2026 Feature Summary",
+      "summary": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. ________________________________ Welcome t",
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-November-2026-Feature-Summary/ba-p/5414287",
+      "source": "Microsoft Power BI",
+      "category": "Analytics",
+      "published": "2026-11-18T19:12:54+00:00"
     }
   ]
 }
