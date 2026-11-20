@@ -1,22 +1,270 @@
 {
-  "updated_at": "2026-11-20T07:24:17.459742+00:00",
+  "updated_at": "2026-11-20T16:59:36.997640+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "summary": "Comments",
+      "url": "https://news.ycombinator.com/item?id=50577613",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-20T16:45:25+00:00"
+    },
+    {
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "summary": "Comments",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-20T16:29:06+00:00"
+    },
+    {
+      "title": "I'll never buy Framework hardware again",
+      "summary": "Comments",
+      "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-20T16:06:30+00:00"
+    },
+    {
+      "title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
+      "summary": "A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market. Entry-level workers and the creative industry are feeling the shift most, with more than 90% of Chinese micro-drama",
+      "url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-20T15:56:03+00:00"
+    },
+    {
+      "title": "Finite-time blow-up for the Navier–Stokes equations",
+      "summary": "Comments",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-20T15:34:31+00:00"
+    },
+    {
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "summary": "Comments",
+      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-20T15:03:31+00:00"
+    },
+    {
+      "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
+      "summary": "After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices. The article Apple joins the race for AI agents that control your devi",
+      "url": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-20T15:03:25+00:00"
+    },
+    {
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmak",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-20T14:55:44+00:00"
+    },
+    {
+      "title": "Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup",
+      "summary": "Nvidia is close to acquiring AI startup Inception for at least $500 million, according to The Information. The company is just two years old and builds language models based on diffusion processes, an alternative approach to the t",
+      "url": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-20T14:53:50+00:00"
+    },
+    {
+      "title": "Interactive Databricks Reference Architectures Across 70 Industries",
+      "summary": "Why we built itMost Databricks architecture talks used to start with the same slide: ingestion on the left...",
+      "url": "https://www.databricks.com/blog/interactive-databricks-reference-architectures-across-70-industries",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-20T14:48:28+00:00"
+    },
+    {
+      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+      "summary": "Comments",
+      "url": "https://alpo.ge/remark.pdf",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-20T14:16:21+00:00"
+    },
+    {
+      "title": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
+      "summary": "In March of this year, a flurry of emails and text messages from a half dozen reporters around the world disrupted my quiet Saturday morning. An Iranian news agency had aired a week-old video of what appeared to be a U.S.-made Tom",
+      "url": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
+      "source": "IEEE Spectrum",
+      "category": "Emerging",
+      "published": "2026-11-20T14:00:03+00:00"
+    },
+    {
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-20T14:00:00+00:00"
+    },
+    {
+      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+      "summary": "Comments",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-20T13:29:59+00:00"
+    },
+    {
+      "title": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
+      "summary": "Google is rolling out a collapsible sidebar globally on its Desktop Search homepage. In AI Mode, it lets users reopen recent AI searches, search threads, and create notebooks. Temporary threads that aren't saved to history are als",
+      "url": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-20T13:19:31+00:00"
+    },
+    {
+      "title": "The Download: inside the quest to make our minds immortal",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve o",
+      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "source": "MIT Technology Review",
+      "category": "Emerging",
+      "published": "2026-11-20T13:10:00+00:00"
+    },
+    {
+      "title": "On-premises data gateway November 2026 release",
+      "summary": "The November 2026 release of the on-premises data gateway (version 3000.342) continues our commitment to secure, reliable and accessible connectivity between on-premises data sources and Microsoft Fabric services. This release foc",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-November-2026-release/ba-p/5430005",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-20T12:45:00+00:00"
+    },
+    {
+      "title": "If you stop writing code, you also get worse at reviewing it",
+      "summary": "Comments",
+      "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-20T12:41:38+00:00"
+    },
+    {
+      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+      "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other ",
+      "url": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-20T12:20:00+00:00"
+    },
+    {
+      "title": "Fabric Data Warehouse at Ignite: Built for AI-era analytics",
+      "summary": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. Our telemetry shows that agentic analytics",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Data-Warehouse-at-Ignite-Built-for-AI-era-analytics/ba-p/5414274",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-20T12:03:43+00:00"
+    },
+    {
+      "title": "The Path to AI Autonomy in the SOC",
+      "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-ris",
+      "url": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-20T12:00:00+00:00"
+    },
+    {
+      "title": "The Making of Oxygene",
+      "summary": "Comments",
+      "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-20T10:41:10+00:00"
+    },
+    {
+      "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+      "summary": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks. \"Attackers now ",
+      "url": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-20T10:38:22+00:00"
+    },
+    {
+      "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit. The activity involv",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-20T10:32:50+00:00"
+    },
+    {
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "summary": "Comments",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-20T10:01:41+00:00"
+    },
+    {
+      "title": "Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill",
+      "summary": "Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams. The article Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill app",
+      "url": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-20T09:59:51+00:00"
+    },
+    {
+      "title": "What people are building, discovered through new domains",
+      "summary": "Comments",
+      "url": "https://startups.novumsignals.com/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-20T09:54:33+00:00"
+    },
+    {
+      "title": "UK fridges secured from hackers",
+      "summary": "Comments",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-20T09:52:20+00:00"
+    },
+    {
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "summary": "Comments",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-20T09:43:19+00:00"
+    },
+    {
+      "title": "Signal Is Serious About Protecting Your Privacy",
+      "summary": "Comments",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-20T09:42:16+00:00"
+    },
     {
       "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
       "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerabi",
       "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
       "source": "The Hacker News",
       "category": "Security",
-      "published": "2026-11-20T06:33:31+00:00"
+      "published": "2026-11-20T09:38:15+00:00"
     },
     {
-      "title": "Jujutsu Primer",
+      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
       "summary": "Comments",
-      "url": "https://ethanlowman.com/posts/jj-primer/",
+      "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-20T05:46:01+00:00"
+      "published": "2026-11-20T09:13:09+00:00"
+    },
+    {
+      "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+      "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a deliv",
+      "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-20T07:11:39+00:00"
     },
     {
       "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
@@ -27,28 +275,12 @@
       "published": "2026-11-20T05:30:01+00:00"
     },
     {
-      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
-      "summary": "Comments",
-      "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-20T05:21:02+00:00"
-    },
-    {
       "title": "FFmpeg 9.1 'Gauss'",
       "summary": "Comments",
       "url": "https://ffmpeg.org/download.html#release_9.1",
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-20T04:02:39+00:00"
-    },
-    {
-      "title": "GIMP now has UI tests",
-      "summary": "Comments",
-      "url": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-20T04:00:24+00:00"
     },
     {
       "title": "PostgreSQL 19",
@@ -75,14 +307,6 @@
       "published": "2026-11-20T02:01:09+00:00"
     },
     {
-      "title": "Vint Cerf on why TCP/IP was never patented",
-      "summary": "Comments",
-      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-20T01:06:12+00:00"
-    },
-    {
       "title": "Apple may be developing its own AI agent that runs your Mac",
       "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
       "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
@@ -99,20 +323,12 @@
       "published": "2026-11-20T00:43:50+00:00"
     },
     {
-      "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
-      "summary": "Comments",
-      "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-20T00:37:31+00:00"
-    },
-    {
-      "title": "ChatGPT for SNES",
-      "summary": "Comments",
-      "url": "https://www.bxfoundry.com/chatgpt_snes/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-20T00:25:59+00:00"
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "summary": "",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "Hugging Face",
+      "category": "AI",
+      "published": "2026-11-20T00:00:00+00:00"
     },
     {
       "title": "Apple is hiring engineers to build its own AI agent",
@@ -121,14 +337,6 @@
       "source": "The Verge",
       "category": "Emerging",
       "published": "2026-11-19T22:31:41+00:00"
-    },
-    {
-      "title": "RegExr: Temporarily Offline",
-      "summary": "Comments",
-      "url": "https://regexr.com/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-19T22:27:07+00:00"
     },
     {
       "title": "Why PostgreSQL 19 shipped late",
@@ -177,14 +385,6 @@
       "source": "The Verge",
       "category": "Emerging",
       "published": "2026-11-19T21:12:06+00:00"
-    },
-    {
-      "title": "Rebuilding my local voice assistant pipeline",
-      "summary": "Comments",
-      "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-19T20:57:14+00:00"
     },
     {
       "title": "Meta’s Muse Charm might cost $300",
@@ -275,22 +475,6 @@
       "published": "2026-11-19T18:47:58+00:00"
     },
     {
-      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "summary": "Comments",
-      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-19T18:47:16+00:00"
-    },
-    {
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "summary": "Comments",
-      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-19T18:35:17+00:00"
-    },
-    {
       "title": "Gemini on Mac can now use your computer",
       "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things l",
       "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
@@ -371,28 +555,12 @@
       "published": "2026-11-19T17:30:44+00:00"
     },
     {
-      "title": "Pancreatic cancer halted by virus injection in three patients",
-      "summary": "Comments",
-      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-19T17:25:33+00:00"
-    },
-    {
       "title": "Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears",
       "summary": "Stricter US export controls on AI chips are hitting fast. China's Moonshot AI walked away from a $150 million deal in Indonesia, while TSMC and Samsung stopped shipping to Chinese customers. A New York Times investigation found th",
       "url": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/",
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-19T17:02:41+00:00"
-    },
-    {
-      "title": "Anthropic’s Nasdaq debut",
-      "summary": "Comments",
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-19T17:02:40+00:00"
     },
     {
       "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
@@ -443,22 +611,6 @@
       "published": "2026-11-19T16:59:23+00:00"
     },
     {
-      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-      "summary": "Comments",
-      "url": "https://github.com/onlook-dev/onlook/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-19T16:34:04+00:00"
-    },
-    {
-      "title": "UK government forced to admit it issued Apple a secret encryption order",
-      "summary": "Comments",
-      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-19T16:21:03+00:00"
-    },
-    {
       "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
       "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
       "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
@@ -467,17 +619,17 @@
       "published": "2026-11-19T16:19:41+00:00"
     },
     {
-      "title": "Bulk migrate your dashboards to AI/BI with Genie Code",
-      "summary": "In our previous post, Migrate Your Dashboards to AI/BI with Genie Code, we walked...",
-      "url": "https://www.databricks.com/blog/bulk-migrate-your-dashboards-aibi-genie-code",
+      "title": "Introducing Genie Migrate for Serverless",
+      "summary": "Serverless compute in Databricks offers a simpler, faster way to run your data and...",
+      "url": "https://www.databricks.com/blog/introducing-genie-migrate-serverless",
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-19T16:00:00+00:00"
     },
     {
-      "title": "Introducing Genie Migrate for Serverless",
-      "summary": "Serverless compute in Databricks offers a simpler, faster way to run your data and...",
-      "url": "https://www.databricks.com/blog/introducing-genie-migrate-serverless",
+      "title": "Bulk migrate your dashboards to AI/BI with Genie Code",
+      "summary": "In our previous post, Migrate Your Dashboards to AI/BI with Genie Code, we walked...",
+      "url": "https://www.databricks.com/blog/bulk-migrate-your-dashboards-aibi-genie-code",
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-19T16:00:00+00:00"
@@ -489,14 +641,6 @@
       "source": "GitHub Blog",
       "category": "Development",
       "published": "2026-11-19T16:00:00+00:00"
-    },
-    {
-      "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
-      "summary": "Comments",
-      "url": "https://cornholenews.news",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-19T15:38:32+00:00"
     },
     {
       "title": "PostgreSQL 19 is available on Lakebase",
@@ -513,6 +657,14 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-19T15:18:07+00:00"
+    },
+    {
+      "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
+      "summary": "Comments",
+      "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-19T15:16:02+00:00"
     },
     {
       "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
@@ -539,6 +691,14 @@
       "published": "2026-11-19T14:33:06+00:00"
     },
     {
+      "title": "Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
+      "summary": "Comments",
+      "url": "https://github.com/bigcrimping/floppy3.5",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-19T14:29:49+00:00"
+    },
+    {
       "title": "Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector",
       "summary": "Anthropic launches the largest IPO in history, dethroning SpaceX as the previous record holder. Early investor Dustin Moskovitz is publicly distancing himself, warning that his early funding may have been an act \"that ended the wo",
       "url": "https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/",
@@ -553,22 +713,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-19T14:00:00+00:00"
-    },
-    {
-      "title": "Introducing CustomerLake Conversions: Improve advertising performance with first-party customer context",
-      "summary": "Two purchases can look identical in campaign reports and mean very different things to your business...",
-      "url": "https://www.databricks.com/blog/customerlake-conversions",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-19T13:35:00+00:00"
-    },
-    {
-      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
-      "summary": "Comments",
-      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-19T13:18:11+00:00"
     },
     {
       "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
@@ -611,22 +755,6 @@
       "published": "2026-11-19T11:52:23+00:00"
     },
     {
-      "title": "Someone reported java4shell bug in September 2026",
-      "summary": "Comments",
-      "url": "https://github.com/openjdk/jdk/pull/32781",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-19T11:47:03+00:00"
-    },
-    {
-      "title": "Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago",
-      "summary": "Google DeepMind has released Gemini 4 Neon, its fourth model in seven weeks, which is nearly 2x faster than its sibling Carbon, outperforms it on most benchmarks and comes in at a significantly lower price. The article Google's la",
-      "url": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-19T11:18:18+00:00"
-    },
-    {
       "title": "What a billion-dollar deal says about the US battery market",
       "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply si",
       "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
@@ -643,15 +771,7 @@
       "published": "2026-11-19T09:31:26+00:00"
     },
     {
-      "title": "OCR models now digitize a million pages for under $130 as costs drop fivefold in 18 months",
-      "summary": "Pulling text out of scanned books and records has gotten a lot cheaper with freely available AI models. The article OCR models now digitize a million pages for under $130 as costs drop fivefold in 18 months appeared first on The D",
-      "url": "https://the-decoder.com/ocr-models-now-digitize-a-million-pages-for-under-130-as-costs-drop-fivefold-in-18-months/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-19T09:28:01+00:00"
-    },
-    {
-      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+      "title": "Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth",
       "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on",
       "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
       "source": "The Hacker News",
@@ -763,28 +883,12 @@
       "published": "2026-11-18T22:58:11+00:00"
     },
     {
-      "title": "Anthropic prices IPO at $83 a share, above projected range",
-      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
-      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-      "source": "TechCrunch AI",
+      "title": "Introducing Gemini 4 Neon",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "source": "Google DeepMind",
       "category": "AI",
-      "published": "2026-11-18T22:11:15+00:00"
-    },
-    {
-      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-      "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
-      "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-18T21:57:40+00:00"
-    },
-    {
-      "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
-      "summary": "Google released Gemini 4 Neon, a new frontier model built for software development, knowledge work, and science. It handles text, images, video, audio, and PDFs with a context window of one million tokens. At $3 per million input ",
-      "url": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-18T21:03:23+00:00"
+      "published": "2026-11-18T21:35:43+00:00"
     },
     {
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
@@ -801,14 +905,6 @@
       "source": "AWS News",
       "category": "Cloud",
       "published": "2026-11-18T19:39:07+00:00"
-    },
-    {
-      "title": "Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing",
-      "summary": "With Genie 4, Google DeepMind is launching its most realistic world model to date for Google AI Ultra subscribers. It generates interactive 3D worlds that can be modified in real time via text input and, for the first time, includ",
-      "url": "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-18T19:26:25+00:00"
     },
     {
       "title": "Power BI November 2026 Feature Summary",
@@ -835,14 +931,6 @@
       "published": "2026-11-18T18:53:43+00:00"
     },
     {
-      "title": "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives",
-      "summary": "Microsoft's AI division MAI unveiled seven new models for code, security, images, language, and routing at Ignite. MAI Code 2 reaches 98 percent of GPT-6.1 Sol's performance at 40 percent of the cost, according to Microsoft. The m",
-      "url": "https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-18T18:47:36+00:00"
-    },
-    {
       "title": "Fabric November 2026 Feature Summary",
       "summary": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. ________________________ Welcome to the No",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-November-2026-Feature-Summary/ba-p/5414311",
@@ -867,6 +955,14 @@
       "published": "2026-11-18T18:15:39+00:00"
     },
     {
+      "title": "Genie 4 is now available",
+      "summary": "",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-11-18T18:13:42+00:00"
+    },
+    {
       "title": "Bringing trusted Fabric IQ context to wherever people and agents work",
       "summary": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. Over the past year, AI has moved from answ",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bringing-trusted-Fabric-IQ-context-to-wherever-people-and-agents/ba-p/5423049",
@@ -881,14 +977,6 @@
       "source": "IEEE Spectrum",
       "category": "Emerging",
       "published": "2026-11-18T17:33:26+00:00"
-    },
-    {
-      "title": "Fabric Data Warehouse at Ignite: Built for AI-era analytics",
-      "summary": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. Our telemetry shows that agentic analytics",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Data-Warehouse-at-Ignite-Built-for-AI-era-analytics/ba-p/5414274",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-18T17:22:22+00:00"
     },
     {
       "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
@@ -923,14 +1011,6 @@
       "published": "2026-11-18T15:00:23+00:00"
     },
     {
-      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
-      "summary": "Comments",
-      "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-18T14:56:04+00:00"
-    },
-    {
       "title": "The AI Hype Index: AI is everywhere",
       "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an A",
       "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
@@ -953,6 +1033,14 @@
       "source": "MIT Technology Review",
       "category": "Emerging",
       "published": "2026-11-18T13:10:00+00:00"
+    },
+    {
+      "title": "µ-Wire – USB on an ATtiny 10",
+      "summary": "Comments",
+      "url": "https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-18T13:02:08+00:00"
     },
     {
       "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
@@ -1067,6 +1155,14 @@
       "published": "2026-11-18T05:58:04+00:00"
     },
     {
+      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+      "summary": "Comments",
+      "url": "https://trynotched.com/find",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-18T03:40:01+00:00"
+    },
+    {
       "title": "Advancing chip design with OpenAI models",
       "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
       "url": "https://openai.com/index/advancing-chip-design-with-our-models",
@@ -1097,22 +1193,6 @@
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-11-18T00:00:00+00:00"
-    },
-    {
-      "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
-      "summary": "Comments",
-      "url": "https://notesbylex.com/weight-space-programming-1990s",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-17T22:11:46+00:00"
-    },
-    {
-      "title": "Automatic Checking of Compiler Correctness with E-Graphs",
-      "summary": "Comments",
-      "url": "https://stng.substack.com/p/automatic-checking-of-compiler-correctness",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-17T20:12:34+00:00"
     },
     {
       "title": "How to Tell If It’s a Cyberattack or Just an Outage",
@@ -1267,12 +1347,12 @@
       "published": "2026-11-17T14:00:03+00:00"
     },
     {
-      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvi",
-      "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
-      "source": "MIT Technology Review",
-      "category": "Emerging",
-      "published": "2026-11-17T13:10:00+00:00"
+      "title": "Lovable: Now you can explore any idea in parallel without touching what's live",
+      "summary": "Comments",
+      "url": "https://lovable.dev/blog/introducing-drafts",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-17T13:22:18+00:00"
     },
     {
       "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
@@ -1291,30 +1371,6 @@
       "published": "2026-11-17T12:14:36+00:00"
     },
     {
-      "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
-      "summary": "Comments",
-      "url": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-17T11:41:08+00:00"
-    },
-    {
-      "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
-      "summary": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑a",
-      "url": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-17T11:20:18+00:00"
-    },
-    {
-      "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
-      "summary": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes, currently previewed in macOS 27.3 beta",
-      "url": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-17T11:07:31+00:00"
-    },
-    {
       "title": "Understand How Satellite Links Shape IoT Device Design and Testing",
       "summary": "How 3GPP Releases 15, 16, and 17 brought satellite access into 5G NR, NB-IoT, and eMTC. Why satellite links suit IoT devices that send small, infrequent, and delay-tolerant messages. Where non-terrestrial networks (NTN) add value,",
       "url": "https://content.knowledgehub.wiley.com/5g-nr-ntn-design-and-test-challenges-for-satellite-connected-iot/",
@@ -1331,14 +1387,6 @@
       "published": "2026-11-17T08:00:00+00:00"
     },
     {
-      "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
-      "summary": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today. Visitors to sites run by at least 178 organ",
-      "url": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-17T07:12:13+00:00"
-    },
-    {
       "title": "How to CAD Almost Anything",
       "summary": "Comments",
       "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
@@ -1347,20 +1395,20 @@
       "published": "2026-11-17T06:29:57+00:00"
     },
     {
-      "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
-      "summary": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later. Th",
-      "url": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-17T06:29:27+00:00"
+      "title": "The G1 Garbage Collector",
+      "summary": "Comments",
+      "url": "https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-17T04:29:07+00:00"
     },
     {
-      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
-      "summary": "N-able has released a new security update to address additional critical security flaws impacting N-central. Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of security pat",
-      "url": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-17T05:00:34+00:00"
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "summary": "Comments",
+      "url": "https://kobi.music/research/dettato",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-17T01:03:05+00:00"
     },
     {
       "title": "Strengthening NATO and allied cyber defenses with AI",
@@ -1395,20 +1443,12 @@
       "published": "2026-11-16T21:45:45+00:00"
     },
     {
-      "title": "Frankenstein PBC – Animation, bestowed upon lifeless matter",
+      "title": "The Strongest Sokoban Solver",
       "summary": "Comments",
-      "url": "https://www.frankensteinpbc.com/",
+      "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-16T20:10:38+00:00"
-    },
-    {
-      "title": "Bit Shifting in Basic",
-      "summary": "Comments",
-      "url": "https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-16T19:04:36+00:00"
+      "published": "2026-11-16T21:04:01+00:00"
     },
     {
       "title": "AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more (November 16, 2026)",
@@ -1433,14 +1473,6 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-16T17:00:00+00:00"
-    },
-    {
-      "title": "Garage Door Spam",
-      "summary": "Comments",
-      "url": "https://blog.harrison.page/garage-door-spam/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-16T16:13:36+00:00"
     },
     {
       "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
@@ -1579,6 +1611,14 @@
       "published": "2026-11-14T13:00:00+00:00"
     },
     {
+      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
+      "summary": "Comments",
+      "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-14T09:13:24+00:00"
+    },
+    {
       "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
       "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
       "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
@@ -1699,6 +1739,14 @@
       "published": "2026-11-12T19:07:35+00:00"
     },
     {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-11-12T18:00:50+00:00"
+    },
+    {
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
       "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
       "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
@@ -1779,6 +1827,14 @@
       "published": "2026-11-11T16:00:00+00:00"
     },
     {
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-11-11T15:00:15+00:00"
+    },
+    {
       "title": "The Dynamo-Electric Principle: 160 Years of Powering Industry",
       "summary": "This article is brought to you by Innomotics . In the annals of industrial history, few innovations have demonstrated such remarkable staying power as the dynamo-electric principle. Discovered by Werner von Siemens in 1866, this g",
       "url": "https://spectrum.ieee.org/innomotics-electric-motors-drive-systems",
@@ -1835,6 +1891,14 @@
       "published": "2026-11-10T18:00:00+00:00"
     },
     {
+      "title": "Gemini 4 Carbon is now available",
+      "summary": "",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-11-10T16:03:47+00:00"
+    },
+    {
       "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
       "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
       "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
@@ -1849,6 +1913,22 @@
       "source": "Google AI",
       "category": "AI",
       "published": "2026-11-10T13:00:00+00:00"
+    },
+    {
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-11-10T12:02:28+00:00"
+    },
+    {
+      "title": "Opening the datasets behind our AI weather models",
+      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-11-10T11:13:04+00:00"
     },
     {
       "title": "Catch Electronics Shock and Drop Failures Before Hardware Is Built",
@@ -1897,6 +1977,14 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-09T21:32:00+00:00"
+    },
+    {
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-11-09T19:51:47+00:00"
     },
     {
       "title": "Announcing the retirement of R and Python visuals in Power BI",
@@ -2051,19 +2139,19 @@
       "published": "2026-11-05T19:00:02+00:00"
     },
     {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summary": "",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-11-05T17:05:16+00:00"
+    },
+    {
       "title": "Power Query Corner: Finding and connecting to data in the new experience (Preview)",
       "summary": "About this series This is the first in a six-part Power Query Corner series exploring the new Power Query experience. Each post takes a closer look at a different part of the experience, including what’s changing, why it matters, ",
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-Query-Corner-Finding-and-connecting-to-data-in-the-new/ba-p/5382053",
       "source": "Microsoft Power BI",
       "category": "Analytics",
-      "published": "2026-11-05T17:00:00+00:00"
-    },
-    {
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "source": "Google AI",
-      "category": "AI",
       "published": "2026-11-05T17:00:00+00:00"
     },
     {
@@ -2123,14 +2211,6 @@
       "published": "2026-11-04T20:03:23+00:00"
     },
     {
-      "title": "OneLake table APIs: Now with Iceberg writes, plus richer table metadata (Preview)",
-      "summary": "OneLake table APIs already let Iceberg-compatible engines discover and read tables in Microsoft Fabric. Today we're taking the next step with two additions: Iceberg REST Catalog (IRC) writes through the OneLake table endpoint, now",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/OneLake-table-APIs-Now-with-Iceberg-writes-plus-richer-table/ba-p/5391262",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-04T20:00:00+00:00"
-    },
-    {
       "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
       "summary": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
       "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
@@ -2161,6 +2241,14 @@
       "source": "IEEE Spectrum",
       "category": "Emerging",
       "published": "2026-11-03T19:00:02+00:00"
+    },
+    {
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-11-03T17:01:49+00:00"
     },
     {
       "title": "Palette: teaching a small model to build decks in your design language",
@@ -2243,6 +2331,14 @@
       "published": "2026-10-31T13:00:02+00:00"
     },
     {
+      "title": "Speeding up planning decisions with AI",
+      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-10-30T14:18:30+00:00"
+    },
+    {
       "title": "Multiphysics Modeling for Next-Generation Electromagnetic Manufacturing Technologies",
       "summary": "Advances in sensing, manufacturing, computational resources, and data-driven methods are enabling new approaches to electromagnetic sensing, non-destructive evaluation, and advanced materials processing. This webinar will demonstr",
       "url": "https://event.on24.com/wcc/r/5546816/67D0147A8B8D057FCE11A17D61A8BB0D?utm_source=IEEE",
@@ -2299,6 +2395,14 @@
       "published": "2026-10-28T18:00:02+00:00"
     },
     {
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "summary": "",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-10-28T17:00:58+00:00"
+    },
+    {
       "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
       "summary": "In the cockpit of Beta Technologies’ Alia CX300, pilot Chris Caputo steers onto Runway 33 at Patrick Leahy Burlington International Airport in Vermont. Cleared for takeoff, he releases the brakes and nudges the throttle forward. A",
       "url": "https://spectrum.ieee.org/beta-technologies-electric-aircraft",
@@ -2315,12 +2419,12 @@
       "published": "2026-10-27T17:16:52+00:00"
     },
     {
-      "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
-      "summary": "This article is brought to you by VicOne . A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information ",
-      "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
-      "source": "IEEE Spectrum",
-      "category": "Emerging",
-      "published": "2026-10-27T16:14:39+00:00"
+      "title": "Genie 4: A new generation of world simulation",
+      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-10-27T16:01:38+00:00"
     },
     {
       "title": "Microsoft & Snowflake’s Commitment to Apache Ossie",
@@ -2369,6 +2473,14 @@
       "source": "AWS News",
       "category": "Cloud",
       "published": "2026-10-22T20:33:10+00:00"
+    },
+    {
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-10-22T14:30:24+00:00"
     },
     {
       "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
@@ -2435,14 +2547,6 @@
       "published": "2026-10-19T15:34:59+00:00"
     },
     {
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "summary": "",
-      "url": "https://huggingface.co/blog/hf-torchneuron",
-      "source": "Hugging Face",
-      "category": "AI",
-      "published": "2026-10-19T00:00:00+00:00"
-    },
-    {
       "title": "Power BI October 2026 Feature Summary",
       "summary": "Last month, we shared a packed September update alongside the European Microsoft Fabric + SQL Community Conference. Even so, the Power BI team has continued delivering new capabilities, and we didn't want to wait another month to ",
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-October-2026-Feature-Summary/ba-p/5374650",
@@ -2467,6 +2571,14 @@
       "published": "2026-10-15T17:00:00+00:00"
     },
     {
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-10-15T16:08:03+00:00"
+    },
+    {
       "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel",
       "summary": "Amazon Simple Storage Service (Amazon S3), including Amazon S3 Tables and Amazon S3 Vectors, is natively available on the Vercel Marketplace and v0 by Vercel.",
       "url": "https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0/",
@@ -2475,12 +2587,36 @@
       "published": "2026-10-14T19:30:48+00:00"
     },
     {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "source": "Google AI",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "source": "Google DeepMind",
       "category": "AI",
-      "published": "2026-10-13T16:00:00+00:00"
+      "published": "2026-10-14T02:00:14+00:00"
+    },
+    {
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "summary": "",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-10-13T19:43:07+00:00"
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "summary": "",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-10-13T16:01:58+00:00"
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-10-13T16:01:52+00:00"
     },
     {
       "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
@@ -2505,6 +2641,14 @@
       "source": "Google AI",
       "category": "AI",
       "published": "2026-10-07T12:00:00+00:00"
+    },
+    {
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "summary": "",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-10-06T19:57:04+00:00"
     },
     {
       "title": "All the numbers: Amazon Prime Day 2026 powered by AWS",
@@ -2555,12 +2699,28 @@
       "published": "2026-09-30T20:03:34+00:00"
     },
     {
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "summary": "",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-09-30T20:01:45+00:00"
+    },
+    {
       "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
       "summary": "Amazon Aurora PostgreSQL now lets you directly query Apache Iceberg and Parquet data stored in your data lake alongside live operational data—no ETL pipelines required. Powered by DuckDB embedded within Aurora, this capability ena",
       "url": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/",
       "source": "AWS News",
       "category": "Cloud",
       "published": "2026-09-30T17:22:31+00:00"
+    },
+    {
+      "title": "Introducing SynthID Bio",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-09-30T15:03:07+00:00"
     },
     {
       "title": "Power BI’s next chapter: The evolution of business intelligence",
@@ -2579,12 +2739,44 @@
       "published": "2026-09-28T19:00:00+00:00"
     },
     {
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-09-24T16:20:39+00:00"
+    },
+    {
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-09-23T16:00:57+00:00"
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "summary": "",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-09-23T15:25:14+00:00"
+    },
+    {
       "title": "Manage semantic model settings in context with the default settings pane (Preview)",
       "summary": "The semantic model settings pane is becoming the default way to configure semantic models in the Power BI service. The pane opens alongside your workspace, so you can review and change settings without leaving the current page. It",
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Manage-semantic-model-settings-in-context-with-the-default/ba-p/5366792",
       "source": "Microsoft Power BI",
       "category": "Analytics",
       "published": "2026-09-17T16:00:00+00:00"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-09-15T17:05:57+00:00"
     },
     {
       "title": "Power BI Q&A retirement reminder: February 2027 timeline update",
@@ -2595,6 +2787,22 @@
       "published": "2026-09-10T16:00:00+00:00"
     },
     {
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-09-08T14:00:15+00:00"
+    },
+    {
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-09-03T15:02:08+00:00"
+    },
+    {
       "title": "Modern Power BI architecture choices for reporting on Azure Databricks: A performance benchmark for Power BI storage modes",
       "summary": "Many enterprise Power BI semantic models use Azure Databricks as a data source. When building these models, developers and architects face an early and consequential decision: which storage mode to use. Cost, security, and ease of",
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Modern-Power-BI-architecture-choices-for-reporting-on-Azure/ba-p/5364286",
@@ -2603,12 +2811,60 @@
       "published": "2026-09-03T11:30:43+00:00"
     },
     {
+      "title": "Proactive cyber defense for governments and enterprises",
+      "summary": "",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-09-02T16:24:24+00:00"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-09-02T16:18:31+00:00"
+    },
+    {
       "title": "Power BI sample reports, refreshed with modern visual defaults",
       "summary": "Microsoft has refreshed its Power BI sample reports with modern visual defaults, stronger semantic models, mobile-optimized layouts, and newer authoring features to help creators build clearer, more effective reports.",
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-sample-reports-refreshed-with-modern-visual-defaults/ba-p/5363807",
       "source": "Microsoft Power BI",
       "category": "Analytics",
       "published": "2026-09-02T16:00:00+00:00"
+    },
+    {
+      "title": "Introducing agentic video understanding with Gemini",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-09-01T17:08:51+00:00"
+    },
+    {
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "summary": "",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-08-27T16:11:32+00:00"
+    },
+    {
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "summary": "Piloting the world's first double-blind AI evaluations",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-08-27T12:59:16+00:00"
+    },
+    {
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-08-26T17:01:00+00:00"
     },
     {
       "title": "Direct Lake Calculated Columns (Preview)",
@@ -2633,6 +2889,14 @@
       "source": "Microsoft Power BI",
       "category": "Analytics",
       "published": "2026-08-21T21:06:18+00:00"
+    },
+    {
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-08-21T11:59:48+00:00"
     },
     {
       "title": "The AI Semantic Layer You Probably Already Have",

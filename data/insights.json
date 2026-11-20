@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-20T07:24:17.459742+00:00",
+  "updated_at": "2026-11-20T16:59:36.997640+00:00",
   "trending": [
+    {
+      "title": "Fabric Data Warehouse at Ignite: Built for AI-era analytics",
+      "summary": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. Our telemetry shows that agentic analytics",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Data-Warehouse-at-Ignite-Built-for-AI-era-analytics/ba-p/5414274",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-20T12:03:43+00:00"
+    },
+    {
+      "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
+      "summary": "After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices. The article Apple joins the race for AI agents that control your devi",
+      "url": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-20T15:03:25+00:00"
+    },
+    {
+      "title": "Interactive Databricks Reference Architectures Across 70 Industries",
+      "summary": "Why we built itMost Databricks architecture talks used to start with the same slide: ingestion on the left...",
+      "url": "https://www.databricks.com/blog/interactive-databricks-reference-architectures-across-70-industries",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-20T14:48:28+00:00"
+    },
+    {
+      "title": "On-premises data gateway November 2026 release",
+      "summary": "The November 2026 release of the on-premises data gateway (version 3000.342) continues our commitment to secure, reliable and accessible connectivity between on-premises data sources and Microsoft Fabric services. This release foc",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-November-2026-release/ba-p/5430005",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-20T12:45:00+00:00"
+    },
+    {
+      "title": "Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill",
+      "summary": "Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams. The article Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill app",
+      "url": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-20T09:59:51+00:00"
+    },
     {
       "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
       "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps",
@@ -8,114 +48,98 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-19T09:31:26+00:00"
-    },
-    {
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-20T00:56:01+00:00"
-    },
-    {
-      "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
-      "summary": "Comments",
-      "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-20T00:37:31+00:00"
-    },
-    {
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which say",
-      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-19T22:31:41+00:00"
-    },
-    {
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-19T21:42:31+00:00"
-    },
-    {
-      "title": "Genie ZeroOps, now in public beta: An autonomous agent that fixes data pipelines, with lessons from 80,000 customer issues",
-      "summary": "In June we introduced Genie ZeroOps, an autonomous agent that detects, investigates,...",
-      "url": "https://www.databricks.com/blog/genie-zeroops-now-public-beta-autonomous-agent-fixes-data-pipelines-lessons-80000-customer",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-19T21:30:00+00:00"
     }
   ],
   "ai_breakthroughs": [
     {
+      "title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
+      "summary": "A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market. Entry-level workers and the creative industry are feeling the shift most, with more than 90% of Chinese micro-drama",
+      "url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-20T15:56:03+00:00"
+    },
+    {
+      "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
+      "summary": "After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices. The article Apple joins the race for AI agents that control your devi",
+      "url": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-20T15:03:25+00:00"
+    },
+    {
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-20T14:00:00+00:00"
+    },
+    {
+      "title": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
+      "summary": "Google is rolling out a collapsible sidebar globally on its Desktop Search homepage. In AI Mode, it lets users reopen recent AI searches, search threads, and create notebooks. Temporary threads that aren't saved to history are als",
+      "url": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-20T13:19:31+00:00"
+    },
+    {
+      "title": "Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill",
+      "summary": "Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams. The article Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill app",
+      "url": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-20T09:59:51+00:00"
+    },
+    {
       "title": "Apple may be developing its own AI agent that runs your Mac",
       "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
       "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-20T00:56:01+00:00"
-    },
-    {
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-19T21:42:31+00:00"
-    },
-    {
-      "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
-      "summary": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned task but dismissed it as an env",
-      "url": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-19T21:15:01+00:00"
-    },
-    {
-      "title": "AI industry growth remains strong, but the pace is slowing",
-      "summary": "Token prices for AI models fell 21 percent in six weeks while usage volume hit a record high, according to the Ramp AI Index. Anthropic dominates with nearly 59 percent of token spending. Data from Ramp, Stripe and OpenRouter inde",
-      "url": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-19T19:28:19+00:00"
-    },
-    {
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-19T18:09:11+00:00"
-    },
-    {
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "2026-11-19T18:00:00+00:00"
     }
   ],
   "technology_releases": [
     {
+      "title": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
+      "summary": "Google is rolling out a collapsible sidebar globally on its Desktop Search homepage. In AI Mode, it lets users reopen recent AI searches, search threads, and create notebooks. Temporary threads that aren't saved to history are als",
+      "url": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-20T13:19:31+00:00"
+    },
+    {
+      "title": "On-premises data gateway November 2026 release",
+      "summary": "The November 2026 release of the on-premises data gateway (version 3000.342) continues our commitment to secure, reliable and accessible connectivity between on-premises data sources and Microsoft Fabric services. This release foc",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-November-2026-release/ba-p/5430005",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-20T12:45:00+00:00"
+    },
+    {
+      "title": "Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill",
+      "summary": "Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams. The article Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill app",
+      "url": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-20T09:59:51+00:00"
+    },
+    {
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "summary": "",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "Hugging Face",
+      "category": "AI",
+      "published": "2026-11-20T00:00:00+00:00"
+    },
+    {
       "title": "Introducing Tool Retrieval in the Gemini API",
       "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
       "source": "Google AI",
       "category": "AI",
       "published": "2026-11-19T18:00:00+00:00"
-    },
-    {
-      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-      "summary": "Comments",
-      "url": "https://github.com/onlook-dev/onlook/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-19T16:34:04+00:00"
     },
     {
       "title": "Introducing Genie Migrate for Serverless",
@@ -124,30 +148,6 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-19T16:00:00+00:00"
-    },
-    {
-      "title": "Introducing CustomerLake Conversions: Improve advertising performance with first-party customer context",
-      "summary": "Two purchases can look identical in campaign reports and mean very different things to your business...",
-      "url": "https://www.databricks.com/blog/customerlake-conversions",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-19T13:35:00+00:00"
-    },
-    {
-      "title": "Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing",
-      "summary": "With Genie 4, Google DeepMind is launching its most realistic world model to date for Google AI Ultra subscribers. It generates interactive 3D worlds that can be modified in real time via text input and, for the first time, includ",
-      "url": "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-18T19:26:25+00:00"
-    },
-    {
-      "title": "Power BI November 2026 Feature Summary",
-      "summary": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. ________________________________ Welcome t",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-November-2026-Feature-Summary/ba-p/5414287",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-11-18T19:12:54+00:00"
     }
   ]
 }

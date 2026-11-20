@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T07:24:17.999798+00:00",
+  "updated_at": "2026-11-20T16:59:37.863857+00:00",
   "method": "GitHub search: repositories created in last 21 days, sorted by total stars",
   "repositories": [
     {
@@ -7,7 +7,7 @@
       "description": "Craft Anything: understand how any software works, and craft your own.",
       "url": "https://github.com/storytold/craft-anything",
       "language": "Rust",
-      "stars": 38846,
+      "stars": 39309,
       "created_at": "2026-10-31T14:50:00Z"
     },
     {
@@ -15,7 +15,7 @@
       "description": "Towards a More Autonomous Agent System",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "language": "TypeScript",
-      "stars": 23993,
+      "stars": 24068,
       "created_at": "2026-10-31T09:32:46Z"
     },
     {
@@ -23,7 +23,7 @@
       "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
       "url": "https://github.com/libracoder/kiri",
       "language": "Rust",
-      "stars": 11402,
+      "stars": 11576,
       "created_at": "2026-11-02T16:11:30Z"
     },
     {
@@ -31,7 +31,7 @@
       "description": "Plug-in media player",
       "url": "https://github.com/Minireel/HGhub",
       "language": "Rust",
-      "stars": 10380,
+      "stars": 10439,
       "created_at": "2026-11-03T14:04:27Z"
     },
     {
@@ -39,7 +39,7 @@
       "description": "Agent skills",
       "url": "https://github.com/janestreet/agent_skills",
       "language": "Open source",
-      "stars": 10326,
+      "stars": 10399,
       "created_at": "2026-11-03T16:50:21Z"
     },
     {
@@ -47,7 +47,7 @@
       "description": "VERY experimental Nintendo Switch 2 emulator",
       "url": "https://github.com/zortos293/Lichii",
       "language": "C++",
-      "stars": 9852,
+      "stars": 9883,
       "created_at": "2026-10-31T14:17:26Z"
     },
     {
@@ -55,7 +55,7 @@
       "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
       "url": "https://github.com/huami1314/GestaltX",
       "language": "Swift",
-      "stars": 8585,
+      "stars": 8627,
       "created_at": "2026-11-09T05:15:48Z"
     },
     {
@@ -63,7 +63,7 @@
       "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
       "url": "https://github.com/patch-gg/pixelfx",
       "language": "JavaScript",
-      "stars": 8379,
+      "stars": 8482,
       "created_at": "2026-10-30T06:43:25Z"
     },
     {
@@ -71,32 +71,32 @@
       "description": "Cage\uff1a\u4e3a Claude \u7279\u5316\u7684\u8f7b\u91cf\u5316\u865a\u62df\u673a\uff0c\u5f7b\u5e95\u675c\u7edd\u7f51\u7edc\u6cc4\u9732\u3002\u591a\u5e73\u53f0\u9002\u914d\uff0c\u652f\u6301\u591a\u8d26\u53f7\u7ba1\u7406\u3001\u8fdc\u7a0b\u90e8\u7f72\u3001\u79fb\u52a8\u7aef\u64cd\u63a7\u3002",
       "url": "https://github.com/Lee-xeo/Claude-Cage",
       "language": "Go",
-      "stars": 6943,
+      "stars": 7063,
       "created_at": "2026-10-31T15:07:08Z"
-    },
-    {
-      "name": "KKKKhazix/agent-autoloop",
-      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
-      "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "language": "TypeScript",
-      "stars": 6070,
-      "created_at": "2026-11-03T08:02:11Z"
     },
     {
       "name": "erkamyaman/rust-anything",
       "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
       "url": "https://github.com/erkamyaman/rust-anything",
       "language": "Rust",
-      "stars": 5625,
+      "stars": 6318,
       "created_at": "2026-11-16T12:10:36Z"
     },
     {
-      "name": "deepseek-ai/chat-demo",
-      "description": "Chat Demo",
-      "url": "https://github.com/deepseek-ai/chat-demo",
+      "name": "KKKKhazix/agent-autoloop",
+      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
       "language": "TypeScript",
-      "stars": 5068,
-      "created_at": "2026-11-12T08:08:19Z"
+      "stars": 6113,
+      "created_at": "2026-11-03T08:02:11Z"
+    },
+    {
+      "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+      "language": "C++",
+      "stars": 5135,
+      "created_at": "2026-11-16T19:28:29Z"
     }
   ]
 }
