@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-21T12:43:27.172855+00:00",
+  "updated_at": "2026-11-21T21:41:08.189669+00:00",
   "trending": [
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-21T17:00:00+00:00"
+    },
     {
       "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
       "summary": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, Stanford re",
@@ -40,67 +48,67 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-20T12:03:43+00:00"
-    },
-    {
-      "title": "ClawDOS – An AI coding agent for DOS",
-      "summary": "Comments",
-      "url": "http://ricapar.net/ClawDOS/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-21T05:38:01+00:00"
     }
   ],
   "ai_breakthroughs": [
     {
-      "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
-      "summary": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, Stanford re",
-      "url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-21T11:19:49+00:00"
-    },
-    {
-      "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
-      "summary": "Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer without generating extra text. On Artificial Analysis'",
-      "url": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-21T10:33:02+00:00"
-    },
-    {
-      "title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
-      "summary": "The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting, and Anthropic lost nearly all of its gains a day after its record IP",
-      "url": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-21T10:27:44+00:00"
-    },
-    {
-      "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
-      "summary": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to carefully cu",
-      "url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-21T09:17:24+00:00"
-    },
-    {
-      "title": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
-      "summary": "OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol. In adaptive red-teaming tests, the success rate for extracting protected reasoning fell from 54 percent to ",
-      "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-20T20:31:50+00:00"
-    },
-    {
-      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
       "source": "TechCrunch AI",
       "category": "AI",
-      "published": "2026-11-20T19:53:41+00:00"
+      "published": "2026-11-21T21:37:10+00:00"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-21T17:00:00+00:00"
+    },
+    {
+      "title": "Nvidia researchers argue huge AI context windows are a dead end",
+      "summary": "Nvidia researchers argue that language models often don't need their full context windows—which are slow, expensive, and prone to errors—and propose an alternative. In tests, periodic summaries and targeted keyword search usually ",
+      "url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-21T16:23:45+00:00"
+    },
+    {
+      "title": "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
+      "summary": "A Buddhist monastery in Vermont called Maple wants to establish itself as Silicon Valley's spiritual authority while creating its own AI god. According to a New Yorker report, leader Soryu Forall's group records every breath its m",
+      "url": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-21T16:04:29+00:00"
+    },
+    {
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-21T16:00:00+00:00"
+    },
+    {
+      "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+      "summary": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding. The API is changing as well, ",
+      "url": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-21T13:32:35+00:00"
     }
   ],
   "technology_releases": [
+    {
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-21T16:00:00+00:00"
+    },
     {
       "title": "The most misunderstood graph in AI just got a major update",
       "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as ",
@@ -140,14 +148,6 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-19T16:00:00+00:00"
-    },
-    {
-      "title": "Power BI November 2026 Feature Summary",
-      "summary": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. ________________________________ Welcome t",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-November-2026-Feature-Summary/ba-p/5414287",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-11-18T19:12:54+00:00"
     }
   ]
 }
