@@ -1,7 +1,103 @@
 {
-  "updated_at": "2026-11-21T21:41:08.189669+00:00",
+  "updated_at": "2026-11-22T06:57:31.642199+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "Show HN: The Riemann Proof Handbook",
+      "summary": "Comments",
+      "url": "https://github.com/tamnd/riemann-handbook",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-22T05:46:30+00:00"
+    },
+    {
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged",
+      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-22T05:06:55+00:00"
+    },
+    {
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs",
+      "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-22T05:03:41+00:00"
+    },
+    {
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "summary": "Comments",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-22T04:04:56+00:00"
+    },
+    {
+      "title": "Together.ai: Prompt Leakage for Requests",
+      "summary": "Comments",
+      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-22T03:07:27+00:00"
+    },
+    {
+      "title": "The Most Popular Car Colors in America",
+      "summary": "Comments",
+      "url": "https://www.iseecars.com/most-popular-car-colors-study",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-22T02:47:18+00:00"
+    },
+    {
+      "title": "Data Processing Incidents on Inference Providers",
+      "summary": "Comments",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-22T02:14:14+00:00"
+    },
+    {
+      "title": "The Mythology of Conscious AI",
+      "summary": "Comments",
+      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-22T02:10:02+00:00"
+    },
+    {
+      "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+      "summary": "Comments",
+      "url": "https://github.com/ItsNotRexed/Leonida",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-22T00:57:26+00:00"
+    },
+    {
+      "title": "Sandwich Simulator",
+      "summary": "Comments",
+      "url": "https://stulle.app/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-22T00:07:59+00:00"
+    },
+    {
+      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+      "summary": "Comments",
+      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-21T22:09:58+00:00"
+    },
+    {
+      "title": "Amazon is complaining about NYC Council on shipping labels, too",
+      "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order.",
+      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-21T21:59:31+00:00"
+    },
     {
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
       "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
@@ -9,6 +105,14 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-21T21:37:10+00:00"
+    },
+    {
+      "title": "Advice for the next 100 Rust GUIs",
+      "summary": "Comments",
+      "url": "https://linebender.org/blog/next-100-guis/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-21T21:17:53+00:00"
     },
     {
       "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
@@ -27,6 +131,14 @@
       "published": "2026-11-21T21:07:42+00:00"
     },
     {
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "summary": "Comments",
+      "url": "https://www.pandex.io",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-21T20:47:41+00:00"
+    },
+    {
       "title": "The UN fails to agree on rules regulating ‘killer robots’",
       "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to",
       "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
@@ -35,7 +147,7 @@
       "published": "2026-11-21T20:03:37+00:00"
     },
     {
-      "title": "Upload2Shell · CVE-2026-125396",
+      "title": "Upload2Shell (CVE-2026-125396)",
       "summary": "Comments",
       "url": "https://pwn.ai/upload2shell",
       "source": "Hacker News",
@@ -259,7 +371,7 @@
       "published": "2026-11-21T08:49:13+00:00"
     },
     {
-      "title": "RCE in Gnupg",
+      "title": "GnuPG Security Advisory for GPGME",
       "summary": "Comments",
       "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
       "source": "Hacker News",
@@ -273,14 +385,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-20T23:18:32+00:00"
-    },
-    {
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "summary": "Comments",
-      "url": "https://ninlive.com/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-20T22:30:47+00:00"
     },
     {
       "title": "Getting the mind to steer the body to steer you",
@@ -315,14 +419,6 @@
       "published": "2026-11-20T20:31:50+00:00"
     },
     {
-      "title": "Inkling 2 Mini",
-      "summary": "Comments",
-      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-20T20:12:19+00:00"
-    },
-    {
       "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
       "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
       "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
@@ -353,22 +449,6 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-20T18:50:31+00:00"
-    },
-    {
-      "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "summary": "Comments",
-      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-20T18:33:14+00:00"
-    },
-    {
-      "title": "We promoted developers into architects without informing them",
-      "summary": "Comments",
-      "url": "https://manidoraisamy.com/developer-to-architect.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-20T18:17:51+00:00"
     },
     {
       "title": "The most misunderstood graph in AI just got a major update",
@@ -403,28 +483,12 @@
       "published": "2026-11-20T17:40:01+00:00"
     },
     {
-      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-      "summary": "Comments",
-      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-20T17:21:36+00:00"
-    },
-    {
       "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
       "summary": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside a slide-o",
       "url": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
       "source": "The Verge",
       "category": "Emerging",
       "published": "2026-11-20T17:05:52+00:00"
-    },
-    {
-      "title": "I'm quite pleased by the tech architecture of my art website",
-      "summary": "Comments",
-      "url": "https://klauria.tech/klauria-art/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-20T17:03:39+00:00"
     },
     {
       "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
@@ -443,14 +507,6 @@
       "published": "2026-11-20T15:03:31+00:00"
     },
     {
-      "title": "UN court cites military Facebook posts while finding Myanmar guilty of genocide",
-      "summary": "In its ruling that Myanmar committed state-sponsored genocide against the Rohingya people in 2016 and 2017, the United Nations' top court says that Facebook played a role in helping Myanmar's military spread hate speech against it",
-      "url": "https://www.theverge.com/policy/1038450/facebook-myanmar-genocide-un",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-20T15:02:13+00:00"
-    },
-    {
       "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
       "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmak",
       "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
@@ -467,14 +523,6 @@
       "published": "2026-11-20T14:48:28+00:00"
     },
     {
-      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "summary": "Comments",
-      "url": "https://alpo.ge/remark.pdf",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-20T14:16:21+00:00"
-    },
-    {
       "title": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
       "summary": "In March of this year, a flurry of emails and text messages from a half dozen reporters around the world disrupted my quiet Saturday morning. An Iranian news agency had aired a week-old video of what appeared to be a U.S.-made Tom",
       "url": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
@@ -489,14 +537,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-20T14:00:00+00:00"
-    },
-    {
-      "title": "Deterministic Simulation Testing Is for Everyone",
-      "summary": "Comments",
-      "url": "https://outdata.net/blog/261120",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-20T13:19:48+00:00"
     },
     {
       "title": "The Download: inside the quest to make our minds immortal",
@@ -867,6 +907,14 @@
       "published": "2026-11-19T14:33:06+00:00"
     },
     {
+      "title": "Split Radiance Cascades",
+      "summary": "Comments",
+      "url": "https://www.jacktollenaar.top/articles/split-rc.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-19T14:08:33+00:00"
+    },
+    {
       "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in A",
       "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
@@ -987,6 +1035,22 @@
       "published": "2026-11-19T00:00:00+00:00"
     },
     {
+      "title": "Pion Interceptor: WebRTC for Hackers",
+      "summary": "Comments",
+      "url": "https://pion.ly/blog/pion-interceptor-webrtc-for-hackers/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-18T22:51:11+00:00"
+    },
+    {
+      "title": "Shaping the Loops, Closing the Loops",
+      "summary": "Comments",
+      "url": "https://revyl.com/blog/pattern-engineering/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-18T22:29:04+00:00"
+    },
+    {
       "title": "Introducing Gemini 4 Neon",
       "summary": "",
       "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
@@ -1051,14 +1115,6 @@
       "published": "2026-11-18T18:31:17+00:00"
     },
     {
-      "title": "How I made a custom game engine for Satelital",
-      "summary": "Comments",
-      "url": "https://spectralorbit.com/blog/satelital_game_engine",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-18T18:23:03+00:00"
-    },
-    {
       "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
       "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual server: an ",
       "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
@@ -1113,14 +1169,6 @@
       "source": "Wired Security",
       "category": "Security",
       "published": "2026-11-18T16:35:24+00:00"
-    },
-    {
-      "title": "Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust",
-      "summary": "Comments",
-      "url": "https://contextgeneric.dev/blog/v0.8.0-release/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-18T16:17:41+00:00"
     },
     {
       "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
@@ -1211,22 +1259,6 @@
       "published": "2026-11-18T10:00:00+00:00"
     },
     {
-      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known E",
-      "url": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-18T08:24:31+00:00"
-    },
-    {
-      "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java. The flaw, tracked as CVE-2026-114938 (CVSS score: 8.1), ",
-      "url": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-18T08:24:23+00:00"
-    },
-    {
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
       "url": "https://openai.com/business/customer-stories/sumitomo-life",
@@ -1257,14 +1289,6 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-18T06:00:00+00:00"
-    },
-    {
-      "title": "Show HN: An ASCII cell aquarium for your terminal",
-      "summary": "Comments",
-      "url": "https://github.com/kborer/cells/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-18T02:18:29+00:00"
     },
     {
       "title": "Advancing chip design with OpenAI models",
@@ -1387,14 +1411,6 @@
       "published": "2026-11-17T17:52:10+00:00"
     },
     {
-      "title": "The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU",
-      "summary": "Comments",
-      "url": "https://8bitarchitect.net/machines/elektronika-bk-0010/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-17T17:46:37+00:00"
-    },
-    {
       "title": "Introducing GPT-6.2 Astra and Sol",
       "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
@@ -1417,30 +1433,6 @@
       "source": "Google AI",
       "category": "AI",
       "published": "2026-11-17T17:00:00+00:00"
-    },
-    {
-      "title": "Bolt's Scooters Are Becoming Accessibility Sensors",
-      "summary": "Comments",
-      "url": "https://geoawesome.com/bolt-scooters-accessibility-mapping-wheels4wheels/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-17T16:12:11+00:00"
-    },
-    {
-      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-      "summary": "Comments",
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-17T15:22:57+00:00"
-    },
-    {
-      "title": "Tropical Rainforests Species may be surprisingly young",
-      "summary": "Comments",
-      "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-17T15:08:54+00:00"
     },
     {
       "title": "AI Is Giving Optical Computing Another Shot",
@@ -1681,6 +1673,14 @@
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-11-13T18:00:39+00:00"
+    },
+    {
+      "title": "Show HN: Compile the same source for GPUs and CPUs",
+      "summary": "Comments",
+      "url": "https://github.com/ThrudTheBarbarian/xc",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-13T17:53:42+00:00"
     },
     {
       "title": "The Microsoft Outage Is a Warning for the World",
