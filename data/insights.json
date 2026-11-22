@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-22T06:57:31.642199+00:00",
+  "updated_at": "2026-11-22T16:20:17.429085+00:00",
   "trending": [
+    {
+      "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+      "summary": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and reliably close open tickets in a messy",
+      "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-22T15:15:48+00:00"
+    },
+    {
+      "title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+      "summary": "Security researchers at Dragos used two million fake AI requests to uncover serious vulnerabilities in the AI supply chain, finding at least three compromised providers, hundreds of stolen AWS keys, and marketplace resellers who w",
+      "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-22T12:07:56+00:00"
+    },
+    {
+      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+      "summary": "Comments",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-22T09:57:01+00:00"
+    },
     {
       "title": "Pandex – Official European Law for AI Agents, over MCP",
       "summary": "Comments",
@@ -10,47 +34,55 @@
       "published": "2026-11-21T20:47:41+00:00"
     },
     {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-21T17:00:00+00:00"
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "summary": "Comments",
+      "url": "https://github.com/gulivan/worker755",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-22T13:56:58+00:00"
     },
     {
-      "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
-      "summary": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, Stanford re",
-      "url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+      "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
+      "summary": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure. Current data can't rule out a dangerous acceleration in AI development, the organization warn",
+      "url": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
       "source": "The Decoder",
       "category": "AI",
-      "published": "2026-11-21T11:19:49+00:00"
-    },
-    {
-      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
-      "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged",
-      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-22T05:06:55+00:00"
-    },
-    {
-      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
-      "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this we",
-      "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-21T11:03:17+00:00"
-    },
-    {
-      "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
-      "summary": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to carefully cu",
-      "url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-21T09:17:24+00:00"
+      "published": "2026-11-22T13:00:43+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+      "summary": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and reliably close open tickets in a messy",
+      "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-22T15:15:48+00:00"
+    },
+    {
+      "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
+      "summary": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure. Current data can't rule out a dangerous acceleration in AI development, the organization warn",
+      "url": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-22T13:00:43+00:00"
+    },
+    {
+      "title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+      "summary": "Security researchers at Dragos used two million fake AI requests to uncover serious vulnerabilities in the AI supply chain, finding at least three compromised providers, hundreds of stolen AWS keys, and marketplace resellers who w",
+      "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-22T12:07:56+00:00"
+    },
+    {
+      "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+      "summary": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score well ahead on transparency. The article GPT-6.2 As",
+      "url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-22T09:41:37+00:00"
+    },
     {
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
       "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
@@ -66,48 +98,16 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-21T17:00:00+00:00"
-    },
-    {
-      "title": "Nvidia researchers argue huge AI context windows are a dead end",
-      "summary": "Nvidia researchers argue that language models often don't need their full context windows—which are slow, expensive, and prone to errors—and propose an alternative. In tests, periodic summaries and targeted keyword search usually ",
-      "url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-21T16:23:45+00:00"
-    },
-    {
-      "title": "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
-      "summary": "A Buddhist monastery in Vermont called Maple wants to establish itself as Silicon Valley's spiritual authority while creating its own AI god. According to a New Yorker report, leader Soryu Forall's group records every breath its m",
-      "url": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-21T16:04:29+00:00"
-    },
-    {
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-21T16:00:00+00:00"
-    },
-    {
-      "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
-      "summary": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding. The API is changing as well, ",
-      "url": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-21T13:32:35+00:00"
     }
   ],
   "technology_releases": [
     {
-      "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+      "title": "Backblaze customers worried of personal data sale/sharing after policy update",
       "summary": "Comments",
-      "url": "https://github.com/ItsNotRexed/Leonida",
+      "url": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-22T00:57:26+00:00"
+      "published": "2026-11-22T15:16:02+00:00"
     },
     {
       "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",

@@ -1,14 +1,166 @@
 {
-  "updated_at": "2026-11-22T06:57:31.642199+00:00",
+  "updated_at": "2026-11-22T16:20:17.429085+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
     {
-      "title": "Show HN: The Riemann Proof Handbook",
+      "title": "Norway to extend proposed under-16 social media ban to games and messaging apps",
       "summary": "Comments",
-      "url": "https://github.com/tamnd/riemann-handbook",
+      "url": "https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-22T05:46:30+00:00"
+      "published": "2026-11-22T15:54:24+00:00"
+    },
+    {
+      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+      "summary": "Comments",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-22T15:42:40+00:00"
+    },
+    {
+      "title": "Open Social Web Alliance",
+      "summary": "Comments",
+      "url": "https://osw-alliance.net/en/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-22T15:24:32+00:00"
+    },
+    {
+      "title": "Backblaze customers worried of personal data sale/sharing after policy update",
+      "summary": "Comments",
+      "url": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-22T15:16:02+00:00"
+    },
+    {
+      "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+      "summary": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and reliably close open tickets in a messy",
+      "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-22T15:15:48+00:00"
+    },
+    {
+      "title": "Protesters storm Meta offices in India",
+      "summary": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore acc",
+      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-22T15:15:07+00:00"
+    },
+    {
+      "title": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+      "summary": "Perplexity is launching a Monitor API that searches the web on a schedule and alerts agents via webhook only when relevant changes occur. Its own decision model filters out unimportant results. For Perplexity, the API is part of a",
+      "url": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-22T14:20:28+00:00"
+    },
+    {
+      "title": "‘The show is starting soon. Please turn on your headphones.’",
+      "summary": "Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand each person a black drawstring ba",
+      "url": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-22T14:00:00+00:00"
+    },
+    {
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "summary": "Comments",
+      "url": "https://github.com/gulivan/worker755",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-22T13:56:58+00:00"
+    },
+    {
+      "title": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels",
+      "summary": "Comments",
+      "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-22T13:37:10+00:00"
+    },
+    {
+      "title": "How Tamagotchis got us hooked on digital pets",
+      "summary": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensation, as millions of kids signe",
+      "url": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-22T13:15:27+00:00"
+    },
+    {
+      "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
+      "summary": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure. Current data can't rule out a dangerous acceleration in AI development, the organization warn",
+      "url": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-22T13:00:43+00:00"
+    },
+    {
+      "title": "Your questions about Apple HomeView’s audio, answered",
+      "summary": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capabilities and support for third",
+      "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-22T13:00:00+00:00"
+    },
+    {
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-22T13:00:00+00:00"
+    },
+    {
+      "title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+      "summary": "Security researchers at Dragos used two million fake AI requests to uncover serious vulnerabilities in the AI supply chain, finding at least three compromised providers, hundreds of stolen AWS keys, and marketplace resellers who w",
+      "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-22T12:07:56+00:00"
+    },
+    {
+      "title": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
+      "summary": "The Lean and Mathlib community has officially confirmed Levent Alpöge's proof of the Riemann hypothesis as correct. Dozens of independent verifiers checked the 17 million lines of computer code. The solution arrived years earlier ",
+      "url": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-22T11:08:31+00:00"
+    },
+    {
+      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+      "summary": "Comments",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-22T09:57:01+00:00"
+    },
+    {
+      "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+      "summary": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score well ahead on transparency. The article GPT-6.2 As",
+      "url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-22T09:41:37+00:00"
+    },
+    {
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "summary": "Comments",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-22T08:57:34+00:00"
+    },
+    {
+      "title": "Notes on the discrete Fourier transform (DFT)",
+      "summary": "Comments",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-22T06:52:25+00:00"
     },
     {
       "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
@@ -27,28 +179,20 @@
       "published": "2026-11-22T05:03:41+00:00"
     },
     {
+      "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+      "summary": "Comments",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-22T04:10:09+00:00"
+    },
+    {
       "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
       "summary": "Comments",
       "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-22T04:04:56+00:00"
-    },
-    {
-      "title": "Together.ai: Prompt Leakage for Requests",
-      "summary": "Comments",
-      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-22T03:07:27+00:00"
-    },
-    {
-      "title": "The Most Popular Car Colors in America",
-      "summary": "Comments",
-      "url": "https://www.iseecars.com/most-popular-car-colors-study",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-22T02:47:18+00:00"
     },
     {
       "title": "Data Processing Incidents on Inference Providers",
@@ -67,20 +211,20 @@
       "published": "2026-11-22T02:10:02+00:00"
     },
     {
-      "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
-      "summary": "Comments",
-      "url": "https://github.com/ItsNotRexed/Leonida",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-22T00:57:26+00:00"
-    },
-    {
       "title": "Sandwich Simulator",
       "summary": "Comments",
       "url": "https://stulle.app/",
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-22T00:07:59+00:00"
+    },
+    {
+      "title": "A Better Vocabulary for Testing",
+      "summary": "Comments",
+      "url": "https://alperenkeles.com/posts/vocab-for-testing/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-21T22:15:39+00:00"
     },
     {
       "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
@@ -115,14 +259,6 @@
       "published": "2026-11-21T21:17:53+00:00"
     },
     {
-      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-      "summary": "Comments",
-      "url": "https://tasklet.ai/careers",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-21T21:11:08+00:00"
-    },
-    {
       "title": "A tale of two Nvidias",
       "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
       "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
@@ -147,14 +283,6 @@
       "published": "2026-11-21T20:03:37+00:00"
     },
     {
-      "title": "Upload2Shell (CVE-2026-125396)",
-      "summary": "Comments",
-      "url": "https://pwn.ai/upload2shell",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-21T18:29:29+00:00"
-    },
-    {
       "title": "Inkling-2-Mini in 5.4 GB Memory",
       "summary": "Comments",
       "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
@@ -169,14 +297,6 @@
       "source": "The Verge",
       "category": "Emerging",
       "published": "2026-11-21T17:42:27+00:00"
-    },
-    {
-      "title": "PostgreSQL Extensions in Go",
-      "summary": "Comments",
-      "url": "https://jespino.github.io/gopgext/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-21T17:08:04+00:00"
     },
     {
       "title": "Here are the top AI agents that can live in your text messages",
@@ -209,22 +329,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-21T16:00:00+00:00"
-    },
-    {
-      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
-      "summary": "Comments",
-      "url": "https://math.mit.edu/~drew/grh/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-21T15:54:34+00:00"
-    },
-    {
-      "title": "Show HN: Zero C# – C# without a runtime or GC",
-      "summary": "Comments",
-      "url": "https://onurgumus.github.io/zero-csharp/index.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-21T15:39:09+00:00"
     },
     {
       "title": "Can Anthropic afford to put safety first?",
@@ -275,22 +379,6 @@
       "published": "2026-11-21T13:00:00+00:00"
     },
     {
-      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
-      "summary": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a",
-      "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-21T13:00:00+00:00"
-    },
-    {
-      "title": "The game of the year is finally here",
-      "summary": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions",
-      "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-21T13:00:00+00:00"
-    },
-    {
       "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
       "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the crede",
       "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
@@ -331,30 +419,6 @@
       "published": "2026-11-21T10:36:32+00:00"
     },
     {
-      "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
-      "summary": "Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer without generating extra text. On Artificial Analysis'",
-      "url": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-21T10:33:02+00:00"
-    },
-    {
-      "title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
-      "summary": "The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting, and Anthropic lost nearly all of its gains a day after its record IP",
-      "url": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-21T10:27:44+00:00"
-    },
-    {
-      "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
-      "summary": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to carefully cu",
-      "url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-21T09:17:24+00:00"
-    },
-    {
       "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
       "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The feature app",
       "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
@@ -369,22 +433,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-21T08:49:13+00:00"
-    },
-    {
-      "title": "GnuPG Security Advisory for GPGME",
-      "summary": "Comments",
-      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-21T08:32:58+00:00"
-    },
-    {
-      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-      "summary": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50583761",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-20T23:18:32+00:00"
     },
     {
       "title": "Getting the mind to steer the body to steer you",
@@ -403,36 +451,12 @@
       "published": "2026-11-20T21:03:12+00:00"
     },
     {
-      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
-      "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principl",
-      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-20T20:43:52+00:00"
-    },
-    {
-      "title": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
-      "summary": "OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol. In adaptive red-teaming tests, the success rate for extracting protected reasoning fell from 54 percent to ",
-      "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-20T20:31:50+00:00"
-    },
-    {
       "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
       "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
       "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-20T19:53:41+00:00"
-    },
-    {
-      "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
-      "summary": "Signal is blocking screenshots to stop AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats. The app calls it an \"existential threat\" to privacy, but admits its protections remai",
-      "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-20T19:50:27+00:00"
     },
     {
       "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
@@ -443,28 +467,12 @@
       "published": "2026-11-20T19:32:08+00:00"
     },
     {
-      "title": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
-      "summary": "Google is bringing \"Computer Use\" to Gemini for Mac, letting the AI operate desktop apps, local files, and websites in an isolated background window with a live preview while users keep working. The article Google's Gemini can now",
-      "url": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-20T18:50:31+00:00"
-    },
-    {
       "title": "The most misunderstood graph in AI just got a major update",
       "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as ",
       "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
       "source": "MIT Technology Review",
       "category": "Emerging",
       "published": "2026-11-20T18:15:15+00:00"
-    },
-    {
-      "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
-      "summary": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices. The Nest ",
-      "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-20T18:00:00+00:00"
     },
     {
       "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
@@ -483,28 +491,12 @@
       "published": "2026-11-20T17:40:01+00:00"
     },
     {
-      "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
-      "summary": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside a slide-o",
-      "url": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-20T17:05:52+00:00"
-    },
-    {
       "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
       "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security ",
       "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-20T16:58:16+00:00"
-    },
-    {
-      "title": "Why there are still no non-WebKit browsers on iOS",
-      "summary": "Comments",
-      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-20T15:03:31+00:00"
     },
     {
       "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
@@ -553,6 +545,14 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-20T12:45:00+00:00"
+    },
+    {
+      "title": "Field Mice on Drugs",
+      "summary": "Comments",
+      "url": "https://ambrook.com/offrange/livestock/field-mice-on-drugs",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-20T12:40:06+00:00"
     },
     {
       "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
@@ -675,6 +675,14 @@
       "published": "2026-11-20T00:00:00+00:00"
     },
     {
+      "title": "Celliad – a daily Excel game (French)",
+      "summary": "Comments",
+      "url": "https://celliad.com/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-19T22:37:16+00:00"
+    },
+    {
       "title": "Why PostgreSQL 19 shipped late",
       "summary": "PostgreSQL 19 is now generally available, and there are some really cool things in...",
       "url": "https://www.databricks.com/blog/why-postgresql-19-shipped-late",
@@ -705,6 +713,14 @@
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-19T21:30:00+00:00"
+    },
+    {
+      "title": "Self-hosted library branch over public web OPDS",
+      "summary": "Comments",
+      "url": "https://joinmayberry.com/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-19T21:15:47+00:00"
     },
     {
       "title": "The unfolding Jensen Huang scandal: a timeline",
@@ -907,14 +923,6 @@
       "published": "2026-11-19T14:33:06+00:00"
     },
     {
-      "title": "Split Radiance Cascades",
-      "summary": "Comments",
-      "url": "https://www.jacktollenaar.top/articles/split-rc.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-19T14:08:33+00:00"
-    },
-    {
       "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in A",
       "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
@@ -1003,6 +1011,14 @@
       "published": "2026-11-19T04:33:46+00:00"
     },
     {
+      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
+      "summary": "Comments",
+      "url": "https://news.ycombinator.com/item?id=50555002",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-19T01:37:45+00:00"
+    },
+    {
       "title": "Explore the Codex Security Plugin",
       "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "url": "https://openai.com/business/learn/codex-security-plugin-demo",
@@ -1035,28 +1051,20 @@
       "published": "2026-11-19T00:00:00+00:00"
     },
     {
-      "title": "Pion Interceptor: WebRTC for Hackers",
-      "summary": "Comments",
-      "url": "https://pion.ly/blog/pion-interceptor-webrtc-for-hackers/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-18T22:51:11+00:00"
-    },
-    {
-      "title": "Shaping the Loops, Closing the Loops",
-      "summary": "Comments",
-      "url": "https://revyl.com/blog/pattern-engineering/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-18T22:29:04+00:00"
-    },
-    {
       "title": "Introducing Gemini 4 Neon",
       "summary": "",
       "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
       "source": "Google DeepMind",
       "category": "AI",
       "published": "2026-11-18T21:35:43+00:00"
+    },
+    {
+      "title": "The Where's Waldo of the 1500s",
+      "summary": "Comments",
+      "url": "https://blog.alexbeals.com/posts/il-civetta",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-18T20:04:28+00:00"
     },
     {
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
@@ -1673,14 +1681,6 @@
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-11-13T18:00:39+00:00"
-    },
-    {
-      "title": "Show HN: Compile the same source for GPUs and CPUs",
-      "summary": "Comments",
-      "url": "https://github.com/ThrudTheBarbarian/xc",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-13T17:53:42+00:00"
     },
     {
       "title": "The Microsoft Outage Is a Warning for the World",
