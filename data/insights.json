@@ -1,56 +1,88 @@
 {
-  "updated_at": "2026-11-23T00:55:49.840845+00:00",
+  "updated_at": "2026-11-23T14:46:40.542066+00:00",
   "trending": [
     {
-      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-      "summary": "Comments",
-      "url": "https://0rwx.com/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-22T23:53:00+00:00"
+      "title": "How to build and maintain an agentic evaluation",
+      "summary": "",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "source": "Hugging Face",
+      "category": "AI",
+      "published": "2026-11-23T00:00:00+00:00"
     },
     {
-      "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
-      "summary": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and reliably close open tickets in a messy",
-      "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+      "title": "Chinese military fears AI could let the US find and destroy its nuclear missiles",
+      "summary": "Chinese military researchers fear that AI advances could give the US an edge in the nuclear balance of power. The article Chinese military fears AI could let the US find and destroy its nuclear missiles appeared first on The Decod",
+      "url": "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/",
       "source": "The Decoder",
       "category": "AI",
-      "published": "2026-11-22T15:15:48+00:00"
+      "published": "2026-11-23T14:43:23+00:00"
     },
     {
-      "title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
-      "summary": "Security researchers at Dragos used two million fake AI requests to uncover serious vulnerabilities in the AI supply chain, finding at least three compromised providers, hundreds of stolen AWS keys, and marketplace resellers who w",
-      "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-23T14:43:03+00:00"
+    },
+    {
+      "title": "Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough",
+      "summary": "Meta's Chief AI Officer Alexandr Wang sees the recent AI-assisted proof sketch of the Riemann Hypothesis as a clear sign that superintelligence is right around the corner. The article Meta's Alexandr Wang warns the AI industry isn",
+      "url": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/",
       "source": "The Decoder",
       "category": "AI",
-      "published": "2026-11-22T12:07:56+00:00"
+      "published": "2026-11-23T13:59:36+00:00"
     },
     {
-      "title": "GL.iNet Security Notice 2026-11-20",
-      "summary": "Comments",
-      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-22T23:06:37+00:00"
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluati",
+      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "source": "MIT Technology Review",
+      "category": "Emerging",
+      "published": "2026-11-23T13:10:00+00:00"
     },
     {
-      "title": "Localcode, open source agentic coding on your Mac with one command",
+      "title": "Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites",
       "summary": "Comments",
-      "url": "https://github.com/mjwsolo/localcode",
+      "url": "https://github.com/ruairidhflint/news-blocklist",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-22T22:18:48+00:00"
-    },
-    {
-      "title": "Agent swarm trying to solve P vs. NP",
-      "summary": "Comments",
-      "url": "https://pequalnp.com/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-22T21:53:45+00:00"
+      "published": "2026-11-23T13:02:52+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "Chinese military fears AI could let the US find and destroy its nuclear missiles",
+      "summary": "Chinese military researchers fear that AI advances could give the US an edge in the nuclear balance of power. The article Chinese military fears AI could let the US find and destroy its nuclear missiles appeared first on The Decod",
+      "url": "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-23T14:43:23+00:00"
+    },
+    {
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-23T14:43:03+00:00"
+    },
+    {
+      "title": "Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough",
+      "summary": "Meta's Chief AI Officer Alexandr Wang sees the recent AI-assisted proof sketch of the Riemann Hypothesis as a clear sign that superintelligence is right around the corner. The article Meta's Alexandr Wang warns the AI industry isn",
+      "url": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-23T13:59:36+00:00"
+    },
+    {
+      "title": "GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy",
+      "summary": "OpenAI's GPT-6.2 Astra independently produced a machine-verifiable Lean proof of Smoktunowicz's gap theorem, the first of its kind according to Vals AI. The model chose its own approach because key foundations were missing from Ma",
+      "url": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-23T12:17:01+00:00"
+    },
     {
       "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
       "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
@@ -66,41 +98,17 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-22T15:15:48+00:00"
-    },
-    {
-      "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
-      "summary": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure. Current data can't rule out a dangerous acceleration in AI development, the organization warn",
-      "url": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-22T13:00:43+00:00"
-    },
-    {
-      "title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
-      "summary": "Security researchers at Dragos used two million fake AI requests to uncover serious vulnerabilities in the AI supply chain, finding at least three compromised providers, hundreds of stolen AWS keys, and marketplace resellers who w",
-      "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-22T12:07:56+00:00"
-    },
-    {
-      "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
-      "summary": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score well ahead on transparency. The article GPT-6.2 As",
-      "url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-22T09:41:37+00:00"
-    },
-    {
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-21T21:37:10+00:00"
     }
   ],
   "technology_releases": [
+    {
+      "title": "Amazon is taking orders for the Moto Tag 3 before it’s even been announced",
+      "summary": "Motorola's unannounced Moto Tag 3 has been listed for sale online, just five months after the Moto Tag 2 went on sale in the US, and before any official announcement of a follow-up. The listing on Amazon UK was spotted by X user @",
+      "url": "https://www.theverge.com/tech/1039903/motorola-moto-tag-3-tracker-amazon-leak",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-23T13:09:32+00:00"
+    },
     {
       "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
       "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
@@ -140,14 +148,6 @@
       "source": "Google AI",
       "category": "AI",
       "published": "2026-11-19T18:00:00+00:00"
-    },
-    {
-      "title": "Introducing Genie Migrate for Serverless",
-      "summary": "Serverless compute in Databricks offers a simpler, faster way to run your data and...",
-      "url": "https://www.databricks.com/blog/introducing-genie-migrate-serverless",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-19T16:00:00+00:00"
     }
   ]
 }

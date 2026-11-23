@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T00:55:50.343970+00:00",
+  "updated_at": "2026-11-23T14:46:41.787892+00:00",
   "method": "GitHub search: repositories created in last 21 days, sorted by total stars",
   "repositories": [
     {
@@ -7,7 +7,7 @@
       "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
       "url": "https://github.com/ItsNotRexed/Leonida",
       "language": "Python",
-      "stars": 15075,
+      "stars": 20721,
       "created_at": "2026-11-20T20:07:13Z"
     },
     {
@@ -15,7 +15,7 @@
       "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
       "url": "https://github.com/libracoder/kiri",
       "language": "Rust",
-      "stars": 12346,
+      "stars": 12561,
       "created_at": "2026-11-02T16:11:30Z"
     },
     {
@@ -23,7 +23,7 @@
       "description": "Plug-in media player",
       "url": "https://github.com/Minireel/HGhub",
       "language": "Rust",
-      "stars": 11533,
+      "stars": 11616,
       "created_at": "2026-11-03T14:04:27Z"
     },
     {
@@ -31,7 +31,7 @@
       "description": "Agent skills",
       "url": "https://github.com/janestreet/agent_skills",
       "language": "Open source",
-      "stars": 10668,
+      "stars": 11141,
       "created_at": "2026-11-03T16:50:21Z"
     },
     {
@@ -39,7 +39,7 @@
       "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
       "url": "https://github.com/huami1314/GestaltX",
       "language": "Swift",
-      "stars": 8807,
+      "stars": 8850,
       "created_at": "2026-11-09T05:15:48Z"
     },
     {
@@ -47,7 +47,7 @@
       "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
       "url": "https://github.com/erkamyaman/rust-anything",
       "language": "Rust",
-      "stars": 8002,
+      "stars": 8532,
       "created_at": "2026-11-16T12:10:36Z"
     },
     {
@@ -55,7 +55,7 @@
       "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
       "language": "TypeScript",
-      "stars": 6287,
+      "stars": 6377,
       "created_at": "2026-11-03T08:02:11Z"
     },
     {
@@ -63,7 +63,7 @@
       "description": "Chat Demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
       "language": "TypeScript",
-      "stars": 5281,
+      "stars": 5335,
       "created_at": "2026-11-12T08:08:19Z"
     },
     {
@@ -71,7 +71,7 @@
       "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 languages. USB or paired",
       "url": "https://github.com/ersinkoc/phonebox",
       "language": "JavaScript",
-      "stars": 5046,
+      "stars": 5307,
       "created_at": "2026-11-07T16:45:16Z"
     },
     {
@@ -79,7 +79,7 @@
       "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
       "url": "https://github.com/expo/exact",
       "language": "Rust",
-      "stars": 4919,
+      "stars": 4947,
       "created_at": "2026-11-02T01:29:01Z"
     },
     {
@@ -87,7 +87,7 @@
       "description": "",
       "url": "https://github.com/tangerineturtle1/NX2navi",
       "language": "C",
-      "stars": 4343,
+      "stars": 4353,
       "created_at": "2026-11-07T10:01:23Z"
     },
     {
@@ -95,7 +95,7 @@
       "description": "",
       "url": "https://github.com/JenkinWoo/sheeridVerify",
       "language": "JavaScript",
-      "stars": 4163,
+      "stars": 4235,
       "created_at": "2026-11-06T09:28:09Z"
     }
   ]
