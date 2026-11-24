@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-24T02:55:33.830979+00:00",
+  "updated_at": "2026-11-24T14:55:31.945259+00:00",
   "trending": [
+    {
+      "title": "Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures",
+      "summary": "According to an Axios report, many employees at OpenAI and Anthropic believe the companies' own unreleased frontier models can no longer be safely controlled. Both companies are internally debating whether to halt releases or even",
+      "url": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-24T14:02:31+00:00"
+    },
     {
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
       "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
@@ -8,6 +16,22 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-23T22:05:50+00:00"
+    },
+    {
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijac",
+      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-24T12:42:09+00:00"
+    },
+    {
+      "title": "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own",
+      "summary": "Anthropic has introduced Claude Ship, a new tool currently in beta that automatically reviews, corrects, and approves suggestions for code changes in accordance with team guidelines. The article Anthropic's Claude Ship lets AI age",
+      "url": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-24T11:26:23+00:00"
     },
     {
       "title": "Scalar User-defined functions (UDFs) in Microsoft Fabric Data Warehouse (Generally Available)",
@@ -18,39 +42,47 @@
       "published": "2026-11-23T15:19:07+00:00"
     },
     {
-      "title": "Sharing catalog metadata across data platforms, engines, and agents",
-      "summary": "We’re excited to announce support for catalog labels – a new capability in the Apache...",
-      "url": "https://www.databricks.com/blog/sharing-catalog-metadata-across-data-platforms-engines-and-agents",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-24T01:30:00+00:00"
-    },
-    {
-      "title": "Google alternative Kagi launches an email service",
-      "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that ",
-      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-24T00:02:52+00:00"
-    },
-    {
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-23T22:02:05+00:00"
-    },
-    {
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-      "url": "https://openai.com/index/introducing-shirudo",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-23T21:20:00+00:00"
+      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+      "summary": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. \"It lets agents write dynamic eBPF ",
+      "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-24T06:02:57+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout",
+      "summary": "Anthropic researcher Levent Alpöge is walking back parts of his announcement of an AI-assisted proof of the generalized Riemann hypothesis. The claim that it ran to more than 250,000 pages was a joke, he says, and the published Le",
+      "url": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-24T14:28:41+00:00"
+    },
+    {
+      "title": "Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures",
+      "summary": "According to an Axios report, many employees at OpenAI and Anthropic believe the companies' own unreleased frontier models can no longer be safely controlled. Both companies are internally debating whether to halt releases or even",
+      "url": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-24T14:02:31+00:00"
+    },
+    {
+      "title": "German researchers call for computer science to reinvent itself as \"Computer and AI Science\"",
+      "summary": "In a position paper, TU Darmstadt researchers call for redefining computer science as \"Computer and AI Science.\" Their biggest concern is code generated on the fly at runtime, which they say upends today's safety and correctness g",
+      "url": "https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-24T12:30:49+00:00"
+    },
+    {
+      "title": "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own",
+      "summary": "Anthropic has introduced Claude Ship, a new tool currently in beta that automatically reviews, corrects, and approves suggestions for code changes in accordance with team guidelines. The article Anthropic's Claude Ship lets AI age",
+      "url": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-24T11:26:23+00:00"
+    },
     {
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
       "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
@@ -66,41 +98,17 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-23T22:02:05+00:00"
-    },
-    {
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-      "url": "https://openai.com/index/introducing-shirudo",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "2026-11-23T21:20:00+00:00"
-    },
-    {
-      "title": "OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably",
-      "summary": "OpenAI is making GPT-6.2 Sol the new default model in ChatGPT's chat tab, rolling it out worldwide. In internal tests, image understanding jumped from 47.4 to 71.7 percent, and the model now handles difficult instructions correctl",
-      "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-23T20:39:18+00:00"
-    },
-    {
-      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-23T19:14:46+00:00"
-    },
-    {
-      "title": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
-      "summary": "OpenAI chief scientist Jakub Pachocki has released internal perplexity scores for the entire GPT series for the first time, up to an unreleased model beyond the current generation. The metric shows that core capabilities emerge at",
-      "url": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-23T18:42:38+00:00"
     }
   ],
   "technology_releases": [
+    {
+      "title": "Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout",
+      "summary": "Anthropic researcher Levent Alpöge is walking back parts of his announcement of an AI-assisted proof of the generalized Riemann hypothesis. The claim that it ran to more than 250,000 pages was a joke, he says, and the published Le",
+      "url": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-24T14:28:41+00:00"
+    },
     {
       "title": "Ladybird, the first new browser engine in years, is now available to test",
       "summary": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following mor",
@@ -140,14 +148,6 @@
       "source": "Microsoft Fabric",
       "category": "Analytics",
       "published": "2026-11-23T15:19:07+00:00"
-    },
-    {
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-21T16:00:00+00:00"
     }
   ]
 }
