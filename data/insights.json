@@ -1,113 +1,145 @@
 {
-  "updated_at": "2026-11-23T14:46:40.542066+00:00",
+  "updated_at": "2026-11-24T02:55:33.830979+00:00",
   "trending": [
     {
-      "title": "How to build and maintain an agentic evaluation",
-      "summary": "",
-      "url": "https://huggingface.co/blog/agentic-evals",
-      "source": "Hugging Face",
-      "category": "AI",
-      "published": "2026-11-23T00:00:00+00:00"
-    },
-    {
-      "title": "Chinese military fears AI could let the US find and destroy its nuclear missiles",
-      "summary": "Chinese military researchers fear that AI advances could give the US an edge in the nuclear balance of power. The article Chinese military fears AI could let the US find and destroy its nuclear missiles appeared first on The Decod",
-      "url": "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-23T14:43:23+00:00"
-    },
-    {
-      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
-      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
       "source": "TechCrunch AI",
       "category": "AI",
-      "published": "2026-11-23T14:43:03+00:00"
+      "published": "2026-11-23T22:05:50+00:00"
     },
     {
-      "title": "Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough",
-      "summary": "Meta's Chief AI Officer Alexandr Wang sees the recent AI-assisted proof sketch of the Riemann Hypothesis as a clear sign that superintelligence is right around the corner. The article Meta's Alexandr Wang warns the AI industry isn",
-      "url": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-23T13:59:36+00:00"
+      "title": "Scalar User-defined functions (UDFs) in Microsoft Fabric Data Warehouse (Generally Available)",
+      "summary": "T-SQL scalar user-defined functions (UDFs) are now generally available in Microsoft Fabric Data Warehouse and the SQL analytics endpoint. During preview, scalar UDFs gained support for procedural T-SQL and additional query shapes ",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Scalar-User-defined-functions-UDFs-in-Microsoft-Fabric-Data/ba-p/5399753",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-23T15:19:07+00:00"
     },
     {
-      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluati",
-      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-      "source": "MIT Technology Review",
+      "title": "Sharing catalog metadata across data platforms, engines, and agents",
+      "summary": "We’re excited to announce support for catalog labels – a new capability in the Apache...",
+      "url": "https://www.databricks.com/blog/sharing-catalog-metadata-across-data-platforms-engines-and-agents",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-24T01:30:00+00:00"
+    },
+    {
+      "title": "Google alternative Kagi launches an email service",
+      "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that ",
+      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+      "source": "The Verge",
       "category": "Emerging",
-      "published": "2026-11-23T13:10:00+00:00"
+      "published": "2026-11-24T00:02:52+00:00"
     },
     {
-      "title": "Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites",
-      "summary": "Comments",
-      "url": "https://github.com/ruairidhflint/news-blocklist",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-23T13:02:52+00:00"
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-23T22:02:05+00:00"
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-23T21:20:00+00:00"
     }
   ],
   "ai_breakthroughs": [
     {
-      "title": "Chinese military fears AI could let the US find and destroy its nuclear missiles",
-      "summary": "Chinese military researchers fear that AI advances could give the US an edge in the nuclear balance of power. The article Chinese military fears AI could let the US find and destroy its nuclear missiles appeared first on The Decod",
-      "url": "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-23T14:43:23+00:00"
-    },
-    {
-      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
-      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
       "source": "TechCrunch AI",
       "category": "AI",
-      "published": "2026-11-23T14:43:03+00:00"
+      "published": "2026-11-23T22:05:50+00:00"
     },
     {
-      "title": "Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough",
-      "summary": "Meta's Chief AI Officer Alexandr Wang sees the recent AI-assisted proof sketch of the Riemann Hypothesis as a clear sign that superintelligence is right around the corner. The article Meta's Alexandr Wang warns the AI industry isn",
-      "url": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-23T13:59:36+00:00"
-    },
-    {
-      "title": "GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy",
-      "summary": "OpenAI's GPT-6.2 Astra independently produced a machine-verifiable Lean proof of Smoktunowicz's gap theorem, the first of its kind according to Vals AI. The model chose its own approach because key foundations were missing from Ma",
-      "url": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-23T12:17:01+00:00"
-    },
-    {
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
       "source": "TechCrunch AI",
       "category": "AI",
-      "published": "2026-11-22T21:14:07+00:00"
+      "published": "2026-11-23T22:02:05+00:00"
     },
     {
-      "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
-      "summary": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and reliably close open tickets in a messy",
-      "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "2026-11-23T21:20:00+00:00"
+    },
+    {
+      "title": "OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably",
+      "summary": "OpenAI is making GPT-6.2 Sol the new default model in ChatGPT's chat tab, rolling it out worldwide. In internal tests, image understanding jumped from 47.4 to 71.7 percent, and the model now handles difficult instructions correctl",
+      "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
       "source": "The Decoder",
       "category": "AI",
-      "published": "2026-11-22T15:15:48+00:00"
+      "published": "2026-11-23T20:39:18+00:00"
+    },
+    {
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-23T19:14:46+00:00"
+    },
+    {
+      "title": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
+      "summary": "OpenAI chief scientist Jakub Pachocki has released internal perplexity scores for the entire GPT series for the first time, up to an unreleased model beyond the current generation. The metric shows that core capabilities emerge at",
+      "url": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-23T18:42:38+00:00"
     }
   ],
   "technology_releases": [
     {
-      "title": "Amazon is taking orders for the Moto Tag 3 before it’s even been announced",
-      "summary": "Motorola's unannounced Moto Tag 3 has been listed for sale online, just five months after the Moto Tag 2 went on sale in the US, and before any official announcement of a follow-up. The listing on Amazon UK was spotted by X user @",
-      "url": "https://www.theverge.com/tech/1039903/motorola-moto-tag-3-tracker-amazon-leak",
+      "title": "Ladybird, the first new browser engine in years, is now available to test",
+      "summary": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following mor",
+      "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
       "source": "The Verge",
       "category": "Emerging",
-      "published": "2026-11-23T13:09:32+00:00"
+      "published": "2026-11-23T22:38:09+00:00"
+    },
+    {
+      "title": "Power BI November 2026 Feature Summary",
+      "summary": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. ________________________________ Welcome t",
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-November-2026-Feature-Summary/ba-p/5414287",
+      "source": "Microsoft Power BI",
+      "category": "Analytics",
+      "published": "2026-11-23T20:38:13+00:00"
+    },
+    {
+      "title": "On-demand billing for Fabric Data Warehouse (Preview)",
+      "summary": "Only pay for what you consume Many warehouse workloads are highly variable. In some cases, a few peak periods demand significant compute, while the rest of the month usage is much lower. Shared capacity is a great fit for steady, ",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-demand-billing-for-Fabric-Data-Warehouse-Preview/ba-p/5376329",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-23T19:30:00+00:00"
+    },
+    {
+      "title": "Fabric on-demand billing and Zero-provisioned (F0) Capacity (Preview)",
+      "summary": "Microsoft is introducing a new way to consume Fabric called on-demand billing . This includes a new F0 SKU , enabling customers to get started with zero upfront commitment, as well as a hybrid option that pairs any traditional F S",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-on-demand-billing-and-Zero-provisioned-F0-Capacity/ba-p/5377585",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-23T19:00:00+00:00"
+    },
+    {
+      "title": "Scalar User-defined functions (UDFs) in Microsoft Fabric Data Warehouse (Generally Available)",
+      "summary": "T-SQL scalar user-defined functions (UDFs) are now generally available in Microsoft Fabric Data Warehouse and the SQL analytics endpoint. During preview, scalar UDFs gained support for procedural T-SQL and additional query shapes ",
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Scalar-User-defined-functions-UDFs-in-Microsoft-Fabric-Data/ba-p/5399753",
+      "source": "Microsoft Fabric",
+      "category": "Analytics",
+      "published": "2026-11-23T15:19:07+00:00"
     },
     {
       "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
@@ -116,38 +148,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-21T16:00:00+00:00"
-    },
-    {
-      "title": "The most misunderstood graph in AI just got a major update",
-      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as ",
-      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "source": "MIT Technology Review",
-      "category": "Emerging",
-      "published": "2026-11-20T18:15:15+00:00"
-    },
-    {
-      "title": "On-premises data gateway November 2026 release",
-      "summary": "The November 2026 release of the on-premises data gateway (version 3000.342) continues our commitment to secure, reliable and accessible connectivity between on-premises data sources and Microsoft Fabric services. This release foc",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-November-2026-release/ba-p/5430005",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-20T12:45:00+00:00"
-    },
-    {
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "summary": "",
-      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
-      "source": "Hugging Face",
-      "category": "AI",
-      "published": "2026-11-20T00:00:00+00:00"
-    },
-    {
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "2026-11-19T18:00:00+00:00"
     }
   ]
 }
