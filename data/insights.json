@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T14:55:31.945259+00:00",
+  "updated_at": "2026-11-25T00:49:32.813956+00:00",
   "trending": [
+    {
+      "title": "Workspace outbound access protection for Power BI semantic models and interactive reports (Generally Available)",
+      "summary": "Workspace outbound access protection (OAP) is generally available for Power BI semantic models and interactive Power BI reports in Microsoft Fabric workspaces. With OAP, workspace admins can limit which data sources semantic model",
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Workspace-outbound-access-protection-for-Power-BI-semantic/ba-p/5435053",
+      "source": "Microsoft Power BI",
+      "category": "Analytics",
+      "published": "2026-11-24T17:00:00+00:00"
+    },
+    {
+      "title": "Data Modeling Best Practices for an Agentic CDP, Part 1: The Data Foundation",
+      "summary": "A customer saved a jacket to their wishlist on your site 9 days ago. This morning...",
+      "url": "https://www.databricks.com/blog/agentic-cdp-data-modeling-data-foundation",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-24T19:36:52+00:00"
+    },
     {
       "title": "Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures",
       "summary": "According to an Axios report, many employees at OpenAI and Anthropic believe the companies' own unreleased frontier models can no longer be safely controlled. Both companies are internally debating whether to halt releases or even",
@@ -10,112 +26,120 @@
       "published": "2026-11-24T14:02:31+00:00"
     },
     {
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "title": "Even the best AI agents struggle with everyday life",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
       "source": "TechCrunch AI",
       "category": "AI",
-      "published": "2026-11-23T22:05:50+00:00"
+      "published": "2026-11-24T21:33:29+00:00"
     },
     {
-      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijac",
-      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-24T12:42:09+00:00"
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-24T21:32:38+00:00"
     },
     {
-      "title": "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own",
-      "summary": "Anthropic has introduced Claude Ship, a new tool currently in beta that automatically reviews, corrects, and approves suggestions for code changes in accordance with team guidelines. The article Anthropic's Claude Ship lets AI age",
-      "url": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
+      "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
+      "summary": "Two years after launch, Anthropic reports more than 700 million monthly downloads for its MCP interface standard. New features such as background tasks, follow-up questions for users, and file uploads are meant to let Claude work ",
+      "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
       "source": "The Decoder",
       "category": "AI",
-      "published": "2026-11-24T11:26:23+00:00"
-    },
-    {
-      "title": "Scalar User-defined functions (UDFs) in Microsoft Fabric Data Warehouse (Generally Available)",
-      "summary": "T-SQL scalar user-defined functions (UDFs) are now generally available in Microsoft Fabric Data Warehouse and the SQL analytics endpoint. During preview, scalar UDFs gained support for procedural T-SQL and additional query shapes ",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Scalar-User-defined-functions-UDFs-in-Microsoft-Fabric-Data/ba-p/5399753",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-23T15:19:07+00:00"
-    },
-    {
-      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
-      "summary": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. \"It lets agents write dynamic eBPF ",
-      "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-24T06:02:57+00:00"
+      "published": "2026-11-24T19:23:41+00:00"
     }
   ],
   "ai_breakthroughs": [
     {
-      "title": "Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout",
-      "summary": "Anthropic researcher Levent Alpöge is walking back parts of his announcement of an AI-assisted proof of the generalized Riemann hypothesis. The claim that it ran to more than 250,000 pages was a joke, he says, and the published Le",
-      "url": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-24T14:28:41+00:00"
-    },
-    {
-      "title": "Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures",
-      "summary": "According to an Axios report, many employees at OpenAI and Anthropic believe the companies' own unreleased frontier models can no longer be safely controlled. Both companies are internally debating whether to halt releases or even",
-      "url": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-24T14:02:31+00:00"
-    },
-    {
-      "title": "German researchers call for computer science to reinvent itself as \"Computer and AI Science\"",
-      "summary": "In a position paper, TU Darmstadt researchers call for redefining computer science as \"Computer and AI Science.\" Their biggest concern is code generated on the fly at runtime, which they say upends today's safety and correctness g",
-      "url": "https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-24T12:30:49+00:00"
-    },
-    {
-      "title": "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own",
-      "summary": "Anthropic has introduced Claude Ship, a new tool currently in beta that automatically reviews, corrects, and approves suggestions for code changes in accordance with team guidelines. The article Anthropic's Claude Ship lets AI age",
-      "url": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-24T11:26:23+00:00"
-    },
-    {
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "title": "Even the best AI agents struggle with everyday life",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
       "source": "TechCrunch AI",
       "category": "AI",
-      "published": "2026-11-23T22:05:50+00:00"
+      "published": "2026-11-24T21:33:29+00:00"
     },
     {
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
       "source": "TechCrunch AI",
       "category": "AI",
-      "published": "2026-11-23T22:02:05+00:00"
+      "published": "2026-11-24T21:32:38+00:00"
+    },
+    {
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-24T21:19:52+00:00"
+    },
+    {
+      "title": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
+      "summary": "Anthropic now lets you install Claude Artifacts as desktop apps on Mac and Windows, and a free account is enough. You build one in chat without writing code, and it can add menu bar items, send notifications, and create transparen",
+      "url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-24T20:42:29+00:00"
+    },
+    {
+      "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
+      "summary": "Two years after launch, Anthropic reports more than 700 million monthly downloads for its MCP interface standard. New features such as background tasks, follow-up questions for users, and file uploads are meant to let Claude work ",
+      "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-24T19:23:41+00:00"
+    },
+    {
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-24T18:30:42+00:00"
     }
   ],
   "technology_releases": [
     {
+      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "summary": "Comments",
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-24T20:44:15+00:00"
+    },
+    {
+      "title": "Paginated reports in Power BI support outbound access protection (Preview)",
+      "summary": "Paginated reports can combine data from Power BI semantic models and other data sources with external resources such as maps and images. Workspace admins can control which destinations the Power BI service can reach when it render",
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Paginated-reports-in-Power-BI-support-outbound-access-protection/ba-p/5435045",
+      "source": "Microsoft Power BI",
+      "category": "Analytics",
+      "published": "2026-11-24T18:00:00+00:00"
+    },
+    {
+      "title": "Workspace outbound access protection for Power BI semantic models and interactive reports (Generally Available)",
+      "summary": "Workspace outbound access protection (OAP) is generally available for Power BI semantic models and interactive Power BI reports in Microsoft Fabric workspaces. With OAP, workspace admins can limit which data sources semantic model",
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Workspace-outbound-access-protection-for-Power-BI-semantic/ba-p/5435053",
+      "source": "Microsoft Power BI",
+      "category": "Analytics",
+      "published": "2026-11-24T17:00:00+00:00"
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-24T16:09:23+00:00"
+    },
+    {
       "title": "Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout",
       "summary": "Anthropic researcher Levent Alpöge is walking back parts of his announcement of an AI-assisted proof of the generalized Riemann hypothesis. The claim that it ran to more than 250,000 pages was a joke, he says, and the published Le",
       "url": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/",
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-24T14:28:41+00:00"
-    },
-    {
-      "title": "Ladybird, the first new browser engine in years, is now available to test",
-      "summary": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following mor",
-      "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-23T22:38:09+00:00"
     },
     {
       "title": "Power BI November 2026 Feature Summary",
@@ -124,30 +148,6 @@
       "source": "Microsoft Power BI",
       "category": "Analytics",
       "published": "2026-11-23T20:38:13+00:00"
-    },
-    {
-      "title": "On-demand billing for Fabric Data Warehouse (Preview)",
-      "summary": "Only pay for what you consume Many warehouse workloads are highly variable. In some cases, a few peak periods demand significant compute, while the rest of the month usage is much lower. Shared capacity is a great fit for steady, ",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-demand-billing-for-Fabric-Data-Warehouse-Preview/ba-p/5376329",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-23T19:30:00+00:00"
-    },
-    {
-      "title": "Fabric on-demand billing and Zero-provisioned (F0) Capacity (Preview)",
-      "summary": "Microsoft is introducing a new way to consume Fabric called on-demand billing . This includes a new F0 SKU , enabling customers to get started with zero upfront commitment, as well as a hybrid option that pairs any traditional F S",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-on-demand-billing-and-Zero-provisioned-F0-Capacity/ba-p/5377585",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-23T19:00:00+00:00"
-    },
-    {
-      "title": "Scalar User-defined functions (UDFs) in Microsoft Fabric Data Warehouse (Generally Available)",
-      "summary": "T-SQL scalar user-defined functions (UDFs) are now generally available in Microsoft Fabric Data Warehouse and the SQL analytics endpoint. During preview, scalar UDFs gained support for procedural T-SQL and additional query shapes ",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Scalar-User-defined-functions-UDFs-in-Microsoft-Fabric-Data/ba-p/5399753",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-23T15:19:07+00:00"
     }
   ]
 }
