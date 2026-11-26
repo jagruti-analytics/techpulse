@@ -1,7 +1,295 @@
 {
-  "updated_at": "2026-11-25T14:29:29.577883+00:00",
+  "updated_at": "2026-11-26T00:27:19.342412+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "Jev is probably Qwen3.5-35B-A3B",
+      "summary": "Comments",
+      "url": "https://modaic.dev/blog/latency-doesnt-lie",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T22:57:04+00:00"
+    },
+    {
+      "title": "Duran Duran guitarist Andy Taylor dies aged 65",
+      "summary": "Comments",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T22:57:01+00:00"
+    },
+    {
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-25T22:44:32+00:00"
+    },
+    {
+      "title": "Bare Metal Qwen",
+      "summary": "Comments",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T22:15:34+00:00"
+    },
+    {
+      "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
+      "summary": "Comments",
+      "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T22:12:25+00:00"
+    },
+    {
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "summary": "Comments",
+      "url": "https://github.com/lsernau/grh-lean",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T21:48:10+00:00"
+    },
+    {
+      "title": "Defang Security Incident",
+      "summary": "Comments",
+      "url": "https://defang.io/blog/post/security-incident-november-2026/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T21:47:16+00:00"
+    },
+    {
+      "title": "The New York Times tells photographers not to use the latest Photoshop",
+      "summary": "Comments",
+      "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T21:18:02+00:00"
+    },
+    {
+      "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
+      "summary": "Chip restrictions, anti-distillation measures, and shrinking access to Nvidia hardware abroad are putting growing pressure on Deepseek, Moonshot AI, and Alibaba, according to a report. Deepseek researchers internally estimate they",
+      "url": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-25T20:51:02+00:00"
+    },
+    {
+      "title": "Slow Ubuntu security response times",
+      "summary": "Comments",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T20:38:00+00:00"
+    },
+    {
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "summary": "Comments",
+      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T20:35:50+00:00"
+    },
+    {
+      "title": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
+      "summary": "Comments",
+      "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T20:35:39+00:00"
+    },
+    {
+      "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+      "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have ",
+      "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-25T20:31:48+00:00"
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
+      "summary": "Anthropic CEO Dario Amodei is pushing back on an Axios report saying some employees believe humanity will hand power to superintelligent systems. Amodei says \"turning over governance to AI is a bad idea.\" The article Anthropic CEO",
+      "url": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-25T20:15:50+00:00"
+    },
+    {
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-25T20:03:27+00:00"
+    },
+    {
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-25T19:54:57+00:00"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-25T19:44:24+00:00"
+    },
+    {
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "summary": "Comments",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T19:11:27+00:00"
+    },
+    {
+      "title": "1Password breach leaked customer names and emails, but not passwords",
+      "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishi",
+      "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-25T19:10:15+00:00"
+    },
+    {
+      "title": "Where scientists draw the line on AI agents",
+      "summary": "",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face",
+      "category": "AI",
+      "published": "2026-11-25T18:52:55+00:00"
+    },
+    {
+      "title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
+      "summary": "OpenAI is testing a new feature called \"Private Inference\" that lets companies run queries on its most powerful models without OpenAI being able to access the data. The article OpenAI wants companies to trust it with sensitive wor",
+      "url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-25T18:22:02+00:00"
+    },
+    {
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-25T18:11:46+00:00"
+    },
+    {
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-25T17:44:51+00:00"
+    },
+    {
+      "title": "Britain's ghost stations",
+      "summary": "Comments",
+      "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T17:43:46+00:00"
+    },
+    {
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-25T17:35:58+00:00"
+    },
+    {
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "summary": "Comments",
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T17:34:34+00:00"
+    },
+    {
+      "title": "1Password Security Incident",
+      "summary": "Comments",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T17:18:26+00:00"
+    },
+    {
+      "title": "How data centers are driving a US natural-gas boom",
+      "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically ",
+      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+      "source": "MIT Technology Review",
+      "category": "Emerging",
+      "published": "2026-11-25T17:00:00+00:00"
+    },
+    {
+      "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
+      "summary": "Amazon and Meta are in talks to bring back Muse, Meta's AI shopping agent that Amazon kicked off its platform in September. The two sides are stuck on ad revenue and who gets to control search results. That matters because Amazon'",
+      "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-25T16:44:37+00:00"
+    },
+    {
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your convers",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-25T16:00:59+00:00"
+    },
+    {
+      "title": "Art of play in the age of AI",
+      "summary": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI appeared first on The GitHub ",
+      "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+      "source": "GitHub Blog",
+      "category": "Development",
+      "published": "2026-11-25T16:00:00+00:00"
+    },
+    {
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, an",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-25T15:41:43+00:00"
+    },
+    {
+      "title": "In C++, = default and {} are not the same constructor",
+      "summary": "Comments",
+      "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T15:20:15+00:00"
+    },
+    {
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "summary": "Comments",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T15:14:32+00:00"
+    },
+    {
+      "title": "How to choose the next safe step in application modernization",
+      "summary": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application modernization appeared first on The Gi",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+      "source": "GitHub Blog",
+      "category": "Development",
+      "published": "2026-11-25T15:00:00+00:00"
+    },
+    {
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "summary": "Comments",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T14:56:52+00:00"
+    },
     {
       "title": "Amazon is reportedly in talks to end Muse AI shopping block",
       "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the A",
@@ -9,14 +297,6 @@
       "source": "The Verge",
       "category": "Emerging",
       "published": "2026-11-25T14:12:33+00:00"
-    },
-    {
-      "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
-      "summary": "Comments",
-      "url": "https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T14:12:29+00:00"
     },
     {
       "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
@@ -35,7 +315,7 @@
       "published": "2026-11-25T14:00:00+00:00"
     },
     {
-      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
       "summary": "Comments",
       "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
       "source": "Hacker News",
@@ -84,7 +364,7 @@
     },
     {
       "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-      "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+      "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
       "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
       "source": "TechCrunch AI",
       "category": "AI",
@@ -113,14 +393,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-25T12:30:08+00:00"
-    },
-    {
-      "title": "Hazel (YC W24) Is Hiring a Product Designer",
-      "summary": "Comments",
-      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T12:00:34+00:00"
     },
     {
       "title": "PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values",
@@ -211,6 +483,14 @@
       "published": "2026-11-25T09:06:59+00:00"
     },
     {
+      "title": "Smart people who give a shit use tools",
+      "summary": "Comments",
+      "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T07:46:43+00:00"
+    },
+    {
       "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
       "summary": "An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world. The intrusion acti",
       "url": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
@@ -235,116 +515,12 @@
       "published": "2026-11-25T06:21:12+00:00"
     },
     {
-      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-      "summary": "Comments",
-      "url": "https://gpu-demo-gallery.pages.dev/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T04:31:48+00:00"
-    },
-    {
-      "title": "Taking over US Treasury subdomains for $3 each",
-      "summary": "Comments",
-      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T04:27:55+00:00"
-    },
-    {
-      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "summary": "Comments",
-      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T03:47:42+00:00"
-    },
-    {
-      "title": "A faster algorithm for extracting hexadecimal digits of π",
-      "summary": "Comments",
-      "url": "https://www.stylewarning.com/posts/faster-digit-extraction/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T03:28:42+00:00"
-    },
-    {
-      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
-      "summary": "Comments",
-      "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T03:28:06+00:00"
-    },
-    {
-      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-      "summary": "Comments",
-      "url": "https://buttons.joshwcomeau.com/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T03:23:07+00:00"
-    },
-    {
-      "title": "Macrohistory in Six Facts",
-      "summary": "Comments",
-      "url": "https://basilhalperin.com/essays/macrohistory.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T03:04:46+00:00"
-    },
-    {
-      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-      "summary": "Comments",
-      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T03:04:37+00:00"
-    },
-    {
-      "title": "Lua for data representation (2025)",
-      "summary": "Comments",
-      "url": "https://citrons.xyz/journal/2025-07-23",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T03:04:12+00:00"
-    },
-    {
-      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-      "summary": "Comments",
-      "url": "https://www.proofatlas.ai/open-problems/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T03:01:36+00:00"
-    },
-    {
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "summary": "Comments",
-      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T02:34:21+00:00"
-    },
-    {
-      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-      "summary": "Comments",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T01:19:26+00:00"
-    },
-    {
       "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
       "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in ",
       "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
       "source": "The Verge",
       "category": "Emerging",
       "published": "2026-11-25T01:00:00+00:00"
-    },
-    {
-      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-      "summary": "Comments",
-      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T00:54:49+00:00"
     },
     {
       "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
@@ -355,6 +531,14 @@
       "published": "2026-11-25T00:12:02+00:00"
     },
     {
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "summary": "",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "source": "Hugging Face",
+      "category": "AI",
+      "published": "2026-11-25T00:00:00+00:00"
+    },
+    {
       "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
       "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
       "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
@@ -363,20 +547,20 @@
       "published": "2026-11-24T23:39:04+00:00"
     },
     {
+      "title": "Predicting LoRA size for any dataset",
+      "summary": "Comments",
+      "url": "https://engram.com/blog/lora-size",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-24T22:34:29+00:00"
+    },
+    {
       "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
       "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
       "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-24T22:27:52+00:00"
-    },
-    {
-      "title": "Huawei found guilty of stealing trade secrets",
-      "summary": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese tele",
-      "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-24T22:23:27+00:00"
     },
     {
       "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
@@ -411,14 +595,6 @@
       "published": "2026-11-24T21:19:52+00:00"
     },
     {
-      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
-      "summary": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50634426",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-24T20:44:15+00:00"
-    },
-    {
       "title": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
       "summary": "Anthropic now lets you install Claude Artifacts as desktop apps on Mac and Windows, and a free account is enough. You build one in chat without writing code, and it can add menu bar items, send notifications, and create transparen",
       "url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
@@ -427,52 +603,12 @@
       "published": "2026-11-24T20:42:29+00:00"
     },
     {
-      "title": "TikTok was down",
-      "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do, following a slew of other outages over the past couple of weeks. Videos sometimes would",
-      "url": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-24T20:27:27+00:00"
-    },
-    {
-      "title": "Ternary Bonsai 2.5 27B",
-      "summary": "Comments",
-      "url": "https://prismml.com/news/bonsai-2-5-27b",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-24T20:08:03+00:00"
-    },
-    {
-      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, acco",
-      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-24T20:02:03+00:00"
-    },
-    {
-      "title": "The clock is running out for America’s most contentious spying law",
-      "summary": "Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass military spending bill. Sen. Mike R",
-      "url": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-24T20:00:00+00:00"
-    },
-    {
       "title": "Data Modeling Best Practices for an Agentic CDP, Part 1: The Data Foundation",
       "summary": "A customer saved a jacket to their wishlist on your site 9 days ago. This morning...",
       "url": "https://www.databricks.com/blog/agentic-cdp-data-modeling-data-foundation",
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-24T19:36:52+00:00"
-    },
-    {
-      "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
-      "summary": "Two years after launch, Anthropic reports more than 700 million monthly downloads for its MCP interface standard. New features such as background tasks, follow-up questions for users, and file uploads are meant to let Claude work ",
-      "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-24T19:23:41+00:00"
     },
     {
       "title": "Mitsubishi Electric Research Lab CEO on How He Reached the C-Suite",
@@ -499,28 +635,12 @@
       "published": "2026-11-24T18:02:59+00:00"
     },
     {
-      "title": "Novartis CEO says AI will shave four years off drug development, not cure all disease",
-      "summary": "Novartis CEO Vas Narasimhan, who also sits on Anthropic's board, is pushing back on the cure-all promises from Anthropic CEO Amodei and DeepMind founder Hassabis. AI will speed up drug development, he says, but it won't beat cance",
-      "url": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-24T18:01:55+00:00"
-    },
-    {
       "title": "Paginated reports in Power BI support outbound access protection (Preview)",
       "summary": "Paginated reports can combine data from Power BI semantic models and other data sources with external resources such as maps and images. Workspace admins can control which destinations the Power BI service can reach when it render",
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Paginated-reports-in-Power-BI-support-outbound-access-protection/ba-p/5435045",
       "source": "Microsoft Power BI",
       "category": "Analytics",
       "published": "2026-11-24T18:00:00+00:00"
-    },
-    {
-      "title": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\"",
-      "summary": "OpenAI researcher Noam Brown is urging promising students to drop out, saying it's \"not a great time to sit on the sidelines.\" The o1 co-creator says AI is still in a \"centaur period\" and struggles with planning and self-correctio",
-      "url": "https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-24T17:58:44+00:00"
     },
     {
       "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
@@ -555,14 +675,6 @@
       "published": "2026-11-24T16:46:00+00:00"
     },
     {
-      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-      "summary": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50630809",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-24T16:45:44+00:00"
-    },
-    {
       "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
       "summary": "",
       "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
@@ -571,28 +683,12 @@
       "published": "2026-11-24T16:34:13+00:00"
     },
     {
-      "title": "Active intrusion campaign against Check Point security management servers",
-      "summary": "Comments",
-      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-24T16:32:17+00:00"
-    },
-    {
       "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
       "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
       "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-24T16:10:00+00:00"
-    },
-    {
-      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-      "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
-      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-24T16:02:37+00:00"
     },
     {
       "title": "These are the gifts developers will actually want",
@@ -611,28 +707,12 @@
       "published": "2026-11-24T16:00:00+00:00"
     },
     {
-      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-      "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
-      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-24T15:51:07+00:00"
-    },
-    {
       "title": "AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more (November 24, 2026)",
       "summary": "Some limits shape architecture more than any feature does. AWS Lambda launched in 2014 with a 60-second timeout, moved to 5 minutes in 2015 and to 15 minutes in 2018, and then stayed there for eight years. Last week the limit doub",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
       "source": "AWS News",
       "category": "Cloud",
       "published": "2026-11-24T15:39:59+00:00"
-    },
-    {
-      "title": "Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout",
-      "summary": "Anthropic researcher Levent Alpöge is walking back parts of his announcement of an AI-assisted proof of the generalized Riemann hypothesis. The claim that it ran to more than 250,000 pages was a joke, he says, and the published Le",
-      "url": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-24T14:28:41+00:00"
     },
     {
       "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
@@ -651,28 +731,20 @@
       "published": "2026-11-24T13:28:21+00:00"
     },
     {
-      "title": "GTA 6 Running on Windows",
-      "summary": "Comments",
-      "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-24T13:19:31+00:00"
-    },
-    {
-      "title": "Getting old Java phones online again",
-      "summary": "Comments",
-      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-24T13:14:37+00:00"
-    },
-    {
       "title": "The Download: AI’s gas power boom and a consciousness reality check",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to ",
       "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
       "source": "MIT Technology Review",
       "category": "Emerging",
       "published": "2026-11-24T13:10:00+00:00"
+    },
+    {
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-11-24T13:07:53+00:00"
     },
     {
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -689,14 +761,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-24T12:42:09+00:00"
-    },
-    {
-      "title": "The Shapes of Rivers",
-      "summary": "Comments",
-      "url": "https://dominicroye.github.io/shapes-of-rivers/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-24T12:14:25+00:00"
     },
     {
       "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
@@ -755,6 +819,22 @@
       "published": "2026-11-24T08:34:20+00:00"
     },
     {
+      "title": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
+      "summary": "Comments",
+      "url": "https://www.rchive.computer/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-24T07:03:33+00:00"
+    },
+    {
+      "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+      "summary": "Comments",
+      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-24T06:22:36+00:00"
+    },
+    {
       "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
       "summary": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. \"It lets agents write dynamic eBPF ",
       "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
@@ -771,12 +851,12 @@
       "published": "2026-11-24T06:02:45+00:00"
     },
     {
-      "title": "The algebra of dependent types (2025)",
+      "title": "A fast CAS with a focus on resolution of singularities",
       "summary": "Comments",
-      "url": "https://dotat.at/@/2025-05-28-types.html",
+      "url": "https://github.com/pportilla/atlas",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-24T04:49:58+00:00"
+      "published": "2026-11-24T02:57:22+00:00"
     },
     {
       "title": "Sharing catalog metadata across data platforms, engines, and agents",
@@ -811,38 +891,6 @@
       "published": "2026-11-24T00:00:00+00:00"
     },
     {
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-23T22:05:50+00:00"
-    },
-    {
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-23T22:02:05+00:00"
-    },
-    {
-      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-23T21:47:41+00:00"
-    },
-    {
-      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
-      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-23T21:25:42+00:00"
-    },
-    {
       "title": "OpenAI and Cisco introduce Shirudo",
       "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
       "url": "https://openai.com/index/introducing-shirudo",
@@ -851,20 +899,20 @@
       "published": "2026-11-23T21:20:00+00:00"
     },
     {
+      "title": "The undocumented 249-file limit for Googlebot rendering",
+      "summary": "Comments",
+      "url": "https://www.fullstackoptimization.com/a/googlebot-249-file-rendering-limit",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-23T20:50:20+00:00"
+    },
+    {
       "title": "What 5,400 Malicious npm Packages Reveal about Software Supply Chain Risk in 2026",
       "summary": "Executive summaryThis report is the first of a series of blogs analyzing the supply chain threat landscape...",
       "url": "https://www.databricks.com/blog/what-5400-malicious-npm-packages-reveal-about-software-supply-chain-risk-2026",
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-23T20:47:23+00:00"
-    },
-    {
-      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
-      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-23T20:38:53+00:00"
     },
     {
       "title": "Power BI November 2026 Feature Summary",
@@ -899,6 +947,14 @@
       "published": "2026-11-23T19:00:00+00:00"
     },
     {
+      "title": "Why \"all different\" Sets take 5x longer to find",
+      "summary": "Comments",
+      "url": "https://setdaily.app/blog/spotting-sets",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-23T18:48:15+00:00"
+    },
+    {
       "title": "Tune the performance of your medallion pipeline in Fabric Data Warehouse",
       "summary": "Coauthor - Artur Vieira Part 5 of a series on medallion architecture with Fabric Data Warehouse Measure first, then tune the layer that is actually slow The first four posts covered how to choose a pattern, build the Bronze, Silve",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Tune-the-performance-of-your-medallion-pipeline-in-Fabric-Data/ba-p/5377545",
@@ -921,14 +977,6 @@
       "source": "MIT Technology Review",
       "category": "Emerging",
       "published": "2026-11-23T17:36:08+00:00"
-    },
-    {
-      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "summary": "",
-      "url": "https://huggingface.co/blog/allenai/robotrack",
-      "source": "Hugging Face",
-      "category": "AI",
-      "published": "2026-11-23T17:20:37+00:00"
     },
     {
       "title": "A more tailored Google Search that’s uniquely yours",
@@ -955,14 +1003,6 @@
       "published": "2026-11-23T16:32:10+00:00"
     },
     {
-      "title": "When in Doubt, Flail About",
-      "summary": "Comments",
-      "url": "https://www.seangoedecke.com/when-in-doubt-flail-about/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-23T15:45:11+00:00"
-    },
-    {
       "title": "Scalar User-defined functions (UDFs) in Microsoft Fabric Data Warehouse (Generally Available)",
       "summary": "T-SQL scalar user-defined functions (UDFs) are now generally available in Microsoft Fabric Data Warehouse and the SQL analytics endpoint. During preview, scalar UDFs gained support for procedural T-SQL and additional query shapes ",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Scalar-User-defined-functions-UDFs-in-Microsoft-Fabric-Data/ba-p/5399753",
@@ -985,6 +1025,14 @@
       "source": "IEEE Spectrum",
       "category": "Emerging",
       "published": "2026-11-23T14:08:53+00:00"
+    },
+    {
+      "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
+      "summary": "Comments",
+      "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-23T14:02:15+00:00"
     },
     {
       "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
@@ -1011,20 +1059,20 @@
       "published": "2026-11-23T12:41:04+00:00"
     },
     {
-      "title": "An Italian folding bicycle design that fits into a suitcase",
-      "summary": "Comments",
-      "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-23T12:40:08+00:00"
-    },
-    {
       "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
       "summary": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers. The bug, tracked as CVE-2026-134",
       "url": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-23T12:28:09+00:00"
+    },
+    {
+      "title": "A Beer Brewer's Noise Estimation",
+      "summary": "Comments",
+      "url": "https://chillphysicsenjoyer.substack.com/p/a-beer-brewers-noise-estimation",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-23T12:20:15+00:00"
     },
     {
       "title": "Why using rocks for carbon removal could eventually reduce crop growth",
@@ -1083,14 +1131,6 @@
       "published": "2026-11-23T08:00:00+00:00"
     },
     {
-      "title": "The short age of dragon riders",
-      "summary": "Comments",
-      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-23T05:33:34+00:00"
-    },
-    {
       "title": "How to build and maintain an agentic evaluation",
       "summary": "",
       "url": "https://huggingface.co/blog/agentic-evals",
@@ -1099,12 +1139,12 @@
       "published": "2026-11-23T00:00:00+00:00"
     },
     {
-      "title": "The Spray Bottle",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
       "summary": "Comments",
-      "url": "https://mechanical-pencil.com/products/spray-bottle",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-22T11:16:30+00:00"
+      "published": "2026-11-22T16:44:48+00:00"
     },
     {
       "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
@@ -1129,6 +1169,14 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-22T00:00:00+00:00"
+    },
+    {
+      "title": "SSH is a GUI framework",
+      "summary": "Comments",
+      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-21T14:52:41+00:00"
     },
     {
       "title": "The Outages Are Just Getting Started",
@@ -1361,14 +1409,6 @@
       "source": "GitHub Blog",
       "category": "Development",
       "published": "2026-11-19T16:00:00+00:00"
-    },
-    {
-      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in A",
-      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-      "source": "MIT Technology Review",
-      "category": "Emerging",
-      "published": "2026-11-19T13:10:00+00:00"
     },
     {
       "title": "Why a Computer Scientist Thinks Superintelligence Won’t Happen",
@@ -2251,14 +2291,6 @@
       "published": "2026-11-05T22:00:00+00:00"
     },
     {
-      "title": "Inside GitHub’s new Git storage architecture",
-      "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .",
-      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-      "source": "GitHub Blog",
-      "category": "Development",
-      "published": "2026-11-05T20:23:21+00:00"
-    },
-    {
       "title": "IEEE Program Schools Preuniversity Educators On Tech Topics",
       "summary": "Now in their third year, the IEEE TryEngineering educator sessions continue to empower preuniversity teachers with specialized professional development programs on engineering topics and classroom-tested lessons. This year’s sessi",
       "url": "https://spectrum.ieee.org/ieee-preuniversity",
@@ -2289,14 +2321,6 @@
       "source": "IEEE Spectrum",
       "category": "Emerging",
       "published": "2026-11-05T16:08:03+00:00"
-    },
-    {
-      "title": "Accessibility statements now have a home on GitHub",
-      "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have",
-      "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
-      "source": "GitHub Blog",
-      "category": "Development",
-      "published": "2026-11-05T16:00:00+00:00"
     },
     {
       "title": "Why a Mathematician Is Chasing Eclipses With Algorithms and Cameras",
@@ -2569,14 +2593,6 @@
       "source": "AWS News",
       "category": "Cloud",
       "published": "2026-10-20T17:03:38+00:00"
-    },
-    {
-      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "summary": "",
-      "url": "https://huggingface.co/blog/hf-torchtpu",
-      "source": "Hugging Face",
-      "category": "AI",
-      "published": "2026-10-20T00:00:00+00:00"
     },
     {
       "title": "AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026)",
@@ -2873,14 +2889,6 @@
       "source": "Google DeepMind",
       "category": "AI",
       "published": "2026-08-27T12:59:16+00:00"
-    },
-    {
-      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
-      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-      "source": "Google DeepMind",
-      "category": "AI",
-      "published": "2026-08-26T17:01:00+00:00"
     },
     {
       "title": "Upgrade Power BI Dataflows Gen1 to Fabric Dataflows Gen2 with the Upgrade Wizard (Preview)",
