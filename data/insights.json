@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T00:27:19.342412+00:00",
+  "updated_at": "2026-11-26T13:57:56.900356+00:00",
   "trending": [
     {
       "title": "Workspace outbound access protection for Power BI semantic models and interactive reports (Generally Available)",
@@ -10,6 +10,30 @@
       "published": "2026-11-24T17:00:00+00:00"
     },
     {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "summary": "",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "source": "Hugging Face",
+      "category": "AI",
+      "published": "2026-11-26T00:00:00+00:00"
+    },
+    {
+      "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
+      "summary": "The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites to process AI data as orbital data centers. SpaceX is targeting its first launches in 2027, and the full constellation is set to be operating by 2040. Goo",
+      "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-26T13:41:07+00:00"
+    },
+    {
+      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left han",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+      "source": "MIT Technology Review",
+      "category": "Emerging",
+      "published": "2026-11-26T13:10:00+00:00"
+    },
+    {
       "title": "Where scientists draw the line on AI agents",
       "summary": "",
       "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
@@ -18,39 +42,39 @@
       "published": "2026-11-25T18:52:55+00:00"
     },
     {
-      "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
-      "summary": "Amazon and Meta are in talks to bring back Muse, Meta's AI shopping agent that Amazon kicked off its platform in September. The two sides are stuck on ad revenue and who gets to control search results. That matters because Amazon'",
-      "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-25T16:44:37+00:00"
-    },
-    {
-      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
-      "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, an",
-      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-25T15:41:43+00:00"
-    },
-    {
-      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
-      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-25T14:10:18+00:00"
-    },
-    {
-      "title": "Data Modeling Best Practices for an Agentic CDP, Part 1: The Data Foundation",
-      "summary": "A customer saved a jacket to their wishlist on your site 9 days ago. This morning...",
-      "url": "https://www.databricks.com/blog/agentic-cdp-data-modeling-data-foundation",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-24T19:36:52+00:00"
+      "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+      "summary": "Comments",
+      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-26T11:50:49+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
+      "summary": "The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites to process AI data as orbital data centers. SpaceX is targeting its first launches in 2027, and the full constellation is set to be operating by 2040. Goo",
+      "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-26T13:41:07+00:00"
+    },
+    {
+      "title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
+      "summary": "Microsoft has published the technical architecture of ARTEX, an AI framework in wide use since July 2026 that runs cyberattacks with specialized agents and almost no human involvement. State-backed groups from China and North Kore",
+      "url": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-26T11:30:06+00:00"
+    },
+    {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "summary": "",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "source": "Hugging Face",
+      "category": "AI",
+      "published": "2026-11-26T00:00:00+00:00"
+    },
     {
       "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
       "summary": "Chip restrictions, anti-distillation measures, and shrinking access to Nvidia hardware abroad are putting growing pressure on Deepseek, Moonshot AI, and Alibaba, according to a report. Deepseek researchers internally estimate they",
@@ -74,33 +98,25 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-25T20:03:27+00:00"
-    },
-    {
-      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
-      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-25T19:44:24+00:00"
-    },
-    {
-      "title": "Where scientists draw the line on AI agents",
-      "summary": "",
-      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-      "source": "Hugging Face",
-      "category": "AI",
-      "published": "2026-11-25T18:52:55+00:00"
-    },
-    {
-      "title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
-      "summary": "OpenAI is testing a new feature called \"Private Inference\" that lets companies run queries on its most powerful models without OpenAI being able to access the data. The article OpenAI wants companies to trust it with sensitive wor",
-      "url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-25T18:22:02+00:00"
     }
   ],
   "technology_releases": [
+    {
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "source": "Hugging Face",
+      "category": "AI",
+      "published": "2026-11-26T11:37:17+00:00"
+    },
+    {
+      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn ",
+      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-26T00:04:34+00:00"
+    },
     {
       "title": "Much shorter version of GRH Lean verification from Anthropic",
       "summary": "Comments",
@@ -108,6 +124,14 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-25T21:48:10+00:00"
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "summary": "Comments",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T21:18:02+00:00"
     },
     {
       "title": "Paginated reports in Power BI support outbound access protection (Preview)",
@@ -124,30 +148,6 @@
       "source": "Microsoft Power BI",
       "category": "Analytics",
       "published": "2026-11-24T17:00:00+00:00"
-    },
-    {
-      "title": "Power BI November 2026 Feature Summary",
-      "summary": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. ________________________________ Welcome t",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-November-2026-Feature-Summary/ba-p/5414287",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-11-23T20:38:13+00:00"
-    },
-    {
-      "title": "On-demand billing for Fabric Data Warehouse (Preview)",
-      "summary": "Only pay for what you consume Many warehouse workloads are highly variable. In some cases, a few peak periods demand significant compute, while the rest of the month usage is much lower. Shared capacity is a great fit for steady, ",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-demand-billing-for-Fabric-Data-Warehouse-Preview/ba-p/5376329",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-23T19:30:00+00:00"
-    },
-    {
-      "title": "Fabric on-demand billing and Zero-provisioned (F0) Capacity (Preview)",
-      "summary": "Microsoft is introducing a new way to consume Fabric called on-demand billing . This includes a new F0 SKU , enabling customers to get started with zero upfront commitment, as well as a hybrid option that pairs any traditional F S",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-on-demand-billing-and-Zero-provisioned-F0-Capacity/ba-p/5377585",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-23T19:00:00+00:00"
     }
   ]
 }
