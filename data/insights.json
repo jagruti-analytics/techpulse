@@ -1,53 +1,53 @@
 {
-  "updated_at": "2026-11-27T00:38:11.908790+00:00",
+  "updated_at": "2026-11-27T13:56:09.634528+00:00",
   "trending": [
     {
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "title": "US Air Force's cloud computing platform hacked",
       "summary": "Comments",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-26T09:44:23+00:00"
+      "published": "2026-11-27T12:54:11+00:00"
     },
     {
-      "title": "Workspace outbound access protection for Power BI semantic models and interactive reports (Generally Available)",
-      "summary": "Workspace outbound access protection (OAP) is generally available for Power BI semantic models and interactive Power BI reports in Microsoft Fabric workspaces. With OAP, workspace admins can limit which data sources semantic model",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Workspace-outbound-access-protection-for-Power-BI-semantic/ba-p/5435053",
-      "source": "Microsoft Power BI",
-      "category": "Analytics",
-      "published": "2026-11-24T17:00:00+00:00"
-    },
-    {
-      "title": "AI made self-hosting fun again",
+      "title": "Pizza history: AI agent's cardless purchase is a first for UK",
       "summary": "Comments",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-26T21:47:45+00:00"
+      "published": "2026-11-27T11:41:11+00:00"
     },
     {
-      "title": "Top-cited AI scientists at four US companies compared",
-      "summary": "Comments",
-      "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T19:44:31+00:00"
-    },
-    {
-      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
-      "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install one can cha",
-      "url": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+      "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+      "summary": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells almost no one",
+      "url": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
       "source": "The Hacker News",
       "category": "Security",
-      "published": "2026-11-26T19:39:57+00:00"
+      "published": "2026-11-27T10:32:18+00:00"
     },
     {
-      "title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
-      "summary": "Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent math breakthroughs matter far beyond academia. The possible consequences, he writes, range from reshaping the global economy to threatening al",
-      "url": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-26T19:31:46+00:00"
+      "title": "The group chat where your AI talks behind your back",
+      "summary": "Comments",
+      "url": "https://construct22.com/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T06:44:34+00:00"
+    },
+    {
+      "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+      "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday. Three of the attacks tar",
+      "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-27T06:04:20+00:00"
+    },
+    {
+      "title": "The need for a formally verifiable mainstream programming language",
+      "summary": "Comments",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T05:22:06+00:00"
     }
   ],
   "ai_breakthroughs": [

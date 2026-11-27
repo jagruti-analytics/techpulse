@@ -1,7 +1,191 @@
 {
-  "updated_at": "2026-11-27T00:38:11.908790+00:00",
+  "updated_at": "2026-11-27T13:56:09.634528+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "Counseling for mental health decreases likelihood of protesting by 34%–39%",
+      "summary": "Comments",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T13:01:02+00:00"
+    },
+    {
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Review honor",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "source": "MIT Technology Review",
+      "category": "Emerging",
+      "published": "2026-11-27T13:00:00+00:00"
+    },
+    {
+      "title": "US Air Force's cloud computing platform hacked",
+      "summary": "Comments",
+      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T12:54:11+00:00"
+    },
+    {
+      "title": "New York and California Age Gating Rules Go into Effect in the New Year",
+      "summary": "Comments",
+      "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T12:43:40+00:00"
+    },
+    {
+      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "summary": "Comments",
+      "url": "https://eprint.iacr.org/2026/3020.pdf",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T12:08:51+00:00"
+    },
+    {
+      "title": "Kimi for Science: More scientific ideas, made possible",
+      "summary": "Comments",
+      "url": "https://www.kimi.ai/news/kimi-for-science-program",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T12:03:11+00:00"
+    },
+    {
+      "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+      "summary": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT. The intrusion, according to eSentire, beg",
+      "url": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-27T11:49:34+00:00"
+    },
+    {
+      "title": "Pizza history: AI agent's cardless purchase is a first for UK",
+      "summary": "Comments",
+      "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T11:41:11+00:00"
+    },
+    {
+      "title": "Our 2027 Innovators Under 35 competition is now open",
+      "summary": "Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today, our 2027 competition is official",
+      "url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+      "source": "MIT Technology Review",
+      "category": "Emerging",
+      "published": "2026-11-27T10:48:47+00:00"
+    },
+    {
+      "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+      "summary": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells almost no one",
+      "url": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-27T10:32:18+00:00"
+    },
+    {
+      "title": "How cutting-edge prosthetics can help probe the human mind",
+      "summary": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand. Today, he uses",
+      "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+      "source": "MIT Technology Review",
+      "category": "Emerging",
+      "published": "2026-11-27T10:00:00+00:00"
+    },
+    {
+      "title": "The British Government is Turning Everyone Into a Prepper",
+      "summary": "Forget guns and underground bunkers. Britain’s burgeoning survivalist movement is more worried about backup power, baby formula, and making friends with the neighbors.",
+      "url": "https://www.wired.com/story/the-british-government-is-turning-everyone-into-a-prepper/",
+      "source": "Wired Security",
+      "category": "Security",
+      "published": "2026-11-27T10:00:00+00:00"
+    },
+    {
+      "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+      "summary": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website. \"Evidence indicates that malicious f",
+      "url": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-27T09:29:30+00:00"
+    },
+    {
+      "title": "European Commission Declares Browser Competition a Digital Markets Act Priority",
+      "summary": "Comments",
+      "url": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T08:11:46+00:00"
+    },
+    {
+      "title": "Indie web browser Ladybird enters alpha testing",
+      "summary": "Comments",
+      "url": "https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T07:58:37+00:00"
+    },
+    {
+      "title": "The group chat where your AI talks behind your back",
+      "summary": "Comments",
+      "url": "https://construct22.com/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T06:44:34+00:00"
+    },
+    {
+      "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+      "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday. Three of the attacks tar",
+      "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-27T06:04:20+00:00"
+    },
+    {
+      "title": "Buy Nothing Day – Friday November 27th 2026",
+      "summary": "Comments",
+      "url": "https://www.buynothingday.co.uk/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T05:52:42+00:00"
+    },
+    {
+      "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+      "summary": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution. The proof-of-concept (PoC) exploit, which has yet to be assigned a",
+      "url": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-27T05:48:20+00:00"
+    },
+    {
+      "title": "The need for a formally verifiable mainstream programming language",
+      "summary": "Comments",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T05:22:06+00:00"
+    },
+    {
+      "title": "The Cutthroat Business of Shipwrecks",
+      "summary": "Comments",
+      "url": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T01:21:49+00:00"
+    },
+    {
+      "title": "Hard Drive pricing has gotten bad",
+      "summary": "Comments",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T01:13:49+00:00"
+    },
+    {
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "summary": "",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "source": "Hugging Face",
+      "category": "AI",
+      "published": "2026-11-27T00:00:00+00:00"
+    },
     {
       "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
       "summary": "Comments",
@@ -19,14 +203,6 @@
       "published": "2026-11-26T21:47:45+00:00"
     },
     {
-      "title": "Denver man traps Waymo robotaxis with cones, eggs them at least 30 times",
-      "summary": "Comments",
-      "url": "https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T21:16:41+00:00"
-    },
-    {
       "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
       "summary": "Comments",
       "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
@@ -35,20 +211,20 @@
       "published": "2026-11-26T21:08:05+00:00"
     },
     {
+      "title": "Company Culture = Slack Emoji ÷ √Headcount",
+      "summary": "Comments",
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-26T20:49:49+00:00"
+    },
+    {
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
       "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
       "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-26T20:03:54+00:00"
-    },
-    {
-      "title": "Top-cited AI scientists at four US companies compared",
-      "summary": "Comments",
-      "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T19:44:31+00:00"
     },
     {
       "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
@@ -75,28 +251,20 @@
       "published": "2026-11-26T19:18:09+00:00"
     },
     {
+      "title": "An introduction to uncertainty in machine learning",
+      "summary": "Comments",
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-26T19:04:50+00:00"
+    },
+    {
       "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
       "summary": "Comments",
       "url": "https://bui.preetham.top/charts/",
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-26T18:37:24+00:00"
-    },
-    {
-      "title": "IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company",
-      "summary": "Comments",
-      "url": "https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T18:35:37+00:00"
-    },
-    {
-      "title": "George Whitesides, 1939-2026",
-      "summary": "Comments",
-      "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T18:13:07+00:00"
     },
     {
       "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
@@ -147,14 +315,6 @@
       "published": "2026-11-26T17:06:24+00:00"
     },
     {
-      "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
-      "summary": "Comments",
-      "url": "https://github.com/rxliuli/sim-drop",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T16:51:38+00:00"
-    },
-    {
       "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
       "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
       "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
@@ -172,19 +332,11 @@
     },
     {
       "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
-      "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides in a small",
+      "summary": "The threat actors behind the PolinRider campaign have compromised over 7,600 GitHub repositories, in some cases planting a Python loader capable of delivering next-stage payloads, as evidence emerges that the activity may have sta",
       "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-26T15:13:41+00:00"
-    },
-    {
-      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-      "summary": "Comments",
-      "url": "https://michidk.github.io/sidebyside/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T15:00:06+00:00"
     },
     {
       "title": "Show HN: I wrote an entire Vim manual over 4 years",
@@ -193,14 +345,6 @@
       "source": "Hacker News",
       "category": "Development",
       "published": "2026-11-26T14:44:22+00:00"
-    },
-    {
-      "title": "Tell HN: Happy Thanksgiving",
-      "summary": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50655664",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T14:26:54+00:00"
     },
     {
       "title": "Samsung’s R95H TV shows what RGB LED is capable of",
@@ -233,22 +377,6 @@
       "source": "MIT Technology Review",
       "category": "Emerging",
       "published": "2026-11-26T13:10:00+00:00"
-    },
-    {
-      "title": "Head of Software Engineering – NOX Metals",
-      "summary": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50654353",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T12:00:00+00:00"
-    },
-    {
-      "title": "Nextcloud Office Desktop app",
-      "summary": "Comments",
-      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T11:50:49+00:00"
     },
     {
       "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
@@ -323,14 +451,6 @@
       "published": "2026-11-26T09:44:23+00:00"
     },
     {
-      "title": "OpenAI may be in cost control mode",
-      "summary": "Comments",
-      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T07:33:12+00:00"
-    },
-    {
       "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
       "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of imprope",
       "url": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
@@ -371,28 +491,12 @@
       "published": "2026-11-26T05:05:36+00:00"
     },
     {
-      "title": "NormalScript: A perfectly normal scripting language",
-      "summary": "Comments",
-      "url": "https://psychoscript.com/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T04:32:26+00:00"
-    },
-    {
       "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
       "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF [Windows P",
       "url": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-26T03:48:52+00:00"
-    },
-    {
-      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
-      "summary": "Comments",
-      "url": "https://olumino.app",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T03:33:06+00:00"
     },
     {
       "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
@@ -491,14 +595,6 @@
       "published": "2026-11-25T19:44:24+00:00"
     },
     {
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "summary": "Comments",
-      "url": "https://scottaaronson.blog/?p=10379",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T19:11:27+00:00"
-    },
-    {
       "title": "1Password breach leaked customer names and emails, but not passwords",
       "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishi",
       "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
@@ -545,14 +641,6 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-25T17:35:58+00:00"
-    },
-    {
-      "title": "1Password Security Incident",
-      "summary": "Comments",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T17:18:26+00:00"
     },
     {
       "title": "How data centers are driving a US natural-gas boom",
@@ -1035,14 +1123,6 @@
       "published": "2026-11-23T21:20:00+00:00"
     },
     {
-      "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
-      "summary": "Comments",
-      "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-23T21:18:49+00:00"
-    },
-    {
       "title": "What 5,400 Malicious npm Packages Reveal about Software Supply Chain Risk in 2026",
       "summary": "Executive summaryThis report is the first of a series of blogs analyzing the supply chain threat landscape...",
       "url": "https://www.databricks.com/blog/what-5400-malicious-npm-packages-reveal-about-software-supply-chain-risk-2026",
@@ -1097,14 +1177,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-23T17:45:15+00:00"
-    },
-    {
-      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or",
-      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "source": "MIT Technology Review",
-      "category": "Emerging",
-      "published": "2026-11-23T17:36:08+00:00"
     },
     {
       "title": "A more tailored Google Search that’s uniquely yours",
@@ -1163,14 +1235,6 @@
       "published": "2026-11-23T13:22:20+00:00"
     },
     {
-      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluati",
-      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-      "source": "MIT Technology Review",
-      "category": "Emerging",
-      "published": "2026-11-23T13:10:00+00:00"
-    },
-    {
       "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
       "summary": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client",
       "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
@@ -1179,52 +1243,12 @@
       "published": "2026-11-23T12:41:04+00:00"
     },
     {
-      "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
-      "summary": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers. The bug, tracked as CVE-2026-134",
-      "url": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-23T12:28:09+00:00"
-    },
-    {
-      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-      "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farm",
-      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
-      "source": "MIT Technology Review",
-      "category": "Emerging",
-      "published": "2026-11-23T11:00:00+00:00"
-    },
-    {
       "title": "States Sue SpaceX Over Grok Deepfakes",
       "summary": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
       "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
       "source": "Wired Security",
       "category": "Security",
       "published": "2026-11-23T11:00:00+00:00"
-    },
-    {
-      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
-      "summary": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wi",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-23T09:11:56+00:00"
-    },
-    {
-      "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
-      "summary": "Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice u",
-      "url": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-23T09:04:08+00:00"
-    },
-    {
-      "title": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
-      "summary": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the countr",
-      "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-23T08:24:15+00:00"
     },
     {
       "title": "Connected intelligence for in-house legal",
@@ -1249,14 +1273,6 @@
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-11-23T00:00:00+00:00"
-    },
-    {
-      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
-      "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged",
-      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-22T05:06:55+00:00"
     },
     {
       "title": "Perplexity and Intelligence",
@@ -2259,14 +2275,6 @@
       "published": "2026-11-06T22:15:59+00:00"
     },
     {
-      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-      "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
-      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-      "source": "Wired Security",
-      "category": "Security",
-      "published": "2026-11-06T18:43:43+00:00"
-    },
-    {
       "title": "Join us at FABCON + SQLCON 2027 in Atlanta and save",
       "summary": "Planning to join us at FABCON + SQLCON 2027? Register by November 13 to save $300 with early-access pricing, and use code MSCMTY to save an additional $200. Plus, a limited number of buy one, get one (BOGO) offers are available. A",
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Join-us-at-FABCON-SQLCON-2027-in-Atlanta-and-save/ba-p/5400304",
@@ -2569,14 +2577,6 @@
       "source": "Google DeepMind",
       "category": "AI",
       "published": "2026-10-22T14:30:24+00:00"
-    },
-    {
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "summary": "",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "source": "Hugging Face",
-      "category": "AI",
-      "published": "2026-10-21T17:35:36+00:00"
     },
     {
       "title": "Southeast Asia’s digital economy to hit $368 billion",
