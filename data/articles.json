@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-11-26T13:57:56.900356+00:00",
+  "updated_at": "2026-11-27T00:38:11.908790+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
+    {
+      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+      "summary": "Comments",
+      "url": "https://kendell.dev/blog/arkwrapper/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-26T21:59:19+00:00"
+    },
+    {
+      "title": "AI made self-hosting fun again",
+      "summary": "Comments",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-26T21:47:45+00:00"
+    },
+    {
+      "title": "Denver man traps Waymo robotaxis with cones, eggs them at least 30 times",
+      "summary": "Comments",
+      "url": "https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-26T21:16:41+00:00"
+    },
+    {
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "summary": "Comments",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-26T21:08:05+00:00"
+    },
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-26T20:03:54+00:00"
+    },
+    {
+      "title": "Top-cited AI scientists at four US companies compared",
+      "summary": "Comments",
+      "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-26T19:44:31+00:00"
+    },
+    {
+      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+      "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install one can cha",
+      "url": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-26T19:39:57+00:00"
+    },
+    {
+      "title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
+      "summary": "Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent math breakthroughs matter far beyond academia. The possible consequences, he writes, range from reshaping the global economy to threatening al",
+      "url": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-26T19:31:46+00:00"
+    },
+    {
+      "title": "Rvoip: VoIP stack in Rust",
+      "summary": "Comments",
+      "url": "https://github.com/eisenzopf/rvoip",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-26T19:18:09+00:00"
+    },
+    {
+      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+      "summary": "Comments",
+      "url": "https://bui.preetham.top/charts/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-26T18:37:24+00:00"
+    },
+    {
+      "title": "IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company",
+      "summary": "Comments",
+      "url": "https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-26T18:35:37+00:00"
+    },
+    {
+      "title": "George Whitesides, 1939-2026",
+      "summary": "Comments",
+      "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-26T18:13:07+00:00"
+    },
+    {
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "summary": "Comments",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-26T17:47:45+00:00"
+    },
+    {
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "summary": "Comments",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-26T17:36:47+00:00"
+    },
+    {
+      "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
+      "summary": "OpenAI says a billing bug gave GPT-6.2 users incorrect discounts. After the fix, Astra and Sol users hit their limits 40 and 25 percent faster than last week. As an apology, subscribers get an extra reset, and business users get f",
+      "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-26T17:28:56+00:00"
+    },
+    {
+      "title": "AMD-specific fork of llama.cpp",
+      "summary": "Comments",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-26T17:11:29+00:00"
+    },
+    {
+      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+      "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at",
+      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-26T17:07:00+00:00"
+    },
+    {
+      "title": "Android app developers will soon have to share their address publicly",
+      "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet Europe",
+      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-26T17:06:24+00:00"
+    },
+    {
+      "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+      "summary": "Comments",
+      "url": "https://github.com/rxliuli/sim-drop",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-26T16:51:38+00:00"
+    },
+    {
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "published": "2026-11-26T16:00:00+00:00"
+    },
+    {
+      "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+      "summary": "Chinese AI companies Z.AI and Moonshot AI have to delay their next flagship models and are looking for new sources of training data. The article After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is tur",
+      "url": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-26T15:45:08+00:00"
+    },
+    {
+      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+      "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides in a small",
+      "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-26T15:13:41+00:00"
+    },
+    {
+      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "summary": "Comments",
+      "url": "https://michidk.github.io/sidebyside/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-26T15:00:06+00:00"
+    },
+    {
+      "title": "Show HN: I wrote an entire Vim manual over 4 years",
+      "summary": "Comments",
+      "url": "http://themouseless.dev/vim/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-26T14:44:22+00:00"
+    },
+    {
+      "title": "Tell HN: Happy Thanksgiving",
+      "summary": "Comments",
+      "url": "https://news.ycombinator.com/item?id=50655664",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-26T14:26:54+00:00"
+    },
+    {
+      "title": "Samsung’s R95H TV shows what RGB LED is capable of",
+      "summary": "RGB LED TVs finally became affordable in 2026, and there's always a lot of promise when new TV technologies come out. More color, higher brightness, improved performance - RGB LED TVs have a lot to prove. The Samsung R95H does a l",
+      "url": "https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-26T14:00:00+00:00"
+    },
+    {
+      "title": "Rethinking read replicas for the lakebase architecture",
+      "summary": "The idea behind read replicas makes sense: when your app gets busy, you add a couple...",
+      "url": "https://www.databricks.com/blog/rethinking-read-replicas-lakebase-architecture",
+      "source": "Databricks",
+      "category": "Analytics",
+      "published": "2026-11-26T13:45:08+00:00"
+    },
     {
       "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
       "summary": "The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites to process AI data as orbital data centers. SpaceX is targeting its first launches in 2027, and the full constellation is set to be operating by 2040. Goo",
@@ -27,7 +243,7 @@
       "published": "2026-11-26T12:00:00+00:00"
     },
     {
-      "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+      "title": "Nextcloud Office Desktop app",
       "summary": "Comments",
       "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
       "source": "Hacker News",
@@ -83,7 +299,7 @@
       "published": "2026-11-26T10:45:50+00:00"
     },
     {
-      "title": "Intel One Mono font",
+      "title": "Intel One Mono font (2023)",
       "summary": "Comments",
       "url": "https://github.com/intel/intel-one-mono",
       "source": "Hacker News",
@@ -97,6 +313,22 @@
       "source": "MIT Technology Review",
       "category": "Emerging",
       "published": "2026-11-26T09:59:00+00:00"
+    },
+    {
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "summary": "Comments",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-26T09:44:23+00:00"
+    },
+    {
+      "title": "OpenAI may be in cost control mode",
+      "summary": "Comments",
+      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-26T07:33:12+00:00"
     },
     {
       "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
@@ -115,7 +347,7 @@
       "published": "2026-11-26T06:44:46+00:00"
     },
     {
-      "title": "Moat: Your OpenRouter Replacement",
+      "title": "Moat: OpenRouter replacement",
       "summary": "Comments",
       "url": "https://commandcode.ai/moat",
       "source": "Hacker News",
@@ -131,14 +363,6 @@
       "published": "2026-11-26T05:37:51+00:00"
     },
     {
-      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-      "summary": "Comments",
-      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T05:12:59+00:00"
-    },
-    {
       "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
       "summary": "",
       "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
@@ -147,12 +371,12 @@
       "published": "2026-11-26T05:05:36+00:00"
     },
     {
-      "title": "Unconditional Integer Factorization in Subexponential Time",
+      "title": "NormalScript: A perfectly normal scripting language",
       "summary": "Comments",
-      "url": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
+      "url": "https://psychoscript.com/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-26T04:59:56+00:00"
+      "published": "2026-11-26T04:32:26+00:00"
     },
     {
       "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
@@ -163,44 +387,12 @@
       "published": "2026-11-26T03:48:52+00:00"
     },
     {
-      "title": "Qualcomm's Oryon 3 Reaches the Top",
+      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
       "summary": "Comments",
-      "url": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+      "url": "https://olumino.app",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-26T03:43:24+00:00"
-    },
-    {
-      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-      "summary": "Comments",
-      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T03:36:58+00:00"
-    },
-    {
-      "title": "Minipg: PostgreSQL as a Single Executable",
-      "summary": "Comments",
-      "url": "https://progrium.github.io/minipg/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T03:00:48+00:00"
-    },
-    {
-      "title": "Tell HN: Lots of Ask HNs again",
-      "summary": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50649864",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T00:43:34+00:00"
-    },
-    {
-      "title": "Collection of preserved UI style guides",
-      "summary": "Comments",
-      "url": "https://aresluna.org/ui-style-guides/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T00:40:00+00:00"
+      "published": "2026-11-26T03:33:06+00:00"
     },
     {
       "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
@@ -227,28 +419,20 @@
       "published": "2026-11-25T23:56:44+00:00"
     },
     {
+      "title": "The USAID Files",
+      "summary": "Comments",
+      "url": "https://reclaimthenet.org/usaid-files",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T23:15:52+00:00"
+    },
+    {
       "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
       "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
       "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-25T22:44:32+00:00"
-    },
-    {
-      "title": "Bare Metal Qwen",
-      "summary": "Comments",
-      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T22:15:34+00:00"
-    },
-    {
-      "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
-      "summary": "Comments",
-      "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T22:12:25+00:00"
     },
     {
       "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
@@ -259,44 +443,12 @@
       "published": "2026-11-25T21:51:26+00:00"
     },
     {
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "summary": "Comments",
-      "url": "https://github.com/lsernau/grh-lean",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T21:48:10+00:00"
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "summary": "Comments",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T21:18:02+00:00"
-    },
-    {
       "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
       "summary": "Chip restrictions, anti-distillation measures, and shrinking access to Nvidia hardware abroad are putting growing pressure on Deepseek, Moonshot AI, and Alibaba, according to a report. Deepseek researchers internally estimate they",
       "url": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-25T20:51:02+00:00"
-    },
-    {
-      "title": "Slow Ubuntu security response times",
-      "summary": "Comments",
-      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T20:38:00+00:00"
-    },
-    {
-      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-      "summary": "Comments",
-      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T20:35:50+00:00"
     },
     {
       "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
@@ -395,14 +547,6 @@
       "published": "2026-11-25T17:35:58+00:00"
     },
     {
-      "title": "The polynomial Hirsch conjecture is false [pdf]",
-      "summary": "Comments",
-      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T17:34:34+00:00"
-    },
-    {
       "title": "1Password Security Incident",
       "summary": "Comments",
       "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
@@ -425,14 +569,6 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-25T16:44:37+00:00"
-    },
-    {
-      "title": "Nothing offers a full look at its AI earbuds and charging case",
-      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your convers",
-      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-25T16:00:59+00:00"
     },
     {
       "title": "Art of play in the age of AI",
@@ -459,14 +595,6 @@
       "published": "2026-11-25T15:00:00+00:00"
     },
     {
-      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
-      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the A",
-      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-25T14:12:33+00:00"
-    },
-    {
       "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
       "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
       "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
@@ -475,44 +603,12 @@
       "published": "2026-11-25T14:10:18+00:00"
     },
     {
-      "title": "‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV",
-      "summary": "As a longtime fan of the films, Blade Runner 2099 showrunner Silka Luisa says she was more excited than scared when it came to adapting the series for TV. The new show is set 50 years after the 2017 film Blade Runner 2049 and imag",
-      "url": "https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-25T14:00:00+00:00"
-    },
-    {
-      "title": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant",
-      "summary": "Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement. For oversight, Deepmind intentionally leaves th",
-      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-25T13:23:36+00:00"
-    },
-    {
-      "title": "Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools",
-      "summary": "Anthropic studied nearly 300 AI deployments across 58 US companies with sobering results. Nearly one in five still delivers no business value, held back by heavy review workloads, internal bottlenecks, and employee resistance. The",
-      "url": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-25T13:14:27+00:00"
-    },
-    {
       "title": "The Download: AI swamping open records, and firefighting for permafrost",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors’ interest in pub",
       "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
       "source": "MIT Technology Review",
       "category": "Emerging",
       "published": "2026-11-25T13:10:00+00:00"
-    },
-    {
-      "title": "Back-to-back cyber incidents at US financial investigators and spy agencies follow a string of federal hacks and outages",
-      "summary": "The US Financial Crimes Enforcement Network took systems offline as a precaution after unauthorized access. Hours earlier, reports emerged of a separate breach at the CIA, NGA, and ODNI, in which investigators suspect attackers us",
-      "url": "https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-25T13:07:44+00:00"
     },
     {
       "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
@@ -619,6 +715,14 @@
       "published": "2026-11-25T06:21:12+00:00"
     },
     {
+      "title": "Curiosity Is No Solo Act",
+      "summary": "Comments",
+      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T00:37:07+00:00"
+    },
+    {
       "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
       "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability f",
       "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
@@ -683,14 +787,6 @@
       "published": "2026-11-24T21:19:52+00:00"
     },
     {
-      "title": "The history of civilization is the history of wheat",
-      "summary": "Comments",
-      "url": "https://asteriskmag.com/issues/16/marginal-grains",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-24T20:40:18+00:00"
-    },
-    {
       "title": "Data Modeling Best Practices for an Agentic CDP, Part 1: The Data Foundation",
       "summary": "A customer saved a jacket to their wishlist on your site 9 days ago. This morning...",
       "url": "https://www.databricks.com/blog/agentic-cdp-data-modeling-data-foundation",
@@ -753,22 +849,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-24T16:54:07+00:00"
-    },
-    {
-      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
-      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-24T16:46:00+00:00"
-    },
-    {
-      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-      "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
-      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "published": "2026-11-24T16:10:00+00:00"
     },
     {
       "title": "These are the gifts developers will actually want",
@@ -883,14 +963,6 @@
       "published": "2026-11-24T11:00:00+00:00"
     },
     {
-      "title": "What VP ≠ VNP Means (In 3 Minutes)",
-      "summary": "Comments",
-      "url": "https://www.friedgil.com/vpvnp",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-24T10:56:56+00:00"
-    },
-    {
       "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
       "summary": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies ",
       "url": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
@@ -923,28 +995,12 @@
       "published": "2026-11-24T06:02:45+00:00"
     },
     {
-      "title": "Show HN: Synth Patch Hero",
-      "summary": "Comments",
-      "url": "https://swarkentin.github.io/synth-patch-hero/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-24T03:24:22+00:00"
-    },
-    {
       "title": "Sharing catalog metadata across data platforms, engines, and agents",
       "summary": "We’re excited to announce support for catalog labels – a new capability in the Apache...",
       "url": "https://www.databricks.com/blog/sharing-catalog-metadata-across-data-platforms-engines-and-agents",
       "source": "Databricks",
       "category": "Analytics",
       "published": "2026-11-24T01:30:00+00:00"
-    },
-    {
-      "title": "Training on Documents About Monitoring Leads to Cot Obfuscation",
-      "summary": "Comments",
-      "url": "https://arxiv.org/abs/2605.15257",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-24T00:19:50+00:00"
     },
     {
       "title": "How Intentful uses dots to make more time for growth",
@@ -969,14 +1025,6 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "2026-11-24T00:00:00+00:00"
-    },
-    {
-      "title": "MCP Gateway: How Snap Checks Both the Person and the Agent",
-      "summary": "Comments",
-      "url": "https://eng.snap.com/mcp-gateway",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-23T22:10:43+00:00"
     },
     {
       "title": "OpenAI and Cisco introduce Shirudo",
@@ -1203,36 +1251,12 @@
       "published": "2026-11-23T00:00:00+00:00"
     },
     {
-      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-      "summary": "Comments",
-      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-22T16:44:48+00:00"
-    },
-    {
-      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
-      "summary": "Comments",
-      "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-22T11:29:44+00:00"
-    },
-    {
       "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
       "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged",
       "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-22T05:06:55+00:00"
-    },
-    {
-      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
-      "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs",
-      "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-22T05:03:41+00:00"
     },
     {
       "title": "Perplexity and Intelligence",
@@ -1243,28 +1267,12 @@
       "published": "2026-11-22T00:00:00+00:00"
     },
     {
-      "title": "SSH is a GUI framework",
-      "summary": "Comments",
-      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-21T14:52:41+00:00"
-    },
-    {
       "title": "The Outages Are Just Getting Started",
       "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
       "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
       "source": "Wired Security",
       "category": "Security",
       "published": "2026-11-21T13:00:00+00:00"
-    },
-    {
-      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
-      "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the crede",
-      "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-21T11:53:07+00:00"
     },
     {
       "title": "Interactive Databricks Reference Architectures Across 70 Industries",
@@ -1377,14 +1385,6 @@
       "source": "IEEE Spectrum",
       "category": "Emerging",
       "published": "2026-11-19T19:00:02+00:00"
-    },
-    {
-      "title": "How partners use Genie's free tier on Azure Databricks",
-      "summary": "Every Azure Databricks user gets $10 of free Genie usage each month, usage that many...",
-      "url": "https://www.databricks.com/blog/how-partners-use-genies-free-tier-azure-databricks",
-      "source": "Databricks",
-      "category": "Analytics",
-      "published": "2026-11-19T18:00:00+00:00"
     },
     {
       "title": "Introducing Tool Retrieval in the Gemini API",
