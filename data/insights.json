@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T00:04:29.270123+00:00",
+  "updated_at": "2026-11-28T07:56:12.932730+00:00",
   "trending": [
     {
       "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
@@ -34,12 +34,12 @@
       "published": "2026-11-27T10:32:18+00:00"
     },
     {
-      "title": "Why drivers want cheap, dumb cars again",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
       "summary": "Comments",
-      "url": "https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-27T23:39:15+00:00"
+      "published": "2026-11-27T23:06:29+00:00"
     },
     {
       "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
