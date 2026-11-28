@@ -1,21 +1,29 @@
 {
-  "updated_at": "2026-11-27T13:56:09.634528+00:00",
+  "updated_at": "2026-11-28T00:04:29.270123+00:00",
   "trending": [
     {
-      "title": "US Air Force's cloud computing platform hacked",
-      "summary": "Comments",
-      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-27T12:54:11+00:00"
+      "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+      "summary": "More than 40 projects are working to bring a leaked Xbox build of GTA 6 to PC through reverse engineering just days after its $3.79 billion record console launch. AI coding agents like Claude Code are speeding up the process so mu",
+      "url": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-27T15:37:47+00:00"
     },
     {
-      "title": "Pizza history: AI agent's cardless purchase is a first for UK",
-      "summary": "Comments",
-      "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-27T11:41:11+00:00"
+      "title": "Hackers breached the US Air Force's flagship Cloud One platform, report says",
+      "summary": "Hackers breached the US Air Force's flagship cloud platform. The article Hackers breached the US Air Force's flagship Cloud One platform, report says appeared first on The Decoder .",
+      "url": "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-27T16:06:43+00:00"
+    },
+    {
+      "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+      "summary": "OpenAI's data agent in ChatGPT Work still isn't accurate enough. Under the codename \"Athena,\" the company is building a semantic layer that gives agents standardized definitions for business metrics. The tool could also put OpenAI",
+      "url": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-27T16:05:23+00:00"
     },
     {
       "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
@@ -26,31 +34,55 @@
       "published": "2026-11-27T10:32:18+00:00"
     },
     {
-      "title": "The group chat where your AI talks behind your back",
+      "title": "Why drivers want cheap, dumb cars again",
       "summary": "Comments",
-      "url": "https://construct22.com/",
+      "url": "https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-27T06:44:34+00:00"
+      "published": "2026-11-27T23:39:15+00:00"
     },
     {
-      "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
-      "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday. Three of the attacks tar",
-      "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-27T06:04:20+00:00"
-    },
-    {
-      "title": "The need for a formally verifiable mainstream programming language",
+      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
       "summary": "Comments",
-      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "url": "https://sessiongraph.ai/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-27T05:22:06+00:00"
+      "published": "2026-11-27T21:07:34+00:00"
     }
   ],
   "ai_breakthroughs": [
+    {
+      "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+      "summary": "OpenAI is suing Apple in a California court, accusing it of trade secret theft and of coercing shared suppliers. The countersuit follows Apple's own lawsuit from the summer. Just two years ago, the two companies teamed up to bring",
+      "url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-27T19:38:37+00:00"
+    },
+    {
+      "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+      "summary": "OpenAI's data agent in ChatGPT Work still isn't accurate enough. Under the codename \"Athena,\" the company is building a semantic layer that gives agents standardized definitions for business metrics. The tool could also put OpenAI",
+      "url": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-27T16:05:23+00:00"
+    },
+    {
+      "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+      "summary": "More than 40 projects are working to bring a leaked Xbox build of GTA 6 to PC through reverse engineering just days after its $3.79 billion record console launch. AI coding agents like Claude Code are speeding up the process so mu",
+      "url": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-27T15:37:47+00:00"
+    },
+    {
+      "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
+      "summary": "SAP is preparing to eliminate at least 10,000 positions as part of a sweeping AI restructuring, Bloomberg reports, citing people familiar with the matter. The article SAP plans to cut at least 10,000 jobs as it pivots to AI appear",
+      "url": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-27T14:57:25+00:00"
+    },
     {
       "title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
       "summary": "Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent math breakthroughs matter far beyond academia. The possible consequences, he writes, range from reshaping the global economy to threatening al",
@@ -66,41 +98,25 @@
       "source": "The Decoder",
       "category": "AI",
       "published": "2026-11-26T17:28:56+00:00"
-    },
-    {
-      "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
-      "summary": "Chinese AI companies Z.AI and Moonshot AI have to delay their next flagship models and are looking for new sources of training data. The article After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is tur",
-      "url": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-26T15:45:08+00:00"
-    },
-    {
-      "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
-      "summary": "The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites to process AI data as orbital data centers. SpaceX is targeting its first launches in 2027, and the full constellation is set to be operating by 2040. Goo",
-      "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-26T13:41:07+00:00"
-    },
-    {
-      "title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
-      "summary": "Microsoft has published the technical architecture of ARTEX, an AI framework in wide use since July 2026 that runs cyberattacks with specialized agents and almost no human involvement. State-backed groups from China and North Kore",
-      "url": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-26T11:30:06+00:00"
-    },
-    {
-      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-      "summary": "",
-      "url": "https://huggingface.co/blog/training-swarms",
-      "source": "Hugging Face",
-      "category": "AI",
-      "published": "2026-11-26T00:00:00+00:00"
     }
   ],
   "technology_releases": [
+    {
+      "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
+      "summary": "Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th. Unfortunately for Xbox owners, the developer says it \"can't",
+      "url": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-27T23:30:32+00:00"
+    },
+    {
+      "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+      "summary": "More than 40 projects are working to bring a leaked Xbox build of GTA 6 to PC through reverse engineering just days after its $3.79 billion record console launch. AI coding agents like Claude Code are speeding up the process so mu",
+      "url": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-27T15:37:47+00:00"
+    },
     {
       "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
       "summary": "",
@@ -108,14 +124,6 @@
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-11-26T11:37:17+00:00"
-    },
-    {
-      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn ",
-      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-26T00:04:34+00:00"
     },
     {
       "title": "Paginated reports in Power BI support outbound access protection (Preview)",
@@ -140,14 +148,6 @@
       "source": "Microsoft Power BI",
       "category": "Analytics",
       "published": "2026-11-23T20:38:13+00:00"
-    },
-    {
-      "title": "On-demand billing for Fabric Data Warehouse (Preview)",
-      "summary": "Only pay for what you consume Many warehouse workloads are highly variable. In some cases, a few peak periods demand significant compute, while the rest of the month usage is much lower. Shared capacity is a great fit for steady, ",
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-demand-billing-for-Fabric-Data-Warehouse-Preview/ba-p/5376329",
-      "source": "Microsoft Fabric",
-      "category": "Analytics",
-      "published": "2026-11-23T19:30:00+00:00"
     }
   ]
 }

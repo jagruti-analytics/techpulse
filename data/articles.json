@@ -1,14 +1,294 @@
 {
-  "updated_at": "2026-11-27T13:56:09.634528+00:00",
+  "updated_at": "2026-11-28T00:04:29.270123+00:00",
   "ranking_method": "freshness + topic matching + source signal; not verified popularity",
   "articles": [
     {
-      "title": "Counseling for mental health decreases likelihood of protesting by 34%–39%",
+      "title": "Why drivers want cheap, dumb cars again",
       "summary": "Comments",
-      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
+      "url": "https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-27T13:01:02+00:00"
+      "published": "2026-11-27T23:39:15+00:00"
+    },
+    {
+      "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
+      "summary": "Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th. Unfortunately for Xbox owners, the developer says it \"can't",
+      "url": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-27T23:30:32+00:00"
+    },
+    {
+      "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+      "summary": "Comments",
+      "url": "https://tabernet.es/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T23:00:30+00:00"
+    },
+    {
+      "title": "Source Control from Hell",
+      "summary": "Comments",
+      "url": "https://frantic.im/git/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T22:06:44+00:00"
+    },
+    {
+      "title": "Allstate has been suffering an outage since Monday",
+      "summary": "On Monday, November 23rd, Allstate began dealing with an outage that has impacted its website, mobile apps, and roadside assistance service. It's just the latest company, including Microsoft and JPMorgan Chase, to suffer an outage",
+      "url": "https://www.theverge.com/tech/1044612/allstate-has-been-suffering-an-outage-since-monday",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-27T21:52:42+00:00"
+    },
+    {
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "summary": "Comments",
+      "url": "https://progrium.github.io/9ux/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T21:48:14+00:00"
+    },
+    {
+      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+      "summary": "Comments",
+      "url": "https://sessiongraph.ai/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T21:07:34+00:00"
+    },
+    {
+      "title": "My favorite MPC beat maker is ready for your vibe-coded firmware and effects",
+      "summary": "Akai is continuing to open up its various music-making platforms with the MPC Sample 1.4 firmware. My favorite (and the most affordable) of the MPC samplers has become a popular home for vibe-coded custom firmwares and mods. The c",
+      "url": "https://www.theverge.com/gadgets/1044485/mpc-sample-firmware-sdk",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-27T20:48:04+00:00"
+    },
+    {
+      "title": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
+      "summary": "Comments",
+      "url": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T20:25:15+00:00"
+    },
+    {
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "summary": "Comments",
+      "url": "https://github.com/skeeto/prospero",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T20:23:14+00:00"
+    },
+    {
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "summary": "Comments",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T19:42:25+00:00"
+    },
+    {
+      "title": "The AT&T Unix PC (3B1) VM",
+      "summary": "Comments",
+      "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T19:40:33+00:00"
+    },
+    {
+      "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+      "summary": "OpenAI is suing Apple in a California court, accusing it of trade secret theft and of coercing shared suppliers. The countersuit follows Apple's own lawsuit from the summer. Just two years ago, the two companies teamed up to bring",
+      "url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-27T19:38:37+00:00"
+    },
+    {
+      "title": "Michael Nielsen took down his book on neural nets",
+      "summary": "Comments",
+      "url": "https://neuralnetworksanddeeplearning.com/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T19:31:01+00:00"
+    },
+    {
+      "title": "The best Black Friday deals on our favorite smart home gear",
+      "summary": "I’ve spent my post-turkey haze powering through reams of deals on smart home gadgets to find the best discounts on some of my favorite products. Smart home is often one of the best categories to shop around Black Friday, as it’s t",
+      "url": "https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-27T19:30:00+00:00"
+    },
+    {
+      "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+      "summary": "Comments",
+      "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T18:59:55+00:00"
+    },
+    {
+      "title": "Scrapheap America",
+      "summary": "Comments",
+      "url": "https://dansinker.com/posts/2026-11-20-scrapheap/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T18:50:26+00:00"
+    },
+    {
+      "title": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]",
+      "summary": "Comments",
+      "url": "https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T18:28:29+00:00"
+    },
+    {
+      "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+      "summary": "Two Chinese companies installed Nvidia's powerful Blackwell chips at a Shanghai data center linked to Alice Huang, according to a Bloomberg investigation. A serial number led Bloomberg to Taiwanese manufacturer Gigabyte. Exporting",
+      "url": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-27T18:27:02+00:00"
+    },
+    {
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "summary": "Comments",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T18:02:45+00:00"
+    },
+    {
+      "title": "Show HN: DragDropMath – Learn math by feel",
+      "summary": "Comments",
+      "url": "https://dragdropmath.com/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T17:56:28+00:00"
+    },
+    {
+      "title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+      "summary": "Yann LeCun is pushing forward with his alternative to language models through his startup AMI Labs. The JEPA architecture aims to give machines an internal world model that captures cause and effect. Three new studies show progres",
+      "url": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-27T16:58:56+00:00"
+    },
+    {
+      "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+      "summary": "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South China Sea defense and military agreements. ",
+      "url": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+      "source": "The Hacker News",
+      "category": "Security",
+      "published": "2026-11-27T16:36:11+00:00"
+    },
+    {
+      "title": "Hackers breached the US Air Force's flagship Cloud One platform, report says",
+      "summary": "Hackers breached the US Air Force's flagship cloud platform. The article Hackers breached the US Air Force's flagship Cloud One platform, report says appeared first on The Decoder .",
+      "url": "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-27T16:06:43+00:00"
+    },
+    {
+      "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+      "summary": "OpenAI's data agent in ChatGPT Work still isn't accurate enough. Under the codename \"Athena,\" the company is building a semantic layer that gives agents standardized definitions for business metrics. The tool could also put OpenAI",
+      "url": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-27T16:05:23+00:00"
+    },
+    {
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "summary": "Comments",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T15:40:31+00:00"
+    },
+    {
+      "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+      "summary": "More than 40 projects are working to bring a leaked Xbox build of GTA 6 to PC through reverse engineering just days after its $3.79 billion record console launch. AI coding agents like Claude Code are speeding up the process so mu",
+      "url": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-27T15:37:47+00:00"
+    },
+    {
+      "title": "False computer-checked proofs",
+      "summary": "Comments",
+      "url": "https://cr.yp.to/proofs/falseccp.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T15:26:09+00:00"
+    },
+    {
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "summary": "Comments",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T15:01:50+00:00"
+    },
+    {
+      "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
+      "summary": "SAP is preparing to eliminate at least 10,000 positions as part of a sweeping AI restructuring, Bloomberg reports, citing people familiar with the matter. The article SAP plans to cut at least 10,000 jobs as it pivots to AI appear",
+      "url": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
+      "source": "The Decoder",
+      "category": "AI",
+      "published": "2026-11-27T14:57:25+00:00"
+    },
+    {
+      "title": "Rayshader 1.0: Exit the Matrix",
+      "summary": "Comments",
+      "url": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T14:30:20+00:00"
+    },
+    {
+      "title": "Buying a laptop right now is rough, but these Black Friday deals help",
+      "summary": "Laptop prices have been a hot-button topic all year long thanks to RAMageddon. We’ve seen existing models get more expensive and new models arrive at higher prices than last-gen — sometimes with lower specs, too. 2026 in general h",
+      "url": "https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-27T14:30:00+00:00"
+    },
+    {
+      "title": "Making a 3D fantasy map like a 16th-Century atlas",
+      "summary": "Comments",
+      "url": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-27T14:02:52+00:00"
+    },
+    {
+      "title": "This ER Doctor Became a Hospital’s First Clinical AI Engineer",
+      "summary": "When Boston Children’s Hospital posted a job listing for a prompt engineer in 2023, Dinesh Rai decided to apply. He didn’t expect to get the job. At the time, prompt engineering was being touted as one of the hot new jobs created ",
+      "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+      "source": "IEEE Spectrum",
+      "category": "Emerging",
+      "published": "2026-11-27T14:00:01+00:00"
+    },
+    {
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my pho",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-27T14:00:00+00:00"
+    },
+    {
+      "title": "This gaming mouse should be a Logitech-killer, but it has one big flaw",
+      "summary": "When Keychron announced its $90 G6 HE gaming mouse, I immediately thought, \"Cool! A cheaper alternative to the pricey $180 Logitech G Pro X2 Superstrike.\" Logitech's innovation with the Superstrike is using magnetic Hall effect sw",
+      "url": "https://www.theverge.com/games/1043028/keychron-g6-he-hall-effect-magoptic-gaming-mouse-impressions",
+      "source": "The Verge",
+      "category": "Emerging",
+      "published": "2026-11-27T14:00:00+00:00"
     },
     {
       "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
@@ -19,36 +299,12 @@
       "published": "2026-11-27T13:00:00+00:00"
     },
     {
-      "title": "US Air Force's cloud computing platform hacked",
+      "title": "Doing It the Hard Way",
       "summary": "Comments",
-      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "url": "https://terraformindustries.wordpress.com/2026/11/04/doing-it-the-hard-way/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-27T12:54:11+00:00"
-    },
-    {
-      "title": "New York and California Age Gating Rules Go into Effect in the New Year",
-      "summary": "Comments",
-      "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-27T12:43:40+00:00"
-    },
-    {
-      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-      "summary": "Comments",
-      "url": "https://eprint.iacr.org/2026/3020.pdf",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-27T12:08:51+00:00"
-    },
-    {
-      "title": "Kimi for Science: More scientific ideas, made possible",
-      "summary": "Comments",
-      "url": "https://www.kimi.ai/news/kimi-for-science-program",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-27T12:03:11+00:00"
+      "published": "2026-11-27T12:00:06+00:00"
     },
     {
       "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
@@ -57,14 +313,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-27T11:49:34+00:00"
-    },
-    {
-      "title": "Pizza history: AI agent's cardless purchase is a first for UK",
-      "summary": "Comments",
-      "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-27T11:41:11+00:00"
     },
     {
       "title": "Our 2027 Innovators Under 35 competition is now open",
@@ -107,28 +355,12 @@
       "published": "2026-11-27T09:29:30+00:00"
     },
     {
-      "title": "European Commission Declares Browser Competition a Digital Markets Act Priority",
+      "title": "Claude sabotaging ML research tasks?",
       "summary": "Comments",
-      "url": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-27T08:11:46+00:00"
-    },
-    {
-      "title": "Indie web browser Ladybird enters alpha testing",
-      "summary": "Comments",
-      "url": "https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-27T07:58:37+00:00"
-    },
-    {
-      "title": "The group chat where your AI talks behind your back",
-      "summary": "Comments",
-      "url": "https://construct22.com/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-27T06:44:34+00:00"
+      "published": "2026-11-27T08:28:08+00:00"
     },
     {
       "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
@@ -137,14 +369,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-27T06:04:20+00:00"
-    },
-    {
-      "title": "Buy Nothing Day – Friday November 27th 2026",
-      "summary": "Comments",
-      "url": "https://www.buynothingday.co.uk/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-27T05:52:42+00:00"
     },
     {
       "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
@@ -163,20 +387,12 @@
       "published": "2026-11-27T05:22:06+00:00"
     },
     {
-      "title": "The Cutthroat Business of Shipwrecks",
+      "title": "Citroën Hydraulic System",
       "summary": "Comments",
-      "url": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-27T01:21:49+00:00"
-    },
-    {
-      "title": "Hard Drive pricing has gotten bad",
-      "summary": "Comments",
-      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-27T01:13:49+00:00"
+      "published": "2026-11-27T03:10:19+00:00"
     },
     {
       "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
@@ -185,38 +401,6 @@
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-11-27T00:00:00+00:00"
-    },
-    {
-      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-      "summary": "Comments",
-      "url": "https://kendell.dev/blog/arkwrapper/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T21:59:19+00:00"
-    },
-    {
-      "title": "AI made self-hosting fun again",
-      "summary": "Comments",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T21:47:45+00:00"
-    },
-    {
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "summary": "Comments",
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T21:08:05+00:00"
-    },
-    {
-      "title": "Company Culture = Slack Emoji ÷ √Headcount",
-      "summary": "Comments",
-      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T20:49:49+00:00"
     },
     {
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
@@ -243,46 +427,6 @@
       "published": "2026-11-26T19:31:46+00:00"
     },
     {
-      "title": "Rvoip: VoIP stack in Rust",
-      "summary": "Comments",
-      "url": "https://github.com/eisenzopf/rvoip",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T19:18:09+00:00"
-    },
-    {
-      "title": "An introduction to uncertainty in machine learning",
-      "summary": "Comments",
-      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T19:04:50+00:00"
-    },
-    {
-      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
-      "summary": "Comments",
-      "url": "https://bui.preetham.top/charts/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T18:37:24+00:00"
-    },
-    {
-      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "summary": "Comments",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T17:47:45+00:00"
-    },
-    {
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "summary": "Comments",
-      "url": "https://github.com/antonpictures/youtube-punisher",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T17:36:47+00:00"
-    },
-    {
       "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
       "summary": "OpenAI says a billing bug gave GPT-6.2 users incorrect discounts. After the fix, Astra and Sol users hit their limits 40 and 25 percent faster than last week. As an apology, subscribers get an extra reset, and business users get f",
       "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
@@ -291,12 +435,12 @@
       "published": "2026-11-26T17:28:56+00:00"
     },
     {
-      "title": "AMD-specific fork of llama.cpp",
+      "title": "First images of the impact of DART asteroid deflection experiment",
       "summary": "Comments",
-      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-26T17:11:29+00:00"
+      "published": "2026-11-26T17:24:37+00:00"
     },
     {
       "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
@@ -339,12 +483,12 @@
       "published": "2026-11-26T15:13:41+00:00"
     },
     {
-      "title": "Show HN: I wrote an entire Vim manual over 4 years",
-      "summary": "Comments",
-      "url": "http://themouseless.dev/vim/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T14:44:22+00:00"
+      "title": "How Engineers Designed a Mission to One of Jupiter’s Icy Moons",
+      "summary": "On 3 December 2026, a 30.5-meter-wide space probe will slingshot past Earth, picking up the speed it needs to reach Jupiter in 2030. The Europa Clipper is designed to investigate Jupiter’s enigmatic moon Europa and look for places",
+      "url": "https://spectrum.ieee.org/jupiter-europa-clipper-mission-jpl",
+      "source": "IEEE Spectrum",
+      "category": "Emerging",
+      "published": "2026-11-26T14:00:02+00:00"
     },
     {
       "title": "Samsung’s R95H TV shows what RGB LED is capable of",
@@ -363,14 +507,6 @@
       "published": "2026-11-26T13:45:08+00:00"
     },
     {
-      "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
-      "summary": "The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites to process AI data as orbital data centers. SpaceX is targeting its first launches in 2027, and the full constellation is set to be operating by 2040. Goo",
-      "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-26T13:41:07+00:00"
-    },
-    {
       "title": "The Download: Better bionic hands and AI’s natural-gas boom",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left han",
       "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
@@ -385,22 +521,6 @@
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-11-26T11:37:17+00:00"
-    },
-    {
-      "title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
-      "summary": "Microsoft has published the technical architecture of ARTEX, an AI framework in wide use since July 2026 that runs cyberattacks with specialized agents and almost no human involvement. State-backed groups from China and North Kore",
-      "url": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-26T11:30:06+00:00"
-    },
-    {
-      "title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
-      "summary": "Nvidia has told partners such as Dell and Supermicro to stop shipping servers to Malaysia, Singapore, Thailand, and Indonesia. Following new US export controls targeting Chinese cloud access, dealers are already seeking buyers for",
-      "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-26T11:21:16+00:00"
     },
     {
       "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
@@ -419,36 +539,12 @@
       "published": "2026-11-26T10:57:25+00:00"
     },
     {
-      "title": "X is finally getting its first parental controls",
-      "summary": "X is finally rolling out parental controls that allow parents and guardians to manage teens' accounts on the platform. While teens will retain ownership of their own account, parents and guardians will be able to see how much time",
-      "url": "https://www.theverge.com/news/1043078/x-parental-controls-features",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-26T10:45:50+00:00"
-    },
-    {
-      "title": "Intel One Mono font (2023)",
-      "summary": "Comments",
-      "url": "https://github.com/intel/intel-one-mono",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T10:11:01+00:00"
-    },
-    {
       "title": "The next generation of bionic hands is here—and they can feel",
       "summary": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to feel pressure. For the first ",
       "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
       "source": "MIT Technology Review",
       "category": "Emerging",
       "published": "2026-11-26T09:59:00+00:00"
-    },
-    {
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "summary": "Comments",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T09:44:23+00:00"
     },
     {
       "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
@@ -467,22 +563,6 @@
       "published": "2026-11-26T06:44:46+00:00"
     },
     {
-      "title": "Moat: OpenRouter replacement",
-      "summary": "Comments",
-      "url": "https://commandcode.ai/moat",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T06:32:48+00:00"
-    },
-    {
-      "title": "An algebraic quantization of gravity from the null cone",
-      "summary": "Comments",
-      "url": "https://arxiv.org/abs/2611.34924",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-26T05:37:51+00:00"
-    },
-    {
       "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
       "summary": "",
       "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
@@ -499,36 +579,12 @@
       "published": "2026-11-26T03:48:52+00:00"
     },
     {
-      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn ",
-      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-26T00:04:34+00:00"
-    },
-    {
       "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
       "summary": "",
       "url": "https://huggingface.co/blog/training-swarms",
       "source": "Hugging Face",
       "category": "AI",
       "published": "2026-11-26T00:00:00+00:00"
-    },
-    {
-      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
-      "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in favor of the ",
-      "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-25T23:56:44+00:00"
-    },
-    {
-      "title": "The USAID Files",
-      "summary": "Comments",
-      "url": "https://reclaimthenet.org/usaid-files",
-      "source": "Hacker News",
-      "category": "Development",
-      "published": "2026-11-25T23:15:52+00:00"
     },
     {
       "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
@@ -539,36 +595,12 @@
       "published": "2026-11-25T22:44:32+00:00"
     },
     {
-      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent ha",
-      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-25T21:51:26+00:00"
-    },
-    {
-      "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
-      "summary": "Chip restrictions, anti-distillation measures, and shrinking access to Nvidia hardware abroad are putting growing pressure on Deepseek, Moonshot AI, and Alibaba, according to a report. Deepseek researchers internally estimate they",
-      "url": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-25T20:51:02+00:00"
-    },
-    {
-      "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
-      "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have ",
-      "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-25T20:31:48+00:00"
-    },
-    {
-      "title": "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
-      "summary": "Anthropic CEO Dario Amodei is pushing back on an Axios report saying some employees believe humanity will hand power to superintelligent systems. Amodei says \"turning over governance to AI is a bad idea.\" The article Anthropic CEO",
-      "url": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-25T20:15:50+00:00"
+      "title": "Atlantic 1866: information and shipping in the age of the telegraph",
+      "summary": "Comments",
+      "url": "https://atlantic-1866.com/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T20:55:26+00:00"
     },
     {
       "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
@@ -595,14 +627,6 @@
       "published": "2026-11-25T19:44:24+00:00"
     },
     {
-      "title": "1Password breach leaked customer names and emails, but not passwords",
-      "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishi",
-      "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-25T19:10:15+00:00"
-    },
-    {
       "title": "Where scientists draw the line on AI agents",
       "summary": "",
       "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
@@ -611,28 +635,12 @@
       "published": "2026-11-25T18:52:55+00:00"
     },
     {
-      "title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
-      "summary": "OpenAI is testing a new feature called \"Private Inference\" that lets companies run queries on its most powerful models without OpenAI being able to access the data. The article OpenAI wants companies to trust it with sensitive wor",
-      "url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-25T18:22:02+00:00"
-    },
-    {
       "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
       "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
       "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-25T18:11:46+00:00"
-    },
-    {
-      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of",
-      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-      "source": "The Verge",
-      "category": "Emerging",
-      "published": "2026-11-25T17:44:51+00:00"
     },
     {
       "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
@@ -651,14 +659,6 @@
       "published": "2026-11-25T17:00:00+00:00"
     },
     {
-      "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
-      "summary": "Amazon and Meta are in talks to bring back Muse, Meta's AI shopping agent that Amazon kicked off its platform in September. The two sides are stuck on ad revenue and who gets to control search results. That matters because Amazon'",
-      "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/",
-      "source": "The Decoder",
-      "category": "AI",
-      "published": "2026-11-25T16:44:37+00:00"
-    },
-    {
       "title": "Art of play in the age of AI",
       "summary": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI appeared first on The GitHub ",
       "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
@@ -673,6 +673,14 @@
       "source": "TechCrunch AI",
       "category": "AI",
       "published": "2026-11-25T15:41:43+00:00"
+    },
+    {
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "summary": "Comments",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-25T15:16:53+00:00"
     },
     {
       "title": "How to choose the next safe step in application modernization",
@@ -803,12 +811,12 @@
       "published": "2026-11-25T06:21:12+00:00"
     },
     {
-      "title": "Curiosity Is No Solo Act",
+      "title": "Lydian Chromatic Concept of Tonal Organization",
       "summary": "Comments",
-      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+      "url": "https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization",
       "source": "Hacker News",
       "category": "Development",
-      "published": "2026-11-25T00:37:07+00:00"
+      "published": "2026-11-25T04:46:49+00:00"
     },
     {
       "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
@@ -875,6 +883,14 @@
       "published": "2026-11-24T21:19:52+00:00"
     },
     {
+      "title": "Show HN: Analysis of Hacker News predictions since 2008",
+      "summary": "Comments",
+      "url": "https://hnpredictions.com/",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-24T19:46:54+00:00"
+    },
+    {
       "title": "Data Modeling Best Practices for an Agentic CDP, Part 1: The Data Foundation",
       "summary": "A customer saved a jacket to their wishlist on your site 9 days ago. This morning...",
       "url": "https://www.databricks.com/blog/agentic-cdp-data-modeling-data-foundation",
@@ -913,6 +929,14 @@
       "source": "Microsoft Power BI",
       "category": "Analytics",
       "published": "2026-11-24T18:00:00+00:00"
+    },
+    {
+      "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+      "summary": "Comments",
+      "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
+      "source": "Hacker News",
+      "category": "Development",
+      "published": "2026-11-24T17:55:27+00:00"
     },
     {
       "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
@@ -1233,14 +1257,6 @@
       "source": "The Hacker News",
       "category": "Security",
       "published": "2026-11-23T13:22:20+00:00"
-    },
-    {
-      "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
-      "summary": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
-      "source": "The Hacker News",
-      "category": "Security",
-      "published": "2026-11-23T12:41:04+00:00"
     },
     {
       "title": "States Sue SpaceX Over Grok Deepfakes",
@@ -2449,22 +2465,6 @@
       "source": "Google DeepMind",
       "category": "AI",
       "published": "2026-10-30T14:18:30+00:00"
-    },
-    {
-      "title": "Multiphysics Modeling for Next-Generation Electromagnetic Manufacturing Technologies",
-      "summary": "Advances in sensing, manufacturing, computational resources, and data-driven methods are enabling new approaches to electromagnetic sensing, non-destructive evaluation, and advanced materials processing. This webinar will demonstr",
-      "url": "https://event.on24.com/wcc/r/5546816/67D0147A8B8D057FCE11A17D61A8BB0D?utm_source=IEEE",
-      "source": "IEEE Spectrum",
-      "category": "Emerging",
-      "published": "2026-10-30T12:29:43+00:00"
-    },
-    {
-      "title": "Consumer Appetite for Personal AI Goes Mainstream",
-      "summary": "This article is brought to you by Qualcomm Technologies . For many consumers, much of the promise and appeal of AI is personal. Consumers are looking past generic tools and want to know how these technologies will help them in the",
-      "url": "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables",
-      "source": "IEEE Spectrum",
-      "category": "Emerging",
-      "published": "2026-10-29T19:18:20+00:00"
     },
     {
       "title": "Granite Switch 4.1.1 — Update models like you update software",
